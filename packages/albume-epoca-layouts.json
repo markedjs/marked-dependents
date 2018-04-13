@@ -1,1 +1,14 @@
-{"name":"albume-epoca-layouts","version":"0.0.4","depVersion":"0.3.5","maintainers":[{"name":"erko","email":"matteo.ercolani@gmail.com"}],"modified":"2016-06-01T09:42:49.311Z","released":"2016-06-01T09:42:49.311Z","downloadsLastWeek":2}
+{
+	"name": "albume-epoca-layouts",
+	"version": "0.0.4",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "erko",
+			"email": "matteo.ercolani@gmail.com"
+		}
+	],
+	"modified": "2016-06-01T09:42:49.311Z",
+	"released": "2016-06-01T09:42:49.311Z",
+	"downloadsLastWeek": 2
+}

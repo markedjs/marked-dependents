@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-punbb2","version":"2.0.0","depVersion":"~0.3.2","maintainers":[{"name":"akhoury","email":"bentael@gmail.com"}],"modified":"2015-12-08T04:22:46.166Z","released":"2015-12-08T04:22:46.166Z","downloadsLastWeek":1}
+{
+	"name": "nodebb-plugin-import-punbb2",
+	"version": "2.0.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "akhoury",
+			"email": "bentael@gmail.com"
+		}
+	],
+	"modified": "2015-12-08T04:22:46.166Z",
+	"released": "2015-12-08T04:22:46.166Z",
+	"downloadsLastWeek": 1
+}

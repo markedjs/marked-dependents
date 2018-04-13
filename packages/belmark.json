@@ -1,1 +1,14 @@
-{"name":"belmark","version":"2.0.3","depVersion":"^0.3.6","maintainers":[{"name":"serapath","email":"dev@serapath.de"}],"modified":"2018-01-07T12:56:37.930Z","released":"2017-01-02T13:49:20.805Z","downloadsLastWeek":1}
+{
+	"name": "belmark",
+	"version": "2.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "serapath",
+			"email": "dev@serapath.de"
+		}
+	],
+	"modified": "2018-01-07T12:56:37.930Z",
+	"released": "2017-01-02T13:49:20.805Z",
+	"downloadsLastWeek": 1
+}

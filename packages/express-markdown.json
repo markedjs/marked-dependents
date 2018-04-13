@@ -1,1 +1,14 @@
-{"name":"express-markdown","version":"0.0.6","depVersion":"*","maintainers":[{"name":"jmerrick","email":"james@zavoo.com"}],"modified":"2017-04-12T11:26:48.150Z","released":"2013-09-08T20:09:08.365Z","downloadsLastWeek":20}
+{
+	"name": "express-markdown",
+	"version": "0.0.6",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "jmerrick",
+			"email": "james@zavoo.com"
+		}
+	],
+	"modified": "2017-04-12T11:26:48.150Z",
+	"released": "2013-09-08T20:09:08.365Z",
+	"downloadsLastWeek": 20
+}

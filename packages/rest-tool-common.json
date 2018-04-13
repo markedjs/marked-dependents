@@ -1,1 +1,14 @@
-{"name":"rest-tool-common","version":"2.1.4","depVersion":"^0.3.7","maintainers":[{"name":"tombenke","email":"tombenke@gmail.com"}],"modified":"2018-03-12T14:51:45.194Z","released":"2018-03-12T14:51:44.626Z","downloadsLastWeek":58}
+{
+	"name": "rest-tool-common",
+	"version": "2.1.4",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "tombenke",
+			"email": "tombenke@gmail.com"
+		}
+	],
+	"modified": "2018-03-12T14:51:45.194Z",
+	"released": "2018-03-12T14:51:44.626Z",
+	"downloadsLastWeek": 58
+}

@@ -1,1 +1,14 @@
-{"name":"hsdoc","version":"0.14.2","depVersion":"^0.3.3","maintainers":[{"name":"hs","email":"zbloom@hubspot.com"}],"modified":"2017-08-27T03:05:11.743Z","released":"2017-08-27T03:05:11.743Z","downloadsLastWeek":4}
+{
+	"name": "hsdoc",
+	"version": "0.14.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "hs",
+			"email": "zbloom@hubspot.com"
+		}
+	],
+	"modified": "2017-08-27T03:05:11.743Z",
+	"released": "2017-08-27T03:05:11.743Z",
+	"downloadsLastWeek": 4
+}

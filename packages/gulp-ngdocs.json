@@ -1,1 +1,18 @@
-{"name":"gulp-ngdocs","version":"0.3.0","depVersion":"0.3.2","maintainers":[{"name":"nikhilmodak","email":"nikhil.modak@gmail.com"},{"name":"andyperlitch","email":"andyperlitch@gmail.com"}],"modified":"2016-12-31T08:18:39.822Z","released":"2016-08-19T16:47:01.355Z","downloadsLastWeek":3420}
+{
+	"name": "gulp-ngdocs",
+	"version": "0.3.0",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "nikhilmodak",
+			"email": "nikhil.modak@gmail.com"
+		},
+		{
+			"name": "andyperlitch",
+			"email": "andyperlitch@gmail.com"
+		}
+	],
+	"modified": "2016-12-31T08:18:39.822Z",
+	"released": "2016-08-19T16:47:01.355Z",
+	"downloadsLastWeek": 3420
+}

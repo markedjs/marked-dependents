@@ -1,1 +1,18 @@
-{"name":"resume-to-html","version":"0.0.21","depVersion":"~0.3.2","maintainers":[{"name":"thomasdavis","email":"thomasalwyndavis@gmail.com"},{"name":"rolandnsharp","email":"rolandnsharp@gmail.com"}],"modified":"2014-07-08T14:41:02.108Z","released":"2014-07-08T14:41:02.108Z","downloadsLastWeek":218}
+{
+	"name": "resume-to-html",
+	"version": "0.0.21",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "thomasdavis",
+			"email": "thomasalwyndavis@gmail.com"
+		},
+		{
+			"name": "rolandnsharp",
+			"email": "rolandnsharp@gmail.com"
+		}
+	],
+	"modified": "2014-07-08T14:41:02.108Z",
+	"released": "2014-07-08T14:41:02.108Z",
+	"downloadsLastWeek": 218
+}

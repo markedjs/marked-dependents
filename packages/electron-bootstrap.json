@@ -1,1 +1,14 @@
-{"name":"electron-bootstrap","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"masterj","email":"masterj2@gmail.com"}],"modified":"2016-12-22T21:20:51.492Z","released":"2016-12-22T21:20:51.492Z","downloadsLastWeek":3}
+{
+	"name": "electron-bootstrap",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "masterj",
+			"email": "masterj2@gmail.com"
+		}
+	],
+	"modified": "2016-12-22T21:20:51.492Z",
+	"released": "2016-12-22T21:20:51.492Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,14 @@
-{"name":"blogz","version":"2.1.0","depVersion":"^0.3.7","maintainers":[{"name":"chilts","email":"andychilton@gmail.com"}],"modified":"2017-12-11T08:48:48.298Z","released":"2017-12-11T08:48:48.298Z","downloadsLastWeek":2}
+{
+	"name": "blogz",
+	"version": "2.1.0",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "chilts",
+			"email": "andychilton@gmail.com"
+		}
+	],
+	"modified": "2017-12-11T08:48:48.298Z",
+	"released": "2017-12-11T08:48:48.298Z",
+	"downloadsLastWeek": 2
+}

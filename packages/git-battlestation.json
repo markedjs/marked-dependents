@@ -1,1 +1,14 @@
-{"name":"git-battlestation","version":"0.0.11","depVersion":"~0.2.8","maintainers":[{"name":"layerssss","email":"layerssss@gmail.com"}],"modified":"2013-03-06T08:11:34.362Z","released":"2013-03-06T08:11:34.362Z","downloadsLastWeek":1}
+{
+	"name": "git-battlestation",
+	"version": "0.0.11",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "layerssss",
+			"email": "layerssss@gmail.com"
+		}
+	],
+	"modified": "2013-03-06T08:11:34.362Z",
+	"released": "2013-03-06T08:11:34.362Z",
+	"downloadsLastWeek": 1
+}

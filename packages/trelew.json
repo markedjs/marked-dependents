@@ -1,1 +1,14 @@
-{"name":"trelew","version":"0.3.0","depVersion":"^0.3.5","maintainers":[{"name":"fiatjaf","email":"fiatjaf@gmail.com"}],"modified":"2016-02-18T22:48:46.966Z","released":"2016-02-18T22:48:46.966Z","downloadsLastWeek":24}
+{
+	"name": "trelew",
+	"version": "0.3.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "fiatjaf",
+			"email": "fiatjaf@gmail.com"
+		}
+	],
+	"modified": "2016-02-18T22:48:46.966Z",
+	"released": "2016-02-18T22:48:46.966Z",
+	"downloadsLastWeek": 24
+}

@@ -1,1 +1,14 @@
-{"name":"coto","version":"0.1.0","depVersion":"^0.3.6","maintainers":[{"name":"lambdataro","email":"lambda.taro@gmail.com"}],"modified":"2017-03-15T08:16:44.950Z","released":"2017-03-15T08:16:44.950Z","downloadsLastWeek":1}
+{
+	"name": "coto",
+	"version": "0.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "lambdataro",
+			"email": "lambda.taro@gmail.com"
+		}
+	],
+	"modified": "2017-03-15T08:16:44.950Z",
+	"released": "2017-03-15T08:16:44.950Z",
+	"downloadsLastWeek": 1
+}

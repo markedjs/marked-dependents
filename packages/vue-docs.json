@@ -1,1 +1,18 @@
-{"name":"vue-docs","version":"1.5.5","depVersion":"^0.3.6","maintainers":[{"name":"2046","email":"66466643@qq.com"},{"name":"jerret321","email":"321jiangtao@gmail.com"}],"modified":"2018-01-09T14:29:18.151Z","released":"2018-01-09T14:29:18.151Z","downloadsLastWeek":94}
+{
+	"name": "vue-docs",
+	"version": "1.5.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "2046",
+			"email": "66466643@qq.com"
+		},
+		{
+			"name": "jerret321",
+			"email": "321jiangtao@gmail.com"
+		}
+	],
+	"modified": "2018-01-09T14:29:18.151Z",
+	"released": "2018-01-09T14:29:18.151Z",
+	"downloadsLastWeek": 94
+}

@@ -1,1 +1,26 @@
-{"name":"bb-lp-cli","version":"1.9.17","depVersion":"^0.3.5","maintainers":[{"email":"ben@backbase.com","name":"backbase-admin"},{"email":"npm@backbase.com","name":"bb-cli"},{"email":"npm@sorohan.com.au","name":"sorohan"},{"email":"oancea.dragosh@gmail.com","name":"dragosh"}],"modified":"2017-08-22T11:56:07.386Z","released":"2016-10-14T16:13:07.196Z","downloadsLastWeek":12}
+{
+	"name": "bb-lp-cli",
+	"version": "1.9.17",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"email": "ben@backbase.com",
+			"name": "backbase-admin"
+		},
+		{
+			"email": "npm@backbase.com",
+			"name": "bb-cli"
+		},
+		{
+			"email": "npm@sorohan.com.au",
+			"name": "sorohan"
+		},
+		{
+			"email": "oancea.dragosh@gmail.com",
+			"name": "dragosh"
+		}
+	],
+	"modified": "2017-08-22T11:56:07.386Z",
+	"released": "2016-10-14T16:13:07.196Z",
+	"downloadsLastWeek": 12
+}

@@ -1,1 +1,14 @@
-{"name":"vue-dev","version":"1.0.0","depVersion":"^0.3.12","maintainers":[{"name":"lordrobert","email":"594713296@qq.com"}],"modified":"2018-03-14T09:25:54.765Z","released":"2018-03-14T09:25:54.422Z","downloadsLastWeek":4}
+{
+	"name": "vue-dev",
+	"version": "1.0.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "lordrobert",
+			"email": "594713296@qq.com"
+		}
+	],
+	"modified": "2018-03-14T09:25:54.765Z",
+	"released": "2018-03-14T09:25:54.422Z",
+	"downloadsLastWeek": 4
+}

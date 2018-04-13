@@ -1,1 +1,14 @@
-{"name":"mdrt","version":"0.0.1","depVersion":"*","maintainers":[{"name":"ladinu","email":"ladinu@gmail.com"}],"modified":"2013-05-22T01:13:01.093Z","released":"2013-05-22T01:13:01.093Z","downloadsLastWeek":1}
+{
+	"name": "mdrt",
+	"version": "0.0.1",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "ladinu",
+			"email": "ladinu@gmail.com"
+		}
+	],
+	"modified": "2013-05-22T01:13:01.093Z",
+	"released": "2013-05-22T01:13:01.093Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"sir","version":"2.5.0","depVersion":"^0.3.17","maintainers":[{"name":"billymoon","email":"billy@itaccess.org"}],"modified":"2018-03-03T01:44:52.979Z","released":"2018-03-03T01:44:52.377Z","downloadsLastWeek":57}
+{
+	"name": "sir",
+	"version": "2.5.0",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "billymoon",
+			"email": "billy@itaccess.org"
+		}
+	],
+	"modified": "2018-03-03T01:44:52.979Z",
+	"released": "2018-03-03T01:44:52.377Z",
+	"downloadsLastWeek": 57
+}

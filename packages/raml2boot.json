@@ -1,1 +1,14 @@
-{"name":"raml2boot","version":"0.1.8","depVersion":"^0.3.3","maintainers":[{"name":"alphahydrae","email":"hydrae.alpha@gmail.com"}],"modified":"2016-03-30T14:21:25.107Z","released":"2016-03-30T14:21:25.107Z","downloadsLastWeek":5}
+{
+	"name": "raml2boot",
+	"version": "0.1.8",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "alphahydrae",
+			"email": "hydrae.alpha@gmail.com"
+		}
+	],
+	"modified": "2016-03-30T14:21:25.107Z",
+	"released": "2016-03-30T14:21:25.107Z",
+	"downloadsLastWeek": 5
+}

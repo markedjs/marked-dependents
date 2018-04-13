@@ -1,1 +1,14 @@
-{"name":"dgeni-packages-interim-angular","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"nkjoep","email":"nkjoep@gmail.com"}],"modified":"2015-10-29T10:34:14.311Z","released":"2015-10-29T10:34:14.311Z","downloadsLastWeek":1}
+{
+	"name": "dgeni-packages-interim-angular",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "nkjoep",
+			"email": "nkjoep@gmail.com"
+		}
+	],
+	"modified": "2015-10-29T10:34:14.311Z",
+	"released": "2015-10-29T10:34:14.311Z",
+	"downloadsLastWeek": 1
+}

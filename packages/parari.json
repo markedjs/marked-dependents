@@ -1,1 +1,14 @@
-{"name":"parari","version":"0.0.3","depVersion":"^0.3.2","maintainers":[{"name":"okunishinishi","email":"okunishinishi@gmail.com"}],"modified":"2014-08-04T14:44:35.997Z","released":"2014-08-04T14:44:35.997Z","downloadsLastWeek":1}
+{
+	"name": "parari",
+	"version": "0.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "okunishinishi",
+			"email": "okunishinishi@gmail.com"
+		}
+	],
+	"modified": "2014-08-04T14:44:35.997Z",
+	"released": "2014-08-04T14:44:35.997Z",
+	"downloadsLastWeek": 1
+}

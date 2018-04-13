@@ -1,1 +1,14 @@
-{"name":"parcel-plugin-md","version":"1.0.1","depVersion":"^0.3.16","maintainers":[{"name":"0326","email":"liquanfeng326@icloud.com"}],"modified":"2018-02-25T03:05:14.913Z","released":"2018-02-25T03:05:14.118Z","downloadsLastWeek":1}
+{
+	"name": "parcel-plugin-md",
+	"version": "1.0.1",
+	"depVersion": "^0.3.16",
+	"maintainers": [
+		{
+			"name": "0326",
+			"email": "liquanfeng326@icloud.com"
+		}
+	],
+	"modified": "2018-02-25T03:05:14.913Z",
+	"released": "2018-02-25T03:05:14.118Z",
+	"downloadsLastWeek": 1
+}

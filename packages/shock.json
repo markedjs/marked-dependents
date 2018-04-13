@@ -1,1 +1,14 @@
-{"name":"shock","version":"0.5.1","depVersion":"^0.3.5","maintainers":[{"name":"hardmath123","email":"hardmath123@comfortablynumbered.appspotmail.com"}],"modified":"2016-10-11T15:54:04.955Z","released":"2016-10-11T15:54:04.955Z","downloadsLastWeek":35}
+{
+	"name": "shock",
+	"version": "0.5.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "hardmath123",
+			"email": "hardmath123@comfortablynumbered.appspotmail.com"
+		}
+	],
+	"modified": "2016-10-11T15:54:04.955Z",
+	"released": "2016-10-11T15:54:04.955Z",
+	"downloadsLastWeek": 35
+}

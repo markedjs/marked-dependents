@@ -1,1 +1,14 @@
-{"name":"dullboy","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"jonnyfromnothing","email":"madebyjonny@gmail.com"}],"modified":"2016-06-10T10:29:50.601Z","released":"2016-06-10T10:29:50.601Z","downloadsLastWeek":2}
+{
+	"name": "dullboy",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "jonnyfromnothing",
+			"email": "madebyjonny@gmail.com"
+		}
+	],
+	"modified": "2016-06-10T10:29:50.601Z",
+	"released": "2016-06-10T10:29:50.601Z",
+	"downloadsLastWeek": 2
+}

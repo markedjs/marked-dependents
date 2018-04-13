@@ -1,1 +1,14 @@
-{"name":"pamphlet","version":"0.1.1","depVersion":"^0.3.12","maintainers":[{"name":"savelbr","email":"brecht.savelkoul@gmail.com"}],"modified":"2018-02-16T18:01:57.244Z","released":"2018-02-16T18:01:54.087Z","downloadsLastWeek":1}
+{
+	"name": "pamphlet",
+	"version": "0.1.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "savelbr",
+			"email": "brecht.savelkoul@gmail.com"
+		}
+	],
+	"modified": "2018-02-16T18:01:57.244Z",
+	"released": "2018-02-16T18:01:54.087Z",
+	"downloadsLastWeek": 1
+}

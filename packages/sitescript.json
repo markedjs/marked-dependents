@@ -1,1 +1,14 @@
-{"name":"sitescript","version":"0.1.2","depVersion":"0.2.8","maintainers":[{"name":"paulobarcelos","email":"paulo@azucrina.org"}],"modified":"2013-04-01T20:45:20.580Z","released":"2013-04-01T20:45:20.580Z","downloadsLastWeek":7}
+{
+	"name": "sitescript",
+	"version": "0.1.2",
+	"depVersion": "0.2.8",
+	"maintainers": [
+		{
+			"name": "paulobarcelos",
+			"email": "paulo@azucrina.org"
+		}
+	],
+	"modified": "2013-04-01T20:45:20.580Z",
+	"released": "2013-04-01T20:45:20.580Z",
+	"downloadsLastWeek": 7
+}

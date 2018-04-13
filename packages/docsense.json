@@ -1,1 +1,14 @@
-{"name":"docsense","version":"0.3.1","depVersion":"^0.3.7","maintainers":[{"name":"mattmcfarland","email":"contact@mattmcfarland.com"}],"modified":"2017-12-19T02:41:54.001Z","released":"2017-12-19T02:41:54.001Z","downloadsLastWeek":1}
+{
+	"name": "docsense",
+	"version": "0.3.1",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "mattmcfarland",
+			"email": "contact@mattmcfarland.com"
+		}
+	],
+	"modified": "2017-12-19T02:41:54.001Z",
+	"released": "2017-12-19T02:41:54.001Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,26 @@
-{"name":"egjs-jsdoc-template","version":"1.4.4","depVersion":"~0.3.9","maintainers":[{"email":"i.nevalose@gmail.com","name":"mixed"},{"email":"daybrush@gmail.com","name":"daybrush"},{"email":"sculove@gmail.com","name":"sculove"},{"email":"ajaxpf@gmail.com","name":"ajaxpf"}],"modified":"2018-01-06T09:02:05.550Z","released":"2018-01-06T09:02:05.550Z","downloadsLastWeek":6}
+{
+	"name": "egjs-jsdoc-template",
+	"version": "1.4.4",
+	"depVersion": "~0.3.9",
+	"maintainers": [
+		{
+			"email": "i.nevalose@gmail.com",
+			"name": "mixed"
+		},
+		{
+			"email": "daybrush@gmail.com",
+			"name": "daybrush"
+		},
+		{
+			"email": "sculove@gmail.com",
+			"name": "sculove"
+		},
+		{
+			"email": "ajaxpf@gmail.com",
+			"name": "ajaxpf"
+		}
+	],
+	"modified": "2018-01-06T09:02:05.550Z",
+	"released": "2018-01-06T09:02:05.550Z",
+	"downloadsLastWeek": 6
+}

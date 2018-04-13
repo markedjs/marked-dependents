@@ -1,1 +1,14 @@
-{"name":"artificer","version":"0.0.3","depVersion":"~0.2.8","maintainers":[{"name":"vanetix","email":"matmcfarland@gmail.com"}],"modified":"2013-06-10T13:58:53.648Z","released":"2013-06-10T13:58:53.648Z","downloadsLastWeek":1}
+{
+	"name": "artificer",
+	"version": "0.0.3",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "vanetix",
+			"email": "matmcfarland@gmail.com"
+		}
+	],
+	"modified": "2013-06-10T13:58:53.648Z",
+	"released": "2013-06-10T13:58:53.648Z",
+	"downloadsLastWeek": 1
+}

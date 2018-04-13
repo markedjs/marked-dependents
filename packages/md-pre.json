@@ -1,1 +1,14 @@
-{"name":"md-pre","version":"0.0.2","depVersion":"~0.2","maintainers":[{"name":"jharding","email":"jacob.s.harding@gmail.com"}],"modified":"2012-09-15T06:11:30.515Z","released":"2012-09-15T06:11:30.515Z","downloadsLastWeek":1}
+{
+	"name": "md-pre",
+	"version": "0.0.2",
+	"depVersion": "~0.2",
+	"maintainers": [
+		{
+			"name": "jharding",
+			"email": "jacob.s.harding@gmail.com"
+		}
+	],
+	"modified": "2012-09-15T06:11:30.515Z",
+	"released": "2012-09-15T06:11:30.515Z",
+	"downloadsLastWeek": 1
+}

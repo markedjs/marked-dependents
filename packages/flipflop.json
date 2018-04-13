@@ -1,1 +1,14 @@
-{"name":"flipflop","version":"0.1.2","depVersion":"0.2.4","maintainers":[{"name":"bmharris","email":"bmharris@gmail.com"}],"modified":"2013-09-15T03:04:55.889Z","released":"2013-09-15T03:04:55.889Z","downloadsLastWeek":1}
+{
+	"name": "flipflop",
+	"version": "0.1.2",
+	"depVersion": "0.2.4",
+	"maintainers": [
+		{
+			"name": "bmharris",
+			"email": "bmharris@gmail.com"
+		}
+	],
+	"modified": "2013-09-15T03:04:55.889Z",
+	"released": "2013-09-15T03:04:55.889Z",
+	"downloadsLastWeek": 1
+}

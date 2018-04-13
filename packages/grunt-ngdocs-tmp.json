@@ -1,1 +1,14 @@
-{"name":"grunt-ngdocs-tmp","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"sercaneraslan","email":"info@sercaneraslan.com"}],"modified":"2016-04-11T08:18:12.128Z","released":"2016-04-11T08:18:12.128Z","downloadsLastWeek":7}
+{
+	"name": "grunt-ngdocs-tmp",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "sercaneraslan",
+			"email": "info@sercaneraslan.com"
+		}
+	],
+	"modified": "2016-04-11T08:18:12.128Z",
+	"released": "2016-04-11T08:18:12.128Z",
+	"downloadsLastWeek": 7
+}

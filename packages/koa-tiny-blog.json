@@ -1,1 +1,14 @@
-{"name":"koa-tiny-blog","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"novashang","email":"styleshang@yeah.net"}],"modified":"2017-04-17T02:10:38.823Z","released":"2017-04-17T02:10:38.823Z","downloadsLastWeek":1}
+{
+	"name": "koa-tiny-blog",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "novashang",
+			"email": "styleshang@yeah.net"
+		}
+	],
+	"modified": "2017-04-17T02:10:38.823Z",
+	"released": "2017-04-17T02:10:38.823Z",
+	"downloadsLastWeek": 1
+}

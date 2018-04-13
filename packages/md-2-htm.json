@@ -1,1 +1,14 @@
-{"name":"md-2-htm","version":"0.1.1","depVersion":"^0.3.12","maintainers":[{"name":"sajadseyedzadeh","email":"sajadseyyedzadeh@gmail.com"}],"modified":"2018-01-21T15:26:23.750Z","released":"2018-01-15T20:14:30.927Z","downloadsLastWeek":3}
+{
+	"name": "md-2-htm",
+	"version": "0.1.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "sajadseyedzadeh",
+			"email": "sajadseyyedzadeh@gmail.com"
+		}
+	],
+	"modified": "2018-01-21T15:26:23.750Z",
+	"released": "2018-01-15T20:14:30.927Z",
+	"downloadsLastWeek": 3
+}

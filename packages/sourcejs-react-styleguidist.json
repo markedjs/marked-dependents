@@ -1,1 +1,14 @@
-{"name":"sourcejs-react-styleguidist","version":"0.5.0","depVersion":"0.3.5","maintainers":[{"name":"sourcejs","email":"source@rhr.me"}],"modified":"2016-05-31T09:00:35.123Z","released":"2016-05-31T09:00:35.123Z","downloadsLastWeek":15}
+{
+	"name": "sourcejs-react-styleguidist",
+	"version": "0.5.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "sourcejs",
+			"email": "source@rhr.me"
+		}
+	],
+	"modified": "2016-05-31T09:00:35.123Z",
+	"released": "2016-05-31T09:00:35.123Z",
+	"downloadsLastWeek": 15
+}

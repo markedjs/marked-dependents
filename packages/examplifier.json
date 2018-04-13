@@ -1,1 +1,14 @@
-{"name":"examplifier","version":"0.1.0","depVersion":"~0.2.5","maintainers":[{"name":"raynos","email":"raynos2@gmail.com"}],"modified":"2012-10-09T05:55:08.391Z","released":"2012-10-09T05:55:08.391Z","downloadsLastWeek":1}
+{
+	"name": "examplifier",
+	"version": "0.1.0",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "raynos",
+			"email": "raynos2@gmail.com"
+		}
+	],
+	"modified": "2012-10-09T05:55:08.391Z",
+	"released": "2012-10-09T05:55:08.391Z",
+	"downloadsLastWeek": 1
+}

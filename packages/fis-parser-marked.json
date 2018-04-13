@@ -1,1 +1,14 @@
-{"name":"fis-parser-marked","version":"0.0.6","depVersion":"0.3.3","maintainers":[{"name":"fouber","email":"zhangyunlong@baidu.com"}],"modified":"2017-06-05T09:08:40.788Z","released":"2015-06-05T03:32:24.254Z","downloadsLastWeek":43}
+{
+	"name": "fis-parser-marked",
+	"version": "0.0.6",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "fouber",
+			"email": "zhangyunlong@baidu.com"
+		}
+	],
+	"modified": "2017-06-05T09:08:40.788Z",
+	"released": "2015-06-05T03:32:24.254Z",
+	"downloadsLastWeek": 43
+}

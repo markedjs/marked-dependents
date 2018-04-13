@@ -1,1 +1,18 @@
-{"name":"slm-markdown","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"email":"yury.korolev@gmail.com","name":"yury"},{"email":"yury.korolev@gmail.com","name":"anjlab"}],"modified":"2018-04-11T20:23:21.816Z","released":"2014-10-14T08:12:02.637Z","downloadsLastWeek":2660}
+{
+	"name": "slm-markdown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"email": "yury.korolev@gmail.com",
+			"name": "yury"
+		},
+		{
+			"email": "yury.korolev@gmail.com",
+			"name": "anjlab"
+		}
+	],
+	"modified": "2018-04-11T20:23:21.816Z",
+	"released": "2014-10-14T08:12:02.637Z",
+	"downloadsLastWeek": 2660
+}

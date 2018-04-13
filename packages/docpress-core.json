@@ -1,1 +1,22 @@
-{"name":"docpress-core","version":"0.7.1","depVersion":"0.3.6","maintainers":[{"name":"kikobeats","email":"josefrancisco.verdu@gmail.com"},{"name":"knownasilya","email":"ilya@burstcreations.com"},{"name":"rstacruz","email":"dropbox@ricostacruz.com"}],"modified":"2016-10-01T14:52:39.466Z","released":"2016-10-01T14:52:39.466Z","downloadsLastWeek":196}
+{
+	"name": "docpress-core",
+	"version": "0.7.1",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "kikobeats",
+			"email": "josefrancisco.verdu@gmail.com"
+		},
+		{
+			"name": "knownasilya",
+			"email": "ilya@burstcreations.com"
+		},
+		{
+			"name": "rstacruz",
+			"email": "dropbox@ricostacruz.com"
+		}
+	],
+	"modified": "2016-10-01T14:52:39.466Z",
+	"released": "2016-10-01T14:52:39.466Z",
+	"downloadsLastWeek": 196
+}

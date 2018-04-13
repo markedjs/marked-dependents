@@ -1,1 +1,14 @@
-{"name":"astrolin","version":"0.0.11","depVersion":"*","maintainers":[{"name":"orlin","email":"om@soundsapiens.com"}],"modified":"2013-02-03T19:11:38.761Z","released":"2013-02-03T19:11:38.761Z","downloadsLastWeek":2}
+{
+	"name": "astrolin",
+	"version": "0.0.11",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "orlin",
+			"email": "om@soundsapiens.com"
+		}
+	],
+	"modified": "2013-02-03T19:11:38.761Z",
+	"released": "2013-02-03T19:11:38.761Z",
+	"downloadsLastWeek": 2
+}

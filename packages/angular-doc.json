@@ -1,1 +1,14 @@
-{"name":"angular-doc","version":"0.2.1","depVersion":"0.2.9","maintainers":[{"name":"ryanzec","email":"code@ryanzec.com"}],"modified":"2014-02-25T23:23:15.996Z","released":"2014-02-25T23:23:15.996Z","downloadsLastWeek":2}
+{
+	"name": "angular-doc",
+	"version": "0.2.1",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "ryanzec",
+			"email": "code@ryanzec.com"
+		}
+	],
+	"modified": "2014-02-25T23:23:15.996Z",
+	"released": "2014-02-25T23:23:15.996Z",
+	"downloadsLastWeek": 2
+}

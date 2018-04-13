@@ -1,1 +1,14 @@
-{"name":"kakle","version":"1.0.0-alpha","depVersion":"^0.3.5","maintainers":[{"name":"mikaelb","email":"mikaelbre@gmail.com"}],"modified":"2017-10-21T10:46:52.160Z","released":"2017-10-21T10:45:59.922Z","downloadsLastWeek":3}
+{
+	"name": "kakle",
+	"version": "1.0.0-alpha",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "mikaelb",
+			"email": "mikaelbre@gmail.com"
+		}
+	],
+	"modified": "2017-10-21T10:46:52.160Z",
+	"released": "2017-10-21T10:45:59.922Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,14 @@
-{"name":"drmark","version":"2.1.2","depVersion":"^0.3.6","maintainers":[{"name":"substack","email":"substack@gmail.com"}],"modified":"2016-10-15T18:51:22.641Z","released":"2016-10-15T18:51:22.641Z","downloadsLastWeek":2}
+{
+	"name": "drmark",
+	"version": "2.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "substack",
+			"email": "substack@gmail.com"
+		}
+	],
+	"modified": "2016-10-15T18:51:22.641Z",
+	"released": "2016-10-15T18:51:22.641Z",
+	"downloadsLastWeek": 2
+}

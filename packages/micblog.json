@@ -1,1 +1,14 @@
-{"name":"micblog","version":"2.0.3","depVersion":"^0.3.2","maintainers":[{"name":"zackwoo","email":"zachary.woo@163.com"}],"modified":"2015-01-25T13:02:57.376Z","released":"2015-01-25T13:02:57.376Z","downloadsLastWeek":1}
+{
+	"name": "micblog",
+	"version": "2.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "zackwoo",
+			"email": "zachary.woo@163.com"
+		}
+	],
+	"modified": "2015-01-25T13:02:57.376Z",
+	"released": "2015-01-25T13:02:57.376Z",
+	"downloadsLastWeek": 1
+}

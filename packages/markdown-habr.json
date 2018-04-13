@@ -1,1 +1,14 @@
-{"name":"markdown-habr","version":"0.0.8","depVersion":"^0.3.5","maintainers":[{"name":"andrienko","email":"evolmate@gmail.com"}],"modified":"2016-02-06T03:05:45.654Z","released":"2016-02-06T03:05:45.654Z","downloadsLastWeek":1}
+{
+	"name": "markdown-habr",
+	"version": "0.0.8",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "andrienko",
+			"email": "evolmate@gmail.com"
+		}
+	],
+	"modified": "2016-02-06T03:05:45.654Z",
+	"released": "2016-02-06T03:05:45.654Z",
+	"downloadsLastWeek": 1
+}

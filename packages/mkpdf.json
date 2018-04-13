@@ -1,1 +1,14 @@
-{"name":"mkpdf","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"lazabogdan","email":"laza.bogdan@macro-net.ro"}],"modified":"2016-05-19T03:01:54.052Z","released":"2016-05-19T03:01:54.052Z","downloadsLastWeek":3}
+{
+	"name": "mkpdf",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "lazabogdan",
+			"email": "laza.bogdan@macro-net.ro"
+		}
+	],
+	"modified": "2016-05-19T03:01:54.052Z",
+	"released": "2016-05-19T03:01:54.052Z",
+	"downloadsLastWeek": 3
+}

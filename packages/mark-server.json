@@ -1,1 +1,14 @@
-{"name":"mark-server","version":"0.9.2","depVersion":"^0.3.6","maintainers":[{"name":"duocai","email":"fengfu2016@gmail.com"}],"modified":"2016-10-26T09:56:49.672Z","released":"2016-10-26T09:56:49.672Z","downloadsLastWeek":1}
+{
+	"name": "mark-server",
+	"version": "0.9.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "duocai",
+			"email": "fengfu2016@gmail.com"
+		}
+	],
+	"modified": "2016-10-26T09:56:49.672Z",
+	"released": "2016-10-26T09:56:49.672Z",
+	"downloadsLastWeek": 1
+}

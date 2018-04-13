@@ -1,1 +1,14 @@
-{"name":"marktype","version":"0.5.2","depVersion":"~0.3.1","maintainers":[{"name":"tcr","email":"id@timryan.org"}],"modified":"2014-06-10T02:42:42.982Z","released":"2014-06-10T02:42:42.982Z","downloadsLastWeek":1}
+{
+	"name": "marktype",
+	"version": "0.5.2",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "tcr",
+			"email": "id@timryan.org"
+		}
+	],
+	"modified": "2014-06-10T02:42:42.982Z",
+	"released": "2014-06-10T02:42:42.982Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"keystone-es","version":"1.0.1","depVersion":"0.3.6","maintainers":[{"name":"ianaya89","email":"ignacio.anaya89@gmail.com"}],"modified":"2017-07-20T15:01:36.413Z","released":"2017-07-20T15:01:36.413Z","downloadsLastWeek":1}
+{
+	"name": "keystone-es",
+	"version": "1.0.1",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "ianaya89",
+			"email": "ignacio.anaya89@gmail.com"
+		}
+	],
+	"modified": "2017-07-20T15:01:36.413Z",
+	"released": "2017-07-20T15:01:36.413Z",
+	"downloadsLastWeek": 1
+}

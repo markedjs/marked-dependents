@@ -1,1 +1,18 @@
-{"name":"groc","version":"0.8.0","depVersion":"^0.2.10","maintainers":[{"email":"kevan.davis@me.com","name":"kmdavis"},{"email":"ian@nevir.net","name":"nevir"}],"modified":"2017-05-22T16:49:25.471Z","released":"2014-12-11T21:02:54.687Z","downloadsLastWeek":955}
+{
+	"name": "groc",
+	"version": "0.8.0",
+	"depVersion": "^0.2.10",
+	"maintainers": [
+		{
+			"email": "kevan.davis@me.com",
+			"name": "kmdavis"
+		},
+		{
+			"email": "ian@nevir.net",
+			"name": "nevir"
+		}
+	],
+	"modified": "2017-05-22T16:49:25.471Z",
+	"released": "2014-12-11T21:02:54.687Z",
+	"downloadsLastWeek": 955
+}

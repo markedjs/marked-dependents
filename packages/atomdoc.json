@@ -1,1 +1,34 @@
-{"name":"atomdoc","version":"1.0.6","depVersion":"^0.3.6","maintainers":[{"name":"atom-team","email":"atom@github.com"},{"name":"kevinsawicki","email":"kevinsawicki@gmail.com"},{"name":"lee-dohm","email":"lee@lee-dohm.com"},{"name":"nathansobo","email":"nathan@github.com"},{"name":"smashwilson","email":"smashwilson@gmail.com"},{"name":"ungb","email":"ungb@github.com"}],"modified":"2018-02-18T22:01:09.302Z","released":"2018-02-18T22:01:08.329Z","downloadsLastWeek":482}
+{
+	"name": "atomdoc",
+	"version": "1.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "atom-team",
+			"email": "atom@github.com"
+		},
+		{
+			"name": "kevinsawicki",
+			"email": "kevinsawicki@gmail.com"
+		},
+		{
+			"name": "lee-dohm",
+			"email": "lee@lee-dohm.com"
+		},
+		{
+			"name": "nathansobo",
+			"email": "nathan@github.com"
+		},
+		{
+			"name": "smashwilson",
+			"email": "smashwilson@gmail.com"
+		},
+		{
+			"name": "ungb",
+			"email": "ungb@github.com"
+		}
+	],
+	"modified": "2018-02-18T22:01:09.302Z",
+	"released": "2018-02-18T22:01:08.329Z",
+	"downloadsLastWeek": 482
+}

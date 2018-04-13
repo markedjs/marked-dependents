@@ -1,1 +1,14 @@
-{"name":"markover","version":"0.0.1-dev","depVersion":"^0.3.2","maintainers":[{"name":"shamasis","email":"mail@shamasis.net"}],"modified":"2014-08-01T15:27:27.675Z","released":"2014-08-01T15:27:27.675Z","downloadsLastWeek":1}
+{
+	"name": "markover",
+	"version": "0.0.1-dev",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "shamasis",
+			"email": "mail@shamasis.net"
+		}
+	],
+	"modified": "2014-08-01T15:27:27.675Z",
+	"released": "2014-08-01T15:27:27.675Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"nojekyll","version":"0.0.2","depVersion":"git://github.com/chjj/marked.git","maintainers":[{"name":"normanrz","email":"norman@scm.io"}],"modified":"2014-02-22T16:17:39.691Z","released":"2014-02-22T16:17:39.691Z","downloadsLastWeek":1}
+{
+	"name": "nojekyll",
+	"version": "0.0.2",
+	"depVersion": "git://github.com/chjj/marked.git",
+	"maintainers": [
+		{
+			"name": "normanrz",
+			"email": "norman@scm.io"
+		}
+	],
+	"modified": "2014-02-22T16:17:39.691Z",
+	"released": "2014-02-22T16:17:39.691Z",
+	"downloadsLastWeek": 1
+}

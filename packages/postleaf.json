@@ -1,1 +1,14 @@
-{"name":"postleaf","version":"1.0.0-beta.1","depVersion":"^0.3.6","maintainers":[{"name":"claviska","email":"cory@abeautifulsite.net"}],"modified":"2017-06-06T19:27:17.058Z","released":"2017-06-06T19:27:17.058Z","downloadsLastWeek":32}
+{
+	"name": "postleaf",
+	"version": "1.0.0-beta.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "claviska",
+			"email": "cory@abeautifulsite.net"
+		}
+	],
+	"modified": "2017-06-06T19:27:17.058Z",
+	"released": "2017-06-06T19:27:17.058Z",
+	"downloadsLastWeek": 32
+}

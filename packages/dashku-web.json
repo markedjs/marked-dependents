@@ -1,1 +1,14 @@
-{"name":"dashku-web","version":"0.0.2","depVersion":"0.3.2","maintainers":[{"name":"paulbjensen","email":"paulbjensen@gmail.com"}],"modified":"2014-07-17T12:33:05.727Z","released":"2014-07-17T12:33:05.727Z","downloadsLastWeek":3}
+{
+	"name": "dashku-web",
+	"version": "0.0.2",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "paulbjensen",
+			"email": "paulbjensen@gmail.com"
+		}
+	],
+	"modified": "2014-07-17T12:33:05.727Z",
+	"released": "2014-07-17T12:33:05.727Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,26 @@
-{"name":"data-quality-dashboard","version":"0.1.0","depVersion":"0.3.5","maintainers":[{"name":"okibot","email":"paul.walsh@okfn.org"},{"name":"pwalsh","email":"paulywalsh@gmail.com"},{"name":"roll","email":"eskarev@gmail.com"},{"name":"vitorbaptista","email":"vitor@vitorbaptista.com"}],"modified":"2018-03-08T07:52:58.822Z","released":"2016-05-11T10:52:10.675Z","downloadsLastWeek":1}
+{
+	"name": "data-quality-dashboard",
+	"version": "0.1.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "okibot",
+			"email": "paul.walsh@okfn.org"
+		},
+		{
+			"name": "pwalsh",
+			"email": "paulywalsh@gmail.com"
+		},
+		{
+			"name": "roll",
+			"email": "eskarev@gmail.com"
+		},
+		{
+			"name": "vitorbaptista",
+			"email": "vitor@vitorbaptista.com"
+		}
+	],
+	"modified": "2018-03-08T07:52:58.822Z",
+	"released": "2016-05-11T10:52:10.675Z",
+	"downloadsLastWeek": 1
+}

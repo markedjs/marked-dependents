@@ -1,1 +1,14 @@
-{"name":"heroku-createreactapp-webhooks","version":"0.1.0","depVersion":"^0.3.12","maintainers":[{"name":"oskarlind","email":"oskar.lind@gmail.com"}],"modified":"2018-02-06T14:57:55.148Z","released":"2018-02-06T14:57:55.148Z","downloadsLastWeek":4}
+{
+	"name": "heroku-createreactapp-webhooks",
+	"version": "0.1.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "oskarlind",
+			"email": "oskar.lind@gmail.com"
+		}
+	],
+	"modified": "2018-02-06T14:57:55.148Z",
+	"released": "2018-02-06T14:57:55.148Z",
+	"downloadsLastWeek": 4
+}

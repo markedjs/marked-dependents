@@ -1,1 +1,14 @@
-{"name":"simplemde-hb","version":"1.11.4","depVersion":"*","maintainers":[{"name":"bluesky","email":"remotejavasky@gmail.com"}],"modified":"2016-12-28T14:50:12.054Z","released":"2016-12-28T14:50:12.054Z","downloadsLastWeek":7}
+{
+	"name": "simplemde-hb",
+	"version": "1.11.4",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "bluesky",
+			"email": "remotejavasky@gmail.com"
+		}
+	],
+	"modified": "2016-12-28T14:50:12.054Z",
+	"released": "2016-12-28T14:50:12.054Z",
+	"downloadsLastWeek": 7
+}

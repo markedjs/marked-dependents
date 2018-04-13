@@ -1,1 +1,14 @@
-{"name":"snk","version":"0.1.2","depVersion":"^0.3.5","maintainers":[{"name":"gratimax","email":"max@ovsankin.com"}],"modified":"2016-03-20T01:06:16.555Z","released":"2016-03-20T01:06:16.555Z","downloadsLastWeek":11}
+{
+	"name": "snk",
+	"version": "0.1.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "gratimax",
+			"email": "max@ovsankin.com"
+		}
+	],
+	"modified": "2016-03-20T01:06:16.555Z",
+	"released": "2016-03-20T01:06:16.555Z",
+	"downloadsLastWeek": 11
+}

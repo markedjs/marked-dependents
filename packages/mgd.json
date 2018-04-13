@@ -1,1 +1,14 @@
-{"name":"mgd","version":"1.0.1","depVersion":"^0.3.12","maintainers":[{"name":"jsnows","email":"1027869732@qq.com"}],"modified":"2018-01-13T10:02:50.984Z","released":"2018-01-13T10:02:50.984Z","downloadsLastWeek":1}
+{
+	"name": "mgd",
+	"version": "1.0.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "jsnows",
+			"email": "1027869732@qq.com"
+		}
+	],
+	"modified": "2018-01-13T10:02:50.984Z",
+	"released": "2018-01-13T10:02:50.984Z",
+	"downloadsLastWeek": 1
+}

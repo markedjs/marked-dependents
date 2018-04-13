@@ -1,1 +1,14 @@
-{"name":"markem","version":"0.0.28","depVersion":"0.2.10","maintainers":[{"name":"layerssss","email":"layerssss@gmail.com"}],"modified":"2014-01-11T11:43:02.488Z","released":"2014-01-11T11:43:02.488Z","downloadsLastWeek":2}
+{
+	"name": "markem",
+	"version": "0.0.28",
+	"depVersion": "0.2.10",
+	"maintainers": [
+		{
+			"name": "layerssss",
+			"email": "layerssss@gmail.com"
+		}
+	],
+	"modified": "2014-01-11T11:43:02.488Z",
+	"released": "2014-01-11T11:43:02.488Z",
+	"downloadsLastWeek": 2
+}

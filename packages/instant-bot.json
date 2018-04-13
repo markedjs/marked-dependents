@@ -1,1 +1,14 @@
-{"name":"instant-bot","version":"0.0.19","depVersion":"^0.3.6","maintainers":[{"name":"ecmendenhall","email":"ecmendenhall@gmail.com"}],"modified":"2017-09-08T21:34:06.842Z","released":"2017-09-08T21:34:06.842Z","downloadsLastWeek":1}
+{
+	"name": "instant-bot",
+	"version": "0.0.19",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ecmendenhall",
+			"email": "ecmendenhall@gmail.com"
+		}
+	],
+	"modified": "2017-09-08T21:34:06.842Z",
+	"released": "2017-09-08T21:34:06.842Z",
+	"downloadsLastWeek": 1
+}

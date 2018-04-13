@@ -1,1 +1,14 @@
-{"name":"gitbook-plugin-reveal","version":"0.0.3","depVersion":"https://github.com/mrpotes/marked/tarball/html-structure","maintainers":[{"name":"mrpotes","email":"james.phillpotts@gmail.com"}],"modified":"2014-05-01T10:43:00.251Z","released":"2014-05-01T10:43:00.250Z","downloadsLastWeek":6}
+{
+	"name": "gitbook-plugin-reveal",
+	"version": "0.0.3",
+	"depVersion": "https://github.com/mrpotes/marked/tarball/html-structure",
+	"maintainers": [
+		{
+			"name": "mrpotes",
+			"email": "james.phillpotts@gmail.com"
+		}
+	],
+	"modified": "2014-05-01T10:43:00.251Z",
+	"released": "2014-05-01T10:43:00.250Z",
+	"downloadsLastWeek": 6
+}

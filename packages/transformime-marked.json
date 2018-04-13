@@ -1,1 +1,14 @@
-{"name":"transformime-marked","version":"0.0.1","depVersion":"0.3.5","maintainers":[{"name":"lgeiger","email":"lukas.geiger94@gmail.com"}],"modified":"2016-04-03T13:52:53.276Z","released":"2016-04-03T13:52:53.276Z","downloadsLastWeek":9}
+{
+	"name": "transformime-marked",
+	"version": "0.0.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "lgeiger",
+			"email": "lukas.geiger94@gmail.com"
+		}
+	],
+	"modified": "2016-04-03T13:52:53.276Z",
+	"released": "2016-04-03T13:52:53.276Z",
+	"downloadsLastWeek": 9
+}

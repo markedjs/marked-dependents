@@ -1,1 +1,14 @@
-{"name":"grunt-mameli","version":"0.0.1","depVersion":"~0.2.9","maintainers":[{"name":"marcopeg","email":"marco.pegoraro@gmail.com"}],"modified":"2015-01-20T06:27:50.947Z","released":"2013-10-30T07:29:38.161Z","downloadsLastWeek":1}
+{
+	"name": "grunt-mameli",
+	"version": "0.0.1",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "marcopeg",
+			"email": "marco.pegoraro@gmail.com"
+		}
+	],
+	"modified": "2015-01-20T06:27:50.947Z",
+	"released": "2013-10-30T07:29:38.161Z",
+	"downloadsLastWeek": 1
+}

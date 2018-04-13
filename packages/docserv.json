@@ -1,1 +1,14 @@
-{"name":"docserv","version":"0.1.0","depVersion":"0.2.6","maintainers":[{"name":"defunctzombie","email":"shtylman@gmail.com"}],"modified":"2015-05-07T23:09:01.143Z","released":"2013-03-22T23:45:45.060Z","downloadsLastWeek":1}
+{
+	"name": "docserv",
+	"version": "0.1.0",
+	"depVersion": "0.2.6",
+	"maintainers": [
+		{
+			"name": "defunctzombie",
+			"email": "shtylman@gmail.com"
+		}
+	],
+	"modified": "2015-05-07T23:09:01.143Z",
+	"released": "2013-03-22T23:45:45.060Z",
+	"downloadsLastWeek": 1
+}

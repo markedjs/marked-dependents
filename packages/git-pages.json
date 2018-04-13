@@ -1,1 +1,18 @@
-{"name":"git-pages","version":"0.8.1","depVersion":"0.3.5","maintainers":[{"email":"martin@mcamac.com","name":"mcamac"},{"email":"gleb.bahmutov@gmail.com","name":"bahmutov"}],"modified":"2017-05-22T09:45:02.698Z","released":"2016-03-22T14:25:39.006Z","downloadsLastWeek":1}
+{
+	"name": "git-pages",
+	"version": "0.8.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"email": "martin@mcamac.com",
+			"name": "mcamac"
+		},
+		{
+			"email": "gleb.bahmutov@gmail.com",
+			"name": "bahmutov"
+		}
+	],
+	"modified": "2017-05-22T09:45:02.698Z",
+	"released": "2016-03-22T14:25:39.006Z",
+	"downloadsLastWeek": 1
+}

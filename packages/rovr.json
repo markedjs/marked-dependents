@@ -1,1 +1,14 @@
-{"name":"rovr","version":"0.2.0","depVersion":"^0.3.5","maintainers":[{"name":"jakedeichert","email":"jacobdeichert@gmail.com"}],"modified":"2016-01-12T02:48:19.398Z","released":"2016-01-12T02:48:19.398Z","downloadsLastWeek":7}
+{
+	"name": "rovr",
+	"version": "0.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "jakedeichert",
+			"email": "jacobdeichert@gmail.com"
+		}
+	],
+	"modified": "2016-01-12T02:48:19.398Z",
+	"released": "2016-01-12T02:48:19.398Z",
+	"downloadsLastWeek": 7
+}

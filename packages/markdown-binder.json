@@ -1,1 +1,14 @@
-{"name":"markdown-binder","version":"0.3.6","depVersion":"~0.2.9","maintainers":[{"name":"ssen","email":"i@ssen.name"}],"modified":"2014-05-01T16:13:01.461Z","released":"2014-05-01T16:13:01.461Z","downloadsLastWeek":1}
+{
+	"name": "markdown-binder",
+	"version": "0.3.6",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "ssen",
+			"email": "i@ssen.name"
+		}
+	],
+	"modified": "2014-05-01T16:13:01.461Z",
+	"released": "2014-05-01T16:13:01.461Z",
+	"downloadsLastWeek": 1
+}

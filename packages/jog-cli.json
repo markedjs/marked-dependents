@@ -1,1 +1,14 @@
-{"name":"jog-cli","version":"2.0.2","depVersion":"^0.3.6","maintainers":[{"name":"jonmacro","email":"jon_chen@outlook.com"}],"modified":"2016-09-30T02:03:19.986Z","released":"2016-09-30T02:03:19.986Z","downloadsLastWeek":1}
+{
+	"name": "jog-cli",
+	"version": "2.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "jonmacro",
+			"email": "jon_chen@outlook.com"
+		}
+	],
+	"modified": "2016-09-30T02:03:19.986Z",
+	"released": "2016-09-30T02:03:19.986Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"lessmd","version":"1.2.0","depVersion":"^0.3.6","maintainers":[{"name":"linuxenko","email":"linuxenko@gmail.com"}],"modified":"2016-11-15T10:34:55.772Z","released":"2016-11-15T10:34:55.772Z","downloadsLastWeek":6}
+{
+	"name": "lessmd",
+	"version": "1.2.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "linuxenko",
+			"email": "linuxenko@gmail.com"
+		}
+	],
+	"modified": "2016-11-15T10:34:55.772Z",
+	"released": "2016-11-15T10:34:55.772Z",
+	"downloadsLastWeek": 6
+}

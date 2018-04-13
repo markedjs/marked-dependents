@@ -1,1 +1,14 @@
-{"name":"raml-1-parser-package-test-sviridov","version":"1.1.37","depVersion":"^0.3.6","maintainers":[{"name":"ksviridov","email":"ksviridov@gmail.com"}],"modified":"2017-10-19T10:55:33.125Z","released":"2017-10-19T10:55:33.125Z","downloadsLastWeek":2}
+{
+	"name": "raml-1-parser-package-test-sviridov",
+	"version": "1.1.37",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ksviridov",
+			"email": "ksviridov@gmail.com"
+		}
+	],
+	"modified": "2017-10-19T10:55:33.125Z",
+	"released": "2017-10-19T10:55:33.125Z",
+	"downloadsLastWeek": 2
+}

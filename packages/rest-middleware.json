@@ -1,1 +1,14 @@
-{"name":"rest-middleware","version":"1.0.23","depVersion":"^0.3.3","maintainers":[{"name":"philcockfield","email":"phil@cockfield.net"}],"modified":"2017-10-02T03:44:23.134Z","released":"2015-11-04T09:18:49.433Z","downloadsLastWeek":10}
+{
+	"name": "rest-middleware",
+	"version": "1.0.23",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "philcockfield",
+			"email": "phil@cockfield.net"
+		}
+	],
+	"modified": "2017-10-02T03:44:23.134Z",
+	"released": "2015-11-04T09:18:49.433Z",
+	"downloadsLastWeek": 10
+}

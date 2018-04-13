@@ -1,1 +1,14 @@
-{"name":"markdown-page","version":"0.2.1","depVersion":"~0.2.5","maintainers":[{"name":"jprichardson","email":"jprichardson@gmail.com"}],"modified":"2015-01-23T21:58:14.135Z","released":"2013-07-19T18:35:11.488Z","downloadsLastWeek":5}
+{
+	"name": "markdown-page",
+	"version": "0.2.1",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "jprichardson",
+			"email": "jprichardson@gmail.com"
+		}
+	],
+	"modified": "2015-01-23T21:58:14.135Z",
+	"released": "2013-07-19T18:35:11.488Z",
+	"downloadsLastWeek": 5
+}

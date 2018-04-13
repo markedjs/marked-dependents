@@ -1,1 +1,14 @@
-{"name":"grunt-ngdocs-pvt","version":"1.0.2","depVersion":"~0.3.2","maintainers":[{"name":"pulsevt","email":"vitaliy.tarash@gmail.com"}],"modified":"2015-11-11T14:55:10.846Z","released":"2015-11-11T14:55:10.846Z","downloadsLastWeek":1}
+{
+	"name": "grunt-ngdocs-pvt",
+	"version": "1.0.2",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "pulsevt",
+			"email": "vitaliy.tarash@gmail.com"
+		}
+	],
+	"modified": "2015-11-11T14:55:10.846Z",
+	"released": "2015-11-11T14:55:10.846Z",
+	"downloadsLastWeek": 1
+}

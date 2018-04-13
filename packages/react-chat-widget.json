@@ -1,1 +1,46 @@
-{"name":"react-chat-widget","version":"2.1.2","depVersion":"^0.3.6","maintainers":[{"email":"martin.callegari@wolox.com.ar","name":"martincallegari"},{"email":"meelrossi@gmail.com","name":"meelrossi"},{"email":"gabriel.zanzotti@gmail.com","name":"skolz"},{"email":"pablo.ferro@wolox.com.ar","name":"pabloferro"},{"email":"nao.passarelli@gmail.com","name":"nao.passarelli"},{"email":"damfinkel@gmail.com","name":"damfinkel"},{"email":"walterfolini@gmail.com","name":"wfolini"},{"email":"mvbattan@gmail.com","name":"mvbattan"},{"email":"sebastian.balay@wolox.com.ar","name":"sebbal"}],"modified":"2018-03-16T18:33:58.284Z","released":"2017-11-16T16:43:51.946Z","downloadsLastWeek":149}
+{
+	"name": "react-chat-widget",
+	"version": "2.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "martin.callegari@wolox.com.ar",
+			"name": "martincallegari"
+		},
+		{
+			"email": "meelrossi@gmail.com",
+			"name": "meelrossi"
+		},
+		{
+			"email": "gabriel.zanzotti@gmail.com",
+			"name": "skolz"
+		},
+		{
+			"email": "pablo.ferro@wolox.com.ar",
+			"name": "pabloferro"
+		},
+		{
+			"email": "nao.passarelli@gmail.com",
+			"name": "nao.passarelli"
+		},
+		{
+			"email": "damfinkel@gmail.com",
+			"name": "damfinkel"
+		},
+		{
+			"email": "walterfolini@gmail.com",
+			"name": "wfolini"
+		},
+		{
+			"email": "mvbattan@gmail.com",
+			"name": "mvbattan"
+		},
+		{
+			"email": "sebastian.balay@wolox.com.ar",
+			"name": "sebbal"
+		}
+	],
+	"modified": "2018-03-16T18:33:58.284Z",
+	"released": "2017-11-16T16:43:51.946Z",
+	"downloadsLastWeek": 149
+}

@@ -1,1 +1,14 @@
-{"name":"node-patternlibrary","version":"0.0.3","depVersion":"^0.3.7","maintainers":[{"name":"bb-drummer","email":"npmjs@bjoernbartels.earth"}],"modified":"2017-12-11T14:25:11.942Z","released":"2017-12-11T14:25:11.942Z","downloadsLastWeek":2}
+{
+	"name": "node-patternlibrary",
+	"version": "0.0.3",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "bb-drummer",
+			"email": "npmjs@bjoernbartels.earth"
+		}
+	],
+	"modified": "2017-12-11T14:25:11.942Z",
+	"released": "2017-12-11T14:25:11.942Z",
+	"downloadsLastWeek": 2
+}

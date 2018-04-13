@@ -1,1 +1,14 @@
-{"name":"reveal-markdown-compiler","version":"2.2.1","depVersion":"^0.3.12","maintainers":[{"name":"meathill","email":"meathill@gmail.com"}],"modified":"2018-04-05T09:44:54.950Z","released":"2018-04-05T09:44:54.808Z","downloadsLastWeek":56}
+{
+	"name": "reveal-markdown-compiler",
+	"version": "2.2.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "meathill",
+			"email": "meathill@gmail.com"
+		}
+	],
+	"modified": "2018-04-05T09:44:54.950Z",
+	"released": "2018-04-05T09:44:54.808Z",
+	"downloadsLastWeek": 56
+}

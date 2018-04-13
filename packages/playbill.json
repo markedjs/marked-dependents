@@ -1,1 +1,14 @@
-{"name":"playbill","version":"0.5.3","depVersion":"~0.3.1","maintainers":[{"name":"straub","email":"Scinvention@gmail.com"}],"modified":"2014-02-14T13:57:35.390Z","released":"2014-02-14T13:57:35.390Z","downloadsLastWeek":1}
+{
+	"name": "playbill",
+	"version": "0.5.3",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "straub",
+			"email": "Scinvention@gmail.com"
+		}
+	],
+	"modified": "2014-02-14T13:57:35.390Z",
+	"released": "2014-02-14T13:57:35.390Z",
+	"downloadsLastWeek": 1
+}

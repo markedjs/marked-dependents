@@ -1,1 +1,14 @@
-{"name":"jsmd-rewrite","version":"0.1.4","depVersion":"^0.3.3","maintainers":[{"name":"kemitchell","email":"kyle@kemitchell.com"}],"modified":"2015-07-28T08:29:12.205Z","released":"2015-07-28T08:29:12.205Z","downloadsLastWeek":4}
+{
+	"name": "jsmd-rewrite",
+	"version": "0.1.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "kemitchell",
+			"email": "kyle@kemitchell.com"
+		}
+	],
+	"modified": "2015-07-28T08:29:12.205Z",
+	"released": "2015-07-28T08:29:12.205Z",
+	"downloadsLastWeek": 4
+}

@@ -1,1 +1,14 @@
-{"name":"markdown-confluence-converter","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"c0n5pir4cy","email":"peter@peterkinnaird.eu"}],"modified":"2017-06-02T08:53:02.488Z","released":"2017-06-02T08:53:02.488Z","downloadsLastWeek":2}
+{
+	"name": "markdown-confluence-converter",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "c0n5pir4cy",
+			"email": "peter@peterkinnaird.eu"
+		}
+	],
+	"modified": "2017-06-02T08:53:02.488Z",
+	"released": "2017-06-02T08:53:02.488Z",
+	"downloadsLastWeek": 2
+}

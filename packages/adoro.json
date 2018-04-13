@@ -1,1 +1,14 @@
-{"name":"adoro","version":"1.0.1","depVersion":"^0.3.2","maintainers":[{"name":"nelsonic","email":"contact.nelsonic@gmail.com"}],"modified":"2015-11-02T20:28:04.455Z","released":"2015-11-02T20:28:04.455Z","downloadsLastWeek":1}
+{
+	"name": "adoro",
+	"version": "1.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "nelsonic",
+			"email": "contact.nelsonic@gmail.com"
+		}
+	],
+	"modified": "2015-11-02T20:28:04.455Z",
+	"released": "2015-11-02T20:28:04.455Z",
+	"downloadsLastWeek": 1
+}

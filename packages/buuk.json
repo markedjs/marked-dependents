@@ -1,1 +1,14 @@
-{"name":"buuk","version":"4.0.1","depVersion":"^0.3.9","maintainers":[{"email":"robhang.up@gmail.com","name":"robhang"}],"modified":"2018-04-10T02:15:24.437Z","released":"2018-04-10T02:15:23.254Z","downloadsLastWeek":300}
+{
+	"name": "buuk",
+	"version": "4.0.1",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"email": "robhang.up@gmail.com",
+			"name": "robhang"
+		}
+	],
+	"modified": "2018-04-10T02:15:24.437Z",
+	"released": "2018-04-10T02:15:23.254Z",
+	"downloadsLastWeek": 300
+}

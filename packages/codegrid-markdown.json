@@ -1,1 +1,46 @@
-{"name":"codegrid-markdown","version":"3.3.0","depVersion":"^0.3.3","maintainers":[{"email":"yukihisa.yamada@gmail.com","name":"ykhs"},{"email":"masataka.yakura@gmail.com","name":"myakura"},{"email":"info@pxgrid.com","name":"pxgrid-admin"},{"email":"nakajmg@pxgrid.com","name":"nakajmg"},{"email":"macky1207@gmail.com","name":"geckotang"},{"email":"takami.yamada@gmail.com","name":"tacamy"},{"email":"oyamada@pxgrid.com","name":"yomotsu"},{"email":"y.sugiura.0316@gmail.com","name":"leader22"},{"email":"usb@kyosuke.jp","name":"kyosuke"}],"modified":"2018-01-12T06:35:10.557Z","released":"2016-05-17T07:48:14.648Z","downloadsLastWeek":3}
+{
+	"name": "codegrid-markdown",
+	"version": "3.3.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"email": "yukihisa.yamada@gmail.com",
+			"name": "ykhs"
+		},
+		{
+			"email": "masataka.yakura@gmail.com",
+			"name": "myakura"
+		},
+		{
+			"email": "info@pxgrid.com",
+			"name": "pxgrid-admin"
+		},
+		{
+			"email": "nakajmg@pxgrid.com",
+			"name": "nakajmg"
+		},
+		{
+			"email": "macky1207@gmail.com",
+			"name": "geckotang"
+		},
+		{
+			"email": "takami.yamada@gmail.com",
+			"name": "tacamy"
+		},
+		{
+			"email": "oyamada@pxgrid.com",
+			"name": "yomotsu"
+		},
+		{
+			"email": "y.sugiura.0316@gmail.com",
+			"name": "leader22"
+		},
+		{
+			"email": "usb@kyosuke.jp",
+			"name": "kyosuke"
+		}
+	],
+	"modified": "2018-01-12T06:35:10.557Z",
+	"released": "2016-05-17T07:48:14.648Z",
+	"downloadsLastWeek": 3
+}

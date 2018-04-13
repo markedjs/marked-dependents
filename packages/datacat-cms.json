@@ -1,1 +1,14 @@
-{"name":"datacat-cms","version":"0.1.29","depVersion":"^0.3.6","maintainers":[{"name":"christiaan.maks","email":"christiaan.maks@takeaway.com"}],"modified":"2017-03-19T16:37:01.589Z","released":"2017-03-19T16:37:01.589Z","downloadsLastWeek":1}
+{
+	"name": "datacat-cms",
+	"version": "0.1.29",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "christiaan.maks",
+			"email": "christiaan.maks@takeaway.com"
+		}
+	],
+	"modified": "2017-03-19T16:37:01.589Z",
+	"released": "2017-03-19T16:37:01.589Z",
+	"downloadsLastWeek": 1
+}

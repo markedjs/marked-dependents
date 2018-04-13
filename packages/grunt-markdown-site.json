@@ -1,1 +1,14 @@
-{"name":"grunt-markdown-site","version":"4.1.0","depVersion":"^0.3.5","maintainers":[{"name":"juliandoucette","email":"dev@juliandoucette.io"}],"modified":"2016-01-31T17:20:05.855Z","released":"2016-01-31T17:20:05.855Z","downloadsLastWeek":1}
+{
+	"name": "grunt-markdown-site",
+	"version": "4.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "juliandoucette",
+			"email": "dev@juliandoucette.io"
+		}
+	],
+	"modified": "2016-01-31T17:20:05.855Z",
+	"released": "2016-01-31T17:20:05.855Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"altcloud","version":"0.0.7","depVersion":"^0.3.6","maintainers":[{"name":"jkriss","email":"jesse@jklabs.net"}],"modified":"2017-11-29T06:43:31.503Z","released":"2017-11-29T06:43:31.503Z","downloadsLastWeek":1}
+{
+	"name": "altcloud",
+	"version": "0.0.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "jkriss",
+			"email": "jesse@jklabs.net"
+		}
+	],
+	"modified": "2017-11-29T06:43:31.503Z",
+	"released": "2017-11-29T06:43:31.503Z",
+	"downloadsLastWeek": 1
+}

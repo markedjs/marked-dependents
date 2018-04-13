@@ -1,1 +1,14 @@
-{"name":"angry-aligator","version":"2.0.2","depVersion":"^0.3.5","maintainers":[{"name":"flovilmart","email":"florent@flovilmart.com"}],"modified":"2016-03-05T18:25:03.474Z","released":"2016-03-05T18:25:03.474Z","downloadsLastWeek":4}
+{
+	"name": "angry-aligator",
+	"version": "2.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "flovilmart",
+			"email": "florent@flovilmart.com"
+		}
+	],
+	"modified": "2016-03-05T18:25:03.474Z",
+	"released": "2016-03-05T18:25:03.474Z",
+	"downloadsLastWeek": 4
+}

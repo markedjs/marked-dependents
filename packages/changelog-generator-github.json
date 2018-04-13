@@ -1,1 +1,14 @@
-{"name":"changelog-generator-github","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"fkeloks","email":"fkeloks@gmail.com"}],"modified":"2017-09-23T10:42:40.878Z","released":"2017-09-23T10:42:40.878Z","downloadsLastWeek":2}
+{
+	"name": "changelog-generator-github",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "fkeloks",
+			"email": "fkeloks@gmail.com"
+		}
+	],
+	"modified": "2017-09-23T10:42:40.878Z",
+	"released": "2017-09-23T10:42:40.878Z",
+	"downloadsLastWeek": 2
+}

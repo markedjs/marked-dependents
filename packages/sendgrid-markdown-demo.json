@@ -1,1 +1,14 @@
-{"name":"sendgrid-markdown-demo","version":"0.0.1-1","depVersion":"0.2.3","maintainers":[{"name":"theycallmeswift","email":"theycallmeswift@gmail.com"}],"modified":"2012-03-31T19:16:22.949Z","released":"2012-03-31T19:16:22.949Z","downloadsLastWeek":5}
+{
+	"name": "sendgrid-markdown-demo",
+	"version": "0.0.1-1",
+	"depVersion": "0.2.3",
+	"maintainers": [
+		{
+			"name": "theycallmeswift",
+			"email": "theycallmeswift@gmail.com"
+		}
+	],
+	"modified": "2012-03-31T19:16:22.949Z",
+	"released": "2012-03-31T19:16:22.949Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"chillist","version":"4.1.0","depVersion":"^0.3.6","maintainers":[{"name":"goatslacker","email":"josh@goatslacker.com"}],"modified":"2018-02-12T02:33:07.857Z","released":"2018-02-12T02:33:07.270Z","downloadsLastWeek":1}
+{
+	"name": "chillist",
+	"version": "4.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "goatslacker",
+			"email": "josh@goatslacker.com"
+		}
+	],
+	"modified": "2018-02-12T02:33:07.857Z",
+	"released": "2018-02-12T02:33:07.270Z",
+	"downloadsLastWeek": 1
+}

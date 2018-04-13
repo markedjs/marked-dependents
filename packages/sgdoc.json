@@ -1,1 +1,14 @@
-{"name":"sgdoc","version":"0.6.6","depVersion":"*","maintainers":[{"name":"saturngod","email":"saturngod@gmail.com"}],"modified":"2013-08-13T13:12:08.059Z","released":"2013-08-13T13:12:08.059Z","downloadsLastWeek":19}
+{
+	"name": "sgdoc",
+	"version": "0.6.6",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "saturngod",
+			"email": "saturngod@gmail.com"
+		}
+	],
+	"modified": "2013-08-13T13:12:08.059Z",
+	"released": "2013-08-13T13:12:08.059Z",
+	"downloadsLastWeek": 19
+}

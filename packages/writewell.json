@@ -1,1 +1,14 @@
-{"name":"writewell","version":"0.7.1","depVersion":"^0.3.2","maintainers":[{"name":"whitlander","email":"andywhitlow@protonmail.com"}],"modified":"2016-12-29T17:09:20.188Z","released":"2016-12-29T17:09:20.188Z","downloadsLastWeek":7}
+{
+	"name": "writewell",
+	"version": "0.7.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "whitlander",
+			"email": "andywhitlow@protonmail.com"
+		}
+	],
+	"modified": "2016-12-29T17:09:20.188Z",
+	"released": "2016-12-29T17:09:20.188Z",
+	"downloadsLastWeek": 7
+}

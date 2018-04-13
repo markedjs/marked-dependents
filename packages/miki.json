@@ -1,1 +1,14 @@
-{"name":"miki","version":"0.0.2","depVersion":"~0.3.0","maintainers":[{"name":"sergeyt","email":"stodyshev@gmail.com"}],"modified":"2014-01-13T15:32:08.715Z","released":"2014-01-13T15:32:08.715Z","downloadsLastWeek":1}
+{
+	"name": "miki",
+	"version": "0.0.2",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "sergeyt",
+			"email": "stodyshev@gmail.com"
+		}
+	],
+	"modified": "2014-01-13T15:32:08.715Z",
+	"released": "2014-01-13T15:32:08.715Z",
+	"downloadsLastWeek": 1
+}

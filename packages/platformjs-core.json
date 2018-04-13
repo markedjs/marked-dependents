@@ -1,1 +1,14 @@
-{"name":"platformjs-core","version":"0.0.10","depVersion":"*","maintainers":[{"name":"bcronin","email":"benjamin.cronin@gmail.com"}],"modified":"2013-09-24T19:29:42.196Z","released":"2013-09-24T19:29:42.195Z","downloadsLastWeek":2}
+{
+	"name": "platformjs-core",
+	"version": "0.0.10",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "bcronin",
+			"email": "benjamin.cronin@gmail.com"
+		}
+	],
+	"modified": "2013-09-24T19:29:42.196Z",
+	"released": "2013-09-24T19:29:42.195Z",
+	"downloadsLastWeek": 2
+}

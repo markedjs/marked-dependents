@@ -1,1 +1,14 @@
-{"name":"moo.js","version":"0.5.0","depVersion":"^0.3.2","maintainers":[{"name":"pyrocat","email":"dinglinjie@gmail.com"}],"modified":"2014-08-19T05:27:27.796Z","released":"2014-08-19T05:27:27.796Z","downloadsLastWeek":1}
+{
+	"name": "moo.js",
+	"version": "0.5.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "pyrocat",
+			"email": "dinglinjie@gmail.com"
+		}
+	],
+	"modified": "2014-08-19T05:27:27.796Z",
+	"released": "2014-08-19T05:27:27.796Z",
+	"downloadsLastWeek": 1
+}

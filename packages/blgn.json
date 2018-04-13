@@ -1,1 +1,14 @@
-{"name":"blgn","version":"0.1.3","depVersion":"^0.3.3","maintainers":[{"name":"srchea","email":"src@srchea.com"}],"modified":"2015-07-27T19:39:38.598Z","released":"2015-07-27T19:39:38.598Z","downloadsLastWeek":1}
+{
+	"name": "blgn",
+	"version": "0.1.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "srchea",
+			"email": "src@srchea.com"
+		}
+	],
+	"modified": "2015-07-27T19:39:38.598Z",
+	"released": "2015-07-27T19:39:38.598Z",
+	"downloadsLastWeek": 1
+}

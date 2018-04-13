@@ -1,1 +1,14 @@
-{"name":"hungeryqy-demo0","version":"1.0.0","depVersion":"^0.3.7","maintainers":[{"name":"yuanyou","email":"545067444@qq.com"}],"modified":"2017-12-19T15:16:20.186Z","released":"2017-12-19T06:14:52.885Z","downloadsLastWeek":1}
+{
+	"name": "hungeryqy-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "yuanyou",
+			"email": "545067444@qq.com"
+		}
+	],
+	"modified": "2017-12-19T15:16:20.186Z",
+	"released": "2017-12-19T06:14:52.885Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"sqldoc","version":"0.9.5","depVersion":"^0.3.3","maintainers":[{"name":"alp","email":"sasha@shards.io"}],"modified":"2017-06-03T08:39:22.432Z","released":"2017-06-03T08:39:22.432Z","downloadsLastWeek":47}
+{
+	"name": "sqldoc",
+	"version": "0.9.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "alp",
+			"email": "sasha@shards.io"
+		}
+	],
+	"modified": "2017-06-03T08:39:22.432Z",
+	"released": "2017-06-03T08:39:22.432Z",
+	"downloadsLastWeek": 47
+}

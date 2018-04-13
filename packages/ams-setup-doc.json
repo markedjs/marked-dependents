@@ -1,1 +1,14 @@
-{"name":"ams-setup-doc","version":"0.0.8","depVersion":"^0.3.5","maintainers":[{"name":"dervalp","email":"dervalp@gmail.com"}],"modified":"2016-12-08T13:22:28.404Z","released":"2016-12-08T13:22:28.404Z","downloadsLastWeek":4}
+{
+	"name": "ams-setup-doc",
+	"version": "0.0.8",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dervalp",
+			"email": "dervalp@gmail.com"
+		}
+	],
+	"modified": "2016-12-08T13:22:28.404Z",
+	"released": "2016-12-08T13:22:28.404Z",
+	"downloadsLastWeek": 4
+}

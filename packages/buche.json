@@ -1,1 +1,14 @@
-{"name":"buche","version":"0.1.5","depVersion":"^0.3.6","maintainers":[{"name":"breuleux","email":"breuleux@gmail.com"}],"modified":"2018-01-29T17:55:27.433Z","released":"2018-01-29T17:55:27.433Z","downloadsLastWeek":1}
+{
+	"name": "buche",
+	"version": "0.1.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "breuleux",
+			"email": "breuleux@gmail.com"
+		}
+	],
+	"modified": "2018-01-29T17:55:27.433Z",
+	"released": "2018-01-29T17:55:27.433Z",
+	"downloadsLastWeek": 1
+}

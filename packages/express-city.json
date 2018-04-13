@@ -1,1 +1,14 @@
-{"name":"express-city","version":"0.3.1","depVersion":">=0.2.5","maintainers":[{"name":"geta6","email":"getakura@gmail.com"}],"modified":"2012-10-19T02:25:27.729Z","released":"2012-10-19T02:25:27.729Z","downloadsLastWeek":1}
+{
+	"name": "express-city",
+	"version": "0.3.1",
+	"depVersion": ">=0.2.5",
+	"maintainers": [
+		{
+			"name": "geta6",
+			"email": "getakura@gmail.com"
+		}
+	],
+	"modified": "2012-10-19T02:25:27.729Z",
+	"released": "2012-10-19T02:25:27.729Z",
+	"downloadsLastWeek": 1
+}

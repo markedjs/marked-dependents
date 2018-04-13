@@ -1,1 +1,14 @@
-{"name":"lucid-styledocco","version":"0.6.7","depVersion":"0.2.x","maintainers":[{"name":"lucid-ops","email":"ops+npmjs@lucidchart.com"}],"modified":"2017-02-22T18:38:48.935Z","released":"2014-09-08T21:58:59.501Z","downloadsLastWeek":4}
+{
+	"name": "lucid-styledocco",
+	"version": "0.6.7",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "lucid-ops",
+			"email": "ops+npmjs@lucidchart.com"
+		}
+	],
+	"modified": "2017-02-22T18:38:48.935Z",
+	"released": "2014-09-08T21:58:59.501Z",
+	"downloadsLastWeek": 4
+}

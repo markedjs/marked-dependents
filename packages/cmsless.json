@@ -1,1 +1,14 @@
-{"name":"cmsless","version":"0.1.21","depVersion":"^0.3.6","maintainers":[{"name":"askucher","email":"a.stegno@gmail.com"}],"modified":"2017-04-15T20:14:11.315Z","released":"2017-04-15T20:14:11.315Z","downloadsLastWeek":1}
+{
+	"name": "cmsless",
+	"version": "0.1.21",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "askucher",
+			"email": "a.stegno@gmail.com"
+		}
+	],
+	"modified": "2017-04-15T20:14:11.315Z",
+	"released": "2017-04-15T20:14:11.315Z",
+	"downloadsLastWeek": 1
+}

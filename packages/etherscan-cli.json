@@ -1,1 +1,14 @@
-{"name":"etherscan-cli","version":"0.1.2","depVersion":"^0.3.6","maintainers":[{"name":"sebs","email":"sschuermann@yahoo.de"}],"modified":"2018-03-02T22:26:22.235Z","released":"2018-03-02T22:26:20.984Z","downloadsLastWeek":2}
+{
+	"name": "etherscan-cli",
+	"version": "0.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sebs",
+			"email": "sschuermann@yahoo.de"
+		}
+	],
+	"modified": "2018-03-02T22:26:22.235Z",
+	"released": "2018-03-02T22:26:20.984Z",
+	"downloadsLastWeek": 2
+}

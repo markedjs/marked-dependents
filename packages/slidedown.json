@@ -1,1 +1,14 @@
-{"name":"slidedown","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"timruffles","email":"timruffles@googlemail.com"}],"modified":"2017-01-22T17:31:25.333Z","released":"2017-01-22T17:31:25.333Z","downloadsLastWeek":5}
+{
+	"name": "slidedown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "timruffles",
+			"email": "timruffles@googlemail.com"
+		}
+	],
+	"modified": "2017-01-22T17:31:25.333Z",
+	"released": "2017-01-22T17:31:25.333Z",
+	"downloadsLastWeek": 5
+}

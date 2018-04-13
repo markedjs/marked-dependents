@@ -1,1 +1,14 @@
-{"name":"page-speed-report","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"mlrawlings","email":"ml.rawlings@gmail.com"}],"modified":"2016-08-26T00:44:45.964Z","released":"2016-08-26T00:44:45.964Z","downloadsLastWeek":1}
+{
+	"name": "page-speed-report",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "mlrawlings",
+			"email": "ml.rawlings@gmail.com"
+		}
+	],
+	"modified": "2016-08-26T00:44:45.964Z",
+	"released": "2016-08-26T00:44:45.964Z",
+	"downloadsLastWeek": 1
+}

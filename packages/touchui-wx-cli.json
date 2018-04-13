@@ -1,1 +1,14 @@
-{"name":"touchui-wx-cli","version":"1.0.67","depVersion":"^0.3.6","maintainers":[{"name":"doubi","email":"289584608@qq.com"}],"modified":"2018-04-13T02:53:19.887Z","released":"2018-04-13T02:53:18.506Z","downloadsLastWeek":796}
+{
+	"name": "touchui-wx-cli",
+	"version": "1.0.67",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "doubi",
+			"email": "289584608@qq.com"
+		}
+	],
+	"modified": "2018-04-13T02:53:19.887Z",
+	"released": "2018-04-13T02:53:18.506Z",
+	"downloadsLastWeek": 796
+}

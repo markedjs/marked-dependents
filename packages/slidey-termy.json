@@ -1,1 +1,14 @@
-{"name":"slidey-termy","version":"2.0.0","depVersion":"~0.2.9","maintainers":[{"name":"substack","email":"mail@substack.net"}],"modified":"2014-05-15T17:32:59.984Z","released":"2014-05-15T17:32:59.984Z","downloadsLastWeek":11}
+{
+	"name": "slidey-termy",
+	"version": "2.0.0",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "substack",
+			"email": "mail@substack.net"
+		}
+	],
+	"modified": "2014-05-15T17:32:59.984Z",
+	"released": "2014-05-15T17:32:59.984Z",
+	"downloadsLastWeek": 11
+}

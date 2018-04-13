@@ -1,1 +1,14 @@
-{"name":"autobass","version":"2.0.0","depVersion":"^0.3.3","maintainers":[{"name":"jxnblk","email":"jxnblk@gmail.com"}],"modified":"2015-04-10T00:23:14.801Z","released":"2015-04-10T00:23:14.801Z","downloadsLastWeek":1}
+{
+	"name": "autobass",
+	"version": "2.0.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "jxnblk",
+			"email": "jxnblk@gmail.com"
+		}
+	],
+	"modified": "2015-04-10T00:23:14.801Z",
+	"released": "2015-04-10T00:23:14.801Z",
+	"downloadsLastWeek": 1
+}

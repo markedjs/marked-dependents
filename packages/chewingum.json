@@ -1,1 +1,14 @@
-{"name":"chewingum","version":"0.1.2","depVersion":"0.3.6","maintainers":[{"name":"karlisup","email":"karlis@upitis.com"}],"modified":"2017-05-10T12:39:27.946Z","released":"2017-05-10T12:39:27.946Z","downloadsLastWeek":1}
+{
+	"name": "chewingum",
+	"version": "0.1.2",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "karlisup",
+			"email": "karlis@upitis.com"
+		}
+	],
+	"modified": "2017-05-10T12:39:27.946Z",
+	"released": "2017-05-10T12:39:27.946Z",
+	"downloadsLastWeek": 1
+}

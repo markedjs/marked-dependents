@@ -1,1 +1,14 @@
-{"name":"gulp-dev-tools","version":"1.0.7","depVersion":"0.3.5","maintainers":[{"name":"leonpapazianis","email":"l.papazianis@gmail.com"}],"modified":"2016-11-23T16:50:10.143Z","released":"2016-11-23T16:50:10.143Z","downloadsLastWeek":1}
+{
+	"name": "gulp-dev-tools",
+	"version": "1.0.7",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "leonpapazianis",
+			"email": "l.papazianis@gmail.com"
+		}
+	],
+	"modified": "2016-11-23T16:50:10.143Z",
+	"released": "2016-11-23T16:50:10.143Z",
+	"downloadsLastWeek": 1
+}

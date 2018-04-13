@@ -1,1 +1,14 @@
-{"name":"freebreaker-demo20","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"freebreaker","email":"592378845@qq.com"}],"modified":"2017-03-31T13:11:46.870Z","released":"2017-03-31T13:11:46.870Z","downloadsLastWeek":1}
+{
+	"name": "freebreaker-demo20",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "freebreaker",
+			"email": "592378845@qq.com"
+		}
+	],
+	"modified": "2017-03-31T13:11:46.870Z",
+	"released": "2017-03-31T13:11:46.870Z",
+	"downloadsLastWeek": 1
+}

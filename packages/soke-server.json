@@ -1,1 +1,14 @@
-{"name":"soke-server","version":"0.0.9","depVersion":"^0.3.7","maintainers":[{"name":"ymblender","email":"ymagain@qq.com"}],"modified":"2018-01-29T04:32:23.827Z","released":"2018-01-29T04:32:23.827Z","downloadsLastWeek":17}
+{
+	"name": "soke-server",
+	"version": "0.0.9",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "ymblender",
+			"email": "ymagain@qq.com"
+		}
+	],
+	"modified": "2018-01-29T04:32:23.827Z",
+	"released": "2018-01-29T04:32:23.827Z",
+	"downloadsLastWeek": 17
+}

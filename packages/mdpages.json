@@ -1,1 +1,14 @@
-{"name":"mdpages","version":"0.0.1","depVersion":"~0.3.1","maintainers":[{"name":"geraintluff","email":"luffgd@gmail.com"}],"modified":"2014-02-03T20:01:23.407Z","released":"2014-02-03T17:48:24.174Z","downloadsLastWeek":1}
+{
+	"name": "mdpages",
+	"version": "0.0.1",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "geraintluff",
+			"email": "luffgd@gmail.com"
+		}
+	],
+	"modified": "2014-02-03T20:01:23.407Z",
+	"released": "2014-02-03T17:48:24.174Z",
+	"downloadsLastWeek": 1
+}

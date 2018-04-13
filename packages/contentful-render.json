@@ -1,1 +1,14 @@
-{"name":"contentful-render","version":"0.0.23","depVersion":"^0.3.6","maintainers":[{"name":"brendanmckenzie","email":"brendanintheuk@gmail.com"}],"modified":"2017-08-18T07:47:55.811Z","released":"2017-08-18T07:47:55.811Z","downloadsLastWeek":1}
+{
+	"name": "contentful-render",
+	"version": "0.0.23",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "brendanmckenzie",
+			"email": "brendanintheuk@gmail.com"
+		}
+	],
+	"modified": "2017-08-18T07:47:55.811Z",
+	"released": "2017-08-18T07:47:55.811Z",
+	"downloadsLastWeek": 1
+}

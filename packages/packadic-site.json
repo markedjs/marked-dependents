@@ -1,1 +1,14 @@
-{"name":"packadic-site","version":"0.0.11","depVersion":"^0.3.5","maintainers":[{"name":"radic","email":"robin@radic.nl"}],"modified":"2015-10-19T21:11:33.870Z","released":"2015-10-19T21:11:33.870Z","downloadsLastWeek":1}
+{
+	"name": "packadic-site",
+	"version": "0.0.11",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "radic",
+			"email": "robin@radic.nl"
+		}
+	],
+	"modified": "2015-10-19T21:11:33.870Z",
+	"released": "2015-10-19T21:11:33.870Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"lighter-blog-engine","version":"1.0.1","depVersion":">=0.2.6","maintainers":[{"name":"alebcay","email":"calebcenter@live.com"}],"modified":"2014-04-19T22:42:29.071Z","released":"2014-04-19T22:42:29.071Z","downloadsLastWeek":1}
+{
+	"name": "lighter-blog-engine",
+	"version": "1.0.1",
+	"depVersion": ">=0.2.6",
+	"maintainers": [
+		{
+			"name": "alebcay",
+			"email": "calebcenter@live.com"
+		}
+	],
+	"modified": "2014-04-19T22:42:29.071Z",
+	"released": "2014-04-19T22:42:29.071Z",
+	"downloadsLastWeek": 1
+}

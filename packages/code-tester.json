@@ -1,1 +1,14 @@
-{"name":"code-tester","version":"2.5.4","depVersion":"^0.3.6","maintainers":[{"name":"harveysanders","email":"sanders.harvey@gmail.com"}],"modified":"2018-04-12T20:33:11.991Z","released":"2018-04-12T20:33:11.276Z","downloadsLastWeek":25}
+{
+	"name": "code-tester",
+	"version": "2.5.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "harveysanders",
+			"email": "sanders.harvey@gmail.com"
+		}
+	],
+	"modified": "2018-04-12T20:33:11.991Z",
+	"released": "2018-04-12T20:33:11.276Z",
+	"downloadsLastWeek": 25
+}

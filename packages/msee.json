@@ -1,1 +1,18 @@
-{"name":"msee","version":"0.3.5","depVersion":"0.3.12","maintainers":[{"name":"firede","email":"firede@firede.us"},{"name":"leichtgewicht","email":"martin.heidegger@gmail.com"}],"modified":"2018-02-28T22:40:56.944Z","released":"2018-02-19T02:16:16.027Z","downloadsLastWeek":8407}
+{
+	"name": "msee",
+	"version": "0.3.5",
+	"depVersion": "0.3.12",
+	"maintainers": [
+		{
+			"name": "firede",
+			"email": "firede@firede.us"
+		},
+		{
+			"name": "leichtgewicht",
+			"email": "martin.heidegger@gmail.com"
+		}
+	],
+	"modified": "2018-02-28T22:40:56.944Z",
+	"released": "2018-02-19T02:16:16.027Z",
+	"downloadsLastWeek": 8407
+}

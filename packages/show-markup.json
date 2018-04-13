@@ -1,1 +1,14 @@
-{"name":"show-markup","version":"0.0.6","depVersion":"~0.2.6","maintainers":[{"name":"ryotakato","email":"ryotakato4@gmail.com"}],"modified":"2012-12-15T16:31:45.238Z","released":"2012-12-15T16:31:45.238Z","downloadsLastWeek":13}
+{
+	"name": "show-markup",
+	"version": "0.0.6",
+	"depVersion": "~0.2.6",
+	"maintainers": [
+		{
+			"name": "ryotakato",
+			"email": "ryotakato4@gmail.com"
+		}
+	],
+	"modified": "2012-12-15T16:31:45.238Z",
+	"released": "2012-12-15T16:31:45.238Z",
+	"downloadsLastWeek": 13
+}

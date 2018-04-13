@@ -1,1 +1,14 @@
-{"name":"vue-marked-loader","version":"0.1.1","depVersion":"^0.3.6","maintainers":[{"name":"jerret321","email":"321jiangtao@gmail.com"}],"modified":"2017-01-13T08:19:35.086Z","released":"2017-01-13T08:19:35.086Z","downloadsLastWeek":5}
+{
+	"name": "vue-marked-loader",
+	"version": "0.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "jerret321",
+			"email": "321jiangtao@gmail.com"
+		}
+	],
+	"modified": "2017-01-13T08:19:35.086Z",
+	"released": "2017-01-13T08:19:35.086Z",
+	"downloadsLastWeek": 5
+}

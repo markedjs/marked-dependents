@@ -1,1 +1,14 @@
-{"name":"md-live","version":"1.2.2","depVersion":"^0.3.2","maintainers":[{"name":"adjective","email":"mhuan13@gmail.com"}],"modified":"2016-09-11T20:14:31.725Z","released":"2016-09-11T20:14:31.725Z","downloadsLastWeek":1}
+{
+	"name": "md-live",
+	"version": "1.2.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "adjective",
+			"email": "mhuan13@gmail.com"
+		}
+	],
+	"modified": "2016-09-11T20:14:31.725Z",
+	"released": "2016-09-11T20:14:31.725Z",
+	"downloadsLastWeek": 1
+}

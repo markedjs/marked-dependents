@@ -1,1 +1,14 @@
-{"name":"lighthouse2","version":"1.6.5","depVersion":"0.3.6","maintainers":[{"name":"jacobbubu","email":"rong.shen@gmail.com"}],"modified":"2017-05-10T13:43:16.026Z","released":"2017-05-10T13:43:16.026Z","downloadsLastWeek":11}
+{
+	"name": "lighthouse2",
+	"version": "1.6.5",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "jacobbubu",
+			"email": "rong.shen@gmail.com"
+		}
+	],
+	"modified": "2017-05-10T13:43:16.026Z",
+	"released": "2017-05-10T13:43:16.026Z",
+	"downloadsLastWeek": 11
+}

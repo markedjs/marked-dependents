@@ -1,1 +1,18 @@
-{"name":"react-isolate","version":"2.7.0","depVersion":"^0.3.5","maintainers":[{"name":"cosmic","email":"eisi@meniga.is"},{"name":"eisisig","email":"im.eisisig@gmail.com"}],"modified":"2016-03-31T16:12:56.293Z","released":"2016-03-31T16:12:56.293Z","downloadsLastWeek":1}
+{
+	"name": "react-isolate",
+	"version": "2.7.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "cosmic",
+			"email": "eisi@meniga.is"
+		},
+		{
+			"name": "eisisig",
+			"email": "im.eisisig@gmail.com"
+		}
+	],
+	"modified": "2016-03-31T16:12:56.293Z",
+	"released": "2016-03-31T16:12:56.293Z",
+	"downloadsLastWeek": 1
+}

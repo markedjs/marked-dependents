@@ -1,1 +1,14 @@
-{"name":"mddocs","version":"0.2.0","depVersion":"^0.3.5","maintainers":[{"name":"clux","email":"analsandblaster@gmail.com"}],"modified":"2015-10-12T22:30:08.041Z","released":"2015-10-12T22:30:08.041Z","downloadsLastWeek":1}
+{
+	"name": "mddocs",
+	"version": "0.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "clux",
+			"email": "analsandblaster@gmail.com"
+		}
+	],
+	"modified": "2015-10-12T22:30:08.041Z",
+	"released": "2015-10-12T22:30:08.041Z",
+	"downloadsLastWeek": 1
+}

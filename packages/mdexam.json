@@ -1,1 +1,14 @@
-{"name":"mdexam","version":"1.0.3","depVersion":"^0.3.6","maintainers":[{"name":"hxg","email":"hxgqh@126.com"}],"modified":"2017-03-24T09:25:44.729Z","released":"2017-03-24T09:25:44.729Z","downloadsLastWeek":1}
+{
+	"name": "mdexam",
+	"version": "1.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "hxg",
+			"email": "hxgqh@126.com"
+		}
+	],
+	"modified": "2017-03-24T09:25:44.729Z",
+	"released": "2017-03-24T09:25:44.729Z",
+	"downloadsLastWeek": 1
+}

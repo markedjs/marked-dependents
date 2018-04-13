@@ -1,1 +1,14 @@
-{"name":"carlover-react","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"fuzhaohui","email":"fuzhaohui200@gmail.com"}],"modified":"2016-05-06T08:26:48.762Z","released":"2016-05-06T08:26:48.762Z","downloadsLastWeek":1}
+{
+	"name": "carlover-react",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "fuzhaohui",
+			"email": "fuzhaohui200@gmail.com"
+		}
+	],
+	"modified": "2016-05-06T08:26:48.762Z",
+	"released": "2016-05-06T08:26:48.762Z",
+	"downloadsLastWeek": 1
+}

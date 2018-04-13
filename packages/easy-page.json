@@ -1,1 +1,14 @@
-{"name":"easy-page","version":"0.2.0","depVersion":"~0.3.2","maintainers":[{"name":"jaridmargolin","email":"jaridmargolin@gmail.com"}],"modified":"2015-09-12T23:49:58.713Z","released":"2015-09-12T23:49:58.713Z","downloadsLastWeek":2}
+{
+	"name": "easy-page",
+	"version": "0.2.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "jaridmargolin",
+			"email": "jaridmargolin@gmail.com"
+		}
+	],
+	"modified": "2015-09-12T23:49:58.713Z",
+	"released": "2015-09-12T23:49:58.713Z",
+	"downloadsLastWeek": 2
+}

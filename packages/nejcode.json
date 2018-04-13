@@ -1,1 +1,14 @@
-{"name":"nejcode","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"dkypooh","email":"bluepooh@126.com"}],"modified":"2016-04-23T06:43:32.282Z","released":"2016-04-23T06:43:32.282Z","downloadsLastWeek":1}
+{
+	"name": "nejcode",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dkypooh",
+			"email": "bluepooh@126.com"
+		}
+	],
+	"modified": "2016-04-23T06:43:32.282Z",
+	"released": "2016-04-23T06:43:32.282Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,22 @@
-{"name":"roaster","version":"1.2.1","depVersion":"~0.3.3","maintainers":[{"email":"atom@github.com","name":"atom-team"},{"email":"kevinsawicki@gmail.com","name":"kevinsawicki"},{"email":"gjtorikian@gmail.com","name":"gjtorikian"}],"modified":"2017-07-07T14:34:42.322Z","released":"2016-08-10T23:16:58.684Z","downloadsLastWeek":580}
+{
+	"name": "roaster",
+	"version": "1.2.1",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"email": "atom@github.com",
+			"name": "atom-team"
+		},
+		{
+			"email": "kevinsawicki@gmail.com",
+			"name": "kevinsawicki"
+		},
+		{
+			"email": "gjtorikian@gmail.com",
+			"name": "gjtorikian"
+		}
+	],
+	"modified": "2017-07-07T14:34:42.322Z",
+	"released": "2016-08-10T23:16:58.684Z",
+	"downloadsLastWeek": 580
+}

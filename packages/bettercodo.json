@@ -1,1 +1,14 @@
-{"name":"bettercodo","version":"2.1.4","depVersion":"^0.3.6","maintainers":[{"name":"igoramadas","email":"igor@devv.com"}],"modified":"2017-06-29T10:12:01.108Z","released":"2017-06-29T10:12:01.108Z","downloadsLastWeek":1}
+{
+	"name": "bettercodo",
+	"version": "2.1.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "igoramadas",
+			"email": "igor@devv.com"
+		}
+	],
+	"modified": "2017-06-29T10:12:01.108Z",
+	"released": "2017-06-29T10:12:01.108Z",
+	"downloadsLastWeek": 1
+}

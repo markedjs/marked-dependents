@@ -1,1 +1,14 @@
-{"name":"contentful-metalsmith-feeds","version":"1.0.0","depVersion":"0.3.6","maintainers":[{"name":"thegaw","email":"me@tylergaw.com"}],"modified":"2017-10-25T04:38:11.505Z","released":"2017-10-25T04:38:11.505Z","downloadsLastWeek":3}
+{
+	"name": "contentful-metalsmith-feeds",
+	"version": "1.0.0",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "thegaw",
+			"email": "me@tylergaw.com"
+		}
+	],
+	"modified": "2017-10-25T04:38:11.505Z",
+	"released": "2017-10-25T04:38:11.505Z",
+	"downloadsLastWeek": 3
+}

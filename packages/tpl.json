@@ -1,1 +1,14 @@
-{"name":"tpl","version":"0.3.0","depVersion":">=0.1.4","maintainers":[{"name":"pvorb","email":"paul@vorb.de"}],"modified":"2012-01-21T18:58:12.118Z","released":"2012-01-21T18:58:12.118Z","downloadsLastWeek":18}
+{
+	"name": "tpl",
+	"version": "0.3.0",
+	"depVersion": ">=0.1.4",
+	"maintainers": [
+		{
+			"name": "pvorb",
+			"email": "paul@vorb.de"
+		}
+	],
+	"modified": "2012-01-21T18:58:12.118Z",
+	"released": "2012-01-21T18:58:12.118Z",
+	"downloadsLastWeek": 18
+}

@@ -1,1 +1,14 @@
-{"name":"ifaker","version":"1.0.2","depVersion":"0.3.2","maintainers":[{"name":"xudafeng","email":"xudafeng@126.com"}],"modified":"2017-08-30T04:34:49.077Z","released":"2017-08-30T04:34:49.077Z","downloadsLastWeek":4}
+{
+	"name": "ifaker",
+	"version": "1.0.2",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "xudafeng",
+			"email": "xudafeng@126.com"
+		}
+	],
+	"modified": "2017-08-30T04:34:49.077Z",
+	"released": "2017-08-30T04:34:49.077Z",
+	"downloadsLastWeek": 4
+}

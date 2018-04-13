@@ -1,1 +1,14 @@
-{"name":"gitbook2edx","version":"0.2.1","depVersion":"~0.3.2","maintainers":[{"name":"vzaccaria","email":"vittorio.zaccaria@gmail.com"}],"modified":"2016-10-06T23:14:48.330Z","released":"2016-01-18T11:52:09.871Z","downloadsLastWeek":3}
+{
+	"name": "gitbook2edx",
+	"version": "0.2.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "vzaccaria",
+			"email": "vittorio.zaccaria@gmail.com"
+		}
+	],
+	"modified": "2016-10-06T23:14:48.330Z",
+	"released": "2016-01-18T11:52:09.871Z",
+	"downloadsLastWeek": 3
+}

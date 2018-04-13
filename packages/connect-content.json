@@ -1,1 +1,14 @@
-{"name":"connect-content","version":"0.6.0","depVersion":"^0.3.6","maintainers":[{"name":"chilts","email":"andychilton@gmail.com"}],"modified":"2016-09-05T10:09:39.362Z","released":"2016-09-05T10:09:39.362Z","downloadsLastWeek":1}
+{
+	"name": "connect-content",
+	"version": "0.6.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "chilts",
+			"email": "andychilton@gmail.com"
+		}
+	],
+	"modified": "2016-09-05T10:09:39.362Z",
+	"released": "2016-09-05T10:09:39.362Z",
+	"downloadsLastWeek": 1
+}

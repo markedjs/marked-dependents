@@ -1,1 +1,14 @@
-{"name":"misskey-web","version":"0.0.1","depVersion":"0.3.5","maintainers":[{"name":"syuilo","email":"syuilo@yahoo.com"}],"modified":"2015-12-03T17:11:04.341Z","released":"2015-12-03T17:11:04.341Z","downloadsLastWeek":1}
+{
+	"name": "misskey-web",
+	"version": "0.0.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "syuilo",
+			"email": "syuilo@yahoo.com"
+		}
+	],
+	"modified": "2015-12-03T17:11:04.341Z",
+	"released": "2015-12-03T17:11:04.341Z",
+	"downloadsLastWeek": 1
+}

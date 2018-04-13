@@ -1,1 +1,14 @@
-{"name":"infopack","version":"0.3.1","depVersion":"^0.3.9","maintainers":[{"name":"organismen","email":"jasplund89@gmail.com"}],"modified":"2018-01-01T16:18:10.957Z","released":"2018-01-01T16:18:10.957Z","downloadsLastWeek":1}
+{
+	"name": "infopack",
+	"version": "0.3.1",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "organismen",
+			"email": "jasplund89@gmail.com"
+		}
+	],
+	"modified": "2018-01-01T16:18:10.957Z",
+	"released": "2018-01-01T16:18:10.957Z",
+	"downloadsLastWeek": 1
+}

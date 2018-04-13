@@ -1,1 +1,14 @@
-{"name":"typedocs","version":"0.6.5","depVersion":"0.3.18","maintainers":[{"name":"alvarorahul","email":"alvarorahul@gmail.com"}],"modified":"2018-04-07T03:25:15.426Z","released":"2018-04-07T03:25:14.460Z","downloadsLastWeek":210}
+{
+	"name": "typedocs",
+	"version": "0.6.5",
+	"depVersion": "0.3.18",
+	"maintainers": [
+		{
+			"name": "alvarorahul",
+			"email": "alvarorahul@gmail.com"
+		}
+	],
+	"modified": "2018-04-07T03:25:15.426Z",
+	"released": "2018-04-07T03:25:14.460Z",
+	"downloadsLastWeek": 210
+}

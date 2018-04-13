@@ -1,1 +1,14 @@
-{"name":"balloon-generator","version":"0.11.3","depVersion":"^0.3.5","maintainers":[{"name":"gschier","email":"gschier1990@gmail.com"}],"modified":"2016-01-14T05:14:59.481Z","released":"2016-01-14T05:14:59.481Z","downloadsLastWeek":1}
+{
+	"name": "balloon-generator",
+	"version": "0.11.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "gschier",
+			"email": "gschier1990@gmail.com"
+		}
+	],
+	"modified": "2016-01-14T05:14:59.481Z",
+	"released": "2016-01-14T05:14:59.481Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"pacbot","version":"0.21.0","depVersion":"0.2.x","maintainers":[{"name":"olav","email":"olav@bjorkoy.com"}],"modified":"2014-01-24T13:06:06.393Z","released":"2014-01-24T13:06:06.393Z","downloadsLastWeek":1}
+{
+	"name": "pacbot",
+	"version": "0.21.0",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "olav",
+			"email": "olav@bjorkoy.com"
+		}
+	],
+	"modified": "2014-01-24T13:06:06.393Z",
+	"released": "2014-01-24T13:06:06.393Z",
+	"downloadsLastWeek": 1
+}

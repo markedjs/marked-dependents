@@ -1,1 +1,14 @@
-{"name":"bloke","version":"1.0.7","depVersion":"^0.3.6","maintainers":[{"name":"davidjones","email":"qowera@qq.com"}],"modified":"2017-03-23T04:01:27.320Z","released":"2017-03-23T04:01:27.320Z","downloadsLastWeek":1}
+{
+	"name": "bloke",
+	"version": "1.0.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "davidjones",
+			"email": "qowera@qq.com"
+		}
+	],
+	"modified": "2017-03-23T04:01:27.320Z",
+	"released": "2017-03-23T04:01:27.320Z",
+	"downloadsLastWeek": 1
+}

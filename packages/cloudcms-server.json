@@ -1,1 +1,14 @@
-{"name":"cloudcms-server","version":"0.9.138","depVersion":"^0.3.6","maintainers":[{"name":"uzi","email":"uzquiano@gmail.com"}],"modified":"2018-04-11T16:14:28.197Z","released":"2018-04-11T16:14:28.084Z","downloadsLastWeek":3303}
+{
+	"name": "cloudcms-server",
+	"version": "0.9.138",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "uzi",
+			"email": "uzquiano@gmail.com"
+		}
+	],
+	"modified": "2018-04-11T16:14:28.197Z",
+	"released": "2018-04-11T16:14:28.084Z",
+	"downloadsLastWeek": 3303
+}

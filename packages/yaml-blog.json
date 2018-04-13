@@ -1,1 +1,14 @@
-{"name":"yaml-blog","version":"1.2.1","depVersion":"^0.3.5","maintainers":[{"name":"fra9001","email":"francesco9001@hotmail.it"}],"modified":"2016-06-22T09:22:21.564Z","released":"2016-06-22T09:22:21.564Z","downloadsLastWeek":11}
+{
+	"name": "yaml-blog",
+	"version": "1.2.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "fra9001",
+			"email": "francesco9001@hotmail.it"
+		}
+	],
+	"modified": "2016-06-22T09:22:21.564Z",
+	"released": "2016-06-22T09:22:21.564Z",
+	"downloadsLastWeek": 11
+}

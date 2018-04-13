@@ -1,1 +1,14 @@
-{"name":"wainwright","version":"0.5.2","depVersion":"^0.3.2","maintainers":[{"name":"wprl","email":"william@kun.io"}],"modified":"2014-10-17T18:02:30.730Z","released":"2014-10-17T18:02:30.730Z","downloadsLastWeek":37}
+{
+	"name": "wainwright",
+	"version": "0.5.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "wprl",
+			"email": "william@kun.io"
+		}
+	],
+	"modified": "2014-10-17T18:02:30.730Z",
+	"released": "2014-10-17T18:02:30.730Z",
+	"downloadsLastWeek": 37
+}

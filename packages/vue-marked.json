@@ -1,1 +1,14 @@
-{"name":"vue-marked","version":"0.1.1","depVersion":"^0.3.6","maintainers":[{"name":"zakj","email":"me@zakj.net"}],"modified":"2017-06-14T06:22:41.905Z","released":"2017-06-14T06:22:41.905Z","downloadsLastWeek":10}
+{
+	"name": "vue-marked",
+	"version": "0.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "zakj",
+			"email": "me@zakj.net"
+		}
+	],
+	"modified": "2017-06-14T06:22:41.905Z",
+	"released": "2017-06-14T06:22:41.905Z",
+	"downloadsLastWeek": 10
+}

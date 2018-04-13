@@ -1,1 +1,14 @@
-{"name":"misojs-markdown-component","version":"0.0.3","depVersion":"^0.3.3","maintainers":[{"name":"jsguy","email":"mikkel@jsguy.com"}],"modified":"2015-08-06T22:26:39.871Z","released":"2015-08-06T22:26:39.871Z","downloadsLastWeek":1}
+{
+	"name": "misojs-markdown-component",
+	"version": "0.0.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "jsguy",
+			"email": "mikkel@jsguy.com"
+		}
+	],
+	"modified": "2015-08-06T22:26:39.871Z",
+	"released": "2015-08-06T22:26:39.871Z",
+	"downloadsLastWeek": 1
+}

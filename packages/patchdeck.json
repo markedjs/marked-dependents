@@ -1,1 +1,14 @@
-{"name":"patchdeck","version":"0.0.2","depVersion":"^0.3.5","maintainers":[{"name":"dominictarr","email":"dominic.tarr@gmail.com"}],"modified":"2016-03-31T03:58:08.515Z","released":"2016-03-31T03:58:08.515Z","downloadsLastWeek":1}
+{
+	"name": "patchdeck",
+	"version": "0.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dominictarr",
+			"email": "dominic.tarr@gmail.com"
+		}
+	],
+	"modified": "2016-03-31T03:58:08.515Z",
+	"released": "2016-03-31T03:58:08.515Z",
+	"downloadsLastWeek": 1
+}

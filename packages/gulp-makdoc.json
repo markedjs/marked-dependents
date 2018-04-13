@@ -1,1 +1,14 @@
-{"name":"gulp-makdoc","version":"0.2.0","depVersion":"^0.3.3","maintainers":[{"name":"pismute","email":"pismute@gmail.com"}],"modified":"2015-09-09T12:44:23.358Z","released":"2015-09-09T12:44:23.358Z","downloadsLastWeek":1}
+{
+	"name": "gulp-makdoc",
+	"version": "0.2.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "pismute",
+			"email": "pismute@gmail.com"
+		}
+	],
+	"modified": "2015-09-09T12:44:23.358Z",
+	"released": "2015-09-09T12:44:23.358Z",
+	"downloadsLastWeek": 1
+}

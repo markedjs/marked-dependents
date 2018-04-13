@@ -1,1 +1,14 @@
-{"name":"changelogx","version":"2.0.1","depVersion":"^0.3.4","maintainers":[{"name":"royriojas","email":"royriojas@gmail.com"}],"modified":"2016-07-31T09:18:17.844Z","released":"2016-07-31T09:18:17.844Z","downloadsLastWeek":43}
+{
+	"name": "changelogx",
+	"version": "2.0.1",
+	"depVersion": "^0.3.4",
+	"maintainers": [
+		{
+			"name": "royriojas",
+			"email": "royriojas@gmail.com"
+		}
+	],
+	"modified": "2016-07-31T09:18:17.844Z",
+	"released": "2016-07-31T09:18:17.844Z",
+	"downloadsLastWeek": 43
+}

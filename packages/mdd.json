@@ -1,1 +1,14 @@
-{"name":"mdd","version":"0.1.0","depVersion":"^0.3.5","maintainers":[{"name":"bjornrombaut","email":"bjorn.rombaut1991@gmail.com"}],"modified":"2016-07-15T07:28:59.940Z","released":"2016-07-15T07:28:59.940Z","downloadsLastWeek":1}
+{
+	"name": "mdd",
+	"version": "0.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "bjornrombaut",
+			"email": "bjorn.rombaut1991@gmail.com"
+		}
+	],
+	"modified": "2016-07-15T07:28:59.940Z",
+	"released": "2016-07-15T07:28:59.940Z",
+	"downloadsLastWeek": 1
+}

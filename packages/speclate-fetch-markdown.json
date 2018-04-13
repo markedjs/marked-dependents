@@ -1,1 +1,14 @@
-{"name":"speclate-fetch-markdown","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"simonmcmanus","email":"mcmanus.simon@gmail.com"}],"modified":"2016-07-16T12:52:09.097Z","released":"2016-07-16T12:52:09.097Z","downloadsLastWeek":3}
+{
+	"name": "speclate-fetch-markdown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "simonmcmanus",
+			"email": "mcmanus.simon@gmail.com"
+		}
+	],
+	"modified": "2016-07-16T12:52:09.097Z",
+	"released": "2016-07-16T12:52:09.097Z",
+	"downloadsLastWeek": 3
+}

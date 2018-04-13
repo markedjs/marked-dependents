@@ -1,1 +1,14 @@
-{"name":"patternlab-markdown-annotations","version":"0.1.2","depVersion":"~0.3.2","maintainers":[{"name":"millsb","email":"bryan@thingswithpixels.com"}],"modified":"2017-07-10T17:25:40.454Z","released":"2014-05-12T04:51:41.731Z","downloadsLastWeek":1}
+{
+	"name": "patternlab-markdown-annotations",
+	"version": "0.1.2",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "millsb",
+			"email": "bryan@thingswithpixels.com"
+		}
+	],
+	"modified": "2017-07-10T17:25:40.454Z",
+	"released": "2014-05-12T04:51:41.731Z",
+	"downloadsLastWeek": 1
+}

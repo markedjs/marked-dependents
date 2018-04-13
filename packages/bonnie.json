@@ -1,1 +1,14 @@
-{"name":"bonnie","version":"0.0.1-beta","depVersion":"^0.3.2","maintainers":[{"name":"shockwork","email":"info@shockwork.net"}],"modified":"2014-10-06T17:56:03.653Z","released":"2014-10-06T17:56:03.653Z","downloadsLastWeek":2}
+{
+	"name": "bonnie",
+	"version": "0.0.1-beta",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "shockwork",
+			"email": "info@shockwork.net"
+		}
+	],
+	"modified": "2014-10-06T17:56:03.653Z",
+	"released": "2014-10-06T17:56:03.653Z",
+	"downloadsLastWeek": 2
+}

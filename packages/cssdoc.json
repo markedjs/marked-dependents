@@ -1,1 +1,14 @@
-{"name":"cssdoc","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"expalmer","email":"expalmer@gmail.com"}],"modified":"2018-02-10T12:01:44.874Z","released":"2015-11-25T20:57:22.243Z","downloadsLastWeek":3}
+{
+	"name": "cssdoc",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "expalmer",
+			"email": "expalmer@gmail.com"
+		}
+	],
+	"modified": "2018-02-10T12:01:44.874Z",
+	"released": "2015-11-25T20:57:22.243Z",
+	"downloadsLastWeek": 3
+}

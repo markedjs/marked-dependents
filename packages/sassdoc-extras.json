@@ -1,1 +1,26 @@
-{"name":"sassdoc-extras","version":"2.4.3","depVersion":"^0.3.19","maintainers":[{"name":"fweinb","email":"Fabrice@weinberg.me"},{"name":"hugogiraudel","email":"hugo.giraudel@gmail.com"},{"name":"pascalduez","email":"public@pascalduez.me"},{"name":"valeriangalliat","email":"vava720@gmail.com"}],"modified":"2018-04-05T20:23:15.343Z","released":"2018-04-05T20:23:15.003Z","downloadsLastWeek":8939}
+{
+	"name": "sassdoc-extras",
+	"version": "2.4.3",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "fweinb",
+			"email": "Fabrice@weinberg.me"
+		},
+		{
+			"name": "hugogiraudel",
+			"email": "hugo.giraudel@gmail.com"
+		},
+		{
+			"name": "pascalduez",
+			"email": "public@pascalduez.me"
+		},
+		{
+			"name": "valeriangalliat",
+			"email": "vava720@gmail.com"
+		}
+	],
+	"modified": "2018-04-05T20:23:15.343Z",
+	"released": "2018-04-05T20:23:15.003Z",
+	"downloadsLastWeek": 8939
+}

@@ -1,1 +1,14 @@
-{"name":"keystone_oss","version":"0.4.22","depVersion":"0.3.5","maintainers":[{"name":"zhuxiaofeng","email":"zhuxiaofeng@bailumei.com"}],"modified":"2016-07-18T02:54:22.512Z","released":"2016-07-18T02:54:22.512Z","downloadsLastWeek":1}
+{
+	"name": "keystone_oss",
+	"version": "0.4.22",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "zhuxiaofeng",
+			"email": "zhuxiaofeng@bailumei.com"
+		}
+	],
+	"modified": "2016-07-18T02:54:22.512Z",
+	"released": "2016-07-18T02:54:22.512Z",
+	"downloadsLastWeek": 1
+}

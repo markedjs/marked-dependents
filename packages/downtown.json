@@ -1,1 +1,14 @@
-{"name":"downtown","version":"0.0.2","depVersion":"~0.2.8","maintainers":[{"name":"jdubie","email":"jack@orchestra.com"}],"modified":"2013-05-09T06:21:43.097Z","released":"2013-05-09T06:21:43.097Z","downloadsLastWeek":1}
+{
+	"name": "downtown",
+	"version": "0.0.2",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "jdubie",
+			"email": "jack@orchestra.com"
+		}
+	],
+	"modified": "2013-05-09T06:21:43.097Z",
+	"released": "2013-05-09T06:21:43.097Z",
+	"downloadsLastWeek": 1
+}

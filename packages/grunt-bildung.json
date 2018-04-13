@@ -1,1 +1,14 @@
-{"name":"grunt-bildung","version":"0.0.11","depVersion":"~0.3.2","maintainers":[{"name":"danburzo","email":"danburzo@gmail.com"}],"modified":"2014-10-22T10:31:38.762Z","released":"2014-10-22T10:31:38.762Z","downloadsLastWeek":1}
+{
+	"name": "grunt-bildung",
+	"version": "0.0.11",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "danburzo",
+			"email": "danburzo@gmail.com"
+		}
+	],
+	"modified": "2014-10-22T10:31:38.762Z",
+	"released": "2014-10-22T10:31:38.762Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"hexon-hunger-demo3","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"hexon","email":"308826842@qq.com"}],"modified":"2017-07-20T03:01:22.364Z","released":"2017-07-20T03:01:22.364Z","downloadsLastWeek":2}
+{
+	"name": "hexon-hunger-demo3",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "hexon",
+			"email": "308826842@qq.com"
+		}
+	],
+	"modified": "2017-07-20T03:01:22.364Z",
+	"released": "2017-07-20T03:01:22.364Z",
+	"downloadsLastWeek": 2
+}

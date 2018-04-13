@@ -1,1 +1,14 @@
-{"name":"pageman","version":"1.3.0","depVersion":"^0.3.5","maintainers":[{"name":"kary","email":"k@karyfoundation.org"}],"modified":"2017-08-04T18:21:15.061Z","released":"2017-08-04T18:21:15.061Z","downloadsLastWeek":1}
+{
+	"name": "pageman",
+	"version": "1.3.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "kary",
+			"email": "k@karyfoundation.org"
+		}
+	],
+	"modified": "2017-08-04T18:21:15.061Z",
+	"released": "2017-08-04T18:21:15.061Z",
+	"downloadsLastWeek": 1
+}

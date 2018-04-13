@@ -1,1 +1,14 @@
-{"name":"grunt-rainmaker","version":"0.1.2","depVersion":"~0.3.0","maintainers":[{"name":"dboskovic","email":"me@david.gs"}],"modified":"2014-09-11T16:20:24.931Z","released":"2014-09-11T16:20:24.931Z","downloadsLastWeek":1}
+{
+	"name": "grunt-rainmaker",
+	"version": "0.1.2",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "dboskovic",
+			"email": "me@david.gs"
+		}
+	],
+	"modified": "2014-09-11T16:20:24.931Z",
+	"released": "2014-09-11T16:20:24.931Z",
+	"downloadsLastWeek": 1
+}

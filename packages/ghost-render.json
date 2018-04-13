@@ -1,1 +1,14 @@
-{"name":"ghost-render","version":"1.1.1","depVersion":"^0.3.2","maintainers":[{"name":"mixu","email":"mixu@mixu.net"}],"modified":"2017-03-15T01:17:45.694Z","released":"2017-03-15T01:17:45.694Z","downloadsLastWeek":1}
+{
+	"name": "ghost-render",
+	"version": "1.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "mixu",
+			"email": "mixu@mixu.net"
+		}
+	],
+	"modified": "2017-03-15T01:17:45.694Z",
+	"released": "2017-03-15T01:17:45.694Z",
+	"downloadsLastWeek": 1
+}

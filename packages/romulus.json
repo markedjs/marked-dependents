@@ -1,1 +1,18 @@
-{"name":"romulus","version":"0.1.1","depVersion":"~0.2.5","maintainers":[{"name":"felixge","email":"felix@debuggable.com"},{"name":"aredridel","email":"aredridel@nbtsc.org"}],"modified":"2013-03-07T07:11:34.701Z","released":"2012-11-19T10:17:17.010Z","downloadsLastWeek":26}
+{
+	"name": "romulus",
+	"version": "0.1.1",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "felixge",
+			"email": "felix@debuggable.com"
+		},
+		{
+			"name": "aredridel",
+			"email": "aredridel@nbtsc.org"
+		}
+	],
+	"modified": "2013-03-07T07:11:34.701Z",
+	"released": "2012-11-19T10:17:17.010Z",
+	"downloadsLastWeek": 26
+}

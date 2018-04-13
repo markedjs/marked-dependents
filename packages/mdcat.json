@@ -1,1 +1,14 @@
-{"name":"mdcat","version":"1.1.0","depVersion":"^0.3.5","maintainers":[{"name":"ssnau","email":"korige@gmail.com"}],"modified":"2015-09-18T08:22:35.265Z","released":"2015-09-18T08:22:35.265Z","downloadsLastWeek":1}
+{
+	"name": "mdcat",
+	"version": "1.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ssnau",
+			"email": "korige@gmail.com"
+		}
+	],
+	"modified": "2015-09-18T08:22:35.265Z",
+	"released": "2015-09-18T08:22:35.265Z",
+	"downloadsLastWeek": 1
+}

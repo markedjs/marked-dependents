@@ -1,1 +1,14 @@
-{"name":"node-meatspace","version":"0.0.0","depVersion":"~0.2.9","maintainers":[{"name":"mikeal","email":"mikeal.rogers@gmail.com"}],"modified":"2013-09-23T15:50:00.197Z","released":"2013-09-23T15:50:00.197Z","downloadsLastWeek":1}
+{
+	"name": "node-meatspace",
+	"version": "0.0.0",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "mikeal",
+			"email": "mikeal.rogers@gmail.com"
+		}
+	],
+	"modified": "2013-09-23T15:50:00.197Z",
+	"released": "2013-09-23T15:50:00.197Z",
+	"downloadsLastWeek": 1
+}

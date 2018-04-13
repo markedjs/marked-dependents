@@ -1,1 +1,14 @@
-{"name":"Blaggie-System","version":"0.1.0","depVersion":"0.0.4","maintainers":[{"name":"10102009","email":"preethi.bhaskar@sonyericsson.com"}],"modified":"2011-08-23T00:14:00.304Z","released":"2011-08-23T00:14:00.304Z","downloadsLastWeek":1}
+{
+	"name": "Blaggie-System",
+	"version": "0.1.0",
+	"depVersion": "0.0.4",
+	"maintainers": [
+		{
+			"name": "10102009",
+			"email": "preethi.bhaskar@sonyericsson.com"
+		}
+	],
+	"modified": "2011-08-23T00:14:00.304Z",
+	"released": "2011-08-23T00:14:00.304Z",
+	"downloadsLastWeek": 1
+}

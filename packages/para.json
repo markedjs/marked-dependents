@@ -1,1 +1,14 @@
-{"name":"para","version":"0.0.2","depVersion":"~0.3.0","maintainers":[{"name":"jacksontian","email":"shyvo1987@gmail.com"}],"modified":"2014-01-03T10:24:16.419Z","released":"2014-01-03T10:24:16.419Z","downloadsLastWeek":1}
+{
+	"name": "para",
+	"version": "0.0.2",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "jacksontian",
+			"email": "shyvo1987@gmail.com"
+		}
+	],
+	"modified": "2014-01-03T10:24:16.419Z",
+	"released": "2014-01-03T10:24:16.419Z",
+	"downloadsLastWeek": 1
+}

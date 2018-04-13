@@ -1,1 +1,14 @@
-{"name":"docmod","version":"3.0.0","depVersion":"~0.3.1","maintainers":[{"name":"protometa","email":"luke.nimtz@gmail.com"}],"modified":"2014-05-23T22:59:33.005Z","released":"2014-05-23T22:59:33.005Z","downloadsLastWeek":1}
+{
+	"name": "docmod",
+	"version": "3.0.0",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "protometa",
+			"email": "luke.nimtz@gmail.com"
+		}
+	],
+	"modified": "2014-05-23T22:59:33.005Z",
+	"released": "2014-05-23T22:59:33.005Z",
+	"downloadsLastWeek": 1
+}

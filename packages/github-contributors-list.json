@@ -1,1 +1,14 @@
-{"name":"github-contributors-list","version":"1.2.3","depVersion":"~0.3.1","maintainers":[{"name":"mgechev","email":"mgechev@gmail.com"}],"modified":"2018-01-18T17:38:10.111Z","released":"2018-01-18T17:38:10.111Z","downloadsLastWeek":61}
+{
+	"name": "github-contributors-list",
+	"version": "1.2.3",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "mgechev",
+			"email": "mgechev@gmail.com"
+		}
+	],
+	"modified": "2018-01-18T17:38:10.111Z",
+	"released": "2018-01-18T17:38:10.111Z",
+	"downloadsLastWeek": 61
+}

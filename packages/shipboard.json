@@ -1,1 +1,14 @@
-{"name":"shipboard","version":"1.4.1","depVersion":"^0.3.3","maintainers":[{"name":"substack","email":"mail@substack.net"}],"modified":"2015-05-15T08:47:36.794Z","released":"2015-05-15T08:47:36.794Z","downloadsLastWeek":19}
+{
+	"name": "shipboard",
+	"version": "1.4.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "substack",
+			"email": "mail@substack.net"
+		}
+	],
+	"modified": "2015-05-15T08:47:36.794Z",
+	"released": "2015-05-15T08:47:36.794Z",
+	"downloadsLastWeek": 19
+}

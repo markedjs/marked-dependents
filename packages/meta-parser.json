@@ -1,1 +1,14 @@
-{"name":"meta-parser","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"noazark","email":"noah@batteredoats.com"}],"modified":"2014-05-08T19:43:42.823Z","released":"2014-05-08T19:43:42.823Z","downloadsLastWeek":1}
+{
+	"name": "meta-parser",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "noazark",
+			"email": "noah@batteredoats.com"
+		}
+	],
+	"modified": "2014-05-08T19:43:42.823Z",
+	"released": "2014-05-08T19:43:42.823Z",
+	"downloadsLastWeek": 1
+}

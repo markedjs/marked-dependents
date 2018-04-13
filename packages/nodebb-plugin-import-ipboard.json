@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-ipboard","version":"0.0.6","depVersion":"~0.3.2","maintainers":[{"name":"akhoury","email":"bentael@gmail.com"}],"modified":"2015-12-13T00:53:36.930Z","released":"2015-12-13T00:53:36.930Z","downloadsLastWeek":2}
+{
+	"name": "nodebb-plugin-import-ipboard",
+	"version": "0.0.6",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "akhoury",
+			"email": "bentael@gmail.com"
+		}
+	],
+	"modified": "2015-12-13T00:53:36.930Z",
+	"released": "2015-12-13T00:53:36.930Z",
+	"downloadsLastWeek": 2
+}

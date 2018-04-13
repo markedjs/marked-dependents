@@ -1,1 +1,14 @@
-{"name":"test-webchat","version":"0.3.12","depVersion":"^0.3.6","maintainers":[{"name":"billba","email":"billba@microsoft.com"}],"modified":"2017-01-12T10:04:29.143Z","released":"2017-01-12T09:57:43.720Z","downloadsLastWeek":21}
+{
+	"name": "test-webchat",
+	"version": "0.3.12",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "billba",
+			"email": "billba@microsoft.com"
+		}
+	],
+	"modified": "2017-01-12T10:04:29.143Z",
+	"released": "2017-01-12T09:57:43.720Z",
+	"downloadsLastWeek": 21
+}

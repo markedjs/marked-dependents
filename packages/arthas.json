@@ -1,1 +1,22 @@
-{"name":"arthas","version":"1.0.24","depVersion":"^0.3.3","maintainers":[{"email":"rxl719704258@gmail.com","name":"oscar-ren"},{"email":"598869621@qq.com","name":"xingyan.diaodiaoda"},{"email":"poetcoder@outlook.com","name":"leiming"}],"modified":"2017-06-10T14:13:04.582Z","released":"2015-12-08T05:17:44.928Z","downloadsLastWeek":1}
+{
+	"name": "arthas",
+	"version": "1.0.24",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"email": "rxl719704258@gmail.com",
+			"name": "oscar-ren"
+		},
+		{
+			"email": "598869621@qq.com",
+			"name": "xingyan.diaodiaoda"
+		},
+		{
+			"email": "poetcoder@outlook.com",
+			"name": "leiming"
+		}
+	],
+	"modified": "2017-06-10T14:13:04.582Z",
+	"released": "2015-12-08T05:17:44.928Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,22 @@
-{"name":"static","version":"2.0.0","depVersion":"0.2.7","maintainers":[{"name":"syntacticx","email":"ryan@syntacticx.com"},{"name":"kpdecker","email":"kpdecker@gmail.com"},{"name":"eastridge","email":"ryan@eastridge.me"}],"modified":"2017-06-16T08:14:46.430Z","released":"2013-07-16T21:21:27.390Z","downloadsLastWeek":113}
+{
+	"name": "static",
+	"version": "2.0.0",
+	"depVersion": "0.2.7",
+	"maintainers": [
+		{
+			"name": "syntacticx",
+			"email": "ryan@syntacticx.com"
+		},
+		{
+			"name": "kpdecker",
+			"email": "kpdecker@gmail.com"
+		},
+		{
+			"name": "eastridge",
+			"email": "ryan@eastridge.me"
+		}
+	],
+	"modified": "2017-06-16T08:14:46.430Z",
+	"released": "2013-07-16T21:21:27.390Z",
+	"downloadsLastWeek": 113
+}

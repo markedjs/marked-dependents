@@ -1,1 +1,14 @@
-{"name":"abr-npm-5-test-2","version":"1.4.0","depVersion":"~0.3.6","maintainers":[{"name":"abramin-sage","email":"alexander.ramin@sage.com"}],"modified":"2017-08-16T10:48:20.325Z","released":"2017-08-16T10:48:20.325Z","downloadsLastWeek":1}
+{
+	"name": "abr-npm-5-test-2",
+	"version": "1.4.0",
+	"depVersion": "~0.3.6",
+	"maintainers": [
+		{
+			"name": "abramin-sage",
+			"email": "alexander.ramin@sage.com"
+		}
+	],
+	"modified": "2017-08-16T10:48:20.325Z",
+	"released": "2017-08-16T10:48:20.325Z",
+	"downloadsLastWeek": 1
+}

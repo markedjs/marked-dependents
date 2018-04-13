@@ -1,1 +1,14 @@
-{"name":"workjs","version":"1.6.4","depVersion":"^0.3.5","maintainers":[{"name":"fmpenz","email":"fmpenz@gmx.at"}],"modified":"2016-06-26T19:28:22.033Z","released":"2016-06-26T19:28:22.033Z","downloadsLastWeek":65}
+{
+	"name": "workjs",
+	"version": "1.6.4",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "fmpenz",
+			"email": "fmpenz@gmx.at"
+		}
+	],
+	"modified": "2016-06-26T19:28:22.033Z",
+	"released": "2016-06-26T19:28:22.033Z",
+	"downloadsLastWeek": 65
+}

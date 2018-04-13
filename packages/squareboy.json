@@ -1,1 +1,14 @@
-{"name":"squareboy","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"harsha-mudi","email":"moodyharsh@gmail.com"}],"modified":"2017-05-21T11:55:10.725Z","released":"2014-04-25T18:39:21.786Z","downloadsLastWeek":3}
+{
+	"name": "squareboy",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "harsha-mudi",
+			"email": "moodyharsh@gmail.com"
+		}
+	],
+	"modified": "2017-05-21T11:55:10.725Z",
+	"released": "2014-04-25T18:39:21.786Z",
+	"downloadsLastWeek": 3
+}

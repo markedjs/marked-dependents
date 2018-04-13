@@ -1,1 +1,14 @@
-{"name":"oboe.js-demo","version":"0.0.0-236","depVersion":"~0.2.10","maintainers":[{"name":"joombar","email":"jim.higson@gmail.com"}],"modified":"2014-10-01T21:14:20.989Z","released":"2014-10-01T21:14:20.989Z","downloadsLastWeek":1}
+{
+	"name": "oboe.js-demo",
+	"version": "0.0.0-236",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "joombar",
+			"email": "jim.higson@gmail.com"
+		}
+	],
+	"modified": "2014-10-01T21:14:20.989Z",
+	"released": "2014-10-01T21:14:20.989Z",
+	"downloadsLastWeek": 1
+}

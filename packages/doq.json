@@ -1,1 +1,14 @@
-{"name":"doq","version":"0.1.1","depVersion":"~0.3.0","maintainers":[{"name":"reimund","email":"reimund@code7.se"}],"modified":"2014-04-07T13:54:53.572Z","released":"2014-04-07T13:54:53.571Z","downloadsLastWeek":1}
+{
+	"name": "doq",
+	"version": "0.1.1",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "reimund",
+			"email": "reimund@code7.se"
+		}
+	],
+	"modified": "2014-04-07T13:54:53.572Z",
+	"released": "2014-04-07T13:54:53.571Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"readme-editor","version":"1.0.7","depVersion":"^0.3.6","maintainers":[{"name":"fantasyui.com","email":"captain@fantasyui.com"}],"modified":"2017-08-09T13:40:46.541Z","released":"2017-08-09T13:40:46.541Z","downloadsLastWeek":16}
+{
+	"name": "readme-editor",
+	"version": "1.0.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "fantasyui.com",
+			"email": "captain@fantasyui.com"
+		}
+	],
+	"modified": "2017-08-09T13:40:46.541Z",
+	"released": "2017-08-09T13:40:46.541Z",
+	"downloadsLastWeek": 16
+}

@@ -1,1 +1,14 @@
-{"name":"grunt-lexicon","version":"0.1.9","depVersion":"*","maintainers":[{"email":"mikael@karon.se","name":"mikaelkaron"}],"modified":"2017-10-04T17:49:42.918Z","released":"2013-03-27T16:31:47.129Z","downloadsLastWeek":1}
+{
+	"name": "grunt-lexicon",
+	"version": "0.1.9",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"email": "mikael@karon.se",
+			"name": "mikaelkaron"
+		}
+	],
+	"modified": "2017-10-04T17:49:42.918Z",
+	"released": "2013-03-27T16:31:47.129Z",
+	"downloadsLastWeek": 1
+}

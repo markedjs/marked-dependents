@@ -1,1 +1,14 @@
-{"name":"solid-error","version":"0.3.2","depVersion":"^0.3.6","maintainers":[{"name":"erremauro","email":"erremauro@icloud.com"}],"modified":"2016-09-01T15:23:01.993Z","released":"2016-09-01T15:23:01.993Z","downloadsLastWeek":9}
+{
+	"name": "solid-error",
+	"version": "0.3.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "erremauro",
+			"email": "erremauro@icloud.com"
+		}
+	],
+	"modified": "2016-09-01T15:23:01.993Z",
+	"released": "2016-09-01T15:23:01.993Z",
+	"downloadsLastWeek": 9
+}

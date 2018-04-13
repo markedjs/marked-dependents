@@ -1,1 +1,14 @@
-{"name":"api-annotation","version":"1.0.0-beta.2","depVersion":"~0.3.5","maintainers":[{"name":"fish","email":"zhengxinlin@gmail.com"}],"modified":"2018-04-08T10:33:26.395Z","released":"2018-04-08T10:33:25.556Z","downloadsLastWeek":114}
+{
+	"name": "api-annotation",
+	"version": "1.0.0-beta.2",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "fish",
+			"email": "zhengxinlin@gmail.com"
+		}
+	],
+	"modified": "2018-04-08T10:33:26.395Z",
+	"released": "2018-04-08T10:33:25.556Z",
+	"downloadsLastWeek": 114
+}

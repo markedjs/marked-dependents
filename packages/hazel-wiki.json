@@ -1,1 +1,14 @@
-{"name":"hazel-wiki","version":"1.1.8","depVersion":"0.3.5","maintainers":[{"name":"wkallhof","email":"w@wmk.io"}],"modified":"2017-11-11T17:14:42.623Z","released":"2017-11-11T17:14:42.623Z","downloadsLastWeek":4}
+{
+	"name": "hazel-wiki",
+	"version": "1.1.8",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "wkallhof",
+			"email": "w@wmk.io"
+		}
+	],
+	"modified": "2017-11-11T17:14:42.623Z",
+	"released": "2017-11-11T17:14:42.623Z",
+	"downloadsLastWeek": 4
+}

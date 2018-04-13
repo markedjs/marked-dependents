@@ -1,1 +1,14 @@
-{"name":"gulp-doggy","version":"0.0.1","depVersion":"~0.3.1","maintainers":[{"name":"kevinkuang","email":"kuangweike@gmail.com"}],"modified":"2014-07-29T06:53:14.365Z","released":"2014-07-29T06:53:14.365Z","downloadsLastWeek":3}
+{
+	"name": "gulp-doggy",
+	"version": "0.0.1",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "kevinkuang",
+			"email": "kuangweike@gmail.com"
+		}
+	],
+	"modified": "2014-07-29T06:53:14.365Z",
+	"released": "2014-07-29T06:53:14.365Z",
+	"downloadsLastWeek": 3
+}

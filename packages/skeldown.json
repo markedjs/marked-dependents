@@ -1,1 +1,14 @@
-{"name":"skeldown","version":"0.0.3","depVersion":"0.2.5","maintainers":[{"name":"aaronj1335","email":"aaron.r.stacy@gmail.com"}],"modified":"2012-09-01T19:48:20.647Z","released":"2012-09-01T19:48:20.647Z","downloadsLastWeek":7}
+{
+	"name": "skeldown",
+	"version": "0.0.3",
+	"depVersion": "0.2.5",
+	"maintainers": [
+		{
+			"name": "aaronj1335",
+			"email": "aaron.r.stacy@gmail.com"
+		}
+	],
+	"modified": "2012-09-01T19:48:20.647Z",
+	"released": "2012-09-01T19:48:20.647Z",
+	"downloadsLastWeek": 7
+}

@@ -1,1 +1,14 @@
-{"name":"isit-site-tools-calvert","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"charliecalvert","email":"ccalvert@yahoo.com"}],"modified":"2017-10-04T18:15:59.302Z","released":"2017-10-04T18:15:59.302Z","downloadsLastWeek":3}
+{
+	"name": "isit-site-tools-calvert",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "charliecalvert",
+			"email": "ccalvert@yahoo.com"
+		}
+	],
+	"modified": "2017-10-04T18:15:59.302Z",
+	"released": "2017-10-04T18:15:59.302Z",
+	"downloadsLastWeek": 3
+}

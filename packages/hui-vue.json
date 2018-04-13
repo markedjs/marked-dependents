@@ -1,1 +1,14 @@
-{"name":"hui-vue","version":"0.2.7","depVersion":"^0.3.17","maintainers":[{"name":"henryhyn","email":"henryhyn@163.com"}],"modified":"2018-03-27T11:12:28.013Z","released":"2018-03-27T11:12:27.412Z","downloadsLastWeek":2}
+{
+	"name": "hui-vue",
+	"version": "0.2.7",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "henryhyn",
+			"email": "henryhyn@163.com"
+		}
+	],
+	"modified": "2018-03-27T11:12:28.013Z",
+	"released": "2018-03-27T11:12:27.412Z",
+	"downloadsLastWeek": 2
+}

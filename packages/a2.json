@@ -1,1 +1,14 @@
-{"name":"a2","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"meritt","email":"alexey@simonenko.su"}],"modified":"2014-05-13T16:45:23.478Z","released":"2014-05-13T16:45:23.478Z","downloadsLastWeek":1}
+{
+	"name": "a2",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "meritt",
+			"email": "alexey@simonenko.su"
+		}
+	],
+	"modified": "2014-05-13T16:45:23.478Z",
+	"released": "2014-05-13T16:45:23.478Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"md2impress","version":"0.1.5","depVersion":"^0.3.6","maintainers":[{"name":"louisjordan","email":"louisjordan@hotmail.com"}],"modified":"2018-02-17T23:53:15.269Z","released":"2018-02-17T23:53:14.027Z","downloadsLastWeek":1}
+{
+	"name": "md2impress",
+	"version": "0.1.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "louisjordan",
+			"email": "louisjordan@hotmail.com"
+		}
+	],
+	"modified": "2018-02-17T23:53:15.269Z",
+	"released": "2018-02-17T23:53:14.027Z",
+	"downloadsLastWeek": 1
+}

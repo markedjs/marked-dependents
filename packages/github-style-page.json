@@ -1,1 +1,14 @@
-{"name":"github-style-page","version":"0.1.2","depVersion":"~0.3.5","maintainers":[{"name":"superraytin","email":"superRaytin@163.com"}],"modified":"2015-12-30T02:48:40.481Z","released":"2015-12-30T02:48:40.481Z","downloadsLastWeek":6}
+{
+	"name": "github-style-page",
+	"version": "0.1.2",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "superraytin",
+			"email": "superRaytin@163.com"
+		}
+	],
+	"modified": "2015-12-30T02:48:40.481Z",
+	"released": "2015-12-30T02:48:40.481Z",
+	"downloadsLastWeek": 6
+}

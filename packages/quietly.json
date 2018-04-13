@@ -1,1 +1,14 @@
-{"name":"quietly","version":"0.0.0","depVersion":"0.3.x","maintainers":[{"name":"mytharcher","email":"mytharcher@gmail.com"}],"modified":"2016-01-30T13:18:52.597Z","released":"2016-01-30T13:18:52.597Z","downloadsLastWeek":2}
+{
+	"name": "quietly",
+	"version": "0.0.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "mytharcher",
+			"email": "mytharcher@gmail.com"
+		}
+	],
+	"modified": "2016-01-30T13:18:52.597Z",
+	"released": "2016-01-30T13:18:52.597Z",
+	"downloadsLastWeek": 2
+}

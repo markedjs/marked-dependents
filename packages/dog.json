@@ -1,1 +1,14 @@
-{"name":"dog","version":"0.4.2","depVersion":"~0.2.10","maintainers":[{"name":"thlorenz","email":"thlorenz@gmx.de"}],"modified":"2015-02-19T03:25:46.944Z","released":"2015-02-19T03:25:46.944Z","downloadsLastWeek":1}
+{
+	"name": "dog",
+	"version": "0.4.2",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "thlorenz",
+			"email": "thlorenz@gmx.de"
+		}
+	],
+	"modified": "2015-02-19T03:25:46.944Z",
+	"released": "2015-02-19T03:25:46.944Z",
+	"downloadsLastWeek": 1
+}

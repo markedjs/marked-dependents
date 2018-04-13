@@ -1,1 +1,14 @@
-{"name":"documental","version":"0.5.2","depVersion":"^0.3.5","maintainers":[{"name":"ammanvedi","email":"amman.vedi@gmail.com"}],"modified":"2016-10-06T13:58:14.297Z","released":"2016-10-06T13:58:14.297Z","downloadsLastWeek":6}
+{
+	"name": "documental",
+	"version": "0.5.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ammanvedi",
+			"email": "amman.vedi@gmail.com"
+		}
+	],
+	"modified": "2016-10-06T13:58:14.297Z",
+	"released": "2016-10-06T13:58:14.297Z",
+	"downloadsLastWeek": 6
+}

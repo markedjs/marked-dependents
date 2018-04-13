@@ -1,1 +1,14 @@
-{"name":"signavio-i18n","version":"1.4.0","depVersion":"^0.3.5","maintainers":[{"name":"signavio","email":"it.procurement@signavio.com"}],"modified":"2018-03-09T08:22:10.930Z","released":"2018-03-09T08:22:10.510Z","downloadsLastWeek":226}
+{
+	"name": "signavio-i18n",
+	"version": "1.4.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "signavio",
+			"email": "it.procurement@signavio.com"
+		}
+	],
+	"modified": "2018-03-09T08:22:10.930Z",
+	"released": "2018-03-09T08:22:10.510Z",
+	"downloadsLastWeek": 226
+}

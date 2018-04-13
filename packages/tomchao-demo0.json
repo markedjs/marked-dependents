@@ -1,1 +1,14 @@
-{"name":"tomchao-demo0","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"tomchao","email":"zhouqctech@gmail.com"}],"modified":"2017-10-08T08:50:07.515Z","released":"2017-10-08T08:50:07.515Z","downloadsLastWeek":5}
+{
+	"name": "tomchao-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "tomchao",
+			"email": "zhouqctech@gmail.com"
+		}
+	],
+	"modified": "2017-10-08T08:50:07.515Z",
+	"released": "2017-10-08T08:50:07.515Z",
+	"downloadsLastWeek": 5
+}

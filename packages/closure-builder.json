@@ -1,1 +1,14 @@
-{"name":"closure-builder","version":"2.2.39","depVersion":"^0.3.17","maintainers":[{"name":"markusbordihn","email":"NPM@MarkusBordihn.de"}],"modified":"2018-03-17T16:00:41.745Z","released":"2018-03-17T16:00:39.156Z","downloadsLastWeek":124}
+{
+	"name": "closure-builder",
+	"version": "2.2.39",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "markusbordihn",
+			"email": "NPM@MarkusBordihn.de"
+		}
+	],
+	"modified": "2018-03-17T16:00:41.745Z",
+	"released": "2018-03-17T16:00:39.156Z",
+	"downloadsLastWeek": 124
+}

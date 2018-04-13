@@ -1,1 +1,14 @@
-{"name":"plearner-demo0","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"plearner","email":"953413537@qq.com"}],"modified":"2017-04-12T14:59:18.022Z","released":"2017-04-12T14:59:18.022Z","downloadsLastWeek":3}
+{
+	"name": "plearner-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "plearner",
+			"email": "953413537@qq.com"
+		}
+	],
+	"modified": "2017-04-12T14:59:18.022Z",
+	"released": "2017-04-12T14:59:18.022Z",
+	"downloadsLastWeek": 3
+}

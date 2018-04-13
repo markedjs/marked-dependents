@@ -1,1 +1,14 @@
-{"name":"jade-i18n.js","version":"0.2.3","depVersion":"~0.2.9","maintainers":[{"email":"plasticpanda@protonmail.com","name":"maliciousintent"}],"modified":"2017-07-18T14:31:35.111Z","released":"2013-10-23T16:35:00.141Z","downloadsLastWeek":1}
+{
+	"name": "jade-i18n.js",
+	"version": "0.2.3",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"email": "plasticpanda@protonmail.com",
+			"name": "maliciousintent"
+		}
+	],
+	"modified": "2017-07-18T14:31:35.111Z",
+	"released": "2013-10-23T16:35:00.141Z",
+	"downloadsLastWeek": 1
+}

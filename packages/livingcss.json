@@ -1,1 +1,14 @@
-{"name":"livingcss","version":"4.5.0","depVersion":"^0.3.12","maintainers":[{"name":"straker","email":"stevenlambert503@gmail.com"}],"modified":"2018-02-07T04:29:54.765Z","released":"2018-02-07T04:29:52.704Z","downloadsLastWeek":179}
+{
+	"name": "livingcss",
+	"version": "4.5.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "straker",
+			"email": "stevenlambert503@gmail.com"
+		}
+	],
+	"modified": "2018-02-07T04:29:54.765Z",
+	"released": "2018-02-07T04:29:52.704Z",
+	"downloadsLastWeek": 179
+}

@@ -1,1 +1,18 @@
-{"name":"angular-meteor-tutorials-infrastructure","version":"0.1.19","depVersion":"0.3.6","maintainers":[{"email":"uri.goldshtein@gmail.com","name":"urigo"},{"email":"dotansimha@gmail.com","name":"dotansimha"}],"modified":"2017-10-13T16:23:55.978Z","released":"2017-10-13T16:23:55.978Z","downloadsLastWeek":3}
+{
+	"name": "angular-meteor-tutorials-infrastructure",
+	"version": "0.1.19",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"email": "uri.goldshtein@gmail.com",
+			"name": "urigo"
+		},
+		{
+			"email": "dotansimha@gmail.com",
+			"name": "dotansimha"
+		}
+	],
+	"modified": "2017-10-13T16:23:55.978Z",
+	"released": "2017-10-13T16:23:55.978Z",
+	"downloadsLastWeek": 3
+}

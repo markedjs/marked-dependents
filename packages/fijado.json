@@ -1,1 +1,14 @@
-{"name":"fijado","version":"0.0.7","depVersion":"0.3.5","maintainers":[{"name":"paulomcnally","email":"paulomcnally@gmail.com"}],"modified":"2016-05-23T04:28:40.405Z","released":"2016-05-23T04:28:40.405Z","downloadsLastWeek":1}
+{
+	"name": "fijado",
+	"version": "0.0.7",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "paulomcnally",
+			"email": "paulomcnally@gmail.com"
+		}
+	],
+	"modified": "2016-05-23T04:28:40.405Z",
+	"released": "2016-05-23T04:28:40.405Z",
+	"downloadsLastWeek": 1
+}

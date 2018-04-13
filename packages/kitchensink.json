@@ -1,1 +1,22 @@
-{"name":"kitchensink","version":"1.4.0","depVersion":"0.3.5","maintainers":[{"email":"aldeed@gmail.com","name":"aldeed"},{"email":"perl.jonathan@gmail.com","name":"jperl"},{"email":"d.caneja1012@gmail.com","name":"derekcaneja"}],"modified":"2017-07-22T10:05:07.373Z","released":"2017-02-21T17:48:48.256Z","downloadsLastWeek":3}
+{
+	"name": "kitchensink",
+	"version": "1.4.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"email": "aldeed@gmail.com",
+			"name": "aldeed"
+		},
+		{
+			"email": "perl.jonathan@gmail.com",
+			"name": "jperl"
+		},
+		{
+			"email": "d.caneja1012@gmail.com",
+			"name": "derekcaneja"
+		}
+	],
+	"modified": "2017-07-22T10:05:07.373Z",
+	"released": "2017-02-21T17:48:48.256Z",
+	"downloadsLastWeek": 3
+}

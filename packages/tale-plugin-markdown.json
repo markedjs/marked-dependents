@@ -1,1 +1,14 @@
-{"name":"tale-plugin-markdown","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"name":"eckoit","email":"ryan.ramage@gmail.com"}],"modified":"2014-08-16T16:01:07.078Z","released":"2014-08-16T16:01:07.078Z","downloadsLastWeek":9}
+{
+	"name": "tale-plugin-markdown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "eckoit",
+			"email": "ryan.ramage@gmail.com"
+		}
+	],
+	"modified": "2014-08-16T16:01:07.078Z",
+	"released": "2014-08-16T16:01:07.078Z",
+	"downloadsLastWeek": 9
+}

@@ -1,1 +1,14 @@
-{"name":"seasite","version":"0.3.3","depVersion":"^0.3.17","maintainers":[{"name":"holtwick","email":"dirk.holtwick@gmail.com"}],"modified":"2018-03-02T14:00:42.250Z","released":"2018-03-02T14:00:40.607Z","downloadsLastWeek":29}
+{
+	"name": "seasite",
+	"version": "0.3.3",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "holtwick",
+			"email": "dirk.holtwick@gmail.com"
+		}
+	],
+	"modified": "2018-03-02T14:00:42.250Z",
+	"released": "2018-03-02T14:00:40.607Z",
+	"downloadsLastWeek": 29
+}

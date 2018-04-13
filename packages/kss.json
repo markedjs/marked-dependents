@@ -1,1 +1,26 @@
-{"name":"kss","version":"3.0.0-beta.18","depVersion":"^0.3.6","maintainers":[{"email":"ryuran@gmail.com","name":"ryuran"},{"email":"robloach@gmail.com","name":"robloach"},{"email":"hughskennedy@gmail.com","name":"hughsk"},{"email":"virtually.johnalbin@gmail.com","name":"johnalbin"}],"modified":"2018-04-06T14:48:44.657Z","released":"2017-02-23T19:31:38.943Z","downloadsLastWeek":21353}
+{
+	"name": "kss",
+	"version": "3.0.0-beta.18",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "ryuran@gmail.com",
+			"name": "ryuran"
+		},
+		{
+			"email": "robloach@gmail.com",
+			"name": "robloach"
+		},
+		{
+			"email": "hughskennedy@gmail.com",
+			"name": "hughsk"
+		},
+		{
+			"email": "virtually.johnalbin@gmail.com",
+			"name": "johnalbin"
+		}
+	],
+	"modified": "2018-04-06T14:48:44.657Z",
+	"released": "2017-02-23T19:31:38.943Z",
+	"downloadsLastWeek": 21353
+}

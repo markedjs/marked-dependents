@@ -1,1 +1,14 @@
-{"name":"artur-keystone","version":"4.0.0-beta.3","depVersion":"0.3.6","maintainers":[{"name":"kolarz3","email":"arturmiks@gmail.com"}],"modified":"2016-09-30T12:24:59.795Z","released":"2016-09-30T12:24:59.795Z","downloadsLastWeek":1}
+{
+	"name": "artur-keystone",
+	"version": "4.0.0-beta.3",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "kolarz3",
+			"email": "arturmiks@gmail.com"
+		}
+	],
+	"modified": "2016-09-30T12:24:59.795Z",
+	"released": "2016-09-30T12:24:59.795Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"replpad","version":"0.14.1","depVersion":"~0.2.9","maintainers":[{"name":"thlorenz","email":"thlorenz@gmx.de"}],"modified":"2018-02-14T16:32:43.854Z","released":"2018-02-14T16:32:42.164Z","downloadsLastWeek":108}
+{
+	"name": "replpad",
+	"version": "0.14.1",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "thlorenz",
+			"email": "thlorenz@gmx.de"
+		}
+	],
+	"modified": "2018-02-14T16:32:43.854Z",
+	"released": "2018-02-14T16:32:42.164Z",
+	"downloadsLastWeek": 108
+}

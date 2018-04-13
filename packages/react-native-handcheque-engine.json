@@ -1,1 +1,14 @@
-{"name":"react-native-handcheque-engine","version":"0.0.2","depVersion":"^0.3.6","maintainers":[{"name":"emile.harmel","email":"emile@animal.at"}],"modified":"2018-03-30T09:40:18.898Z","released":"2018-03-30T09:40:18.525Z","downloadsLastWeek":3}
+{
+	"name": "react-native-handcheque-engine",
+	"version": "0.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "emile.harmel",
+			"email": "emile@animal.at"
+		}
+	],
+	"modified": "2018-03-30T09:40:18.898Z",
+	"released": "2018-03-30T09:40:18.525Z",
+	"downloadsLastWeek": 3
+}

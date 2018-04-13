@@ -1,1 +1,30 @@
-{"name":"grunt-jquery-content","version":"3.0.3","depVersion":"0.3.2","maintainers":[{"name":"dmethvin","email":"dave.methvin@gmail.com"},{"name":"gnarf","email":"gnarf37@gmail.com"},{"name":"jzaefferer","email":"joern.zaefferer@gmail.com"},{"name":"kborchers","email":"kris.borchers@gmail.com"},{"name":"scott.gonzalez","email":"scott.gonzalez@gmail.com"}],"modified":"2017-03-11T12:11:59.038Z","released":"2017-03-11T12:11:59.038Z","downloadsLastWeek":3}
+{
+	"name": "grunt-jquery-content",
+	"version": "3.0.3",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "dmethvin",
+			"email": "dave.methvin@gmail.com"
+		},
+		{
+			"name": "gnarf",
+			"email": "gnarf37@gmail.com"
+		},
+		{
+			"name": "jzaefferer",
+			"email": "joern.zaefferer@gmail.com"
+		},
+		{
+			"name": "kborchers",
+			"email": "kris.borchers@gmail.com"
+		},
+		{
+			"name": "scott.gonzalez",
+			"email": "scott.gonzalez@gmail.com"
+		}
+	],
+	"modified": "2017-03-11T12:11:59.038Z",
+	"released": "2017-03-11T12:11:59.038Z",
+	"downloadsLastWeek": 3
+}

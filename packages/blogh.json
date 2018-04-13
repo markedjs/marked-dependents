@@ -1,1 +1,14 @@
-{"name":"blogh","version":"0.8.3","depVersion":"^0.3.3","maintainers":[{"name":"parroit","email":"andrea.parodi@ebansoftware.net"}],"modified":"2015-04-08T18:12:33.002Z","released":"2015-04-08T18:12:33.002Z","downloadsLastWeek":1}
+{
+	"name": "blogh",
+	"version": "0.8.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "parroit",
+			"email": "andrea.parodi@ebansoftware.net"
+		}
+	],
+	"modified": "2015-04-08T18:12:33.002Z",
+	"released": "2015-04-08T18:12:33.002Z",
+	"downloadsLastWeek": 1
+}

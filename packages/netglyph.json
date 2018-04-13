@@ -1,1 +1,14 @@
-{"name":"netglyph","version":"0.2.1","depVersion":"^0.3.6","maintainers":[{"name":"polybuildr","email":"v.a.ghaisas@gmail.com"}],"modified":"2017-01-02T15:44:43.967Z","released":"2017-01-02T15:44:43.967Z","downloadsLastWeek":1}
+{
+	"name": "netglyph",
+	"version": "0.2.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "polybuildr",
+			"email": "v.a.ghaisas@gmail.com"
+		}
+	],
+	"modified": "2017-01-02T15:44:43.967Z",
+	"released": "2017-01-02T15:44:43.967Z",
+	"downloadsLastWeek": 1
+}

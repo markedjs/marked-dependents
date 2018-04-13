@@ -1,1 +1,14 @@
-{"name":"swagger-dsl","version":"0.2.2","depVersion":"latest","maintainers":[{"name":"intellinote","email":"rod@intellinote.net"}],"modified":"2015-04-02T16:40:07.228Z","released":"2015-04-02T16:40:07.228Z","downloadsLastWeek":13}
+{
+	"name": "swagger-dsl",
+	"version": "0.2.2",
+	"depVersion": "latest",
+	"maintainers": [
+		{
+			"name": "intellinote",
+			"email": "rod@intellinote.net"
+		}
+	],
+	"modified": "2015-04-02T16:40:07.228Z",
+	"released": "2015-04-02T16:40:07.228Z",
+	"downloadsLastWeek": 13
+}

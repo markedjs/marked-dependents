@@ -1,1 +1,14 @@
-{"name":"definitely-marked","version":"0.0.2","depVersion":"^0.3.2","maintainers":[{"name":"connor.peet","email":"connor@connorpeet.com"}],"modified":"2014-12-04T15:30:08.090Z","released":"2014-12-04T15:30:08.090Z","downloadsLastWeek":1}
+{
+	"name": "definitely-marked",
+	"version": "0.0.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "connor.peet",
+			"email": "connor@connorpeet.com"
+		}
+	],
+	"modified": "2014-12-04T15:30:08.090Z",
+	"released": "2014-12-04T15:30:08.090Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"component-library-core","version":"1.0.11","depVersion":"^0.3.5","maintainers":[{"name":"karlisup","email":"karlis@upitis.com"}],"modified":"2016-11-21T12:37:28.426Z","released":"2016-11-21T12:37:28.426Z","downloadsLastWeek":1}
+{
+	"name": "component-library-core",
+	"version": "1.0.11",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "karlisup",
+			"email": "karlis@upitis.com"
+		}
+	],
+	"modified": "2016-11-21T12:37:28.426Z",
+	"released": "2016-11-21T12:37:28.426Z",
+	"downloadsLastWeek": 1
+}

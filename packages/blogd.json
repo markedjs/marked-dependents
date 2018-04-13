@@ -1,1 +1,14 @@
-{"name":"blogd","version":"0.2.5","depVersion":"^0.3.2","maintainers":[{"name":"nervo","email":"hosting@elao.com"}],"modified":"2017-04-03T07:30:48.638Z","released":"2014-11-04T09:28:39.520Z","downloadsLastWeek":1}
+{
+	"name": "blogd",
+	"version": "0.2.5",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "nervo",
+			"email": "hosting@elao.com"
+		}
+	],
+	"modified": "2017-04-03T07:30:48.638Z",
+	"released": "2014-11-04T09:28:39.520Z",
+	"downloadsLastWeek": 1
+}

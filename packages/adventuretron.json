@@ -1,1 +1,14 @@
-{"name":"adventuretron","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"sethvincent","email":"sethvincent@gmail.com"}],"modified":"2017-10-04T23:53:01.990Z","released":"2017-10-04T23:53:01.990Z","downloadsLastWeek":1}
+{
+	"name": "adventuretron",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sethvincent",
+			"email": "sethvincent@gmail.com"
+		}
+	],
+	"modified": "2017-10-04T23:53:01.990Z",
+	"released": "2017-10-04T23:53:01.990Z",
+	"downloadsLastWeek": 1
+}

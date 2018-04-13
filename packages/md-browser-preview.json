@@ -1,1 +1,14 @@
-{"name":"md-browser-preview","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"ytkj","email":"y.kojima.1989@gmail.com"}],"modified":"2017-02-08T13:10:45.008Z","released":"2017-02-08T13:10:45.008Z","downloadsLastWeek":1}
+{
+	"name": "md-browser-preview",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ytkj",
+			"email": "y.kojima.1989@gmail.com"
+		}
+	],
+	"modified": "2017-02-08T13:10:45.008Z",
+	"released": "2017-02-08T13:10:45.008Z",
+	"downloadsLastWeek": 1
+}

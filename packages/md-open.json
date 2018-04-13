@@ -1,1 +1,14 @@
-{"name":"md-open","version":"0.1.0","depVersion":"^0.3.3","maintainers":[{"name":"rec","email":"espinosacurbelo@gmail.com"}],"modified":"2015-07-20T17:41:14.011Z","released":"2015-07-20T17:41:14.011Z","downloadsLastWeek":1}
+{
+	"name": "md-open",
+	"version": "0.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "rec",
+			"email": "espinosacurbelo@gmail.com"
+		}
+	],
+	"modified": "2015-07-20T17:41:14.011Z",
+	"released": "2015-07-20T17:41:14.011Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"readme","version":"0.6.0","depVersion":"~0.3.3","maintainers":[{"name":"dominictarr","email":"dominic.tarr@gmail.com"},{"name":"eush77","email":"eush77@gmail.com"}],"modified":"2018-01-30T15:50:42.906Z","released":"2016-02-03T22:03:37.512Z","downloadsLastWeek":48}
+{
+	"name": "readme",
+	"version": "0.6.0",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "dominictarr",
+			"email": "dominic.tarr@gmail.com"
+		},
+		{
+			"name": "eush77",
+			"email": "eush77@gmail.com"
+		}
+	],
+	"modified": "2018-01-30T15:50:42.906Z",
+	"released": "2016-02-03T22:03:37.512Z",
+	"downloadsLastWeek": 48
+}

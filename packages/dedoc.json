@@ -1,1 +1,14 @@
-{"name":"dedoc","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"sumight","email":"1005546504@qq.com"}],"modified":"2016-09-18T16:57:22.605Z","released":"2016-09-18T16:57:22.605Z","downloadsLastWeek":1}
+{
+	"name": "dedoc",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sumight",
+			"email": "1005546504@qq.com"
+		}
+	],
+	"modified": "2016-09-18T16:57:22.605Z",
+	"released": "2016-09-18T16:57:22.605Z",
+	"downloadsLastWeek": 1
+}

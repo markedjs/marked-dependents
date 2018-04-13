@@ -1,1 +1,14 @@
-{"name":"jgrip","version":"0.3.2","depVersion":"^0.3.6","maintainers":[{"name":"ujjwalmishra","email":"ujjwalmishra09@gmail.com"}],"modified":"2017-08-16T03:02:23.525Z","released":"2017-08-16T03:02:23.525Z","downloadsLastWeek":1}
+{
+	"name": "jgrip",
+	"version": "0.3.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ujjwalmishra",
+			"email": "ujjwalmishra09@gmail.com"
+		}
+	],
+	"modified": "2017-08-16T03:02:23.525Z",
+	"released": "2017-08-16T03:02:23.525Z",
+	"downloadsLastWeek": 1
+}

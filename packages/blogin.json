@@ -1,1 +1,14 @@
-{"name":"blogin","version":"0.2.2","depVersion":"0.2.x","maintainers":[{"name":"zmmbreeze","email":"zmmbreeze0825@gmail.com"}],"modified":"2013-06-09T15:42:32.562Z","released":"2013-06-09T15:42:32.562Z","downloadsLastWeek":1}
+{
+	"name": "blogin",
+	"version": "0.2.2",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "zmmbreeze",
+			"email": "zmmbreeze0825@gmail.com"
+		}
+	],
+	"modified": "2013-06-09T15:42:32.562Z",
+	"released": "2013-06-09T15:42:32.562Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"jake-utils","version":"0.0.19","depVersion":">= 0.2.8","maintainers":[{"name":"howardabrams","email":"howard.abrams@gmail.com"}],"modified":"2013-04-12T03:44:36.759Z","released":"2013-04-12T03:44:36.759Z","downloadsLastWeek":22}
+{
+	"name": "jake-utils",
+	"version": "0.0.19",
+	"depVersion": ">= 0.2.8",
+	"maintainers": [
+		{
+			"name": "howardabrams",
+			"email": "howard.abrams@gmail.com"
+		}
+	],
+	"modified": "2013-04-12T03:44:36.759Z",
+	"released": "2013-04-12T03:44:36.759Z",
+	"downloadsLastWeek": 22
+}

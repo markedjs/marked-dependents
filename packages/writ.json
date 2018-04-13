@@ -1,1 +1,14 @@
-{"name":"writ","version":"0.0.6","depVersion":"~0.2.8","maintainers":[{"name":"satchmorun","email":"rulfzid@gmail.com"}],"modified":"2013-03-22T05:14:21.485Z","released":"2013-03-22T05:14:21.485Z","downloadsLastWeek":21}
+{
+	"name": "writ",
+	"version": "0.0.6",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "satchmorun",
+			"email": "rulfzid@gmail.com"
+		}
+	],
+	"modified": "2013-03-22T05:14:21.485Z",
+	"released": "2013-03-22T05:14:21.485Z",
+	"downloadsLastWeek": 21
+}

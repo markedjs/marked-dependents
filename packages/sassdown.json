@@ -1,1 +1,14 @@
-{"name":"sassdown","version":"0.2.7","depVersion":"~0.2.10","maintainers":[{"name":"nopr","email":"jay@nopr.co"}],"modified":"2017-02-21T04:10:31.486Z","released":"2014-11-06T11:09:32.607Z","downloadsLastWeek":48}
+{
+	"name": "sassdown",
+	"version": "0.2.7",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "nopr",
+			"email": "jay@nopr.co"
+		}
+	],
+	"modified": "2017-02-21T04:10:31.486Z",
+	"released": "2014-11-06T11:09:32.607Z",
+	"downloadsLastWeek": 48
+}

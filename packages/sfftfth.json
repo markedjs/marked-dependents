@@ -1,1 +1,14 @@
-{"name":"sfftfth","version":"1.0.3","depVersion":"^0.3.5","maintainers":[{"name":"dak0rn","email":"daniel@suitsoft.eu"}],"modified":"2016-07-17T10:11:58.468Z","released":"2016-07-17T10:11:58.468Z","downloadsLastWeek":9}
+{
+	"name": "sfftfth",
+	"version": "1.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dak0rn",
+			"email": "daniel@suitsoft.eu"
+		}
+	],
+	"modified": "2016-07-17T10:11:58.468Z",
+	"released": "2016-07-17T10:11:58.468Z",
+	"downloadsLastWeek": 9
+}

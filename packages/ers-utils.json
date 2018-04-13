@@ -1,1 +1,18 @@
-{"name":"ers-utils","version":"0.2.1","depVersion":"^0.3.12","maintainers":[{"name":"europeanrespiratorysociety","email":"samuel.pouyt@ersnet.org"},{"name":"idealley","email":"samuelpouyt@gmail.com"}],"modified":"2018-02-23T07:42:59.952Z","released":"2018-02-23T07:42:59.061Z","downloadsLastWeek":1}
+{
+	"name": "ers-utils",
+	"version": "0.2.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "europeanrespiratorysociety",
+			"email": "samuel.pouyt@ersnet.org"
+		},
+		{
+			"name": "idealley",
+			"email": "samuelpouyt@gmail.com"
+		}
+	],
+	"modified": "2018-02-23T07:42:59.952Z",
+	"released": "2018-02-23T07:42:59.061Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"apidoc-to-swagger","version":"0.2.4","depVersion":"^0.3.3","maintainers":[{"name":"compuhelmac","email":"compuhelmac@gmail.com"}],"modified":"2017-01-12T14:42:32.284Z","released":"2017-01-12T14:42:32.284Z","downloadsLastWeek":4}
+{
+	"name": "apidoc-to-swagger",
+	"version": "0.2.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "compuhelmac",
+			"email": "compuhelmac@gmail.com"
+		}
+	],
+	"modified": "2017-01-12T14:42:32.284Z",
+	"released": "2017-01-12T14:42:32.284Z",
+	"downloadsLastWeek": 4
+}

@@ -1,1 +1,18 @@
-{"name":"gitbook-plugin-jazer","version":"1.0.57","depVersion":"^0.3.5","maintainers":[{"name":"crguezl","email":"casiano.rodriguez.leon@gmail.com"},{"name":"sokartema","email":"sokartema@gmail.com"}],"modified":"2016-06-20T01:47:52.543Z","released":"2016-06-20T01:47:52.543Z","downloadsLastWeek":18}
+{
+	"name": "gitbook-plugin-jazer",
+	"version": "1.0.57",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "crguezl",
+			"email": "casiano.rodriguez.leon@gmail.com"
+		},
+		{
+			"name": "sokartema",
+			"email": "sokartema@gmail.com"
+		}
+	],
+	"modified": "2016-06-20T01:47:52.543Z",
+	"released": "2016-06-20T01:47:52.543Z",
+	"downloadsLastWeek": 18
+}

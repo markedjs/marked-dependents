@@ -1,1 +1,14 @@
-{"name":"marlboro","version":"1.0.7","depVersion":"~0.2.8","maintainers":[{"name":"ibigbug","email":"xiaobayuwei@gmail.com"}],"modified":"2013-06-08T02:00:14.738Z","released":"2013-06-08T02:00:14.738Z","downloadsLastWeek":1}
+{
+	"name": "marlboro",
+	"version": "1.0.7",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "ibigbug",
+			"email": "xiaobayuwei@gmail.com"
+		}
+	],
+	"modified": "2013-06-08T02:00:14.738Z",
+	"released": "2013-06-08T02:00:14.738Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"sofajs","version":"0.0.11","depVersion":"^0.3.5","maintainers":[{"name":"zoe-1","email":"jswenson74@gmail.com"}],"modified":"2016-01-28T17:04:17.234Z","released":"2016-01-28T17:04:17.234Z","downloadsLastWeek":23}
+{
+	"name": "sofajs",
+	"version": "0.0.11",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "zoe-1",
+			"email": "jswenson74@gmail.com"
+		}
+	],
+	"modified": "2016-01-28T17:04:17.234Z",
+	"released": "2016-01-28T17:04:17.234Z",
+	"downloadsLastWeek": 23
+}

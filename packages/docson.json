@@ -1,1 +1,18 @@
-{"name":"docson","version":"1.0.2","depVersion":"^0.3.5","maintainers":[{"name":"lbovet","email":"laurent.bovet@windmaster.ch"},{"name":"rom1504","email":"romain.rom1@gmail.com"}],"modified":"2016-03-22T13:39:41.110Z","released":"2016-03-22T13:39:41.110Z","downloadsLastWeek":5}
+{
+	"name": "docson",
+	"version": "1.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "lbovet",
+			"email": "laurent.bovet@windmaster.ch"
+		},
+		{
+			"name": "rom1504",
+			"email": "romain.rom1@gmail.com"
+		}
+	],
+	"modified": "2016-03-22T13:39:41.110Z",
+	"released": "2016-03-22T13:39:41.110Z",
+	"downloadsLastWeek": 5
+}

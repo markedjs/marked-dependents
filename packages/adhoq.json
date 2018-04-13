@@ -1,1 +1,14 @@
-{"name":"adhoq","version":"0.4.8","depVersion":"~0.2.9","maintainers":[{"name":"jcw","email":"jc@wippler.nl"}],"modified":"2013-08-19T18:54:15.899Z","released":"2013-08-19T18:54:15.898Z","downloadsLastWeek":1}
+{
+	"name": "adhoq",
+	"version": "0.4.8",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "jcw",
+			"email": "jc@wippler.nl"
+		}
+	],
+	"modified": "2013-08-19T18:54:15.899Z",
+	"released": "2013-08-19T18:54:15.898Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"modhelp","version":"5.3.0","depVersion":"^0.3.2","maintainers":[{"name":"runvnc","email":"ithkuil@gmail.com"}],"modified":"2016-06-08T01:35:49.250Z","released":"2016-06-08T01:35:49.250Z","downloadsLastWeek":11}
+{
+	"name": "modhelp",
+	"version": "5.3.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "runvnc",
+			"email": "ithkuil@gmail.com"
+		}
+	],
+	"modified": "2016-06-08T01:35:49.250Z",
+	"released": "2016-06-08T01:35:49.250Z",
+	"downloadsLastWeek": 11
+}

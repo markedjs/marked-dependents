@@ -1,1 +1,14 @@
-{"name":"nodewiki","version":"0.1.2","depVersion":"0.2.x","maintainers":[{"name":"nafis","email":"nhoss2@gmail.com"}],"modified":"2013-07-23T04:23:09.607Z","released":"2013-02-19T12:27:31.836Z","downloadsLastWeek":2}
+{
+	"name": "nodewiki",
+	"version": "0.1.2",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "nafis",
+			"email": "nhoss2@gmail.com"
+		}
+	],
+	"modified": "2013-07-23T04:23:09.607Z",
+	"released": "2013-02-19T12:27:31.836Z",
+	"downloadsLastWeek": 2
+}

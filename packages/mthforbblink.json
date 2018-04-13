@@ -1,1 +1,14 @@
-{"name":"mthforbblink","version":"1.1.2","depVersion":"^0.3.2","maintainers":[{"name":"leezii","email":"932265970@qq.com"}],"modified":"2017-05-11T14:59:47.564Z","released":"2017-05-11T14:59:47.564Z","downloadsLastWeek":1}
+{
+	"name": "mthforbblink",
+	"version": "1.1.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "leezii",
+			"email": "932265970@qq.com"
+		}
+	],
+	"modified": "2017-05-11T14:59:47.564Z",
+	"released": "2017-05-11T14:59:47.564Z",
+	"downloadsLastWeek": 1
+}

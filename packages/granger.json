@@ -1,1 +1,14 @@
-{"name":"granger","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"kedw","email":"edwards.kyle.a@gmail.com"}],"modified":"2017-06-25T18:30:33.622Z","released":"2017-06-25T18:30:33.622Z","downloadsLastWeek":3}
+{
+	"name": "granger",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "kedw",
+			"email": "edwards.kyle.a@gmail.com"
+		}
+	],
+	"modified": "2017-06-25T18:30:33.622Z",
+	"released": "2017-06-25T18:30:33.622Z",
+	"downloadsLastWeek": 3
+}

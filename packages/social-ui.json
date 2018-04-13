@@ -1,1 +1,14 @@
-{"name":"social-ui","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"andylei18","email":"dl375074900@qq.com"}],"modified":"2016-09-05T07:44:11.428Z","released":"2016-09-05T07:44:11.428Z","downloadsLastWeek":4}
+{
+	"name": "social-ui",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "andylei18",
+			"email": "dl375074900@qq.com"
+		}
+	],
+	"modified": "2016-09-05T07:44:11.428Z",
+	"released": "2016-09-05T07:44:11.428Z",
+	"downloadsLastWeek": 4
+}

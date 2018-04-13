@@ -1,1 +1,14 @@
-{"name":"markdownloader","version":"1.0.6","depVersion":"^0.3.5","maintainers":[{"name":"simonguo","email":"simonguo.2009@gmail.com"}],"modified":"2017-10-03T14:38:51.358Z","released":"2017-10-03T14:38:51.358Z","downloadsLastWeek":4}
+{
+	"name": "markdownloader",
+	"version": "1.0.6",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "simonguo",
+			"email": "simonguo.2009@gmail.com"
+		}
+	],
+	"modified": "2017-10-03T14:38:51.358Z",
+	"released": "2017-10-03T14:38:51.358Z",
+	"downloadsLastWeek": 4
+}

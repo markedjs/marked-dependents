@@ -1,1 +1,14 @@
-{"name":"gitpub","version":"0.1.0","depVersion":"^0.3.3","maintainers":[{"name":"bret","email":"bcomnes@gmail.com"}],"modified":"2015-07-15T20:56:27.918Z","released":"2015-07-15T20:56:27.918Z","downloadsLastWeek":1}
+{
+	"name": "gitpub",
+	"version": "0.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "bret",
+			"email": "bcomnes@gmail.com"
+		}
+	],
+	"modified": "2015-07-15T20:56:27.918Z",
+	"released": "2015-07-15T20:56:27.918Z",
+	"downloadsLastWeek": 1
+}

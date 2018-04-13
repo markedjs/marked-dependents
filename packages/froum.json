@@ -1,1 +1,14 @@
-{"name":"froum","version":"0.0.3","depVersion":"^0.3.2","maintainers":[{"name":"brighthas","email":"brighthas@gmail.com"}],"modified":"2014-04-01T02:22:41.340Z","released":"2014-04-01T02:22:41.340Z","downloadsLastWeek":1}
+{
+	"name": "froum",
+	"version": "0.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "brighthas",
+			"email": "brighthas@gmail.com"
+		}
+	],
+	"modified": "2014-04-01T02:22:41.340Z",
+	"released": "2014-04-01T02:22:41.340Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"prokure_blueprint","version":"1.7.0","depVersion":"0.3.6","maintainers":[{"name":"prokure","email":"admin@prokure.it"}],"modified":"2017-02-02T11:37:28.461Z","released":"2017-02-02T11:37:28.461Z","downloadsLastWeek":1}
+{
+	"name": "prokure_blueprint",
+	"version": "1.7.0",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "prokure",
+			"email": "admin@prokure.it"
+		}
+	],
+	"modified": "2017-02-02T11:37:28.461Z",
+	"released": "2017-02-02T11:37:28.461Z",
+	"downloadsLastWeek": 1
+}

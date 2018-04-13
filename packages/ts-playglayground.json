@@ -1,1 +1,14 @@
-{"name":"ts-playglayground","version":"1.0.21","depVersion":"0.3.6","maintainers":[{"name":"suntoe","email":"suntoe@189.cn"}],"modified":"2017-07-13T13:01:07.701Z","released":"2017-07-13T13:01:07.701Z","downloadsLastWeek":41}
+{
+	"name": "ts-playglayground",
+	"version": "1.0.21",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "suntoe",
+			"email": "suntoe@189.cn"
+		}
+	],
+	"modified": "2017-07-13T13:01:07.701Z",
+	"released": "2017-07-13T13:01:07.701Z",
+	"downloadsLastWeek": 41
+}

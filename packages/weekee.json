@@ -1,1 +1,14 @@
-{"name":"weekee","version":"0.1.5","depVersion":"0.3.0","maintainers":[{"name":"dead_horse","email":"dead_horse@qq.com"}],"modified":"2014-01-20T09:50:35.509Z","released":"2014-01-20T09:50:35.509Z","downloadsLastWeek":29}
+{
+	"name": "weekee",
+	"version": "0.1.5",
+	"depVersion": "0.3.0",
+	"maintainers": [
+		{
+			"name": "dead_horse",
+			"email": "dead_horse@qq.com"
+		}
+	],
+	"modified": "2014-01-20T09:50:35.509Z",
+	"released": "2014-01-20T09:50:35.509Z",
+	"downloadsLastWeek": 29
+}

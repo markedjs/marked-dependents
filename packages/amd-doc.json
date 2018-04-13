@@ -1,1 +1,14 @@
-{"name":"amd-doc","version":"0.2.2","depVersion":"0.2.x","maintainers":[{"name":"zship","email":"zach@zachshipley.com"}],"modified":"2013-08-16T01:01:38.253Z","released":"2013-08-16T01:01:38.253Z","downloadsLastWeek":3}
+{
+	"name": "amd-doc",
+	"version": "0.2.2",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "zship",
+			"email": "zach@zachshipley.com"
+		}
+	],
+	"modified": "2013-08-16T01:01:38.253Z",
+	"released": "2013-08-16T01:01:38.253Z",
+	"downloadsLastWeek": 3
+}

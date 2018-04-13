@@ -1,1 +1,14 @@
-{"name":"servedown","version":"0.5.2","depVersion":"^0.3.6","maintainers":[{"name":"openhoat","email":"openhoat@gmail.com"}],"modified":"2017-03-23T08:57:13.090Z","released":"2017-03-23T08:57:13.090Z","downloadsLastWeek":87}
+{
+	"name": "servedown",
+	"version": "0.5.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "openhoat",
+			"email": "openhoat@gmail.com"
+		}
+	],
+	"modified": "2017-03-23T08:57:13.090Z",
+	"released": "2017-03-23T08:57:13.090Z",
+	"downloadsLastWeek": 87
+}

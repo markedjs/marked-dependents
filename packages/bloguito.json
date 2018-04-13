@@ -1,1 +1,14 @@
-{"name":"bloguito","version":"0.3.1","depVersion":"~0.2.10","maintainers":[{"name":"luizsoarez","email":"luizsoarez@outlook.com"}],"modified":"2013-11-16T10:34:55.776Z","released":"2013-11-16T10:34:55.776Z","downloadsLastWeek":1}
+{
+	"name": "bloguito",
+	"version": "0.3.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "luizsoarez",
+			"email": "luizsoarez@outlook.com"
+		}
+	],
+	"modified": "2013-11-16T10:34:55.776Z",
+	"released": "2013-11-16T10:34:55.776Z",
+	"downloadsLastWeek": 1
+}

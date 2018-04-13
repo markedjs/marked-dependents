@@ -1,1 +1,14 @@
-{"name":"zeeliu","version":"1.0.0","depVersion":"^0.3.9","maintainers":[{"name":"zeeliu","email":"864885084@qq.com"}],"modified":"2018-01-08T04:50:18.529Z","released":"2018-01-08T04:50:18.529Z","downloadsLastWeek":4}
+{
+	"name": "zeeliu",
+	"version": "1.0.0",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "zeeliu",
+			"email": "864885084@qq.com"
+		}
+	],
+	"modified": "2018-01-08T04:50:18.529Z",
+	"released": "2018-01-08T04:50:18.529Z",
+	"downloadsLastWeek": 4
+}

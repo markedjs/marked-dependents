@@ -1,1 +1,14 @@
-{"name":"filedoc","version":"2.0.1","depVersion":"0.2.x","maintainers":[{"name":"shenxiaoy","email":"altersxy@126.com"}],"modified":"2018-03-07T08:18:16.960Z","released":"2018-03-07T08:18:16.743Z","downloadsLastWeek":1}
+{
+	"name": "filedoc",
+	"version": "2.0.1",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "shenxiaoy",
+			"email": "altersxy@126.com"
+		}
+	],
+	"modified": "2018-03-07T08:18:16.960Z",
+	"released": "2018-03-07T08:18:16.743Z",
+	"downloadsLastWeek": 1
+}

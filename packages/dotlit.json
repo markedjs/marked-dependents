@@ -1,1 +1,18 @@
-{"name":"dotlit","version":"0.2.4","depVersion":"~0.2.8","maintainers":[{"name":"dougmartin","email":"doug@zoopdoop.com"},{"name":"zoopdoop","email":"doug@zoopdoop.com"}],"modified":"2013-04-22T18:36:58.128Z","released":"2013-04-22T18:36:58.128Z","downloadsLastWeek":2}
+{
+	"name": "dotlit",
+	"version": "0.2.4",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "dougmartin",
+			"email": "doug@zoopdoop.com"
+		},
+		{
+			"name": "zoopdoop",
+			"email": "doug@zoopdoop.com"
+		}
+	],
+	"modified": "2013-04-22T18:36:58.128Z",
+	"released": "2013-04-22T18:36:58.128Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"metamagical-repl","version":"0.3.0","depVersion":"^0.3.5","maintainers":[{"name":"robotlolita","email":"quildreen@gmail.com"}],"modified":"2016-07-09T02:49:20.079Z","released":"2016-07-09T02:49:20.079Z","downloadsLastWeek":2}
+{
+	"name": "metamagical-repl",
+	"version": "0.3.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "robotlolita",
+			"email": "quildreen@gmail.com"
+		}
+	],
+	"modified": "2016-07-09T02:49:20.079Z",
+	"released": "2016-07-09T02:49:20.079Z",
+	"downloadsLastWeek": 2
+}

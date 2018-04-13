@@ -1,1 +1,14 @@
-{"name":"gulp-markdown-property","version":"0.0.0","depVersion":"^0.3.6","maintainers":[{"name":"dmoonfire","email":"d.moonfire@mfgames.com"}],"modified":"2018-01-01T15:45:55.938Z","released":"2018-01-01T15:45:55.938Z","downloadsLastWeek":40}
+{
+	"name": "gulp-markdown-property",
+	"version": "0.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "dmoonfire",
+			"email": "d.moonfire@mfgames.com"
+		}
+	],
+	"modified": "2018-01-01T15:45:55.938Z",
+	"released": "2018-01-01T15:45:55.938Z",
+	"downloadsLastWeek": 40
+}

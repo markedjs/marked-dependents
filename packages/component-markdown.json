@@ -1,1 +1,14 @@
-{"name":"component-markdown","version":"0.1.1","depVersion":"*","maintainers":[{"email":"tools@segment.com","name":"segmentio"}],"modified":"2017-05-22T18:58:35.079Z","released":"2013-07-16T23:36:55.437Z","downloadsLastWeek":2}
+{
+	"name": "component-markdown",
+	"version": "0.1.1",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"email": "tools@segment.com",
+			"name": "segmentio"
+		}
+	],
+	"modified": "2017-05-22T18:58:35.079Z",
+	"released": "2013-07-16T23:36:55.437Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,18 @@
-{"name":"switchit","version":"1.0.8","depVersion":"^0.3.6","maintainers":[{"name":"dongryphon","email":"don@thegriffins.org"},{"name":"israelroldan","email":"israel@palu.io"}],"modified":"2017-08-08T21:11:59.415Z","released":"2017-08-08T21:11:59.415Z","downloadsLastWeek":40}
+{
+	"name": "switchit",
+	"version": "1.0.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "dongryphon",
+			"email": "don@thegriffins.org"
+		},
+		{
+			"name": "israelroldan",
+			"email": "israel@palu.io"
+		}
+	],
+	"modified": "2017-08-08T21:11:59.415Z",
+	"released": "2017-08-08T21:11:59.415Z",
+	"downloadsLastWeek": 40
+}

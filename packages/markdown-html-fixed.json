@@ -1,1 +1,14 @@
-{"name":"markdown-html-fixed","version":"0.1.0","depVersion":"0.3.x","maintainers":[{"name":"belphemur","email":"antoineaf+npm@admincmd.com"}],"modified":"2016-05-20T20:19:27.194Z","released":"2016-05-20T20:19:27.194Z","downloadsLastWeek":1}
+{
+	"name": "markdown-html-fixed",
+	"version": "0.1.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "belphemur",
+			"email": "antoineaf+npm@admincmd.com"
+		}
+	],
+	"modified": "2016-05-20T20:19:27.194Z",
+	"released": "2016-05-20T20:19:27.194Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"mdwiki","version":"0.1.1","depVersion":"~0.2.8","maintainers":[{"name":"eruizdechavez","email":"eruizdechavez@fastmail.com"}],"modified":"2016-12-19T22:46:46.074Z","released":"2013-05-24T20:39:51.030Z","downloadsLastWeek":1}
+{
+	"name": "mdwiki",
+	"version": "0.1.1",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "eruizdechavez",
+			"email": "eruizdechavez@fastmail.com"
+		}
+	],
+	"modified": "2016-12-19T22:46:46.074Z",
+	"released": "2013-05-24T20:39:51.030Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"buenos-changelog","version":"0.4.3","depVersion":"^0.3.6","maintainers":[{"name":"buenos","email":"buenos@buenosnodejs.com"}],"modified":"2018-03-26T11:51:54.052Z","released":"2018-03-26T11:51:53.876Z","downloadsLastWeek":47}
+{
+	"name": "buenos-changelog",
+	"version": "0.4.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "buenos",
+			"email": "buenos@buenosnodejs.com"
+		}
+	],
+	"modified": "2018-03-26T11:51:54.052Z",
+	"released": "2018-03-26T11:51:53.876Z",
+	"downloadsLastWeek": 47
+}

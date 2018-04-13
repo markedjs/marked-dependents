@@ -1,1 +1,14 @@
-{"name":"phd","version":"1.0.10","depVersion":"^0.3.6","maintainers":[{"name":"intercellular","email":"cell.js.org@gmail.com"}],"modified":"2017-09-11T18:18:22.880Z","released":"2017-09-11T18:18:22.880Z","downloadsLastWeek":2}
+{
+	"name": "phd",
+	"version": "1.0.10",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "intercellular",
+			"email": "cell.js.org@gmail.com"
+		}
+	],
+	"modified": "2017-09-11T18:18:22.880Z",
+	"released": "2017-09-11T18:18:22.880Z",
+	"downloadsLastWeek": 2
+}

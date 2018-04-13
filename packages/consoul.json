@@ -1,1 +1,14 @@
-{"name":"consoul","version":"0.0.4","depVersion":"~0.3.2","maintainers":[{"name":"pifantastic","email":"aaron.forsander@gmail.com"}],"modified":"2015-01-28T02:29:44.769Z","released":"2015-01-28T02:29:44.769Z","downloadsLastWeek":3}
+{
+	"name": "consoul",
+	"version": "0.0.4",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "pifantastic",
+			"email": "aaron.forsander@gmail.com"
+		}
+	],
+	"modified": "2015-01-28T02:29:44.769Z",
+	"released": "2015-01-28T02:29:44.769Z",
+	"downloadsLastWeek": 3
+}

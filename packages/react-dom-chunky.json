@@ -1,1 +1,14 @@
-{"name":"react-dom-chunky","version":"0.9.73","depVersion":"^0.3.6","maintainers":[{"name":"idancali","email":"idancalinescu@gmail.com"}],"modified":"2018-04-05T13:50:29.610Z","released":"2018-04-05T13:50:29.138Z","downloadsLastWeek":460}
+{
+	"name": "react-dom-chunky",
+	"version": "0.9.73",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "idancali",
+			"email": "idancalinescu@gmail.com"
+		}
+	],
+	"modified": "2018-04-05T13:50:29.610Z",
+	"released": "2018-04-05T13:50:29.138Z",
+	"downloadsLastWeek": 460
+}

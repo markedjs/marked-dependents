@@ -1,1 +1,14 @@
-{"name":"node-md-doc","version":"0.1.3","depVersion":"0.2.x","maintainers":[{"name":"radish","email":"xf.radish@gmail.com"}],"modified":"2016-11-01T05:48:04.789Z","released":"2016-11-01T05:48:04.789Z","downloadsLastWeek":1}
+{
+	"name": "node-md-doc",
+	"version": "0.1.3",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "radish",
+			"email": "xf.radish@gmail.com"
+		}
+	],
+	"modified": "2016-11-01T05:48:04.789Z",
+	"released": "2016-11-01T05:48:04.789Z",
+	"downloadsLastWeek": 1
+}

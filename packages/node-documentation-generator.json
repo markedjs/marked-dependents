@@ -1,1 +1,14 @@
-{"name":"node-documentation-generator","version":"0.0.0","depVersion":"~0.1.9","maintainers":[{"name":"robertkowalski","email":"rok@kowalski.gd"}],"modified":"2015-01-20T22:07:59.128Z","released":"2015-01-20T22:07:59.128Z","downloadsLastWeek":2}
+{
+	"name": "node-documentation-generator",
+	"version": "0.0.0",
+	"depVersion": "~0.1.9",
+	"maintainers": [
+		{
+			"name": "robertkowalski",
+			"email": "rok@kowalski.gd"
+		}
+	],
+	"modified": "2015-01-20T22:07:59.128Z",
+	"released": "2015-01-20T22:07:59.128Z",
+	"downloadsLastWeek": 2
+}

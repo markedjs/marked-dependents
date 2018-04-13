@@ -1,1 +1,14 @@
-{"name":"markdown2slides","version":"0.1.2","depVersion":"0.2.9","maintainers":[{"name":"zeke","email":"zeke@sikelianos.com"}],"modified":"2014-01-17T18:27:09.118Z","released":"2014-01-17T18:27:09.118Z","downloadsLastWeek":2}
+{
+	"name": "markdown2slides",
+	"version": "0.1.2",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "zeke",
+			"email": "zeke@sikelianos.com"
+		}
+	],
+	"modified": "2014-01-17T18:27:09.118Z",
+	"released": "2014-01-17T18:27:09.118Z",
+	"downloadsLastWeek": 2
+}

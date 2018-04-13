@@ -1,1 +1,14 @@
-{"name":"ember-cli-kss","version":"0.1.2","depVersion":"^0.3.2","maintainers":[{"name":"nkgm","email":"nkgm.realm@gmail.com"}],"modified":"2014-12-02T15:16:22.625Z","released":"2014-12-02T15:16:22.625Z","downloadsLastWeek":1}
+{
+	"name": "ember-cli-kss",
+	"version": "0.1.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "nkgm",
+			"email": "nkgm.realm@gmail.com"
+		}
+	],
+	"modified": "2014-12-02T15:16:22.625Z",
+	"released": "2014-12-02T15:16:22.625Z",
+	"downloadsLastWeek": 1
+}

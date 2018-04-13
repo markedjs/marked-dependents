@@ -1,1 +1,14 @@
-{"name":"umd-builder","version":"2.16.1","depVersion":"^0.3.12","maintainers":[{"name":"smbape","email":"rose.martin-8og3raxw@yopmail.com"}],"modified":"2018-02-26T20:22:43.388Z","released":"2018-02-26T20:22:42.600Z","downloadsLastWeek":109}
+{
+	"name": "umd-builder",
+	"version": "2.16.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "smbape",
+			"email": "rose.martin-8og3raxw@yopmail.com"
+		}
+	],
+	"modified": "2018-02-26T20:22:43.388Z",
+	"released": "2018-02-26T20:22:42.600Z",
+	"downloadsLastWeek": 109
+}

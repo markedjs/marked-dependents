@@ -1,1 +1,14 @@
-{"name":"aibin-demo0","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"aibin","email":"hungeraibin@gmail.com"}],"modified":"2017-08-28T06:47:53.295Z","released":"2017-08-28T06:47:53.295Z","downloadsLastWeek":2}
+{
+	"name": "aibin-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "aibin",
+			"email": "hungeraibin@gmail.com"
+		}
+	],
+	"modified": "2017-08-28T06:47:53.295Z",
+	"released": "2017-08-28T06:47:53.295Z",
+	"downloadsLastWeek": 2
+}

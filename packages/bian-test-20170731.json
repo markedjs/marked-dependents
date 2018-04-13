@@ -1,1 +1,14 @@
-{"name":"bian-test-20170731","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"bian2017","email":"bgl_cumt_zju@163.com"}],"modified":"2017-07-31T07:09:44.695Z","released":"2017-07-31T07:09:44.695Z","downloadsLastWeek":2}
+{
+	"name": "bian-test-20170731",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bian2017",
+			"email": "bgl_cumt_zju@163.com"
+		}
+	],
+	"modified": "2017-07-31T07:09:44.695Z",
+	"released": "2017-07-31T07:09:44.695Z",
+	"downloadsLastWeek": 2
+}

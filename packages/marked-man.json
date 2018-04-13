@@ -1,1 +1,14 @@
-{"name":"marked-man","version":"0.2.1","depVersion":"^0.3.2","maintainers":[{"name":"kapouer","email":"kapouer@melix.org"}],"modified":"2017-03-31T22:45:18.673Z","released":"2017-03-31T22:45:18.673Z","downloadsLastWeek":1469}
+{
+	"name": "marked-man",
+	"version": "0.2.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "kapouer",
+			"email": "kapouer@melix.org"
+		}
+	],
+	"modified": "2017-03-31T22:45:18.673Z",
+	"released": "2017-03-31T22:45:18.673Z",
+	"downloadsLastWeek": 1469
+}

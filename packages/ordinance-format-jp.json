@@ -1,1 +1,14 @@
-{"name":"ordinance-format-jp","version":"1.0.2","depVersion":"^0.3.6","maintainers":[{"email":"cureapp.dev@gmail.com","name":"cureapp-admin"}],"modified":"2018-03-20T02:22:38.379Z","released":"2017-08-30T14:43:52.146Z","downloadsLastWeek":2}
+{
+	"name": "ordinance-format-jp",
+	"version": "1.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "cureapp.dev@gmail.com",
+			"name": "cureapp-admin"
+		}
+	],
+	"modified": "2018-03-20T02:22:38.379Z",
+	"released": "2017-08-30T14:43:52.146Z",
+	"downloadsLastWeek": 2
+}

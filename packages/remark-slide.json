@@ -1,1 +1,14 @@
-{"name":"remark-slide","version":"0.14.0","depVersion":"0.3.1","maintainers":[{"name":"hirokiky","email":"hirokiky@gmail.com"}],"modified":"2017-07-04T16:07:53.490Z","released":"2017-06-25T00:05:37.918Z","downloadsLastWeek":5}
+{
+	"name": "remark-slide",
+	"version": "0.14.0",
+	"depVersion": "0.3.1",
+	"maintainers": [
+		{
+			"name": "hirokiky",
+			"email": "hirokiky@gmail.com"
+		}
+	],
+	"modified": "2017-07-04T16:07:53.490Z",
+	"released": "2017-06-25T00:05:37.918Z",
+	"downloadsLastWeek": 5
+}

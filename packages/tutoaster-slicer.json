@@ -1,1 +1,14 @@
-{"name":"tutoaster-slicer","version":"0.1.2","depVersion":"^0.3.5","maintainers":[{"name":"channikhabra","email":"ckhabra@gmail.com"}],"modified":"2016-01-03T09:07:26.633Z","released":"2016-01-03T09:07:26.633Z","downloadsLastWeek":9}
+{
+	"name": "tutoaster-slicer",
+	"version": "0.1.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "channikhabra",
+			"email": "ckhabra@gmail.com"
+		}
+	],
+	"modified": "2016-01-03T09:07:26.633Z",
+	"released": "2016-01-03T09:07:26.633Z",
+	"downloadsLastWeek": 9
+}

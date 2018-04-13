@@ -1,1 +1,22 @@
-{"name":"freeze","version":"0.2.2-beta","depVersion":"^0.3.2","maintainers":[{"email":"austin.kell47@gmail.com","name":"austinkelleher"},{"email":"pierceydylan@gmail.com","name":"dylanpiercey"},{"email":"pnidem@gmail.com","name":"pnidem"}],"modified":"2017-11-09T21:09:10.218Z","released":"2014-05-01T04:16:04.668Z","downloadsLastWeek":2}
+{
+	"name": "freeze",
+	"version": "0.2.2-beta",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"email": "austin.kell47@gmail.com",
+			"name": "austinkelleher"
+		},
+		{
+			"email": "pierceydylan@gmail.com",
+			"name": "dylanpiercey"
+		},
+		{
+			"email": "pnidem@gmail.com",
+			"name": "pnidem"
+		}
+	],
+	"modified": "2017-11-09T21:09:10.218Z",
+	"released": "2014-05-01T04:16:04.668Z",
+	"downloadsLastWeek": 2
+}

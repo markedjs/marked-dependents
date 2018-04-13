@@ -1,1 +1,14 @@
-{"name":"sshkeyd","version":"0.0.8","depVersion":"0.2.10","maintainers":[{"name":"layerssss","email":"layerssss@gmail.com"}],"modified":"2013-12-25T19:22:52.197Z","released":"2013-12-25T19:22:52.197Z","downloadsLastWeek":17}
+{
+	"name": "sshkeyd",
+	"version": "0.0.8",
+	"depVersion": "0.2.10",
+	"maintainers": [
+		{
+			"name": "layerssss",
+			"email": "layerssss@gmail.com"
+		}
+	],
+	"modified": "2013-12-25T19:22:52.197Z",
+	"released": "2013-12-25T19:22:52.197Z",
+	"downloadsLastWeek": 17
+}

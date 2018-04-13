@@ -1,1 +1,14 @@
-{"name":"scanmd","version":"1.0.8","depVersion":"^0.3.6","maintainers":[{"name":"zhuyali","email":"495162889@qq.com"}],"modified":"2017-08-30T02:52:57.293Z","released":"2017-08-30T02:52:57.293Z","downloadsLastWeek":19}
+{
+	"name": "scanmd",
+	"version": "1.0.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "zhuyali",
+			"email": "495162889@qq.com"
+		}
+	],
+	"modified": "2017-08-30T02:52:57.293Z",
+	"released": "2017-08-30T02:52:57.293Z",
+	"downloadsLastWeek": 19
+}

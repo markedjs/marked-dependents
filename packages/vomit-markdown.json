@@ -1,1 +1,14 @@
-{"name":"vomit-markdown","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"bredele","email":"olivier.wietrich@gmail.com"}],"modified":"2016-09-25T19:14:21.014Z","released":"2016-09-25T19:14:21.014Z","downloadsLastWeek":5}
+{
+	"name": "vomit-markdown",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bredele",
+			"email": "olivier.wietrich@gmail.com"
+		}
+	],
+	"modified": "2016-09-25T19:14:21.014Z",
+	"released": "2016-09-25T19:14:21.014Z",
+	"downloadsLastWeek": 5
+}

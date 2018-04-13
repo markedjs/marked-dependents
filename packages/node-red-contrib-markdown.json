@@ -1,1 +1,14 @@
-{"name":"node-red-contrib-markdown","version":"0.0.4","depVersion":"0.3.5","maintainers":[{"name":"orriols","email":"dev@arnauorriols.com"}],"modified":"2016-02-08T00:25:51.134Z","released":"2016-02-08T00:25:51.134Z","downloadsLastWeek":21}
+{
+	"name": "node-red-contrib-markdown",
+	"version": "0.0.4",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "orriols",
+			"email": "dev@arnauorriols.com"
+		}
+	],
+	"modified": "2016-02-08T00:25:51.134Z",
+	"released": "2016-02-08T00:25:51.134Z",
+	"downloadsLastWeek": 21
+}

@@ -1,1 +1,14 @@
-{"name":"kuolun","version":"1.0.8","depVersion":"^0.3.6","maintainers":[{"name":"numerhero","email":"469564715@qq.com"}],"modified":"2017-04-06T04:08:41.517Z","released":"2017-04-06T04:08:41.517Z","downloadsLastWeek":1}
+{
+	"name": "kuolun",
+	"version": "1.0.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "numerhero",
+			"email": "469564715@qq.com"
+		}
+	],
+	"modified": "2017-04-06T04:08:41.517Z",
+	"released": "2017-04-06T04:08:41.517Z",
+	"downloadsLastWeek": 1
+}

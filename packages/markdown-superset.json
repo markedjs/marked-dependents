@@ -1,1 +1,14 @@
-{"name":"markdown-superset","version":"1.0.7","depVersion":"^0.3.5","maintainers":[{"name":"angrypowman","email":"138001655@qq.com"}],"modified":"2016-08-20T17:01:53.990Z","released":"2016-08-20T17:01:53.990Z","downloadsLastWeek":1}
+{
+	"name": "markdown-superset",
+	"version": "1.0.7",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "angrypowman",
+			"email": "138001655@qq.com"
+		}
+	],
+	"modified": "2016-08-20T17:01:53.990Z",
+	"released": "2016-08-20T17:01:53.990Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"reem-markdown","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"andrejewski","email":"chrisishereladies@gmail.com"}],"modified":"2014-07-31T12:28:58.440Z","released":"2014-07-31T12:28:58.440Z","downloadsLastWeek":6}
+{
+	"name": "reem-markdown",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "andrejewski",
+			"email": "chrisishereladies@gmail.com"
+		}
+	],
+	"modified": "2014-07-31T12:28:58.440Z",
+	"released": "2014-07-31T12:28:58.440Z",
+	"downloadsLastWeek": 6
+}

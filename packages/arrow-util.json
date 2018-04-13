@@ -1,1 +1,18 @@
-{"name":"arrow-util","version":"0.1.7","depVersion":"^0.3.5","maintainers":[{"name":"appcelerator","email":"npmjs@appcelerator.com"},{"name":"cb1kenobi","email":"chris@cb1inc.com"}],"modified":"2017-03-20T22:28:10.944Z","released":"2017-02-02T17:39:05.660Z","downloadsLastWeek":5}
+{
+	"name": "arrow-util",
+	"version": "0.1.7",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "appcelerator",
+			"email": "npmjs@appcelerator.com"
+		},
+		{
+			"name": "cb1kenobi",
+			"email": "chris@cb1inc.com"
+		}
+	],
+	"modified": "2017-03-20T22:28:10.944Z",
+	"released": "2017-02-02T17:39:05.660Z",
+	"downloadsLastWeek": 5
+}

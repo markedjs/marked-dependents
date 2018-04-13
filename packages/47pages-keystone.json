@@ -1,1 +1,14 @@
-{"name":"47pages-keystone","version":"0.0.5","depVersion":"~0.3.2","maintainers":[{"name":"matt.dahl","email":"matt.dahl.2013@gmail.com"}],"modified":"2014-10-16T06:47:30.914Z","released":"2014-10-16T06:47:30.914Z","downloadsLastWeek":1}
+{
+	"name": "47pages-keystone",
+	"version": "0.0.5",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "matt.dahl",
+			"email": "matt.dahl.2013@gmail.com"
+		}
+	],
+	"modified": "2014-10-16T06:47:30.914Z",
+	"released": "2014-10-16T06:47:30.914Z",
+	"downloadsLastWeek": 1
+}

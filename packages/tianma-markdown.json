@@ -1,1 +1,14 @@
-{"name":"tianma-markdown","version":"1.0.0-b5","depVersion":"~0.3.3","maintainers":[{"name":"nqdeng","email":"nqdeng@gmail.com"}],"modified":"2015-10-26T03:34:45.137Z","released":"2015-10-26T03:34:45.137Z","downloadsLastWeek":13}
+{
+	"name": "tianma-markdown",
+	"version": "1.0.0-b5",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "nqdeng",
+			"email": "nqdeng@gmail.com"
+		}
+	],
+	"modified": "2015-10-26T03:34:45.137Z",
+	"released": "2015-10-26T03:34:45.137Z",
+	"downloadsLastWeek": 13
+}

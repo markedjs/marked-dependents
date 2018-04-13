@@ -1,1 +1,14 @@
-{"name":"markdown-toc-x","version":"0.1.5","depVersion":"^0.3.6","maintainers":[{"name":"m31271n","email":"m31271n@gmail.com"}],"modified":"2016-11-10T07:15:36.533Z","released":"2016-11-10T07:15:36.533Z","downloadsLastWeek":1}
+{
+	"name": "markdown-toc-x",
+	"version": "0.1.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "m31271n",
+			"email": "m31271n@gmail.com"
+		}
+	],
+	"modified": "2016-11-10T07:15:36.533Z",
+	"released": "2016-11-10T07:15:36.533Z",
+	"downloadsLastWeek": 1
+}

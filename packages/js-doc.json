@@ -1,1 +1,14 @@
-{"name":"js-doc","version":"0.5.0","depVersion":">=0.3.5","maintainers":[{"name":"inori","email":"inoriy.sh@gmail.com"}],"modified":"2016-11-28T14:03:51.410Z","released":"2016-11-28T14:03:51.410Z","downloadsLastWeek":14}
+{
+	"name": "js-doc",
+	"version": "0.5.0",
+	"depVersion": ">=0.3.5",
+	"maintainers": [
+		{
+			"name": "inori",
+			"email": "inoriy.sh@gmail.com"
+		}
+	],
+	"modified": "2016-11-28T14:03:51.410Z",
+	"released": "2016-11-28T14:03:51.410Z",
+	"downloadsLastWeek": 14
+}

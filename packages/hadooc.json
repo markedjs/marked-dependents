@@ -1,1 +1,14 @@
-{"name":"hadooc","version":"2.1.3","depVersion":"^0.3.5","maintainers":[{"name":"trouve.antoine","email":"trouve.antoine@gmail.com"}],"modified":"2016-12-07T07:45:54.771Z","released":"2016-12-07T07:45:54.771Z","downloadsLastWeek":1}
+{
+	"name": "hadooc",
+	"version": "2.1.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "trouve.antoine",
+			"email": "trouve.antoine@gmail.com"
+		}
+	],
+	"modified": "2016-12-07T07:45:54.771Z",
+	"released": "2016-12-07T07:45:54.771Z",
+	"downloadsLastWeek": 1
+}

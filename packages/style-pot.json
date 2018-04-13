@@ -1,1 +1,22 @@
-{"name":"style-pot","version":"0.0.22","depVersion":"0.3.6","maintainers":[{"name":"mixi-inc","email":"yuki.kokubun+npm-mixi-inc@mixi.co.jp"},{"name":"mozisan","email":"warotasan@icloud.com"},{"name":"orgachem","email":"orga.chem.job@gmail.com"}],"modified":"2016-11-25T02:52:59.245Z","released":"2016-11-16T07:47:01.067Z","downloadsLastWeek":54}
+{
+	"name": "style-pot",
+	"version": "0.0.22",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "mixi-inc",
+			"email": "yuki.kokubun+npm-mixi-inc@mixi.co.jp"
+		},
+		{
+			"name": "mozisan",
+			"email": "warotasan@icloud.com"
+		},
+		{
+			"name": "orgachem",
+			"email": "orga.chem.job@gmail.com"
+		}
+	],
+	"modified": "2016-11-25T02:52:59.245Z",
+	"released": "2016-11-16T07:47:01.067Z",
+	"downloadsLastWeek": 54
+}

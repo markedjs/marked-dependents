@@ -1,1 +1,14 @@
-{"name":"microservice-bootstrap","version":"1.0.8","depVersion":"^0.3.6","maintainers":[{"name":"coreorm","email":"coreorm@gmail.com"}],"modified":"2016-08-23T10:59:09.470Z","released":"2016-08-23T10:59:09.470Z","downloadsLastWeek":2}
+{
+	"name": "microservice-bootstrap",
+	"version": "1.0.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "coreorm",
+			"email": "coreorm@gmail.com"
+		}
+	],
+	"modified": "2016-08-23T10:59:09.470Z",
+	"released": "2016-08-23T10:59:09.470Z",
+	"downloadsLastWeek": 2
+}

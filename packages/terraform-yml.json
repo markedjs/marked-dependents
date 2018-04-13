@@ -1,1 +1,14 @@
-{"name":"terraform-yml","version":"1.0.10","depVersion":"^0.3.6","maintainers":[{"name":"devrim","email":"devrim@koding.com"}],"modified":"2016-10-29T02:11:52.234Z","released":"2016-10-29T02:11:52.234Z","downloadsLastWeek":9}
+{
+	"name": "terraform-yml",
+	"version": "1.0.10",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "devrim",
+			"email": "devrim@koding.com"
+		}
+	],
+	"modified": "2016-10-29T02:11:52.234Z",
+	"released": "2016-10-29T02:11:52.234Z",
+	"downloadsLastWeek": 9
+}

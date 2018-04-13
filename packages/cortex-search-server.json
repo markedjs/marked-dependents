@@ -1,1 +1,18 @@
-{"name":"cortex-search-server","version":"0.0.2","depVersion":"^0.2.10","maintainers":[{"email":"jky239@gmail.com","name":"villadora"},{"email":"i@kael.me","name":"kael"}],"modified":"2017-05-22T14:51:39.403Z","released":"2014-05-17T12:37:19.017Z","downloadsLastWeek":1}
+{
+	"name": "cortex-search-server",
+	"version": "0.0.2",
+	"depVersion": "^0.2.10",
+	"maintainers": [
+		{
+			"email": "jky239@gmail.com",
+			"name": "villadora"
+		},
+		{
+			"email": "i@kael.me",
+			"name": "kael"
+		}
+	],
+	"modified": "2017-05-22T14:51:39.403Z",
+	"released": "2014-05-17T12:37:19.017Z",
+	"downloadsLastWeek": 1
+}

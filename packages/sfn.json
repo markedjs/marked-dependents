@@ -1,1 +1,14 @@
-{"name":"sfn","version":"0.1.2","depVersion":"^0.3.7","maintainers":[{"name":"hyurl","email":"i@hyurl.com"}],"modified":"2018-04-01T03:03:08.410Z","released":"2018-04-01T03:03:07.369Z","downloadsLastWeek":12}
+{
+	"name": "sfn",
+	"version": "0.1.2",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "hyurl",
+			"email": "i@hyurl.com"
+		}
+	],
+	"modified": "2018-04-01T03:03:08.410Z",
+	"released": "2018-04-01T03:03:07.369Z",
+	"downloadsLastWeek": 12
+}

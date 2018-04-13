@@ -1,1 +1,14 @@
-{"name":"tryitout","version":"2.0.7","depVersion":"^0.3.7","maintainers":[{"name":"gabrielcsapo","email":"gabecsapo@gmail.com"}],"modified":"2018-01-13T07:09:16.349Z","released":"2018-01-13T07:09:16.349Z","downloadsLastWeek":129}
+{
+	"name": "tryitout",
+	"version": "2.0.7",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "gabrielcsapo",
+			"email": "gabecsapo@gmail.com"
+		}
+	],
+	"modified": "2018-01-13T07:09:16.349Z",
+	"released": "2018-01-13T07:09:16.349Z",
+	"downloadsLastWeek": 129
+}

@@ -1,1 +1,14 @@
-{"name":"aop-cli","version":"0.0.6","depVersion":"^0.3.17","maintainers":[{"name":"natumsol","email":"natumsol@qq.com"}],"modified":"2018-04-03T08:23:55.325Z","released":"2018-04-03T08:23:54.989Z","downloadsLastWeek":9}
+{
+	"name": "aop-cli",
+	"version": "0.0.6",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "natumsol",
+			"email": "natumsol@qq.com"
+		}
+	],
+	"modified": "2018-04-03T08:23:55.325Z",
+	"released": "2018-04-03T08:23:54.989Z",
+	"downloadsLastWeek": 9
+}

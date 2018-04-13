@@ -1,1 +1,14 @@
-{"name":"matman","version":"1.5.0","depVersion":"^0.3.19","maintainers":[{"name":"helinjiang","email":"me@helinjiang.com"}],"modified":"2018-04-12T05:52:06.656Z","released":"2018-04-12T05:52:05.968Z","downloadsLastWeek":74}
+{
+	"name": "matman",
+	"version": "1.5.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "helinjiang",
+			"email": "me@helinjiang.com"
+		}
+	],
+	"modified": "2018-04-12T05:52:06.656Z",
+	"released": "2018-04-12T05:52:05.968Z",
+	"downloadsLastWeek": 74
+}

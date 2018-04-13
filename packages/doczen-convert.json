@@ -1,1 +1,18 @@
-{"name":"doczen-convert","version":"0.0.6","depVersion":"0.3.2","maintainers":[{"name":"runningskull","email":"jr@juanpatten.com"},{"name":"yanatan16","email":"jon.m.eisen@gmail.com"}],"modified":"2014-07-22T23:13:19.542Z","released":"2014-07-22T23:13:19.542Z","downloadsLastWeek":2}
+{
+	"name": "doczen-convert",
+	"version": "0.0.6",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "runningskull",
+			"email": "jr@juanpatten.com"
+		},
+		{
+			"name": "yanatan16",
+			"email": "jon.m.eisen@gmail.com"
+		}
+	],
+	"modified": "2014-07-22T23:13:19.542Z",
+	"released": "2014-07-22T23:13:19.542Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"react-scenes","version":"1.0.9","depVersion":"^0.3.17","maintainers":[{"name":"berkaey","email":"berkay@doub.co"}],"modified":"2018-04-12T07:39:01.573Z","released":"2018-04-12T07:38:59.968Z","downloadsLastWeek":302}
+{
+	"name": "react-scenes",
+	"version": "1.0.9",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "berkaey",
+			"email": "berkay@doub.co"
+		}
+	],
+	"modified": "2018-04-12T07:39:01.573Z",
+	"released": "2018-04-12T07:38:59.968Z",
+	"downloadsLastWeek": 302
+}

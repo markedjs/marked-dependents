@@ -1,1 +1,14 @@
-{"name":"literatify","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"name":"hughsk","email":"hughskennedy@gmail.com"}],"modified":"2017-11-16T10:50:04.890Z","released":"2014-11-02T09:03:19.997Z","downloadsLastWeek":1}
+{
+	"name": "literatify",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "hughsk",
+			"email": "hughskennedy@gmail.com"
+		}
+	],
+	"modified": "2017-11-16T10:50:04.890Z",
+	"released": "2014-11-02T09:03:19.997Z",
+	"downloadsLastWeek": 1
+}

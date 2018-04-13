@@ -1,1 +1,14 @@
-{"name":"gifsockets-server","version":"0.38.1","depVersion":"~0.2.10","maintainers":[{"name":"twolfson","email":"todd@twolfson.com"}],"modified":"2014-10-07T05:40:37.549Z","released":"2014-10-07T05:40:37.549Z","downloadsLastWeek":1}
+{
+	"name": "gifsockets-server",
+	"version": "0.38.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "twolfson",
+			"email": "todd@twolfson.com"
+		}
+	],
+	"modified": "2014-10-07T05:40:37.549Z",
+	"released": "2014-10-07T05:40:37.549Z",
+	"downloadsLastWeek": 1
+}

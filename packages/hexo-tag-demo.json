@@ -1,1 +1,14 @@
-{"name":"hexo-tag-demo","version":"0.2.10","depVersion":"^0.3.6","maintainers":[{"name":"laomao800","email":"laomao800@gmail.com"}],"modified":"2016-12-06T02:36:47.716Z","released":"2016-12-06T02:36:47.716Z","downloadsLastWeek":2}
+{
+	"name": "hexo-tag-demo",
+	"version": "0.2.10",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "laomao800",
+			"email": "laomao800@gmail.com"
+		}
+	],
+	"modified": "2016-12-06T02:36:47.716Z",
+	"released": "2016-12-06T02:36:47.716Z",
+	"downloadsLastWeek": 2
+}

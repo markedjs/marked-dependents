@@ -1,1 +1,14 @@
-{"name":"bob-bundler","version":"0.5.3","depVersion":"^0.3.6","maintainers":[{"name":"eliot","email":"me@eliotakira.com"}],"modified":"2017-08-25T12:46:17.538Z","released":"2017-08-25T12:46:17.538Z","downloadsLastWeek":1}
+{
+	"name": "bob-bundler",
+	"version": "0.5.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "eliot",
+			"email": "me@eliotakira.com"
+		}
+	],
+	"modified": "2017-08-25T12:46:17.538Z",
+	"released": "2017-08-25T12:46:17.538Z",
+	"downloadsLastWeek": 1
+}

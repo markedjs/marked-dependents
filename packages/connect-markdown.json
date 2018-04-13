@@ -1,1 +1,14 @@
-{"name":"connect-markdown","version":"0.0.3","depVersion":"0.2.9","maintainers":[{"name":"fengmk2","email":"fengmk2@gmail.com"}],"modified":"2013-08-22T08:34:01.067Z","released":"2013-08-22T08:34:01.067Z","downloadsLastWeek":157}
+{
+	"name": "connect-markdown",
+	"version": "0.0.3",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "fengmk2",
+			"email": "fengmk2@gmail.com"
+		}
+	],
+	"modified": "2013-08-22T08:34:01.067Z",
+	"released": "2013-08-22T08:34:01.067Z",
+	"downloadsLastWeek": 157
+}

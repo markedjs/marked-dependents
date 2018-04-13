@@ -1,1 +1,14 @@
-{"name":"soke","version":"0.0.3","depVersion":"^0.3.7","maintainers":[{"name":"ymblender","email":"ymagain@qq.com"}],"modified":"2018-01-28T05:05:07.403Z","released":"2018-01-28T05:05:07.403Z","downloadsLastWeek":5}
+{
+	"name": "soke",
+	"version": "0.0.3",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "ymblender",
+			"email": "ymagain@qq.com"
+		}
+	],
+	"modified": "2018-01-28T05:05:07.403Z",
+	"released": "2018-01-28T05:05:07.403Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"protodoc","version":"0.0.2","depVersion":"^0.3.5","maintainers":[{"name":"surunzi","email":"670785827@qq.com"}],"modified":"2015-09-03T07:52:38.397Z","released":"2015-09-03T07:52:38.397Z","downloadsLastWeek":1}
+{
+	"name": "protodoc",
+	"version": "0.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "surunzi",
+			"email": "670785827@qq.com"
+		}
+	],
+	"modified": "2015-09-03T07:52:38.397Z",
+	"released": "2015-09-03T07:52:38.397Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"rtdb","version":"0.5.6","depVersion":"^0.3.2","maintainers":[{"name":"chicagozer","email":"chicagozer@comcast.net"}],"modified":"2014-05-16T05:38:20.412Z","released":"2014-05-16T05:38:20.412Z","downloadsLastWeek":14}
+{
+	"name": "rtdb",
+	"version": "0.5.6",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "chicagozer",
+			"email": "chicagozer@comcast.net"
+		}
+	],
+	"modified": "2014-05-16T05:38:20.412Z",
+	"released": "2014-05-16T05:38:20.412Z",
+	"downloadsLastWeek": 14
+}

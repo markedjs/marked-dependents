@@ -1,1 +1,14 @@
-{"name":"releasetools","version":"0.4.1","depVersion":"0.2.5","maintainers":[{"name":"rafeca","email":"rafeca@gmail.com"}],"modified":"2013-03-12T10:32:35.736Z","released":"2013-03-12T10:32:35.736Z","downloadsLastWeek":25}
+{
+	"name": "releasetools",
+	"version": "0.4.1",
+	"depVersion": "0.2.5",
+	"maintainers": [
+		{
+			"name": "rafeca",
+			"email": "rafeca@gmail.com"
+		}
+	],
+	"modified": "2013-03-12T10:32:35.736Z",
+	"released": "2013-03-12T10:32:35.736Z",
+	"downloadsLastWeek": 25
+}

@@ -1,1 +1,18 @@
-{"name":"style-sherpa","version":"1.0.2","depVersion":"^0.3.5","maintainers":[{"name":"gakimball","email":"geoff@geoffkimball.com"},{"name":"kbal11","email":"kball@zurb.com"}],"modified":"2017-04-23T16:25:14.419Z","released":"2016-09-27T18:57:33.379Z","downloadsLastWeek":1234}
+{
+	"name": "style-sherpa",
+	"version": "1.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "gakimball",
+			"email": "geoff@geoffkimball.com"
+		},
+		{
+			"name": "kbal11",
+			"email": "kball@zurb.com"
+		}
+	],
+	"modified": "2017-04-23T16:25:14.419Z",
+	"released": "2016-09-27T18:57:33.379Z",
+	"downloadsLastWeek": 1234
+}

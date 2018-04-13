@@ -1,1 +1,14 @@
-{"name":"trello-kb","version":"1.4.0","depVersion":"^0.3.17","maintainers":[{"name":"dwilding","email":"tech@dpw.me"}],"modified":"2018-04-02T13:28:19.845Z","released":"2018-04-02T13:28:18.238Z","downloadsLastWeek":33}
+{
+	"name": "trello-kb",
+	"version": "1.4.0",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "dwilding",
+			"email": "tech@dpw.me"
+		}
+	],
+	"modified": "2018-04-02T13:28:19.845Z",
+	"released": "2018-04-02T13:28:18.238Z",
+	"downloadsLastWeek": 33
+}

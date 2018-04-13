@@ -1,1 +1,14 @@
-{"name":"reticule","version":"0.1.6","depVersion":"^0.3.5","maintainers":[{"name":"yishn","email":"shen.yichuan@gmail.com"}],"modified":"2017-05-20T14:08:30.998Z","released":"2017-05-20T14:08:30.998Z","downloadsLastWeek":13}
+{
+	"name": "reticule",
+	"version": "0.1.6",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "yishn",
+			"email": "shen.yichuan@gmail.com"
+		}
+	],
+	"modified": "2017-05-20T14:08:30.998Z",
+	"released": "2017-05-20T14:08:30.998Z",
+	"downloadsLastWeek": 13
+}

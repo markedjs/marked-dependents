@@ -1,1 +1,14 @@
-{"name":"hexo-tag-accordionlist","version":"0.0.2","depVersion":"^0.3.6","maintainers":[{"name":"ryanniu","email":"ryan4work@163.com"}],"modified":"2017-02-07T02:35:25.796Z","released":"2017-02-07T02:35:25.796Z","downloadsLastWeek":1}
+{
+	"name": "hexo-tag-accordionlist",
+	"version": "0.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ryanniu",
+			"email": "ryan4work@163.com"
+		}
+	],
+	"modified": "2017-02-07T02:35:25.796Z",
+	"released": "2017-02-07T02:35:25.796Z",
+	"downloadsLastWeek": 1
+}

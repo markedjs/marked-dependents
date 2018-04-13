@@ -1,1 +1,14 @@
-{"name":"ngx-md","version":"3.1.1","depVersion":"^0.3.9","maintainers":[{"name":"dimpu","email":"buddhaaravind@gmail.com"}],"modified":"2018-03-07T07:17:23.143Z","released":"2018-02-01T20:56:09.653Z","downloadsLastWeek":1300}
+{
+	"name": "ngx-md",
+	"version": "3.1.1",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "dimpu",
+			"email": "buddhaaravind@gmail.com"
+		}
+	],
+	"modified": "2018-03-07T07:17:23.143Z",
+	"released": "2018-02-01T20:56:09.653Z",
+	"downloadsLastWeek": 1300
+}

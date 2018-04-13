@@ -1,1 +1,34 @@
-{"name":"appbuilder","version":"3.7.8","depVersion":"0.3.3","maintainers":[{"name":"baltavar","email":"todorov.ceco@gmail.com"},{"name":"kerezov","email":"d.kerezov@gmail.com"},{"name":"rosen-vladimirov","email":"rosen.vladimirov.91@gmail.com"},{"name":"rosen_vladimirov","email":"rosen.vladimirov.91@gmail.com"},{"name":"teobugslayer","email":"teobugslayer@gmail.com"},{"name":"tsvetan.milanov","email":"tsvetan.milanov17@gmail.com"}],"modified":"2017-11-30T14:17:01.269Z","released":"2017-11-30T14:17:01.269Z","downloadsLastWeek":30}
+{
+	"name": "appbuilder",
+	"version": "3.7.8",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "baltavar",
+			"email": "todorov.ceco@gmail.com"
+		},
+		{
+			"name": "kerezov",
+			"email": "d.kerezov@gmail.com"
+		},
+		{
+			"name": "rosen-vladimirov",
+			"email": "rosen.vladimirov.91@gmail.com"
+		},
+		{
+			"name": "rosen_vladimirov",
+			"email": "rosen.vladimirov.91@gmail.com"
+		},
+		{
+			"name": "teobugslayer",
+			"email": "teobugslayer@gmail.com"
+		},
+		{
+			"name": "tsvetan.milanov",
+			"email": "tsvetan.milanov17@gmail.com"
+		}
+	],
+	"modified": "2017-11-30T14:17:01.269Z",
+	"released": "2017-11-30T14:17:01.269Z",
+	"downloadsLastWeek": 30
+}

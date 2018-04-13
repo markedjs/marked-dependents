@@ -1,1 +1,14 @@
-{"name":"metamagical-sphinx","version":"0.1.1","depVersion":"^0.3.5","maintainers":[{"name":"robotlolita","email":"quildreen@gmail.com"}],"modified":"2016-05-10T02:07:59.442Z","released":"2016-05-10T02:07:59.442Z","downloadsLastWeek":1}
+{
+	"name": "metamagical-sphinx",
+	"version": "0.1.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "robotlolita",
+			"email": "quildreen@gmail.com"
+		}
+	],
+	"modified": "2016-05-10T02:07:59.442Z",
+	"released": "2016-05-10T02:07:59.442Z",
+	"downloadsLastWeek": 1
+}

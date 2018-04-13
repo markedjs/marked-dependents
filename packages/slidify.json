@@ -1,1 +1,14 @@
-{"name":"slidify","version":"0.0.9","depVersion":"0.2.8","maintainers":[{"name":"spini","email":"federico.spini@gmail.com"}],"modified":"2013-03-27T10:10:59.554Z","released":"2013-03-27T10:10:59.554Z","downloadsLastWeek":19}
+{
+	"name": "slidify",
+	"version": "0.0.9",
+	"depVersion": "0.2.8",
+	"maintainers": [
+		{
+			"name": "spini",
+			"email": "federico.spini@gmail.com"
+		}
+	],
+	"modified": "2013-03-27T10:10:59.554Z",
+	"released": "2013-03-27T10:10:59.554Z",
+	"downloadsLastWeek": 19
+}

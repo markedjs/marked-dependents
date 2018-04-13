@@ -1,1 +1,14 @@
-{"name":"npm-www","version":"0.3.0","depVersion":"~0.2.4","maintainers":[{"name":"isaacs","email":"i@izs.me"}],"modified":"2014-01-28T06:58:40.343Z","released":"2014-01-28T06:58:40.343Z","downloadsLastWeek":2}
+{
+	"name": "npm-www",
+	"version": "0.3.0",
+	"depVersion": "~0.2.4",
+	"maintainers": [
+		{
+			"name": "isaacs",
+			"email": "i@izs.me"
+		}
+	],
+	"modified": "2014-01-28T06:58:40.343Z",
+	"released": "2014-01-28T06:58:40.343Z",
+	"downloadsLastWeek": 2
+}

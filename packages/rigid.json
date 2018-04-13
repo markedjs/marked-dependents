@@ -1,1 +1,14 @@
-{"name":"rigid","version":"0.1.1","depVersion":"~0.2.10","maintainers":[{"name":"maxgfeller","email":"max.gfeller@gmail.com"}],"modified":"2014-12-15T12:24:53.312Z","released":"2014-04-16T10:48:19.156Z","downloadsLastWeek":5}
+{
+	"name": "rigid",
+	"version": "0.1.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "maxgfeller",
+			"email": "max.gfeller@gmail.com"
+		}
+	],
+	"modified": "2014-12-15T12:24:53.312Z",
+	"released": "2014-04-16T10:48:19.156Z",
+	"downloadsLastWeek": 5
+}

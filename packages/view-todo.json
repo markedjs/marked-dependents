@@ -1,1 +1,14 @@
-{"name":"view-todo","version":"1.8.5","depVersion":"^0.3.5","maintainers":[{"name":"kt3k","email":"stibium121@gmail.com"}],"modified":"2016-09-09T00:51:13.027Z","released":"2016-09-09T00:51:13.027Z","downloadsLastWeek":39}
+{
+	"name": "view-todo",
+	"version": "1.8.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "kt3k",
+			"email": "stibium121@gmail.com"
+		}
+	],
+	"modified": "2016-09-09T00:51:13.027Z",
+	"released": "2016-09-09T00:51:13.027Z",
+	"downloadsLastWeek": 39
+}

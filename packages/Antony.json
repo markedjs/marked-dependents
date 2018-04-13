@@ -1,1 +1,14 @@
-{"name":"Antony","version":"0.3.0","depVersion":"^0.3.6","maintainers":[{"name":"spiral","email":"scriptAntony@163.com"}],"modified":"2016-09-09T16:27:48.031Z","released":"2016-09-09T16:27:48.031Z","downloadsLastWeek":2}
+{
+	"name": "Antony",
+	"version": "0.3.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "spiral",
+			"email": "scriptAntony@163.com"
+		}
+	],
+	"modified": "2016-09-09T16:27:48.031Z",
+	"released": "2016-09-09T16:27:48.031Z",
+	"downloadsLastWeek": 2
+}

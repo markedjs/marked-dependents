@@ -1,1 +1,14 @@
-{"name":"anecdote-engine","version":"1.0.9","depVersion":"^0.3.6","maintainers":[{"name":"atrauzzi","email":"atrauzzi@gmail.com"}],"modified":"2017-03-20T00:30:48.099Z","released":"2017-03-20T00:30:48.099Z","downloadsLastWeek":2}
+{
+	"name": "anecdote-engine",
+	"version": "1.0.9",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "atrauzzi",
+			"email": "atrauzzi@gmail.com"
+		}
+	],
+	"modified": "2017-03-20T00:30:48.099Z",
+	"released": "2017-03-20T00:30:48.099Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"courses-md","version":"0.5.0","depVersion":"^0.3.12","maintainers":[{"name":"alphahydrae","email":"npm@alphahydrae.com"}],"modified":"2018-02-25T19:56:11.918Z","released":"2018-02-25T19:56:11.174Z","downloadsLastWeek":2}
+{
+	"name": "courses-md",
+	"version": "0.5.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "alphahydrae",
+			"email": "npm@alphahydrae.com"
+		}
+	],
+	"modified": "2018-02-25T19:56:11.918Z",
+	"released": "2018-02-25T19:56:11.174Z",
+	"downloadsLastWeek": 2
+}

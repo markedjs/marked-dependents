@@ -1,1 +1,14 @@
-{"name":"chains-markdown","version":"0.1.6","depVersion":"~0.3.2","maintainers":[{"name":"wangsai","email":"wangsai7885@gmail.com"}],"modified":"2014-04-04T17:10:54.990Z","released":"2014-04-04T17:10:54.990Z","downloadsLastWeek":1}
+{
+	"name": "chains-markdown",
+	"version": "0.1.6",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "wangsai",
+			"email": "wangsai7885@gmail.com"
+		}
+	],
+	"modified": "2014-04-04T17:10:54.990Z",
+	"released": "2014-04-04T17:10:54.990Z",
+	"downloadsLastWeek": 1
+}

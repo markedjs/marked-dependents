@@ -1,1 +1,14 @@
-{"name":"docco-toc","version":"0.7.4","depVersion":">= 0.2.7","maintainers":[{"name":"phillips1012","email":"phillips1012@gmail.com"}],"modified":"2015-03-26T20:24:47.459Z","released":"2015-03-26T20:24:47.459Z","downloadsLastWeek":3}
+{
+	"name": "docco-toc",
+	"version": "0.7.4",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "phillips1012",
+			"email": "phillips1012@gmail.com"
+		}
+	],
+	"modified": "2015-03-26T20:24:47.459Z",
+	"released": "2015-03-26T20:24:47.459Z",
+	"downloadsLastWeek": 3
+}

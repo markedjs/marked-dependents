@@ -1,1 +1,14 @@
-{"name":"metalsmith-dayone","version":"1.0.3","depVersion":"^0.3.6","maintainers":[{"name":"lukekarrys","email":"luke@lukekarrys.com"}],"modified":"2017-08-21T18:43:14.016Z","released":"2017-08-21T18:43:14.016Z","downloadsLastWeek":1}
+{
+	"name": "metalsmith-dayone",
+	"version": "1.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "lukekarrys",
+			"email": "luke@lukekarrys.com"
+		}
+	],
+	"modified": "2017-08-21T18:43:14.016Z",
+	"released": "2017-08-21T18:43:14.016Z",
+	"downloadsLastWeek": 1
+}

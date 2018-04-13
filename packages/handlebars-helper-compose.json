@@ -1,1 +1,18 @@
-{"name":"handlebars-helper-compose","version":"0.2.12","depVersion":"0.3.0","maintainers":[{"name":"jonschlinkert","email":"github@sellside.com"},{"name":"doowb","email":"brian.woodward@gmail.com"}],"modified":"2014-02-09T12:49:16.306Z","released":"2014-02-09T12:49:16.306Z","downloadsLastWeek":59}
+{
+	"name": "handlebars-helper-compose",
+	"version": "0.2.12",
+	"depVersion": "0.3.0",
+	"maintainers": [
+		{
+			"name": "jonschlinkert",
+			"email": "github@sellside.com"
+		},
+		{
+			"name": "doowb",
+			"email": "brian.woodward@gmail.com"
+		}
+	],
+	"modified": "2014-02-09T12:49:16.306Z",
+	"released": "2014-02-09T12:49:16.306Z",
+	"downloadsLastWeek": 59
+}

@@ -1,1 +1,14 @@
-{"name":"isit-web-crafts-allenbc","version":"1.0.6","depVersion":"^0.3.6","maintainers":[{"name":"noah1984","email":"noah.allen@bellevuecollege.edu"}],"modified":"2017-12-04T04:12:12.932Z","released":"2017-12-04T04:12:12.932Z","downloadsLastWeek":2}
+{
+	"name": "isit-web-crafts-allenbc",
+	"version": "1.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "noah1984",
+			"email": "noah.allen@bellevuecollege.edu"
+		}
+	],
+	"modified": "2017-12-04T04:12:12.932Z",
+	"released": "2017-12-04T04:12:12.932Z",
+	"downloadsLastWeek": 2
+}

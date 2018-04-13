@@ -1,1 +1,14 @@
-{"name":"mdt","version":"0.0.4","depVersion":"^0.3.5","maintainers":[{"name":"wachaon","email":"wachaon@gmail.com"}],"modified":"2016-01-05T07:04:21.821Z","released":"2016-01-05T07:04:21.821Z","downloadsLastWeek":2}
+{
+	"name": "mdt",
+	"version": "0.0.4",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "wachaon",
+			"email": "wachaon@gmail.com"
+		}
+	],
+	"modified": "2016-01-05T07:04:21.821Z",
+	"released": "2016-01-05T07:04:21.821Z",
+	"downloadsLastWeek": 2
+}

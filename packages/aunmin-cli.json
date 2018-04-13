@@ -1,1 +1,14 @@
-{"name":"aunmin-cli","version":"1.0.3","depVersion":"^0.3.6","maintainers":[{"name":"lingbaichao","email":"lbc19920631@163.com"}],"modified":"2017-11-09T02:42:09.211Z","released":"2017-11-09T02:42:09.211Z","downloadsLastWeek":3}
+{
+	"name": "aunmin-cli",
+	"version": "1.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "lingbaichao",
+			"email": "lbc19920631@163.com"
+		}
+	],
+	"modified": "2017-11-09T02:42:09.211Z",
+	"released": "2017-11-09T02:42:09.211Z",
+	"downloadsLastWeek": 3
+}

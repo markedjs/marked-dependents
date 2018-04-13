@@ -1,1 +1,14 @@
-{"name":"extension-services","version":"0.2.10","depVersion":"^0.3.6","maintainers":[{"name":"mike.cann","email":"mike.cann@gmail.com"}],"modified":"2017-10-21T07:36:52.021Z","released":"2017-10-21T07:36:52.021Z","downloadsLastWeek":1}
+{
+	"name": "extension-services",
+	"version": "0.2.10",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "mike.cann",
+			"email": "mike.cann@gmail.com"
+		}
+	],
+	"modified": "2017-10-21T07:36:52.021Z",
+	"released": "2017-10-21T07:36:52.021Z",
+	"downloadsLastWeek": 1
+}

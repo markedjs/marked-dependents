@@ -1,1 +1,14 @@
-{"name":"adocco","version":"0.6.4","depVersion":">= 0.2.7","maintainers":[{"name":"atott","email":"atott@yandex.ru"}],"modified":"2014-10-23T11:23:04.470Z","released":"2014-10-23T11:23:04.470Z","downloadsLastWeek":1}
+{
+	"name": "adocco",
+	"version": "0.6.4",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "atott",
+			"email": "atott@yandex.ru"
+		}
+	],
+	"modified": "2014-10-23T11:23:04.470Z",
+	"released": "2014-10-23T11:23:04.470Z",
+	"downloadsLastWeek": 1
+}

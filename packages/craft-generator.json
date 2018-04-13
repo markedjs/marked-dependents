@@ -1,1 +1,14 @@
-{"name":"craft-generator","version":"0.0.1","depVersion":"0.3.x","maintainers":[{"name":"xdl","email":"eddie@xiaodi.li"}],"modified":"2016-10-06T21:59:06.726Z","released":"2016-10-06T21:59:06.726Z","downloadsLastWeek":1}
+{
+	"name": "craft-generator",
+	"version": "0.0.1",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "xdl",
+			"email": "eddie@xiaodi.li"
+		}
+	],
+	"modified": "2016-10-06T21:59:06.726Z",
+	"released": "2016-10-06T21:59:06.726Z",
+	"downloadsLastWeek": 1
+}

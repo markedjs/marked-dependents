@@ -1,1 +1,38 @@
-{"name":"markdown-loader","version":"2.0.2","depVersion":"^0.3.9","maintainers":[{"email":"sandeantony@gmail.com","name":"antosan"},{"email":"leonhard.melzer@peerigon.com","name":"leomelzer"},{"email":"markus@mpnjs.com","name":"flootr"},{"email":"matthias.jahn@peerigon.com","name":"matthaias"},{"email":"developers@peerigon.com","name":"peeri"},{"email":"michael.jaser@peerigon.com","name":"meaku"},{"email":"mail@johannesewald.de","name":"jhnns"}],"modified":"2018-01-27T08:03:12.816Z","released":"2018-01-08T09:30:53.121Z","downloadsLastWeek":150763}
+{
+	"name": "markdown-loader",
+	"version": "2.0.2",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"email": "sandeantony@gmail.com",
+			"name": "antosan"
+		},
+		{
+			"email": "leonhard.melzer@peerigon.com",
+			"name": "leomelzer"
+		},
+		{
+			"email": "markus@mpnjs.com",
+			"name": "flootr"
+		},
+		{
+			"email": "matthias.jahn@peerigon.com",
+			"name": "matthaias"
+		},
+		{
+			"email": "developers@peerigon.com",
+			"name": "peeri"
+		},
+		{
+			"email": "michael.jaser@peerigon.com",
+			"name": "meaku"
+		},
+		{
+			"email": "mail@johannesewald.de",
+			"name": "jhnns"
+		}
+	],
+	"modified": "2018-01-27T08:03:12.816Z",
+	"released": "2018-01-08T09:30:53.121Z",
+	"downloadsLastWeek": 150763
+}

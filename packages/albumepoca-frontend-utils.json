@@ -1,1 +1,14 @@
-{"name":"albumepoca-frontend-utils","version":"0.0.4","depVersion":"0.3.5","maintainers":[{"name":"erko","email":"matteo.ercolani@gmail.com"}],"modified":"2016-06-01T09:39:22.878Z","released":"2016-06-01T09:39:22.878Z","downloadsLastWeek":2}
+{
+	"name": "albumepoca-frontend-utils",
+	"version": "0.0.4",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "erko",
+			"email": "matteo.ercolani@gmail.com"
+		}
+	],
+	"modified": "2016-06-01T09:39:22.878Z",
+	"released": "2016-06-01T09:39:22.878Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"ramldoc","version":"0.0.3","depVersion":"^0.3.3","maintainers":[{"name":"a7b0","email":"pavel.shkarin@gmail.com"}],"modified":"2015-10-24T11:53:42.084Z","released":"2015-10-24T11:53:42.084Z","downloadsLastWeek":1}
+{
+	"name": "ramldoc",
+	"version": "0.0.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "a7b0",
+			"email": "pavel.shkarin@gmail.com"
+		}
+	],
+	"modified": "2015-10-24T11:53:42.084Z",
+	"released": "2015-10-24T11:53:42.084Z",
+	"downloadsLastWeek": 1
+}

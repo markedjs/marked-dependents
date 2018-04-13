@@ -1,1 +1,14 @@
-{"name":"ganam-cli","version":"0.3.2","depVersion":"~0.2.9","maintainers":[{"name":"lepture","email":"lepture@me.com"}],"modified":"2013-07-15T14:42:28.962Z","released":"2013-07-15T14:42:28.962Z","downloadsLastWeek":2}
+{
+	"name": "ganam-cli",
+	"version": "0.3.2",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "lepture",
+			"email": "lepture@me.com"
+		}
+	],
+	"modified": "2013-07-15T14:42:28.962Z",
+	"released": "2013-07-15T14:42:28.962Z",
+	"downloadsLastWeek": 2
+}

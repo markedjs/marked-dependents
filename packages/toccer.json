@@ -1,1 +1,14 @@
-{"name":"toccer","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"hoten","email":"cjamcl@gmail.com"}],"modified":"2017-05-15T06:48:59.027Z","released":"2017-05-15T06:48:59.027Z","downloadsLastWeek":17}
+{
+	"name": "toccer",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "hoten",
+			"email": "cjamcl@gmail.com"
+		}
+	],
+	"modified": "2017-05-15T06:48:59.027Z",
+	"released": "2017-05-15T06:48:59.027Z",
+	"downloadsLastWeek": 17
+}

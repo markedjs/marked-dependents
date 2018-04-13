@@ -1,1 +1,14 @@
-{"name":"how-2","version":"1.6.1","depVersion":"0.3.12","maintainers":[{"name":"paoloci","email":"paolocifa@gmail.com"}],"modified":"2018-03-29T12:37:37.538Z","released":"2018-03-29T12:37:36.401Z","downloadsLastWeek":25}
+{
+	"name": "how-2",
+	"version": "1.6.1",
+	"depVersion": "0.3.12",
+	"maintainers": [
+		{
+			"name": "paoloci",
+			"email": "paolocifa@gmail.com"
+		}
+	],
+	"modified": "2018-03-29T12:37:37.538Z",
+	"released": "2018-03-29T12:37:36.401Z",
+	"downloadsLastWeek": 25
+}

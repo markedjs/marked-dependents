@@ -1,1 +1,14 @@
-{"name":"blog-maker","version":"1.0.0","depVersion":"~0.2.5","maintainers":[{"name":"daviddias","email":"daviddias.p@gmail.com"}],"modified":"2015-04-19T20:44:31.127Z","released":"2015-04-19T20:44:31.127Z","downloadsLastWeek":1}
+{
+	"name": "blog-maker",
+	"version": "1.0.0",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "daviddias",
+			"email": "daviddias.p@gmail.com"
+		}
+	],
+	"modified": "2015-04-19T20:44:31.127Z",
+	"released": "2015-04-19T20:44:31.127Z",
+	"downloadsLastWeek": 1
+}

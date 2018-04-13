@@ -1,1 +1,14 @@
-{"name":"tinydoc","version":"5.0.1","depVersion":"0.3.3","maintainers":[{"name":"amireh","email":"ahmad@amireh.net"}],"modified":"2016-04-18T11:43:45.794Z","released":"2016-04-18T11:43:45.794Z","downloadsLastWeek":95}
+{
+	"name": "tinydoc",
+	"version": "5.0.1",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "amireh",
+			"email": "ahmad@amireh.net"
+		}
+	],
+	"modified": "2016-04-18T11:43:45.794Z",
+	"released": "2016-04-18T11:43:45.794Z",
+	"downloadsLastWeek": 95
+}

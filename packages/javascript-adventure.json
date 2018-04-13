@@ -1,1 +1,14 @@
-{"name":"javascript-adventure","version":"0.1.5","depVersion":"^0.3.5","maintainers":[{"name":"peter36","email":"peter0306@gmail.com"}],"modified":"2016-07-23T23:32:51.587Z","released":"2016-07-23T23:32:51.587Z","downloadsLastWeek":2}
+{
+	"name": "javascript-adventure",
+	"version": "0.1.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "peter36",
+			"email": "peter0306@gmail.com"
+		}
+	],
+	"modified": "2016-07-23T23:32:51.587Z",
+	"released": "2016-07-23T23:32:51.587Z",
+	"downloadsLastWeek": 2
+}

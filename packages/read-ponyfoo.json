@@ -1,1 +1,14 @@
-{"name":"read-ponyfoo","version":"1.0.0","depVersion":"0.3.5","maintainers":[{"name":"bevacqua","email":"nicolasbevacqua@gmail.com"}],"modified":"2016-02-01T23:18:27.448Z","released":"2016-02-01T23:18:27.448Z","downloadsLastWeek":3}
+{
+	"name": "read-ponyfoo",
+	"version": "1.0.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "bevacqua",
+			"email": "nicolasbevacqua@gmail.com"
+		}
+	],
+	"modified": "2016-02-01T23:18:27.448Z",
+	"released": "2016-02-01T23:18:27.448Z",
+	"downloadsLastWeek": 3
+}

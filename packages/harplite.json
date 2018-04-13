@@ -1,1 +1,14 @@
-{"name":"harplite","version":"0.2.2","depVersion":"0.3.5","maintainers":[{"name":"piratedunbar","email":"yarr@piratedunbar.com"}],"modified":"2016-06-20T00:15:24.143Z","released":"2016-06-20T00:15:24.143Z","downloadsLastWeek":1}
+{
+	"name": "harplite",
+	"version": "0.2.2",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "piratedunbar",
+			"email": "yarr@piratedunbar.com"
+		}
+	],
+	"modified": "2016-06-20T00:15:24.143Z",
+	"released": "2016-06-20T00:15:24.143Z",
+	"downloadsLastWeek": 1
+}

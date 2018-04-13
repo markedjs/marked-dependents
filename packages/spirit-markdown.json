@@ -1,1 +1,14 @@
-{"name":"spirit-markdown","version":"1.1.0","depVersion":"^0.3.2","maintainers":[{"name":"alexray","email":"alexjamesray@gmail.com"}],"modified":"2014-11-02T18:56:36.154Z","released":"2014-11-02T18:56:36.154Z","downloadsLastWeek":5}
+{
+	"name": "spirit-markdown",
+	"version": "1.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "alexray",
+			"email": "alexjamesray@gmail.com"
+		}
+	],
+	"modified": "2014-11-02T18:56:36.154Z",
+	"released": "2014-11-02T18:56:36.154Z",
+	"downloadsLastWeek": 5
+}

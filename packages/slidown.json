@@ -1,1 +1,14 @@
-{"name":"slidown","version":"0.4.3","depVersion":"^0.3.6","maintainers":[{"name":"tzi","email":"thomas@zilliox.me"}],"modified":"2017-10-03T23:26:00.354Z","released":"2017-10-03T23:26:00.354Z","downloadsLastWeek":17}
+{
+	"name": "slidown",
+	"version": "0.4.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "tzi",
+			"email": "thomas@zilliox.me"
+		}
+	],
+	"modified": "2017-10-03T23:26:00.354Z",
+	"released": "2017-10-03T23:26:00.354Z",
+	"downloadsLastWeek": 17
+}

@@ -1,1 +1,14 @@
-{"name":"connect-md","version":"0.0.5","depVersion":"^0.3.6","maintainers":[{"name":"foolishchow","email":"214457824@qq.com"}],"modified":"2017-03-17T05:44:18.085Z","released":"2017-03-17T05:44:18.085Z","downloadsLastWeek":1}
+{
+	"name": "connect-md",
+	"version": "0.0.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "foolishchow",
+			"email": "214457824@qq.com"
+		}
+	],
+	"modified": "2017-03-17T05:44:18.085Z",
+	"released": "2017-03-17T05:44:18.085Z",
+	"downloadsLastWeek": 1
+}

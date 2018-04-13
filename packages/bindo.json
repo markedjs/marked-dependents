@@ -1,1 +1,14 @@
-{"name":"bindo","version":"0.2.6","depVersion":"^0.3.6","maintainers":[{"name":"ruiming","email":"ruiming.zhuang@gmail.com"}],"modified":"2016-12-07T05:26:43.416Z","released":"2016-12-07T05:26:43.416Z","downloadsLastWeek":1}
+{
+	"name": "bindo",
+	"version": "0.2.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ruiming",
+			"email": "ruiming.zhuang@gmail.com"
+		}
+	],
+	"modified": "2016-12-07T05:26:43.416Z",
+	"released": "2016-12-07T05:26:43.416Z",
+	"downloadsLastWeek": 1
+}

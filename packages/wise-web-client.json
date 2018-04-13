@@ -1,1 +1,14 @@
-{"name":"wise-web-client","version":"1.0.13","depVersion":"^0.3.3","maintainers":[{"name":"homerquan","email":"support@homerquan.com"}],"modified":"2015-06-01T14:06:22.098Z","released":"2015-06-01T14:06:22.098Z","downloadsLastWeek":4}
+{
+	"name": "wise-web-client",
+	"version": "1.0.13",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "homerquan",
+			"email": "support@homerquan.com"
+		}
+	],
+	"modified": "2015-06-01T14:06:22.098Z",
+	"released": "2015-06-01T14:06:22.098Z",
+	"downloadsLastWeek": 4
+}

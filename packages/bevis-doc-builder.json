@@ -1,1 +1,14 @@
-{"name":"bevis-doc-builder","version":"2.0.0","depVersion":"0.2.9","maintainers":[{"name":"mdevils","email":"mdevils@yandex.ru"}],"modified":"2014-09-01T13:06:24.089Z","released":"2014-09-01T13:06:24.089Z","downloadsLastWeek":1}
+{
+	"name": "bevis-doc-builder",
+	"version": "2.0.0",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "mdevils",
+			"email": "mdevils@yandex.ru"
+		}
+	],
+	"modified": "2014-09-01T13:06:24.089Z",
+	"released": "2014-09-01T13:06:24.089Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,30 @@
-{"name":"fis-cloud-app-repos","version":"0.1.8","depVersion":"0.3.2","maintainers":[{"name":"lily","email":"zhangying3210@gmail.com"},{"name":"lily-zhangying","email":"zhangying3210@gmail.com"},{"name":"wangcheng714","email":"wangchegn714@gmail.com"},{"name":"zhangtao07","email":"zhang.tao.1006@163.com"},{"name":"2betop","email":"2betop.cn@gmail.com"}],"modified":"2014-12-02T02:08:56.200Z","released":"2014-12-02T02:08:56.200Z","downloadsLastWeek":2}
+{
+	"name": "fis-cloud-app-repos",
+	"version": "0.1.8",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "lily",
+			"email": "zhangying3210@gmail.com"
+		},
+		{
+			"name": "lily-zhangying",
+			"email": "zhangying3210@gmail.com"
+		},
+		{
+			"name": "wangcheng714",
+			"email": "wangchegn714@gmail.com"
+		},
+		{
+			"name": "zhangtao07",
+			"email": "zhang.tao.1006@163.com"
+		},
+		{
+			"name": "2betop",
+			"email": "2betop.cn@gmail.com"
+		}
+	],
+	"modified": "2014-12-02T02:08:56.200Z",
+	"released": "2014-12-02T02:08:56.200Z",
+	"downloadsLastWeek": 2
+}

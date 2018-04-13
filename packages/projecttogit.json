@@ -1,1 +1,14 @@
-{"name":"projecttogit","version":"1.0.2","depVersion":"^0.3.6","maintainers":[{"name":"auser","email":"arilerner@mac.com"}],"modified":"2017-04-06T06:00:58.502Z","released":"2017-04-06T06:00:58.502Z","downloadsLastWeek":1}
+{
+	"name": "projecttogit",
+	"version": "1.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "auser",
+			"email": "arilerner@mac.com"
+		}
+	],
+	"modified": "2017-04-06T06:00:58.502Z",
+	"released": "2017-04-06T06:00:58.502Z",
+	"downloadsLastWeek": 1
+}

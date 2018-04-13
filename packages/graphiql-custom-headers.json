@@ -1,1 +1,14 @@
-{"name":"graphiql-custom-headers","version":"1.0.0","depVersion":"0.3.6","maintainers":[{"name":"durisvk","email":"durisvk2@gmail.com"}],"modified":"2017-07-14T20:22:55.386Z","released":"2017-07-14T20:22:55.386Z","downloadsLastWeek":1}
+{
+	"name": "graphiql-custom-headers",
+	"version": "1.0.0",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "durisvk",
+			"email": "durisvk2@gmail.com"
+		}
+	],
+	"modified": "2017-07-14T20:22:55.386Z",
+	"released": "2017-07-14T20:22:55.386Z",
+	"downloadsLastWeek": 1
+}

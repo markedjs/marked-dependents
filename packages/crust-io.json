@@ -1,1 +1,14 @@
-{"name":"crust-io","version":"2.1.0","depVersion":"~0.3.3","maintainers":[{"name":"teltploek","email":"brian.frisch@gmail.com"}],"modified":"2016-08-29T08:54:32.431Z","released":"2016-08-29T08:54:32.431Z","downloadsLastWeek":1}
+{
+	"name": "crust-io",
+	"version": "2.1.0",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "teltploek",
+			"email": "brian.frisch@gmail.com"
+		}
+	],
+	"modified": "2016-08-29T08:54:32.431Z",
+	"released": "2016-08-29T08:54:32.431Z",
+	"downloadsLastWeek": 1
+}

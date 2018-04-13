@@ -1,1 +1,26 @@
-{"name":"ng2-contentful-blog","version":"2.0.6","depVersion":"0.3.6","maintainers":[{"name":"betrozov","email":"betrozov91@gmail.com"},{"name":"natali-abyss","email":"natali.abyss@gmail.com"},{"name":"rychkog","email":"rychko.georgiy@gmail.com"},{"name":"valorkin","email":"valorkin@gmail.com"}],"modified":"2016-10-25T12:06:16.690Z","released":"2016-10-25T12:06:16.690Z","downloadsLastWeek":1}
+{
+	"name": "ng2-contentful-blog",
+	"version": "2.0.6",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "betrozov",
+			"email": "betrozov91@gmail.com"
+		},
+		{
+			"name": "natali-abyss",
+			"email": "natali.abyss@gmail.com"
+		},
+		{
+			"name": "rychkog",
+			"email": "rychko.georgiy@gmail.com"
+		},
+		{
+			"name": "valorkin",
+			"email": "valorkin@gmail.com"
+		}
+	],
+	"modified": "2016-10-25T12:06:16.690Z",
+	"released": "2016-10-25T12:06:16.690Z",
+	"downloadsLastWeek": 1
+}

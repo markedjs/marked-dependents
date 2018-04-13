@@ -1,1 +1,22 @@
-{"name":"lithium-sdk","version":"1.4.1","depVersion":"^0.3.2","maintainers":[{"name":"dougs","email":"schroedk@gmail.com"},{"name":"peterasher","email":"peter.asher@lithium.com"},{"name":"shahkaran","email":"kshah301993@gmail.com"}],"modified":"2017-12-02T07:27:30.569Z","released":"2017-12-02T07:27:30.569Z","downloadsLastWeek":9}
+{
+	"name": "lithium-sdk",
+	"version": "1.4.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "dougs",
+			"email": "schroedk@gmail.com"
+		},
+		{
+			"name": "peterasher",
+			"email": "peter.asher@lithium.com"
+		},
+		{
+			"name": "shahkaran",
+			"email": "kshah301993@gmail.com"
+		}
+	],
+	"modified": "2017-12-02T07:27:30.569Z",
+	"released": "2017-12-02T07:27:30.569Z",
+	"downloadsLastWeek": 9
+}

@@ -1,1 +1,18 @@
-{"name":"markdown-to-react-components","version":"0.2.4","depVersion":"^0.3.3","maintainers":[{"name":"christianalfoni","email":"christianalfoni@gmail.com"},{"name":"kitze","email":"kristijan.mkd@gmail.com"}],"modified":"2017-02-22T14:11:42.358Z","released":"2017-02-22T14:11:42.358Z","downloadsLastWeek":5814}
+{
+	"name": "markdown-to-react-components",
+	"version": "0.2.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "christianalfoni",
+			"email": "christianalfoni@gmail.com"
+		},
+		{
+			"name": "kitze",
+			"email": "kristijan.mkd@gmail.com"
+		}
+	],
+	"modified": "2017-02-22T14:11:42.358Z",
+	"released": "2017-02-22T14:11:42.358Z",
+	"downloadsLastWeek": 5814
+}

@@ -1,1 +1,14 @@
-{"name":"sson","version":"1.0.1","depVersion":"0.3.3","maintainers":[{"name":"nopr","email":"jay@nopr.co"}],"modified":"2015-09-25T13:40:37.931Z","released":"2015-09-25T13:40:37.931Z","downloadsLastWeek":5}
+{
+	"name": "sson",
+	"version": "1.0.1",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "nopr",
+			"email": "jay@nopr.co"
+		}
+	],
+	"modified": "2015-09-25T13:40:37.931Z",
+	"released": "2015-09-25T13:40:37.931Z",
+	"downloadsLastWeek": 5
+}

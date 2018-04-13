@@ -1,1 +1,14 @@
-{"name":"markded-middleware","version":"0.0.5","depVersion":"0.3.2","maintainers":[{"name":"markuz-gj","email":"markuz.br@gmail.com"}],"modified":"2014-05-14T08:31:15.091Z","released":"2014-05-14T08:31:15.091Z","downloadsLastWeek":1}
+{
+	"name": "markded-middleware",
+	"version": "0.0.5",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "markuz-gj",
+			"email": "markuz.br@gmail.com"
+		}
+	],
+	"modified": "2014-05-14T08:31:15.091Z",
+	"released": "2014-05-14T08:31:15.091Z",
+	"downloadsLastWeek": 1
+}

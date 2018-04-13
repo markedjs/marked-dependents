@@ -1,1 +1,14 @@
-{"name":"plankton","version":"0.1.3","depVersion":"0.2.6","maintainers":[{"name":"kishorenc","email":"kishore@kishorelive.com"}],"modified":"2013-03-02T13:24:14.158Z","released":"2013-03-02T13:24:14.158Z","downloadsLastWeek":1}
+{
+	"name": "plankton",
+	"version": "0.1.3",
+	"depVersion": "0.2.6",
+	"maintainers": [
+		{
+			"name": "kishorenc",
+			"email": "kishore@kishorelive.com"
+		}
+	],
+	"modified": "2013-03-02T13:24:14.158Z",
+	"released": "2013-03-02T13:24:14.158Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"hecate","version":"0.0.13","depVersion":"^0.3.5","maintainers":[{"name":"alex-zhang","email":"gzane24@gmail.com"}],"modified":"2015-09-29T02:46:10.799Z","released":"2015-09-29T02:46:10.799Z","downloadsLastWeek":1}
+{
+	"name": "hecate",
+	"version": "0.0.13",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "alex-zhang",
+			"email": "gzane24@gmail.com"
+		}
+	],
+	"modified": "2015-09-29T02:46:10.799Z",
+	"released": "2015-09-29T02:46:10.799Z",
+	"downloadsLastWeek": 1
+}

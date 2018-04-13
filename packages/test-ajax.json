@@ -1,1 +1,14 @@
-{"name":"test-ajax","version":"2.0.3","depVersion":"*","maintainers":[{"name":"xuexb","email":"admin@xuexb.com"}],"modified":"2015-08-16T02:44:41.075Z","released":"2015-08-16T02:44:41.075Z","downloadsLastWeek":29}
+{
+	"name": "test-ajax",
+	"version": "2.0.3",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "xuexb",
+			"email": "admin@xuexb.com"
+		}
+	],
+	"modified": "2015-08-16T02:44:41.075Z",
+	"released": "2015-08-16T02:44:41.075Z",
+	"downloadsLastWeek": 29
+}

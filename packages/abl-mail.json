@@ -1,1 +1,14 @@
-{"name":"abl-mail","version":"0.0.8","depVersion":"0.3.5","maintainers":[{"name":"kevin-abl","email":"kevin@adventurebucketlist.com"}],"modified":"2017-10-10T02:57:54.103Z","released":"2017-10-10T02:57:54.103Z","downloadsLastWeek":1}
+{
+	"name": "abl-mail",
+	"version": "0.0.8",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "kevin-abl",
+			"email": "kevin@adventurebucketlist.com"
+		}
+	],
+	"modified": "2017-10-10T02:57:54.103Z",
+	"released": "2017-10-10T02:57:54.103Z",
+	"downloadsLastWeek": 1
+}

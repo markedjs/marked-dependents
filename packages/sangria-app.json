@@ -1,1 +1,14 @@
-{"name":"sangria-app","version":"1.3.0-alpha.1","depVersion":"^0.3.2","maintainers":[{"name":"adjective","email":"mhuan13@gmail.com"}],"modified":"2016-10-11T12:19:34.694Z","released":"2016-10-11T12:19:34.694Z","downloadsLastWeek":5}
+{
+	"name": "sangria-app",
+	"version": "1.3.0-alpha.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "adjective",
+			"email": "mhuan13@gmail.com"
+		}
+	],
+	"modified": "2016-10-11T12:19:34.694Z",
+	"released": "2016-10-11T12:19:34.694Z",
+	"downloadsLastWeek": 5
+}

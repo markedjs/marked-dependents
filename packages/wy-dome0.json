@@ -1,1 +1,14 @@
-{"name":"wy-dome0","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"wangy1","email":"1043322514@qq.com"}],"modified":"2017-04-19T01:47:01.779Z","released":"2017-04-19T01:47:01.779Z","downloadsLastWeek":4}
+{
+	"name": "wy-dome0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "wangy1",
+			"email": "1043322514@qq.com"
+		}
+	],
+	"modified": "2017-04-19T01:47:01.779Z",
+	"released": "2017-04-19T01:47:01.779Z",
+	"downloadsLastWeek": 4
+}

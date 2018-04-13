@@ -1,1 +1,14 @@
-{"name":"markdown-check-deadlink","version":"0.1.2","depVersion":"^0.3.6","maintainers":[{"name":"ihgs","email":"hgs.dev@gmail.com"}],"modified":"2016-10-09T06:09:19.084Z","released":"2016-10-09T06:09:19.084Z","downloadsLastWeek":1}
+{
+	"name": "markdown-check-deadlink",
+	"version": "0.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ihgs",
+			"email": "hgs.dev@gmail.com"
+		}
+	],
+	"modified": "2016-10-09T06:09:19.084Z",
+	"released": "2016-10-09T06:09:19.084Z",
+	"downloadsLastWeek": 1
+}

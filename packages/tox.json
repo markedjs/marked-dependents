@@ -1,1 +1,14 @@
-{"name":"tox","version":"1.0.0","depVersion":"0.2.6","maintainers":[{"name":"frozzare","email":"fredrik.forsmo@gmail.com"}],"modified":"2013-01-13T21:17:02.990Z","released":"2013-01-13T21:17:02.990Z","downloadsLastWeek":4}
+{
+	"name": "tox",
+	"version": "1.0.0",
+	"depVersion": "0.2.6",
+	"maintainers": [
+		{
+			"name": "frozzare",
+			"email": "fredrik.forsmo@gmail.com"
+		}
+	],
+	"modified": "2013-01-13T21:17:02.990Z",
+	"released": "2013-01-13T21:17:02.990Z",
+	"downloadsLastWeek": 4
+}

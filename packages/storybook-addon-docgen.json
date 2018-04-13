@@ -1,1 +1,14 @@
-{"name":"storybook-addon-docgen","version":"4.0.0","depVersion":"^0.3.6","maintainers":[{"name":"gongreg","email":"gytis.vinclovas@gmail.com"}],"modified":"2017-09-21T10:04:13.432Z","released":"2017-09-21T10:04:13.432Z","downloadsLastWeek":43}
+{
+	"name": "storybook-addon-docgen",
+	"version": "4.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "gongreg",
+			"email": "gytis.vinclovas@gmail.com"
+		}
+	],
+	"modified": "2017-09-21T10:04:13.432Z",
+	"released": "2017-09-21T10:04:13.432Z",
+	"downloadsLastWeek": 43
+}

@@ -1,1 +1,14 @@
-{"name":"kiss-docwriter","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"klepthys","email":"s.dumetz@holusion.com"}],"modified":"2016-01-19T14:45:55.673Z","released":"2016-01-19T14:45:55.673Z","downloadsLastWeek":1}
+{
+	"name": "kiss-docwriter",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "klepthys",
+			"email": "s.dumetz@holusion.com"
+		}
+	],
+	"modified": "2016-01-19T14:45:55.673Z",
+	"released": "2016-01-19T14:45:55.673Z",
+	"downloadsLastWeek": 1
+}

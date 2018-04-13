@@ -1,1 +1,14 @@
-{"name":"react-atoms","version":"2.0.11","depVersion":"^0.3.5","maintainers":[{"name":"philcockfield","email":"phil@cockfield.net"}],"modified":"2016-07-08T07:59:57.409Z","released":"2016-07-08T07:59:57.409Z","downloadsLastWeek":20}
+{
+	"name": "react-atoms",
+	"version": "2.0.11",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "philcockfield",
+			"email": "phil@cockfield.net"
+		}
+	],
+	"modified": "2016-07-08T07:59:57.409Z",
+	"released": "2016-07-08T07:59:57.409Z",
+	"downloadsLastWeek": 20
+}

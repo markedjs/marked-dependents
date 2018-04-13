@@ -1,1 +1,14 @@
-{"name":"thinkpress","version":"1.0.0","depVersion":"0.2.109","maintainers":[{"name":"welefen","email":"welefen@gmail.com"}],"modified":"2015-01-07T02:58:01.972Z","released":"2015-01-07T02:58:01.972Z","downloadsLastWeek":7}
+{
+	"name": "thinkpress",
+	"version": "1.0.0",
+	"depVersion": "0.2.109",
+	"maintainers": [
+		{
+			"name": "welefen",
+			"email": "welefen@gmail.com"
+		}
+	],
+	"modified": "2015-01-07T02:58:01.972Z",
+	"released": "2015-01-07T02:58:01.972Z",
+	"downloadsLastWeek": 7
+}

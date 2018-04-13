@@ -1,1 +1,14 @@
-{"name":"stasis","version":"0.0.12","depVersion":"~0.3.2","maintainers":[{"name":"hoch","email":"hongchan.choi@gmail.com"}],"modified":"2014-12-29T19:39:16.249Z","released":"2014-12-29T19:39:16.249Z","downloadsLastWeek":15}
+{
+	"name": "stasis",
+	"version": "0.0.12",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "hoch",
+			"email": "hongchan.choi@gmail.com"
+		}
+	],
+	"modified": "2014-12-29T19:39:16.249Z",
+	"released": "2014-12-29T19:39:16.249Z",
+	"downloadsLastWeek": 15
+}

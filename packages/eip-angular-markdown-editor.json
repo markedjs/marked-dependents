@@ -1,1 +1,14 @@
-{"name":"eip-angular-markdown-editor","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"ioakeimidisg","email":"george.ioakeimidis@telegraph.co.uk"}],"modified":"2018-03-19T17:45:07.107Z","released":"2018-03-19T17:45:06.335Z","downloadsLastWeek":1}
+{
+	"name": "eip-angular-markdown-editor",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ioakeimidisg",
+			"email": "george.ioakeimidis@telegraph.co.uk"
+		}
+	],
+	"modified": "2018-03-19T17:45:07.107Z",
+	"released": "2018-03-19T17:45:06.335Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"tinman","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"prezjordan","email":"scalesjordan@gmail.com"}],"modified":"2014-08-02T04:48:36.328Z","released":"2014-08-02T04:48:36.328Z","downloadsLastWeek":13}
+{
+	"name": "tinman",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "prezjordan",
+			"email": "scalesjordan@gmail.com"
+		}
+	],
+	"modified": "2014-08-02T04:48:36.328Z",
+	"released": "2014-08-02T04:48:36.328Z",
+	"downloadsLastWeek": 13
+}

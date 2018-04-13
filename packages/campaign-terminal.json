@@ -1,1 +1,14 @@
-{"name":"campaign-terminal","version":"1.0.4","depVersion":"0.3.6","maintainers":[{"name":"bevacqua","email":"nicolasbevacqua@gmail.com"}],"modified":"2018-01-31T18:02:31.355Z","released":"2018-01-31T18:02:31.355Z","downloadsLastWeek":8}
+{
+	"name": "campaign-terminal",
+	"version": "1.0.4",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "bevacqua",
+			"email": "nicolasbevacqua@gmail.com"
+		}
+	],
+	"modified": "2018-01-31T18:02:31.355Z",
+	"released": "2018-01-31T18:02:31.355Z",
+	"downloadsLastWeek": 8
+}

@@ -1,1 +1,14 @@
-{"name":"docco-xt","version":"0.1.2","depVersion":">= 0.2.7","maintainers":[{"name":"codepunkt","email":"christoph+npm@codepunkt.de"}],"modified":"2017-01-18T22:48:17.306Z","released":"2014-01-20T10:15:20.471Z","downloadsLastWeek":38}
+{
+	"name": "docco-xt",
+	"version": "0.1.2",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "codepunkt",
+			"email": "christoph+npm@codepunkt.de"
+		}
+	],
+	"modified": "2017-01-18T22:48:17.306Z",
+	"released": "2014-01-20T10:15:20.471Z",
+	"downloadsLastWeek": 38
+}

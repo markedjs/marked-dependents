@@ -1,1 +1,14 @@
-{"name":"markfound","version":"0.2.2","depVersion":"0.3.3","maintainers":[{"name":"dizzib","email":"dizzib0@gmail.com"}],"modified":"2016-06-15T09:25:57.505Z","released":"2016-06-15T09:25:57.505Z","downloadsLastWeek":1}
+{
+	"name": "markfound",
+	"version": "0.2.2",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "dizzib",
+			"email": "dizzib0@gmail.com"
+		}
+	],
+	"modified": "2016-06-15T09:25:57.505Z",
+	"released": "2016-06-15T09:25:57.505Z",
+	"downloadsLastWeek": 1
+}

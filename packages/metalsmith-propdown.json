@@ -1,1 +1,14 @@
-{"name":"metalsmith-propdown","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"almirfilho","email":"almirflorenciofilho@gmail.com"}],"modified":"2016-05-10T19:38:32.622Z","released":"2016-05-10T19:38:32.622Z","downloadsLastWeek":1}
+{
+	"name": "metalsmith-propdown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "almirfilho",
+			"email": "almirflorenciofilho@gmail.com"
+		}
+	],
+	"modified": "2016-05-10T19:38:32.622Z",
+	"released": "2016-05-10T19:38:32.622Z",
+	"downloadsLastWeek": 1
+}

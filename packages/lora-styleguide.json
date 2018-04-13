@@ -1,1 +1,14 @@
-{"name":"lora-styleguide","version":"1.8.12","depVersion":"^0.3.3","maintainers":[{"name":"xiu","email":"chuxiuqiang@gmail.com"}],"modified":"2017-11-15T21:30:32.303Z","released":"2017-11-15T21:30:32.303Z","downloadsLastWeek":15}
+{
+	"name": "lora-styleguide",
+	"version": "1.8.12",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "xiu",
+			"email": "chuxiuqiang@gmail.com"
+		}
+	],
+	"modified": "2017-11-15T21:30:32.303Z",
+	"released": "2017-11-15T21:30:32.303Z",
+	"downloadsLastWeek": 15
+}

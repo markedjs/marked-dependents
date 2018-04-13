@@ -1,1 +1,14 @@
-{"name":"veria","version":"0.2.2","depVersion":"^0.3.2","maintainers":[{"name":"stevepapa","email":"sp@stevepapa.com"}],"modified":"2016-02-24T00:35:14.522Z","released":"2016-02-24T00:35:14.522Z","downloadsLastWeek":3}
+{
+	"name": "veria",
+	"version": "0.2.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "stevepapa",
+			"email": "sp@stevepapa.com"
+		}
+	],
+	"modified": "2016-02-24T00:35:14.522Z",
+	"released": "2016-02-24T00:35:14.522Z",
+	"downloadsLastWeek": 3
+}

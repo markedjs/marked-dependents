@@ -1,1 +1,38 @@
-{"name":"thinkful-ui","version":"3.0.2","depVersion":"^0.3.5","maintainers":[{"email":"t.ripley.peterson@gmail.com","name":"ripleyaffect"},{"email":"tatianatylosky@gmail.com","name":"tatianatylosky"},{"email":"saul@thinkful.com","name":"saool"},{"email":"benjamin.e.white1@gmail.com","name":"benjaminwhite"},{"email":"learykara@gmail.com","name":"learykara"},{"email":"tholex@gmail.com","name":"tholex"},{"email":"engineering@thinkful.com","name":"thinkful"}],"modified":"2017-11-13T15:20:12.087Z","released":"2017-10-17T00:53:12.757Z","downloadsLastWeek":430}
+{
+	"name": "thinkful-ui",
+	"version": "3.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"email": "t.ripley.peterson@gmail.com",
+			"name": "ripleyaffect"
+		},
+		{
+			"email": "tatianatylosky@gmail.com",
+			"name": "tatianatylosky"
+		},
+		{
+			"email": "saul@thinkful.com",
+			"name": "saool"
+		},
+		{
+			"email": "benjamin.e.white1@gmail.com",
+			"name": "benjaminwhite"
+		},
+		{
+			"email": "learykara@gmail.com",
+			"name": "learykara"
+		},
+		{
+			"email": "tholex@gmail.com",
+			"name": "tholex"
+		},
+		{
+			"email": "engineering@thinkful.com",
+			"name": "thinkful"
+		}
+	],
+	"modified": "2017-11-13T15:20:12.087Z",
+	"released": "2017-10-17T00:53:12.757Z",
+	"downloadsLastWeek": 430
+}

@@ -1,1 +1,14 @@
-{"name":"fms","version":"0.2.0","depVersion":"^0.3.3","maintainers":[{"name":"nimojs","email":"nimo.jser@gmail.com"}],"modified":"2017-08-21T12:27:48.485Z","released":"2017-03-01T06:12:03.285Z","downloadsLastWeek":7}
+{
+	"name": "fms",
+	"version": "0.2.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "nimojs",
+			"email": "nimo.jser@gmail.com"
+		}
+	],
+	"modified": "2017-08-21T12:27:48.485Z",
+	"released": "2017-03-01T06:12:03.285Z",
+	"downloadsLastWeek": 7
+}

@@ -1,1 +1,14 @@
-{"name":"atomdoc-md","version":"0.6.7","depVersion":"^0.3.5","maintainers":[{"name":"venkatperi","email":"venkatperi@gmail.com"}],"modified":"2016-05-26T17:55:52.385Z","released":"2016-05-26T17:55:52.385Z","downloadsLastWeek":2}
+{
+	"name": "atomdoc-md",
+	"version": "0.6.7",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "venkatperi",
+			"email": "venkatperi@gmail.com"
+		}
+	],
+	"modified": "2016-05-26T17:55:52.385Z",
+	"released": "2016-05-26T17:55:52.385Z",
+	"downloadsLastWeek": 2
+}

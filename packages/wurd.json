@@ -1,1 +1,14 @@
-{"name":"wurd","version":"6.0.0","depVersion":"^0.3.12","maintainers":[{"name":"powmedia","email":"charlie@powmedia.co.uk"}],"modified":"2018-01-29T17:01:24.578Z","released":"2018-01-29T17:01:03.614Z","downloadsLastWeek":23}
+{
+	"name": "wurd",
+	"version": "6.0.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "powmedia",
+			"email": "charlie@powmedia.co.uk"
+		}
+	],
+	"modified": "2018-01-29T17:01:24.578Z",
+	"released": "2018-01-29T17:01:03.614Z",
+	"downloadsLastWeek": 23
+}

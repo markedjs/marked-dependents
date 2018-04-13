@@ -1,1 +1,14 @@
-{"name":"metropolitan","version":"0.0.0","depVersion":"^0.3.9","maintainers":[{"name":"tobihrbr","email":"tobihrbr@gmail.com"}],"modified":"2018-01-01T15:54:07.046Z","released":"2018-01-01T15:54:07.046Z","downloadsLastWeek":1}
+{
+	"name": "metropolitan",
+	"version": "0.0.0",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "tobihrbr",
+			"email": "tobihrbr@gmail.com"
+		}
+	],
+	"modified": "2018-01-01T15:54:07.046Z",
+	"released": "2018-01-01T15:54:07.046Z",
+	"downloadsLastWeek": 1
+}

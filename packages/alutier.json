@@ -1,1 +1,14 @@
-{"name":"alutier","version":"1.0.0","depVersion":"^0.3.17","maintainers":[{"name":"alutier","email":"506507881@qq.com"}],"modified":"2018-03-15T16:06:49.328Z","released":"2018-03-15T16:06:48.844Z","downloadsLastWeek":1}
+{
+	"name": "alutier",
+	"version": "1.0.0",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "alutier",
+			"email": "506507881@qq.com"
+		}
+	],
+	"modified": "2018-03-15T16:06:49.328Z",
+	"released": "2018-03-15T16:06:48.844Z",
+	"downloadsLastWeek": 1
+}

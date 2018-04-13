@@ -1,1 +1,14 @@
-{"name":"githubpress","version":"0.0.38","depVersion":"^0.3.2","maintainers":[{"name":"cyclegtx","email":"83872309@qq.com"}],"modified":"2014-12-14T15:16:23.273Z","released":"2014-12-14T15:16:23.273Z","downloadsLastWeek":2}
+{
+	"name": "githubpress",
+	"version": "0.0.38",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "cyclegtx",
+			"email": "83872309@qq.com"
+		}
+	],
+	"modified": "2014-12-14T15:16:23.273Z",
+	"released": "2014-12-14T15:16:23.273Z",
+	"downloadsLastWeek": 2
+}

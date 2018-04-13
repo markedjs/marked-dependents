@@ -1,1 +1,14 @@
-{"name":"html-pdf-resume","version":"1.1.4","depVersion":"^0.3.6","maintainers":[{"name":"sumeetdas1992","email":"sumeetdas1992@gmail.com"}],"modified":"2017-06-11T20:13:19.290Z","released":"2017-06-11T20:13:19.290Z","downloadsLastWeek":2}
+{
+	"name": "html-pdf-resume",
+	"version": "1.1.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sumeetdas1992",
+			"email": "sumeetdas1992@gmail.com"
+		}
+	],
+	"modified": "2017-06-11T20:13:19.290Z",
+	"released": "2017-06-11T20:13:19.290Z",
+	"downloadsLastWeek": 2
+}

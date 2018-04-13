@@ -1,1 +1,14 @@
-{"name":"kofw-component","version":"1.0.13","depVersion":"^0.3.6","maintainers":[{"name":"yonyouyc","email":"songhlc@yonyou.com"}],"modified":"2017-04-12T10:42:41.525Z","released":"2017-04-12T10:42:41.525Z","downloadsLastWeek":1}
+{
+	"name": "kofw-component",
+	"version": "1.0.13",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yonyouyc",
+			"email": "songhlc@yonyou.com"
+		}
+	],
+	"modified": "2017-04-12T10:42:41.525Z",
+	"released": "2017-04-12T10:42:41.525Z",
+	"downloadsLastWeek": 1
+}

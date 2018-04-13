@@ -1,1 +1,14 @@
-{"name":"betterlife","version":"0.0.4","depVersion":"*","maintainers":[{"name":"xqliu","email":"redcamper@163.com"}],"modified":"2014-06-05T13:20:52.755Z","released":"2014-06-05T13:20:52.755Z","downloadsLastWeek":1}
+{
+	"name": "betterlife",
+	"version": "0.0.4",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "xqliu",
+			"email": "redcamper@163.com"
+		}
+	],
+	"modified": "2014-06-05T13:20:52.755Z",
+	"released": "2014-06-05T13:20:52.755Z",
+	"downloadsLastWeek": 1
+}

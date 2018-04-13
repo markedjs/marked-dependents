@@ -1,1 +1,14 @@
-{"name":"material-swagger-ui","version":"0.1.2","depVersion":"^0.3.6","maintainers":[{"name":"legendecas","email":"legendecas@gmail.com"}],"modified":"2017-05-11T06:14:35.301Z","released":"2017-05-11T06:14:35.301Z","downloadsLastWeek":3}
+{
+	"name": "material-swagger-ui",
+	"version": "0.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "legendecas",
+			"email": "legendecas@gmail.com"
+		}
+	],
+	"modified": "2017-05-11T06:14:35.301Z",
+	"released": "2017-05-11T06:14:35.301Z",
+	"downloadsLastWeek": 3
+}

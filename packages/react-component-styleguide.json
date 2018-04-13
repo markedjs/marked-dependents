@@ -1,1 +1,22 @@
-{"name":"react-component-styleguide","version":"0.0.49","depVersion":"^0.3.5","maintainers":[{"name":"dharper","email":"dharper@digitalriver.com"},{"name":"nogs","email":"nathanes@gmail.com"},{"name":"scvnathan","email":"nschneirov@digitalriver.com"}],"modified":"2016-11-28T17:13:46.749Z","released":"2016-11-28T17:13:46.749Z","downloadsLastWeek":7}
+{
+	"name": "react-component-styleguide",
+	"version": "0.0.49",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dharper",
+			"email": "dharper@digitalriver.com"
+		},
+		{
+			"name": "nogs",
+			"email": "nathanes@gmail.com"
+		},
+		{
+			"name": "scvnathan",
+			"email": "nschneirov@digitalriver.com"
+		}
+	],
+	"modified": "2016-11-28T17:13:46.749Z",
+	"released": "2016-11-28T17:13:46.749Z",
+	"downloadsLastWeek": 7
+}

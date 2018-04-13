@@ -1,1 +1,14 @@
-{"name":"markdown-live","version":"1.0.8","depVersion":"^0.3.2","maintainers":[{"name":"mobily","email":"hello@mobily.pl"}],"modified":"2015-01-17T19:46:14.204Z","released":"2015-01-17T19:46:14.204Z","downloadsLastWeek":53}
+{
+	"name": "markdown-live",
+	"version": "1.0.8",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "mobily",
+			"email": "hello@mobily.pl"
+		}
+	],
+	"modified": "2015-01-17T19:46:14.204Z",
+	"released": "2015-01-17T19:46:14.204Z",
+	"downloadsLastWeek": 53
+}

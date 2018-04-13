@@ -1,1 +1,14 @@
-{"name":"node-sassdown","version":"0.0.6","depVersion":"0.3.5","maintainers":[{"name":"dwightjack","email":"marco.solazzi@gmail.com"}],"modified":"2015-11-06T16:33:31.292Z","released":"2015-11-06T16:33:31.292Z","downloadsLastWeek":2}
+{
+	"name": "node-sassdown",
+	"version": "0.0.6",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "dwightjack",
+			"email": "marco.solazzi@gmail.com"
+		}
+	],
+	"modified": "2015-11-06T16:33:31.292Z",
+	"released": "2015-11-06T16:33:31.292Z",
+	"downloadsLastWeek": 2
+}

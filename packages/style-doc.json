@@ -1,1 +1,14 @@
-{"name":"style-doc","version":"0.2.3","depVersion":"0.3.2","maintainers":[{"name":"ryanzec","email":"code@ryanzec.com"}],"modified":"2014-08-27T22:15:56.284Z","released":"2014-08-27T22:15:56.284Z","downloadsLastWeek":11}
+{
+	"name": "style-doc",
+	"version": "0.2.3",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "ryanzec",
+			"email": "code@ryanzec.com"
+		}
+	],
+	"modified": "2014-08-27T22:15:56.284Z",
+	"released": "2014-08-27T22:15:56.284Z",
+	"downloadsLastWeek": 11
+}

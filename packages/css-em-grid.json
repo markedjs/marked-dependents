@@ -1,1 +1,14 @@
-{"name":"css-em-grid","version":"0.1.0","depVersion":"~0.3.2","maintainers":[{"name":"robmuh","email":"rob@skilstak.com"}],"modified":"2014-05-12T01:12:58.434Z","released":"2014-05-12T01:12:58.434Z","downloadsLastWeek":2}
+{
+	"name": "css-em-grid",
+	"version": "0.1.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "robmuh",
+			"email": "rob@skilstak.com"
+		}
+	],
+	"modified": "2014-05-12T01:12:58.434Z",
+	"released": "2014-05-12T01:12:58.434Z",
+	"downloadsLastWeek": 2
+}

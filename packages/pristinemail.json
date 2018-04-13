@@ -1,1 +1,14 @@
-{"name":"pristinemail","version":"1.0.13","depVersion":"^0.3.6","maintainers":[{"name":"treyhuffine","email":"treyhuffine@gmail.com"}],"modified":"2017-01-08T21:04:57.213Z","released":"2017-01-08T21:04:57.213Z","downloadsLastWeek":2}
+{
+	"name": "pristinemail",
+	"version": "1.0.13",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "treyhuffine",
+			"email": "treyhuffine@gmail.com"
+		}
+	],
+	"modified": "2017-01-08T21:04:57.213Z",
+	"released": "2017-01-08T21:04:57.213Z",
+	"downloadsLastWeek": 2
+}

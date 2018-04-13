@@ -1,1 +1,14 @@
-{"name":"marked-metadata-with-options","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"matthewbdaly","email":"matthewbdaly@gmail.com"}],"modified":"2015-01-17T15:16:12.213Z","released":"2015-01-17T15:16:12.213Z","downloadsLastWeek":1}
+{
+	"name": "marked-metadata-with-options",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "matthewbdaly",
+			"email": "matthewbdaly@gmail.com"
+		}
+	],
+	"modified": "2015-01-17T15:16:12.213Z",
+	"released": "2015-01-17T15:16:12.213Z",
+	"downloadsLastWeek": 1
+}

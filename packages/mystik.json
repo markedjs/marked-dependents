@@ -1,1 +1,14 @@
-{"name":"mystik","version":"0.1.0-alpha.3","depVersion":"^0.3.2","maintainers":[{"name":"mattpwest","email":"mattpwest@gmail.com"}],"modified":"2014-08-05T07:17:21.265Z","released":"2014-08-05T07:17:21.265Z","downloadsLastWeek":1}
+{
+	"name": "mystik",
+	"version": "0.1.0-alpha.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "mattpwest",
+			"email": "mattpwest@gmail.com"
+		}
+	],
+	"modified": "2014-08-05T07:17:21.265Z",
+	"released": "2014-08-05T07:17:21.265Z",
+	"downloadsLastWeek": 1
+}

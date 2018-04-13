@@ -1,1 +1,14 @@
-{"name":"citare-scriptum","version":"0.5.8","depVersion":"0.2.9","maintainers":[{"name":"druide","email":"ingvuil@gmail.com"}],"modified":"2014-08-08T11:22:28.488Z","released":"2014-08-08T11:22:28.488Z","downloadsLastWeek":2}
+{
+	"name": "citare-scriptum",
+	"version": "0.5.8",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "druide",
+			"email": "ingvuil@gmail.com"
+		}
+	],
+	"modified": "2014-08-08T11:22:28.488Z",
+	"released": "2014-08-08T11:22:28.488Z",
+	"downloadsLastWeek": 2
+}

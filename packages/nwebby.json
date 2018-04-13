@@ -1,1 +1,14 @@
-{"name":"nwebby","version":"1.0.1","depVersion":"^0.3.2","maintainers":[{"name":"jedi4ever","email":"Patrick.Debois@jedi.be"}],"modified":"2015-01-05T20:16:21.421Z","released":"2015-01-05T20:16:21.421Z","downloadsLastWeek":2}
+{
+	"name": "nwebby",
+	"version": "1.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "jedi4ever",
+			"email": "Patrick.Debois@jedi.be"
+		}
+	],
+	"modified": "2015-01-05T20:16:21.421Z",
+	"released": "2015-01-05T20:16:21.421Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"nodeworks","version":"0.0.1-beta-19","depVersion":"*","maintainers":[{"name":"rabchev","email":"boyan@rabchev.com"}],"modified":"2013-07-03T07:04:13.581Z","released":"2013-07-03T07:04:13.581Z","downloadsLastWeek":1}
+{
+	"name": "nodeworks",
+	"version": "0.0.1-beta-19",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "rabchev",
+			"email": "boyan@rabchev.com"
+		}
+	],
+	"modified": "2013-07-03T07:04:13.581Z",
+	"released": "2013-07-03T07:04:13.581Z",
+	"downloadsLastWeek": 1
+}

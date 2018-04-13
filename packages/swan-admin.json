@@ -1,1 +1,14 @@
-{"name":"swan-admin","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"cisneiros","email":"alexandre@cisneiros.com"}],"modified":"2016-12-01T00:07:00.541Z","released":"2015-07-10T17:30:17.257Z","downloadsLastWeek":21}
+{
+	"name": "swan-admin",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "cisneiros",
+			"email": "alexandre@cisneiros.com"
+		}
+	],
+	"modified": "2016-12-01T00:07:00.541Z",
+	"released": "2015-07-10T17:30:17.257Z",
+	"downloadsLastWeek": 21
+}

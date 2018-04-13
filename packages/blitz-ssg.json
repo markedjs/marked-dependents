@@ -1,1 +1,14 @@
-{"name":"blitz-ssg","version":"0.1.5","depVersion":"^0.3.6","maintainers":[{"name":"timbokz","email":"tim.kuzh@gmail.com"}],"modified":"2016-11-27T01:58:07.509Z","released":"2016-11-27T01:58:07.509Z","downloadsLastWeek":2}
+{
+	"name": "blitz-ssg",
+	"version": "0.1.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "timbokz",
+			"email": "tim.kuzh@gmail.com"
+		}
+	],
+	"modified": "2016-11-27T01:58:07.509Z",
+	"released": "2016-11-27T01:58:07.509Z",
+	"downloadsLastWeek": 2
+}

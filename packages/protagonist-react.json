@@ -1,1 +1,14 @@
-{"name":"protagonist-react","version":"0.1.11","depVersion":"0.3.6","maintainers":[{"name":"pgdejardin","email":"paulguillaume.dejardin@gmail.com"}],"modified":"2017-08-22T09:56:45.747Z","released":"2017-08-22T09:56:45.747Z","downloadsLastWeek":2}
+{
+	"name": "protagonist-react",
+	"version": "0.1.11",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "pgdejardin",
+			"email": "paulguillaume.dejardin@gmail.com"
+		}
+	],
+	"modified": "2017-08-22T09:56:45.747Z",
+	"released": "2017-08-22T09:56:45.747Z",
+	"downloadsLastWeek": 2
+}

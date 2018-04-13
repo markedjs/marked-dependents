@@ -1,1 +1,14 @@
-{"name":"fait-doc","version":"1.3.0","depVersion":"^0.3.5","maintainers":[{"name":"quarterto","email":"mwr.brennan@gmail.com"}],"modified":"2016-12-09T16:52:46.898Z","released":"2016-12-09T16:52:46.898Z","downloadsLastWeek":1}
+{
+	"name": "fait-doc",
+	"version": "1.3.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "quarterto",
+			"email": "mwr.brennan@gmail.com"
+		}
+	],
+	"modified": "2016-12-09T16:52:46.898Z",
+	"released": "2016-12-09T16:52:46.898Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"meshnet-dot-works-blog","version":"1.0.0","depVersion":"^0.3.3","maintainers":[{"name":"ralphtheninja","email":"ralphtheninja@riseup.net"}],"modified":"2015-07-05T23:31:39.174Z","released":"2015-07-05T23:31:39.174Z","downloadsLastWeek":1}
+{
+	"name": "meshnet-dot-works-blog",
+	"version": "1.0.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "ralphtheninja",
+			"email": "ralphtheninja@riseup.net"
+		}
+	],
+	"modified": "2015-07-05T23:31:39.174Z",
+	"released": "2015-07-05T23:31:39.174Z",
+	"downloadsLastWeek": 1
+}

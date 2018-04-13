@@ -1,1 +1,14 @@
-{"name":"grunt-tocdoc","version":"0.1.1","depVersion":"~0.2.10","maintainers":[{"name":"joshuacc","email":"joshua.clanton@gmail.com"}],"modified":"2014-08-28T18:18:56.127Z","released":"2014-08-28T18:18:56.127Z","downloadsLastWeek":4}
+{
+	"name": "grunt-tocdoc",
+	"version": "0.1.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "joshuacc",
+			"email": "joshua.clanton@gmail.com"
+		}
+	],
+	"modified": "2014-08-28T18:18:56.127Z",
+	"released": "2014-08-28T18:18:56.127Z",
+	"downloadsLastWeek": 4
+}

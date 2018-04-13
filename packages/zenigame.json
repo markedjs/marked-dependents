@@ -1,1 +1,14 @@
-{"name":"zenigame","version":"0.0.2","depVersion":"^0.3.3","maintainers":[{"name":"ideyuta","email":"ide.yuta@gmail.com"}],"modified":"2015-11-25T08:39:49.276Z","released":"2015-11-25T08:39:49.276Z","downloadsLastWeek":5}
+{
+	"name": "zenigame",
+	"version": "0.0.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "ideyuta",
+			"email": "ide.yuta@gmail.com"
+		}
+	],
+	"modified": "2015-11-25T08:39:49.276Z",
+	"released": "2015-11-25T08:39:49.276Z",
+	"downloadsLastWeek": 5
+}

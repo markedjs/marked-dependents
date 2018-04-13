@@ -1,1 +1,14 @@
-{"name":"grunt-pages","version":"0.11.2","depVersion":"~0.3.0","maintainers":[{"name":"chriswren","email":"chris@chrisawren.com"}],"modified":"2014-07-08T17:06:50.786Z","released":"2014-07-08T17:06:50.786Z","downloadsLastWeek":23}
+{
+	"name": "grunt-pages",
+	"version": "0.11.2",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "chriswren",
+			"email": "chris@chrisawren.com"
+		}
+	],
+	"modified": "2014-07-08T17:06:50.786Z",
+	"released": "2014-07-08T17:06:50.786Z",
+	"downloadsLastWeek": 23
+}

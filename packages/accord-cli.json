@@ -1,1 +1,14 @@
-{"name":"accord-cli","version":"0.0.2","depVersion":"*","maintainers":[{"name":"jescalan","email":"npm.je@mailhero.io"}],"modified":"2016-08-08T18:58:10.059Z","released":"2014-04-03T19:56:51.007Z","downloadsLastWeek":2}
+{
+	"name": "accord-cli",
+	"version": "0.0.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "jescalan",
+			"email": "npm.je@mailhero.io"
+		}
+	],
+	"modified": "2016-08-08T18:58:10.059Z",
+	"released": "2014-04-03T19:56:51.007Z",
+	"downloadsLastWeek": 2
+}

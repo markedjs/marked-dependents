@@ -1,1 +1,14 @@
-{"name":"qidi123","version":"1.0.2","depVersion":"^0.3.6","maintainers":[{"name":"18829488501","email":"107235114@qq.com"}],"modified":"2017-09-18T03:08:19.198Z","released":"2017-09-18T03:08:19.198Z","downloadsLastWeek":2}
+{
+	"name": "qidi123",
+	"version": "1.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "18829488501",
+			"email": "107235114@qq.com"
+		}
+	],
+	"modified": "2017-09-18T03:08:19.198Z",
+	"released": "2017-09-18T03:08:19.198Z",
+	"downloadsLastWeek": 2
+}

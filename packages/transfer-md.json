@@ -1,1 +1,14 @@
-{"name":"transfer-md","version":"0.0.3","depVersion":"^0.3.6","maintainers":[{"name":"xqian","email":"qianlihui868686@126.com"}],"modified":"2016-09-11T07:22:36.713Z","released":"2016-09-11T07:22:36.713Z","downloadsLastWeek":7}
+{
+	"name": "transfer-md",
+	"version": "0.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "xqian",
+			"email": "qianlihui868686@126.com"
+		}
+	],
+	"modified": "2016-09-11T07:22:36.713Z",
+	"released": "2016-09-11T07:22:36.713Z",
+	"downloadsLastWeek": 7
+}

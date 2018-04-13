@@ -1,1 +1,14 @@
-{"name":"sunday-press","version":"0.0.0-alpha","depVersion":"^0.3.3","maintainers":[{"name":"picas","email":"me@picas.fr"}],"modified":"2016-02-15T19:26:47.606Z","released":"2015-03-30T07:30:11.155Z","downloadsLastWeek":3}
+{
+	"name": "sunday-press",
+	"version": "0.0.0-alpha",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "picas",
+			"email": "me@picas.fr"
+		}
+	],
+	"modified": "2016-02-15T19:26:47.606Z",
+	"released": "2015-03-30T07:30:11.155Z",
+	"downloadsLastWeek": 3
+}

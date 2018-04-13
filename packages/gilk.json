@@ -1,1 +1,14 @@
-{"name":"gilk","version":"0.3.1","depVersion":"~0.3.3","maintainers":[{"name":"pjfh","email":"peter.hancock@gmail.com"}],"modified":"2015-08-21T09:23:20.916Z","released":"2015-08-21T09:23:20.916Z","downloadsLastWeek":1}
+{
+	"name": "gilk",
+	"version": "0.3.1",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "pjfh",
+			"email": "peter.hancock@gmail.com"
+		}
+	],
+	"modified": "2015-08-21T09:23:20.916Z",
+	"released": "2015-08-21T09:23:20.916Z",
+	"downloadsLastWeek": 1
+}

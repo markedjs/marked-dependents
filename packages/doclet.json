@@ -1,1 +1,14 @@
-{"name":"doclet","version":"0.1.1","depVersion":"=0.3.2","maintainers":[{"name":"yc","email":"yinso.chen@gmail.com"}],"modified":"2014-11-29T23:30:48.672Z","released":"2014-11-29T23:30:48.672Z","downloadsLastWeek":1}
+{
+	"name": "doclet",
+	"version": "0.1.1",
+	"depVersion": "=0.3.2",
+	"maintainers": [
+		{
+			"name": "yc",
+			"email": "yinso.chen@gmail.com"
+		}
+	],
+	"modified": "2014-11-29T23:30:48.672Z",
+	"released": "2014-11-29T23:30:48.672Z",
+	"downloadsLastWeek": 1
+}

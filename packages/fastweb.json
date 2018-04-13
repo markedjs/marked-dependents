@@ -1,1 +1,14 @@
-{"name":"fastweb","version":"1.1.2","depVersion":"^0.3.6","maintainers":[{"name":"yuhonyon","email":"975057282@qq.com"}],"modified":"2017-11-30T08:46:55.916Z","released":"2017-11-30T08:46:55.916Z","downloadsLastWeek":1}
+{
+	"name": "fastweb",
+	"version": "1.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yuhonyon",
+			"email": "975057282@qq.com"
+		}
+	],
+	"modified": "2017-11-30T08:46:55.916Z",
+	"released": "2017-11-30T08:46:55.916Z",
+	"downloadsLastWeek": 1
+}

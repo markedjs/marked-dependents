@@ -1,1 +1,14 @@
-{"name":"readme_md","version":"0.0.3","depVersion":"^0.3.6","maintainers":[{"name":"mtso","email":"mtso@tuta.io"}],"modified":"2017-06-15T04:20:28.528Z","released":"2017-06-15T04:20:28.528Z","downloadsLastWeek":6}
+{
+	"name": "readme_md",
+	"version": "0.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "mtso",
+			"email": "mtso@tuta.io"
+		}
+	],
+	"modified": "2017-06-15T04:20:28.528Z",
+	"released": "2017-06-15T04:20:28.528Z",
+	"downloadsLastWeek": 6
+}

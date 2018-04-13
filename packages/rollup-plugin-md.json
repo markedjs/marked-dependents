@@ -1,1 +1,14 @@
-{"name":"rollup-plugin-md","version":"0.0.7","depVersion":"^0.3.6","maintainers":[{"name":"yangxiaofu","email":"yangxiaofuPL@163.com"}],"modified":"2016-08-12T05:58:28.023Z","released":"2016-08-12T05:58:28.023Z","downloadsLastWeek":30}
+{
+	"name": "rollup-plugin-md",
+	"version": "0.0.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yangxiaofu",
+			"email": "yangxiaofuPL@163.com"
+		}
+	],
+	"modified": "2016-08-12T05:58:28.023Z",
+	"released": "2016-08-12T05:58:28.023Z",
+	"downloadsLastWeek": 30
+}

@@ -1,1 +1,18 @@
-{"name":"graphcool-cli-engine","version":"0.9.13","depVersion":"^0.3.6","maintainers":[{"name":"schickling","email":"schickling.j@gmail.com"},{"name":"timsuchanek","email":"tim.suchanek@gmail.com"}],"modified":"2018-01-15T14:20:08.876Z","released":"2018-01-12T16:19:20.237Z","downloadsLastWeek":1032}
+{
+	"name": "graphcool-cli-engine",
+	"version": "0.9.13",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "schickling",
+			"email": "schickling.j@gmail.com"
+		},
+		{
+			"name": "timsuchanek",
+			"email": "tim.suchanek@gmail.com"
+		}
+	],
+	"modified": "2018-01-15T14:20:08.876Z",
+	"released": "2018-01-12T16:19:20.237Z",
+	"downloadsLastWeek": 1032
+}

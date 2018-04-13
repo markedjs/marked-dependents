@@ -1,1 +1,14 @@
-{"name":"gulp-markdown-livereload","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"name":"i5ting","email":"shiren1118@126.com"}],"modified":"2014-08-29T15:19:41.089Z","released":"2014-08-29T15:19:41.089Z","downloadsLastWeek":3}
+{
+	"name": "gulp-markdown-livereload",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "i5ting",
+			"email": "shiren1118@126.com"
+		}
+	],
+	"modified": "2014-08-29T15:19:41.089Z",
+	"released": "2014-08-29T15:19:41.089Z",
+	"downloadsLastWeek": 3
+}

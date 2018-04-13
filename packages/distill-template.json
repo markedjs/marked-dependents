@@ -1,1 +1,14 @@
-{"name":"distill-template","version":"1.1.0","depVersion":"^0.3.6","maintainers":[{"name":"shancarter","email":"shanjcarter@gmail.com"}],"modified":"2017-06-16T17:35:13.809Z","released":"2017-06-16T17:35:13.809Z","downloadsLastWeek":8}
+{
+	"name": "distill-template",
+	"version": "1.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "shancarter",
+			"email": "shanjcarter@gmail.com"
+		}
+	],
+	"modified": "2017-06-16T17:35:13.809Z",
+	"released": "2017-06-16T17:35:13.809Z",
+	"downloadsLastWeek": 8
+}

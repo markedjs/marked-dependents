@@ -1,1 +1,14 @@
-{"name":"mddy","version":"1.0.1","depVersion":"0.3.2","maintainers":[{"name":"mmarcon","email":"me@marcon.me"}],"modified":"2014-08-18T17:03:38.398Z","released":"2014-08-18T17:03:38.398Z","downloadsLastWeek":1}
+{
+	"name": "mddy",
+	"version": "1.0.1",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "mmarcon",
+			"email": "me@marcon.me"
+		}
+	],
+	"modified": "2014-08-18T17:03:38.398Z",
+	"released": "2014-08-18T17:03:38.398Z",
+	"downloadsLastWeek": 1
+}

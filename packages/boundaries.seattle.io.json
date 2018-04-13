@@ -1,1 +1,14 @@
-{"name":"boundaries.seattle.io","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"sethvincent","email":"sethvincent@gmail.com"}],"modified":"2016-03-03T03:35:06.610Z","released":"2016-03-03T03:35:06.610Z","downloadsLastWeek":1}
+{
+	"name": "boundaries.seattle.io",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "sethvincent",
+			"email": "sethvincent@gmail.com"
+		}
+	],
+	"modified": "2016-03-03T03:35:06.610Z",
+	"released": "2016-03-03T03:35:06.610Z",
+	"downloadsLastWeek": 1
+}

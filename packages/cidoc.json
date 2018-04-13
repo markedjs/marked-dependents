@@ -1,1 +1,14 @@
-{"name":"cidoc","version":"1.0.6","depVersion":"^0.3.3","maintainers":[{"name":"nchanged","email":"nchanged@gmail.com"}],"modified":"2015-04-10T12:49:34.606Z","released":"2015-04-10T12:49:34.606Z","downloadsLastWeek":1}
+{
+	"name": "cidoc",
+	"version": "1.0.6",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "nchanged",
+			"email": "nchanged@gmail.com"
+		}
+	],
+	"modified": "2015-04-10T12:49:34.606Z",
+	"released": "2015-04-10T12:49:34.606Z",
+	"downloadsLastWeek": 1
+}

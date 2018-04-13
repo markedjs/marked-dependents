@@ -1,1 +1,14 @@
-{"name":"gmapi","version":"0.0.1","depVersion":"~0.3.0","maintainers":[{"name":"woshifyz","email":"monkey.d.pandora@gmail.com"}],"modified":"2014-09-05T09:02:00.750Z","released":"2014-09-05T09:02:00.750Z","downloadsLastWeek":1}
+{
+	"name": "gmapi",
+	"version": "0.0.1",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "woshifyz",
+			"email": "monkey.d.pandora@gmail.com"
+		}
+	],
+	"modified": "2014-09-05T09:02:00.750Z",
+	"released": "2014-09-05T09:02:00.750Z",
+	"downloadsLastWeek": 1
+}

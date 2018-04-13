@@ -1,1 +1,14 @@
-{"name":"react-spa","version":"0.0.1","depVersion":"^0.3.3","maintainers":[{"name":"wridder","email":"wilbert.ridder+npm@gmail.com"}],"modified":"2015-02-28T10:14:00.651Z","released":"2015-02-28T10:14:00.651Z","downloadsLastWeek":3}
+{
+	"name": "react-spa",
+	"version": "0.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "wridder",
+			"email": "wilbert.ridder+npm@gmail.com"
+		}
+	],
+	"modified": "2015-02-28T10:14:00.651Z",
+	"released": "2015-02-28T10:14:00.651Z",
+	"downloadsLastWeek": 3
+}

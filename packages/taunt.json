@@ -1,1 +1,14 @@
-{"name":"taunt","version":"0.1.0","depVersion":"0.3.x","maintainers":[{"name":"henninghoyer","email":"henning@henninghoyer.com"}],"modified":"2014-01-08T13:58:54.180Z","released":"2014-01-08T13:58:54.180Z","downloadsLastWeek":3}
+{
+	"name": "taunt",
+	"version": "0.1.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "henninghoyer",
+			"email": "henning@henninghoyer.com"
+		}
+	],
+	"modified": "2014-01-08T13:58:54.180Z",
+	"released": "2014-01-08T13:58:54.180Z",
+	"downloadsLastWeek": 3
+}

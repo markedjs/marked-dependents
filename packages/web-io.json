@@ -1,1 +1,14 @@
-{"name":"web-io","version":"0.0.0","depVersion":"^0.3.6","maintainers":[{"name":"habemus","email":"simonxd@gmail.com"}],"modified":"2017-04-10T22:32:04.513Z","released":"2017-04-10T22:32:04.513Z","downloadsLastWeek":5}
+{
+	"name": "web-io",
+	"version": "0.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "habemus",
+			"email": "simonxd@gmail.com"
+		}
+	],
+	"modified": "2017-04-10T22:32:04.513Z",
+	"released": "2017-04-10T22:32:04.513Z",
+	"downloadsLastWeek": 5
+}

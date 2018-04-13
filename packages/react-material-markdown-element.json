@@ -1,1 +1,14 @@
-{"name":"react-material-markdown-element","version":"1.0.0","depVersion":"0.3.6","maintainers":[{"name":"livioso","email":"contact@livio.li"}],"modified":"2017-03-13T10:45:25.465Z","released":"2016-11-01T13:53:36.728Z","downloadsLastWeek":3}
+{
+	"name": "react-material-markdown-element",
+	"version": "1.0.0",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "livioso",
+			"email": "contact@livio.li"
+		}
+	],
+	"modified": "2017-03-13T10:45:25.465Z",
+	"released": "2016-11-01T13:53:36.728Z",
+	"downloadsLastWeek": 3
+}

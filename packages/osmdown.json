@@ -1,1 +1,14 @@
-{"name":"osmdown","version":"1.0.2","depVersion":"^0.3.3","maintainers":[{"name":"jenningsanderson","email":"jennings.anderson@colorado.edu"}],"modified":"2015-04-15T17:38:58.995Z","released":"2015-04-15T17:38:58.995Z","downloadsLastWeek":1}
+{
+	"name": "osmdown",
+	"version": "1.0.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "jenningsanderson",
+			"email": "jennings.anderson@colorado.edu"
+		}
+	],
+	"modified": "2015-04-15T17:38:58.995Z",
+	"released": "2015-04-15T17:38:58.995Z",
+	"downloadsLastWeek": 1
+}

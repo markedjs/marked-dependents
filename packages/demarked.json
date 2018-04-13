@@ -1,1 +1,14 @@
-{"name":"demarked","version":"0.0.4","depVersion":"^0.3.12","maintainers":[{"name":"h4","email":"mikhail.baranov@gmail.com"}],"modified":"2018-01-09T11:28:06.946Z","released":"2018-01-09T11:28:06.946Z","downloadsLastWeek":2}
+{
+	"name": "demarked",
+	"version": "0.0.4",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "h4",
+			"email": "mikhail.baranov@gmail.com"
+		}
+	],
+	"modified": "2018-01-09T11:28:06.946Z",
+	"released": "2018-01-09T11:28:06.946Z",
+	"downloadsLastWeek": 2
+}

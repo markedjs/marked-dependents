@@ -1,1 +1,22 @@
-{"name":"asimov-static","version":"2.2.3","depVersion":"^0.3.3","maintainers":[{"name":"adamrenklint","email":"adam@renklint.com"},{"name":"raymondmayjr","email":"raymondmay@gmail.com"},{"name":"mlabod","email":"marvin@6wunderkinder.com"}],"modified":"2015-11-19T16:41:49.524Z","released":"2015-11-19T16:41:49.524Z","downloadsLastWeek":2}
+{
+	"name": "asimov-static",
+	"version": "2.2.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "adamrenklint",
+			"email": "adam@renklint.com"
+		},
+		{
+			"name": "raymondmayjr",
+			"email": "raymondmay@gmail.com"
+		},
+		{
+			"name": "mlabod",
+			"email": "marvin@6wunderkinder.com"
+		}
+	],
+	"modified": "2015-11-19T16:41:49.524Z",
+	"released": "2015-11-19T16:41:49.524Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"dat-website","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"karissa","email":"krmckelv@gmail.com"}],"modified":"2015-08-27T20:42:37.233Z","released":"2015-08-27T20:42:37.233Z","downloadsLastWeek":1}
+{
+	"name": "dat-website",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "karissa",
+			"email": "krmckelv@gmail.com"
+		}
+	],
+	"modified": "2015-08-27T20:42:37.233Z",
+	"released": "2015-08-27T20:42:37.233Z",
+	"downloadsLastWeek": 1
+}

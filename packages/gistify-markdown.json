@@ -1,1 +1,14 @@
-{"name":"gistify-markdown","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"killavus","email":"killavus@gmail.com"}],"modified":"2016-07-09T02:18:37.441Z","released":"2016-07-09T02:18:37.441Z","downloadsLastWeek":1}
+{
+	"name": "gistify-markdown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "killavus",
+			"email": "killavus@gmail.com"
+		}
+	],
+	"modified": "2016-07-09T02:18:37.441Z",
+	"released": "2016-07-09T02:18:37.441Z",
+	"downloadsLastWeek": 1
+}

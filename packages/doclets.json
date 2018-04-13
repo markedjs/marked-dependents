@@ -1,1 +1,14 @@
-{"name":"doclets","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"lipp","email":"gelipp@gmail.com"}],"modified":"2015-12-22T21:22:19.756Z","released":"2015-12-22T21:22:19.756Z","downloadsLastWeek":2}
+{
+	"name": "doclets",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "lipp",
+			"email": "gelipp@gmail.com"
+		}
+	],
+	"modified": "2015-12-22T21:22:19.756Z",
+	"released": "2015-12-22T21:22:19.756Z",
+	"downloadsLastWeek": 2
+}

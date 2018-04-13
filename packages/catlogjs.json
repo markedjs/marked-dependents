@@ -1,1 +1,14 @@
-{"name":"catlogjs","version":"0.1.10","depVersion":"~0.2.8","maintainers":[{"name":"cattail","email":"zhongchiyu@gmail.com"}],"modified":"2014-04-17T15:11:46.781Z","released":"2014-04-17T15:11:46.781Z","downloadsLastWeek":1}
+{
+	"name": "catlogjs",
+	"version": "0.1.10",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "cattail",
+			"email": "zhongchiyu@gmail.com"
+		}
+	],
+	"modified": "2014-04-17T15:11:46.781Z",
+	"released": "2014-04-17T15:11:46.781Z",
+	"downloadsLastWeek": 1
+}

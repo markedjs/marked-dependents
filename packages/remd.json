@@ -1,1 +1,14 @@
-{"name":"remd","version":"1.0.3","depVersion":"^0.3.6","maintainers":[{"name":"gwuhaolin","email":"gwuhaolin@gmail.com"}],"modified":"2017-06-08T08:34:52.873Z","released":"2017-06-08T08:34:52.873Z","downloadsLastWeek":10}
+{
+	"name": "remd",
+	"version": "1.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "gwuhaolin",
+			"email": "gwuhaolin@gmail.com"
+		}
+	],
+	"modified": "2017-06-08T08:34:52.873Z",
+	"released": "2017-06-08T08:34:52.873Z",
+	"downloadsLastWeek": 10
+}

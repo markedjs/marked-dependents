@@ -1,1 +1,14 @@
-{"name":"fishdoc","version":"1.0.4","depVersion":">=0.3.5","maintainers":[{"name":"litarvan","email":"adrien1975@live.fr"}],"modified":"2016-03-01T22:04:06.854Z","released":"2016-03-01T22:04:06.854Z","downloadsLastWeek":1}
+{
+	"name": "fishdoc",
+	"version": "1.0.4",
+	"depVersion": ">=0.3.5",
+	"maintainers": [
+		{
+			"name": "litarvan",
+			"email": "adrien1975@live.fr"
+		}
+	],
+	"modified": "2016-03-01T22:04:06.854Z",
+	"released": "2016-03-01T22:04:06.854Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"markon","version":"0.1.1","depVersion":"^0.3.3","maintainers":[{"name":"hitsujiwool","email":"utatanenohibi@gmail.com"}],"modified":"2015-04-25T00:54:08.900Z","released":"2015-04-25T00:54:08.900Z","downloadsLastWeek":1}
+{
+	"name": "markon",
+	"version": "0.1.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "hitsujiwool",
+			"email": "utatanenohibi@gmail.com"
+		}
+	],
+	"modified": "2015-04-25T00:54:08.900Z",
+	"released": "2015-04-25T00:54:08.900Z",
+	"downloadsLastWeek": 1
+}

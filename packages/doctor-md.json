@@ -1,1 +1,14 @@
-{"name":"doctor-md","version":"0.2.6","depVersion":"0.3.3","maintainers":[{"name":"dimitarchristoff","email":"christoff@gmail.com"}],"modified":"2015-03-06T17:57:05.983Z","released":"2015-03-06T17:57:05.983Z","downloadsLastWeek":3}
+{
+	"name": "doctor-md",
+	"version": "0.2.6",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "dimitarchristoff",
+			"email": "christoff@gmail.com"
+		}
+	],
+	"modified": "2015-03-06T17:57:05.983Z",
+	"released": "2015-03-06T17:57:05.983Z",
+	"downloadsLastWeek": 3
+}

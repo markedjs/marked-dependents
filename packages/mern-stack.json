@@ -1,1 +1,14 @@
-{"name":"mern-stack","version":"0.2.5","depVersion":"^0.3.6","maintainers":[{"name":"dewarama-mitrais","email":"idewagede.rama@mitrais.com"}],"modified":"2017-09-14T08:01:15.587Z","released":"2017-09-14T08:01:15.587Z","downloadsLastWeek":3}
+{
+	"name": "mern-stack",
+	"version": "0.2.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "dewarama-mitrais",
+			"email": "idewagede.rama@mitrais.com"
+		}
+	],
+	"modified": "2017-09-14T08:01:15.587Z",
+	"released": "2017-09-14T08:01:15.587Z",
+	"downloadsLastWeek": 3
+}

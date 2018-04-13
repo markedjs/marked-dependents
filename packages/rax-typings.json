@@ -1,1 +1,14 @@
-{"name":"rax-typings","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"barretlee","email":"barret.china@gmail.com"}],"modified":"2017-10-16T04:04:23.988Z","released":"2017-10-16T04:04:23.988Z","downloadsLastWeek":2}
+{
+	"name": "rax-typings",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "barretlee",
+			"email": "barret.china@gmail.com"
+		}
+	],
+	"modified": "2017-10-16T04:04:23.988Z",
+	"released": "2017-10-16T04:04:23.988Z",
+	"downloadsLastWeek": 2
+}

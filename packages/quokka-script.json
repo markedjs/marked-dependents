@@ -1,1 +1,14 @@
-{"name":"quokka-script","version":"3.0.0","depVersion":"*","maintainers":[{"name":"zibx","email":"zibx.mail+npm@gmail.com"}],"modified":"2018-04-04T20:33:22.119Z","released":"2018-04-04T20:33:21.230Z","downloadsLastWeek":8}
+{
+	"name": "quokka-script",
+	"version": "3.0.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "zibx",
+			"email": "zibx.mail+npm@gmail.com"
+		}
+	],
+	"modified": "2018-04-04T20:33:22.119Z",
+	"released": "2018-04-04T20:33:21.230Z",
+	"downloadsLastWeek": 8
+}

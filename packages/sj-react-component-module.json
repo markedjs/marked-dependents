@@ -1,1 +1,14 @@
-{"name":"sj-react-component-module","version":"1.0.4","depVersion":"^0.3.6","maintainers":[{"name":"statfine","email":"309814872@qq.com"}],"modified":"2017-08-24T08:25:06.087Z","released":"2017-08-24T08:25:06.087Z","downloadsLastWeek":27}
+{
+	"name": "sj-react-component-module",
+	"version": "1.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "statfine",
+			"email": "309814872@qq.com"
+		}
+	],
+	"modified": "2017-08-24T08:25:06.087Z",
+	"released": "2017-08-24T08:25:06.087Z",
+	"downloadsLastWeek": 27
+}

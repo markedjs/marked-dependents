@@ -1,1 +1,14 @@
-{"name":"fis-cloud-app-featrueflag","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"zhangtao07","email":"zhang.tao.1006@163.com"}],"modified":"2014-05-28T11:29:12.626Z","released":"2014-05-28T11:29:12.626Z","downloadsLastWeek":2}
+{
+	"name": "fis-cloud-app-featrueflag",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "zhangtao07",
+			"email": "zhang.tao.1006@163.com"
+		}
+	],
+	"modified": "2014-05-28T11:29:12.626Z",
+	"released": "2014-05-28T11:29:12.626Z",
+	"downloadsLastWeek": 2
+}

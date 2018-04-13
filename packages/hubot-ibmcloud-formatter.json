@@ -1,1 +1,18 @@
-{"name":"hubot-ibmcloud-formatter","version":"0.0.33","depVersion":"^0.3.5","maintainers":[{"name":"codes4food","email":"aeweidne@us.ibm.com"},{"name":"ibmmobilecloud","email":"mobilec@us.ibm.com"}],"modified":"2016-09-16T20:24:59.178Z","released":"2016-09-16T20:24:59.178Z","downloadsLastWeek":2}
+{
+	"name": "hubot-ibmcloud-formatter",
+	"version": "0.0.33",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "codes4food",
+			"email": "aeweidne@us.ibm.com"
+		},
+		{
+			"name": "ibmmobilecloud",
+			"email": "mobilec@us.ibm.com"
+		}
+	],
+	"modified": "2016-09-16T20:24:59.178Z",
+	"released": "2016-09-16T20:24:59.178Z",
+	"downloadsLastWeek": 2
+}

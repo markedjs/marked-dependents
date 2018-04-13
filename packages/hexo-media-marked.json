@@ -1,1 +1,14 @@
-{"name":"hexo-media-marked","version":"0.2.0","depVersion":"^0.3.5","maintainers":[{"name":"goumang2010","email":"goumang2010@live.com"}],"modified":"2016-12-18T13:15:06.905Z","released":"2016-12-18T13:15:06.905Z","downloadsLastWeek":1}
+{
+	"name": "hexo-media-marked",
+	"version": "0.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "goumang2010",
+			"email": "goumang2010@live.com"
+		}
+	],
+	"modified": "2016-12-18T13:15:06.905Z",
+	"released": "2016-12-18T13:15:06.905Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"react-ions","version":"5.0.4","depVersion":"~0.3.7","maintainers":[{"email":"engineering@getambassador.com","name":"ambassador"},{"email":"samuelageloff@gmail.com","name":"smcka"}],"modified":"2018-04-10T15:57:14.678Z","released":"2018-04-10T15:57:13.278Z","downloadsLastWeek":488}
+{
+	"name": "react-ions",
+	"version": "5.0.4",
+	"depVersion": "~0.3.7",
+	"maintainers": [
+		{
+			"email": "engineering@getambassador.com",
+			"name": "ambassador"
+		},
+		{
+			"email": "samuelageloff@gmail.com",
+			"name": "smcka"
+		}
+	],
+	"modified": "2018-04-10T15:57:14.678Z",
+	"released": "2018-04-10T15:57:13.278Z",
+	"downloadsLastWeek": 488
+}

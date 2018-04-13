@@ -1,1 +1,30 @@
-{"name":"panini","version":"1.6.2","depVersion":"^0.3.14","maintainers":[{"email":"christopher.oyler@gmail.com","name":"eddiedean"},{"email":"geoff@geoffkimball.com","name":"gakimball"},{"email":"kball@zendev.com","name":"kbal11"},{"email":"nicolas@ncoden.fr","name":"ncoden"},{"email":"rafi@zurb.com","name":"rafibomb"}],"modified":"2018-02-21T19:52:35.418Z","released":"2018-02-21T19:52:33.956Z","downloadsLastWeek":3846}
+{
+	"name": "panini",
+	"version": "1.6.2",
+	"depVersion": "^0.3.14",
+	"maintainers": [
+		{
+			"email": "christopher.oyler@gmail.com",
+			"name": "eddiedean"
+		},
+		{
+			"email": "geoff@geoffkimball.com",
+			"name": "gakimball"
+		},
+		{
+			"email": "kball@zendev.com",
+			"name": "kbal11"
+		},
+		{
+			"email": "nicolas@ncoden.fr",
+			"name": "ncoden"
+		},
+		{
+			"email": "rafi@zurb.com",
+			"name": "rafibomb"
+		}
+	],
+	"modified": "2018-02-21T19:52:35.418Z",
+	"released": "2018-02-21T19:52:33.956Z",
+	"downloadsLastWeek": 3846
+}

@@ -1,1 +1,22 @@
-{"name":"graphql-playground","version":"1.3.17","depVersion":"^0.3.9","maintainers":[{"email":"pradel.leo@gmail.com","name":"leopradel"},{"email":"schickling.j@gmail.com","name":"schickling"},{"email":"tim.suchanek@gmail.com","name":"timsuchanek"}],"modified":"2018-04-10T09:19:32.121Z","released":"2018-01-03T12:49:04.862Z","downloadsLastWeek":1671}
+{
+	"name": "graphql-playground",
+	"version": "1.3.17",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"email": "pradel.leo@gmail.com",
+			"name": "leopradel"
+		},
+		{
+			"email": "schickling.j@gmail.com",
+			"name": "schickling"
+		},
+		{
+			"email": "tim.suchanek@gmail.com",
+			"name": "timsuchanek"
+		}
+	],
+	"modified": "2018-04-10T09:19:32.121Z",
+	"released": "2018-01-03T12:49:04.862Z",
+	"downloadsLastWeek": 1671
+}

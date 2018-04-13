@@ -1,1 +1,14 @@
-{"name":"kerplunk-blog","version":"0.2.5","depVersion":"^0.3.5","maintainers":[{"name":"brianshaler","email":"brianshaler@gmail.com"}],"modified":"2016-07-28T21:25:20.719Z","released":"2016-07-28T21:25:20.719Z","downloadsLastWeek":1}
+{
+	"name": "kerplunk-blog",
+	"version": "0.2.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "brianshaler",
+			"email": "brianshaler@gmail.com"
+		}
+	],
+	"modified": "2016-07-28T21:25:20.719Z",
+	"released": "2016-07-28T21:25:20.719Z",
+	"downloadsLastWeek": 1
+}

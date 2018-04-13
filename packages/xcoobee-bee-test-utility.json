@@ -1,1 +1,14 @@
-{"name":"xcoobee-bee-test-utility","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"xcoobee-npm","email":"npm.service@xcoobee.com"}],"modified":"2017-09-13T19:44:43.010Z","released":"2017-09-13T19:44:43.010Z","downloadsLastWeek":5}
+{
+	"name": "xcoobee-bee-test-utility",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "xcoobee-npm",
+			"email": "npm.service@xcoobee.com"
+		}
+	],
+	"modified": "2017-09-13T19:44:43.010Z",
+	"released": "2017-09-13T19:44:43.010Z",
+	"downloadsLastWeek": 5
+}

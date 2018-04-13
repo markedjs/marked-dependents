@@ -1,1 +1,14 @@
-{"name":"d2doc-dgeni-packages","version":"0.1.2","depVersion":"~0.2.10","maintainers":[{"name":"mpolak","email":"mark@thedutchies.com"}],"modified":"2014-08-11T15:18:20.320Z","released":"2014-08-11T15:18:20.320Z","downloadsLastWeek":1}
+{
+	"name": "d2doc-dgeni-packages",
+	"version": "0.1.2",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "mpolak",
+			"email": "mark@thedutchies.com"
+		}
+	],
+	"modified": "2014-08-11T15:18:20.320Z",
+	"released": "2014-08-11T15:18:20.320Z",
+	"downloadsLastWeek": 1
+}

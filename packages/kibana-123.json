@@ -1,1 +1,14 @@
-{"name":"kibana-123","version":"5.2.1","depVersion":"0.3.6","maintainers":[{"name":"riya-shah","email":"riya@johnsnowlabs.com"}],"modified":"2017-07-11T13:32:41.304Z","released":"2017-07-11T13:32:41.304Z","downloadsLastWeek":1}
+{
+	"name": "kibana-123",
+	"version": "5.2.1",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "riya-shah",
+			"email": "riya@johnsnowlabs.com"
+		}
+	],
+	"modified": "2017-07-11T13:32:41.304Z",
+	"released": "2017-07-11T13:32:41.304Z",
+	"downloadsLastWeek": 1
+}

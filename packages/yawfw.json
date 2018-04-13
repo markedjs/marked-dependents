@@ -1,1 +1,14 @@
-{"name":"yawfw","version":"0.0.3","depVersion":"~0.2.7","maintainers":[{"name":"sma","email":"eibaan@gmail.com"}],"modified":"2013-01-05T14:57:38.528Z","released":"2013-01-05T14:57:38.528Z","downloadsLastWeek":8}
+{
+	"name": "yawfw",
+	"version": "0.0.3",
+	"depVersion": "~0.2.7",
+	"maintainers": [
+		{
+			"name": "sma",
+			"email": "eibaan@gmail.com"
+		}
+	],
+	"modified": "2013-01-05T14:57:38.528Z",
+	"released": "2013-01-05T14:57:38.528Z",
+	"downloadsLastWeek": 8
+}

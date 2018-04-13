@@ -1,1 +1,14 @@
-{"name":"express-hbsc","version":"1.5.8","depVersion":"^0.3.5","maintainers":[{"name":"munichlinux","email":"munichlinux@gmail.com"}],"modified":"2017-02-13T03:11:41.127Z","released":"2017-02-13T03:11:41.127Z","downloadsLastWeek":1}
+{
+	"name": "express-hbsc",
+	"version": "1.5.8",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "munichlinux",
+			"email": "munichlinux@gmail.com"
+		}
+	],
+	"modified": "2017-02-13T03:11:41.127Z",
+	"released": "2017-02-13T03:11:41.127Z",
+	"downloadsLastWeek": 1
+}

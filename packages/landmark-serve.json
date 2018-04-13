@@ -1,1 +1,14 @@
-{"name":"landmark-serve","version":"0.1.32","depVersion":"~0.3.2","maintainers":[{"name":"mikestecker","email":"mike@stecker.me"}],"modified":"2017-06-24T03:12:12.905Z","released":"2015-05-11T18:47:39.654Z","downloadsLastWeek":1}
+{
+	"name": "landmark-serve",
+	"version": "0.1.32",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "mikestecker",
+			"email": "mike@stecker.me"
+		}
+	],
+	"modified": "2017-06-24T03:12:12.905Z",
+	"released": "2015-05-11T18:47:39.654Z",
+	"downloadsLastWeek": 1
+}

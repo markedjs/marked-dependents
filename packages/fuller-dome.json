@@ -1,1 +1,14 @@
-{"name":"fuller-dome","version":"0.2.1","depVersion":"~0.3.0","maintainers":[{"name":"velocityzen","email":"velocityzen@gmail.com"}],"modified":"2014-02-03T11:57:05.932Z","released":"2014-02-03T11:57:05.932Z","downloadsLastWeek":1}
+{
+	"name": "fuller-dome",
+	"version": "0.2.1",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "velocityzen",
+			"email": "velocityzen@gmail.com"
+		}
+	],
+	"modified": "2014-02-03T11:57:05.932Z",
+	"released": "2014-02-03T11:57:05.932Z",
+	"downloadsLastWeek": 1
+}

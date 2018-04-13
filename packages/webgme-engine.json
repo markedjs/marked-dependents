@@ -1,1 +1,22 @@
-{"name":"webgme-engine","version":"2.19.7","depVersion":"0.3.12","maintainers":[{"email":"tamas.kecskes@vanderbilt.edu","name":"kecso"},{"email":"patrik.meijer@vanderbilt.edu","name":"pmeijer"},{"email":"peter.volgyesi@vanderbilt.edu","name":"volgy"}],"modified":"2018-04-10T19:14:33.228Z","released":"2018-04-10T19:14:32.785Z","downloadsLastWeek":248}
+{
+	"name": "webgme-engine",
+	"version": "2.19.7",
+	"depVersion": "0.3.12",
+	"maintainers": [
+		{
+			"email": "tamas.kecskes@vanderbilt.edu",
+			"name": "kecso"
+		},
+		{
+			"email": "patrik.meijer@vanderbilt.edu",
+			"name": "pmeijer"
+		},
+		{
+			"email": "peter.volgyesi@vanderbilt.edu",
+			"name": "volgy"
+		}
+	],
+	"modified": "2018-04-10T19:14:33.228Z",
+	"released": "2018-04-10T19:14:32.785Z",
+	"downloadsLastWeek": 248
+}

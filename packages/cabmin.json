@@ -1,1 +1,14 @@
-{"name":"cabmin","version":"0.2.1","depVersion":"*","maintainers":[{"name":"mirrr","email":"alex.mirrr@gmail.com"}],"modified":"2016-05-18T11:14:48.066Z","released":"2016-05-18T11:14:48.066Z","downloadsLastWeek":1}
+{
+	"name": "cabmin",
+	"version": "0.2.1",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "mirrr",
+			"email": "alex.mirrr@gmail.com"
+		}
+	],
+	"modified": "2016-05-18T11:14:48.066Z",
+	"released": "2016-05-18T11:14:48.066Z",
+	"downloadsLastWeek": 1
+}

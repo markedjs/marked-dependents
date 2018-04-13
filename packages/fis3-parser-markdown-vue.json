@@ -1,1 +1,14 @@
-{"name":"fis3-parser-markdown-vue","version":"1.1.1","depVersion":"^0.3.12","maintainers":[{"name":"fe178","email":"280555218@qq.com"}],"modified":"2018-04-12T06:14:14.883Z","released":"2018-04-12T06:14:14.695Z","downloadsLastWeek":27}
+{
+	"name": "fis3-parser-markdown-vue",
+	"version": "1.1.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "fe178",
+			"email": "280555218@qq.com"
+		}
+	],
+	"modified": "2018-04-12T06:14:14.883Z",
+	"released": "2018-04-12T06:14:14.695Z",
+	"downloadsLastWeek": 27
+}

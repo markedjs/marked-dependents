@@ -1,1 +1,18 @@
-{"name":"how2","version":"1.5.0","depVersion":"0.3.5","maintainers":[{"email":"paolocifa@gmail.com","name":"paoloci"},{"email":"hireclaudio@gmail.com","name":"santinic"}],"modified":"2018-03-28T16:27:25.954Z","released":"2016-12-20T17:00:07.280Z","downloadsLastWeek":52}
+{
+	"name": "how2",
+	"version": "1.5.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"email": "paolocifa@gmail.com",
+			"name": "paoloci"
+		},
+		{
+			"email": "hireclaudio@gmail.com",
+			"name": "santinic"
+		}
+	],
+	"modified": "2018-03-28T16:27:25.954Z",
+	"released": "2016-12-20T17:00:07.280Z",
+	"downloadsLastWeek": 52
+}

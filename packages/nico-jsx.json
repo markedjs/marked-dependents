@@ -1,1 +1,14 @@
-{"name":"nico-jsx","version":"0.9.0","depVersion":"^0.3.5","maintainers":[{"name":"afc163","email":"afc163@gmail.com"}],"modified":"2016-03-14T08:03:13.244Z","released":"2016-03-14T08:03:13.244Z","downloadsLastWeek":3}
+{
+	"name": "nico-jsx",
+	"version": "0.9.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "afc163",
+			"email": "afc163@gmail.com"
+		}
+	],
+	"modified": "2016-03-14T08:03:13.244Z",
+	"released": "2016-03-14T08:03:13.244Z",
+	"downloadsLastWeek": 3
+}

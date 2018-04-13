@@ -1,1 +1,14 @@
-{"name":"markdown-to-slides","version":"1.0.5","depVersion":"^0.3.2","maintainers":[{"name":"partageit","email":"david@partage-it.com"}],"modified":"2017-07-08T09:48:55.760Z","released":"2017-01-15T13:32:29.928Z","downloadsLastWeek":17}
+{
+	"name": "markdown-to-slides",
+	"version": "1.0.5",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "partageit",
+			"email": "david@partage-it.com"
+		}
+	],
+	"modified": "2017-07-08T09:48:55.760Z",
+	"released": "2017-01-15T13:32:29.928Z",
+	"downloadsLastWeek": 17
+}

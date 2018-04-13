@@ -1,1 +1,14 @@
-{"name":"react-mark-highlight","version":"1.3.2","depVersion":"^0.3.19","maintainers":[{"name":"huajinbo","email":"like@vince.studio"}],"modified":"2018-04-09T05:35:04.383Z","released":"2018-04-09T05:35:02.640Z","downloadsLastWeek":63}
+{
+	"name": "react-mark-highlight",
+	"version": "1.3.2",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "huajinbo",
+			"email": "like@vince.studio"
+		}
+	],
+	"modified": "2018-04-09T05:35:04.383Z",
+	"released": "2018-04-09T05:35:02.640Z",
+	"downloadsLastWeek": 63
+}

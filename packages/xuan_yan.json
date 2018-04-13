@@ -1,1 +1,14 @@
-{"name":"xuan_yan","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"qian_qi","email":"3239089064@qq.com"}],"modified":"2017-07-15T13:16:27.123Z","released":"2017-07-15T13:16:27.123Z","downloadsLastWeek":5}
+{
+	"name": "xuan_yan",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "qian_qi",
+			"email": "3239089064@qq.com"
+		}
+	],
+	"modified": "2017-07-15T13:16:27.123Z",
+	"released": "2017-07-15T13:16:27.123Z",
+	"downloadsLastWeek": 5
+}

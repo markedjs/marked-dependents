@@ -1,1 +1,14 @@
-{"name":"fly-marked","version":"0.1.2","depVersion":"^0.3.3","maintainers":[{"name":"madcapjake","email":"madcap.russo@gmail.com"}],"modified":"2015-08-17T02:07:20.383Z","released":"2015-08-17T02:07:20.383Z","downloadsLastWeek":1}
+{
+	"name": "fly-marked",
+	"version": "0.1.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "madcapjake",
+			"email": "madcap.russo@gmail.com"
+		}
+	],
+	"modified": "2015-08-17T02:07:20.383Z",
+	"released": "2015-08-17T02:07:20.383Z",
+	"downloadsLastWeek": 1
+}

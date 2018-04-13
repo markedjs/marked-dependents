@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-ubb","version":"0.1.4","depVersion":"~0.3.2","maintainers":[{"name":"akhoury","email":"bentael@gmail.com"}],"modified":"2015-12-14T03:25:03.340Z","released":"2015-12-14T03:25:03.340Z","downloadsLastWeek":1}
+{
+	"name": "nodebb-plugin-import-ubb",
+	"version": "0.1.4",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "akhoury",
+			"email": "bentael@gmail.com"
+		}
+	],
+	"modified": "2015-12-14T03:25:03.340Z",
+	"released": "2015-12-14T03:25:03.340Z",
+	"downloadsLastWeek": 1
+}

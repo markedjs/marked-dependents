@@ -1,1 +1,14 @@
-{"name":"harmonide","version":"0.3.0","depVersion":"^0.3.2","maintainers":[{"name":"chikathreesix","email":"chikathreesix@gmail.com"}],"modified":"2015-09-09T01:39:36.022Z","released":"2015-09-09T01:39:36.022Z","downloadsLastWeek":1}
+{
+	"name": "harmonide",
+	"version": "0.3.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "chikathreesix",
+			"email": "chikathreesix@gmail.com"
+		}
+	],
+	"modified": "2015-09-09T01:39:36.022Z",
+	"released": "2015-09-09T01:39:36.022Z",
+	"downloadsLastWeek": 1
+}

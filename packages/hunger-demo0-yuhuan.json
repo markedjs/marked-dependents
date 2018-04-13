@@ -1,1 +1,14 @@
-{"name":"hunger-demo0-yuhuan","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"yuhuan","email":"597270222@qq.com"}],"modified":"2017-08-13T09:06:05.206Z","released":"2017-08-13T09:06:05.206Z","downloadsLastWeek":2}
+{
+	"name": "hunger-demo0-yuhuan",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yuhuan",
+			"email": "597270222@qq.com"
+		}
+	],
+	"modified": "2017-08-13T09:06:05.206Z",
+	"released": "2017-08-13T09:06:05.206Z",
+	"downloadsLastWeek": 2
+}

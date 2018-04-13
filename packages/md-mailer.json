@@ -1,1 +1,14 @@
-{"name":"md-mailer","version":"0.0.8","depVersion":"^0.3.5","maintainers":[{"name":"romeovs","email":"romeovs@gmail.com"}],"modified":"2016-01-20T11:12:09.992Z","released":"2016-01-20T11:12:09.992Z","downloadsLastWeek":2}
+{
+	"name": "md-mailer",
+	"version": "0.0.8",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "romeovs",
+			"email": "romeovs@gmail.com"
+		}
+	],
+	"modified": "2016-01-20T11:12:09.992Z",
+	"released": "2016-01-20T11:12:09.992Z",
+	"downloadsLastWeek": 2
+}

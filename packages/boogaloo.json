@@ -1,1 +1,9 @@
-{"name":"boogaloo","version":"0.2.0","depVersion":"^0.3.2","maintainers":[],"modified":"2018-04-04T20:39:15.581Z","released":"2014-06-15T17:12:11.749Z","downloadsLastWeek":1}
+{
+	"name": "boogaloo",
+	"version": "0.2.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [],
+	"modified": "2018-04-04T20:39:15.581Z",
+	"released": "2014-06-15T17:12:11.749Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"decentraleyes-markdown","version":"0.0.5","depVersion":"^0.3.5","maintainers":[{"name":"robcolbert","email":"rob.isConnected@gmail.com"}],"modified":"2016-06-28T15:52:37.499Z","released":"2016-06-28T15:52:37.499Z","downloadsLastWeek":2}
+{
+	"name": "decentraleyes-markdown",
+	"version": "0.0.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "robcolbert",
+			"email": "rob.isConnected@gmail.com"
+		}
+	],
+	"modified": "2016-06-28T15:52:37.499Z",
+	"released": "2016-06-28T15:52:37.499Z",
+	"downloadsLastWeek": 2
+}

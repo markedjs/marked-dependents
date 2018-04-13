@@ -1,1 +1,14 @@
-{"name":"steady-static","version":"0.3.2","depVersion":"*","maintainers":[{"name":"eastohco","email":"eric.miller2129@gmail.com"}],"modified":"2015-09-24T22:18:00.003Z","released":"2015-09-24T22:18:00.003Z","downloadsLastWeek":16}
+{
+	"name": "steady-static",
+	"version": "0.3.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "eastohco",
+			"email": "eric.miller2129@gmail.com"
+		}
+	],
+	"modified": "2015-09-24T22:18:00.003Z",
+	"released": "2015-09-24T22:18:00.003Z",
+	"downloadsLastWeek": 16
+}

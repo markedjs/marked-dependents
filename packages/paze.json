@@ -1,1 +1,14 @@
-{"name":"paze","version":"0.1.0","depVersion":"^0.3.6","maintainers":[{"name":"kei-ito","email":"kei.itof@gmail.com"}],"modified":"2017-04-25T03:47:30.469Z","released":"2017-04-25T03:47:30.469Z","downloadsLastWeek":1}
+{
+	"name": "paze",
+	"version": "0.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "kei-ito",
+			"email": "kei.itof@gmail.com"
+		}
+	],
+	"modified": "2017-04-25T03:47:30.469Z",
+	"released": "2017-04-25T03:47:30.469Z",
+	"downloadsLastWeek": 1
+}

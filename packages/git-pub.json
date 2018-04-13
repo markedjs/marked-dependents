@@ -1,1 +1,14 @@
-{"name":"git-pub","version":"0.4.1","depVersion":"*","maintainers":[{"name":"davewiner","email":"dave.winer@gmail.com"}],"modified":"2017-06-22T18:45:22.836Z","released":"2017-06-22T18:45:22.836Z","downloadsLastWeek":1}
+{
+	"name": "git-pub",
+	"version": "0.4.1",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "davewiner",
+			"email": "dave.winer@gmail.com"
+		}
+	],
+	"modified": "2017-06-22T18:45:22.836Z",
+	"released": "2017-06-22T18:45:22.836Z",
+	"downloadsLastWeek": 1
+}

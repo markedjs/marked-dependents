@@ -1,1 +1,14 @@
-{"name":"tuberia-markdown-module","version":"0.1.1","depVersion":"^0.3.5","maintainers":[{"name":"colinbate","email":"colin@colinbate.com"}],"modified":"2015-10-12T02:13:58.007Z","released":"2015-10-12T02:13:58.007Z","downloadsLastWeek":5}
+{
+	"name": "tuberia-markdown-module",
+	"version": "0.1.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "colinbate",
+			"email": "colin@colinbate.com"
+		}
+	],
+	"modified": "2015-10-12T02:13:58.007Z",
+	"released": "2015-10-12T02:13:58.007Z",
+	"downloadsLastWeek": 5
+}

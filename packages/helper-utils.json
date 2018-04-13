@@ -1,1 +1,18 @@
-{"name":"helper-utils","version":"0.1.0","depVersion":"~0.2.8","maintainers":[{"email":"brian.woodward@gmail.com","name":"doowb"},{"email":"github@sellside.com","name":"jonschlinkert"}],"modified":"2017-07-02T17:39:15.420Z","released":"2013-07-27T15:34:38.487Z","downloadsLastWeek":1}
+{
+	"name": "helper-utils",
+	"version": "0.1.0",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"email": "brian.woodward@gmail.com",
+			"name": "doowb"
+		},
+		{
+			"email": "github@sellside.com",
+			"name": "jonschlinkert"
+		}
+	],
+	"modified": "2017-07-02T17:39:15.420Z",
+	"released": "2013-07-27T15:34:38.487Z",
+	"downloadsLastWeek": 1
+}

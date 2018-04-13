@@ -1,1 +1,14 @@
-{"name":"seu-markdown","version":"1.0.1","depVersion":"^0.3.5","maintainers":[{"name":"wwsun","email":"ww.sun@outlook.com"}],"modified":"2016-10-22T07:08:29.913Z","released":"2016-10-22T07:08:29.913Z","downloadsLastWeek":9}
+{
+	"name": "seu-markdown",
+	"version": "1.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "wwsun",
+			"email": "ww.sun@outlook.com"
+		}
+	],
+	"modified": "2016-10-22T07:08:29.913Z",
+	"released": "2016-10-22T07:08:29.913Z",
+	"downloadsLastWeek": 9
+}

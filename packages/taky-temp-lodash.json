@@ -1,1 +1,14 @@
-{"name":"taky-temp-lodash","version":"1.0.2","depVersion":"^0.3.2","maintainers":[{"name":"taky","email":"taky@taky.com"}],"modified":"2016-01-21T07:04:15.133Z","released":"2016-01-21T07:04:15.133Z","downloadsLastWeek":8}
+{
+	"name": "taky-temp-lodash",
+	"version": "1.0.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "taky",
+			"email": "taky@taky.com"
+		}
+	],
+	"modified": "2016-01-21T07:04:15.133Z",
+	"released": "2016-01-21T07:04:15.133Z",
+	"downloadsLastWeek": 8
+}

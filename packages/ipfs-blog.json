@@ -1,1 +1,14 @@
-{"name":"ipfs-blog","version":"0.2.1","depVersion":"^0.3.5","maintainers":[{"name":"noffle","email":"stephen.whitmore@gmail.com"}],"modified":"2016-09-24T01:21:34.000Z","released":"2016-09-24T01:21:34.000Z","downloadsLastWeek":1}
+{
+	"name": "ipfs-blog",
+	"version": "0.2.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "noffle",
+			"email": "stephen.whitmore@gmail.com"
+		}
+	],
+	"modified": "2016-09-24T01:21:34.000Z",
+	"released": "2016-09-24T01:21:34.000Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"wig","version":"1.0.7","depVersion":"^0.3.17","maintainers":[{"name":"zk33","email":"ymzktkak+npm@gmail.com"}],"modified":"2018-03-28T13:23:22.535Z","released":"2018-03-28T13:23:22.078Z","downloadsLastWeek":66}
+{
+	"name": "wig",
+	"version": "1.0.7",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "zk33",
+			"email": "ymzktkak+npm@gmail.com"
+		}
+	],
+	"modified": "2018-03-28T13:23:22.535Z",
+	"released": "2018-03-28T13:23:22.078Z",
+	"downloadsLastWeek": 66
+}

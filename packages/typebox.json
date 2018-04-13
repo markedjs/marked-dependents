@@ -1,1 +1,14 @@
-{"name":"typebox","version":"0.41.0","depVersion":"^0.3.6","maintainers":[{"name":"karacas","email":"alejandroe@gmail.com"}],"modified":"2017-05-31T00:04:25.279Z","released":"2017-05-31T00:04:25.279Z","downloadsLastWeek":15}
+{
+	"name": "typebox",
+	"version": "0.41.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "karacas",
+			"email": "alejandroe@gmail.com"
+		}
+	],
+	"modified": "2017-05-31T00:04:25.279Z",
+	"released": "2017-05-31T00:04:25.279Z",
+	"downloadsLastWeek": 15
+}

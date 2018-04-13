@@ -1,1 +1,14 @@
-{"name":"zpresent-parser","version":"1.0.0","depVersion":"^0.3.0","maintainers":[{"name":"javasop","email":"osamah.net.m@gmail.com"}],"modified":"2015-06-25T05:07:22.339Z","released":"2015-06-21T01:07:04.507Z","downloadsLastWeek":5}
+{
+	"name": "zpresent-parser",
+	"version": "1.0.0",
+	"depVersion": "^0.3.0",
+	"maintainers": [
+		{
+			"name": "javasop",
+			"email": "osamah.net.m@gmail.com"
+		}
+	],
+	"modified": "2015-06-25T05:07:22.339Z",
+	"released": "2015-06-21T01:07:04.507Z",
+	"downloadsLastWeek": 5
+}

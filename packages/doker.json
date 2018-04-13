@@ -1,1 +1,14 @@
-{"name":"doker","version":"0.0.8","depVersion":">=0.3.0","maintainers":[{"name":"noviga","email":"npm@noviga.com"}],"modified":"2015-08-17T08:51:45.340Z","released":"2015-08-17T08:51:45.340Z","downloadsLastWeek":2}
+{
+	"name": "doker",
+	"version": "0.0.8",
+	"depVersion": ">=0.3.0",
+	"maintainers": [
+		{
+			"name": "noviga",
+			"email": "npm@noviga.com"
+		}
+	],
+	"modified": "2015-08-17T08:51:45.340Z",
+	"released": "2015-08-17T08:51:45.340Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"grunt-panopta-style-guide-generator","version":"0.0.5","depVersion":"^0.3.3","maintainers":[{"name":"martinjunior","email":"martinduranwebdesign@gmail.com"}],"modified":"2015-12-27T18:05:16.668Z","released":"2015-12-27T18:05:16.668Z","downloadsLastWeek":1}
+{
+	"name": "grunt-panopta-style-guide-generator",
+	"version": "0.0.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "martinjunior",
+			"email": "martinduranwebdesign@gmail.com"
+		}
+	],
+	"modified": "2015-12-27T18:05:16.668Z",
+	"released": "2015-12-27T18:05:16.668Z",
+	"downloadsLastWeek": 1
+}

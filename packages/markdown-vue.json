@@ -1,1 +1,14 @@
-{"name":"markdown-vue","version":"0.0.3","depVersion":"^0.3.12","maintainers":[{"name":"haro00","email":"shijie@stu.xmu.edu.cn"}],"modified":"2018-02-11T06:47:25.359Z","released":"2018-02-11T06:47:24.511Z","downloadsLastWeek":1}
+{
+	"name": "markdown-vue",
+	"version": "0.0.3",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "haro00",
+			"email": "shijie@stu.xmu.edu.cn"
+		}
+	],
+	"modified": "2018-02-11T06:47:25.359Z",
+	"released": "2018-02-11T06:47:24.511Z",
+	"downloadsLastWeek": 1
+}

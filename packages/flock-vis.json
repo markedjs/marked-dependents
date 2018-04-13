@@ -1,1 +1,14 @@
-{"name":"flock-vis","version":"0.1.2","depVersion":"~0.2.5","maintainers":[{"name":"dwding","email":"dwding@gmail.com"}],"modified":"2016-08-25T23:19:41.057Z","released":"2016-08-25T23:19:41.057Z","downloadsLastWeek":2}
+{
+	"name": "flock-vis",
+	"version": "0.1.2",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "dwding",
+			"email": "dwding@gmail.com"
+		}
+	],
+	"modified": "2016-08-25T23:19:41.057Z",
+	"released": "2016-08-25T23:19:41.057Z",
+	"downloadsLastWeek": 2
+}

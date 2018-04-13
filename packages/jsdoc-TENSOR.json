@@ -1,1 +1,14 @@
-{"name":"jsdoc-TENSOR","version":"3.3.0-dev","depVersion":"0.2.8","maintainers":[{"name":"mrkuzzmin","email":"the.mr.kuzzmin@gmail.com"}],"modified":"2016-11-01T18:53:27.335Z","released":"2016-11-01T18:53:27.335Z","downloadsLastWeek":1}
+{
+	"name": "jsdoc-TENSOR",
+	"version": "3.3.0-dev",
+	"depVersion": "0.2.8",
+	"maintainers": [
+		{
+			"name": "mrkuzzmin",
+			"email": "the.mr.kuzzmin@gmail.com"
+		}
+	],
+	"modified": "2016-11-01T18:53:27.335Z",
+	"released": "2016-11-01T18:53:27.335Z",
+	"downloadsLastWeek": 1
+}

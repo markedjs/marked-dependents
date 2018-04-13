@@ -1,1 +1,14 @@
-{"name":"headers2md","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"aymericbeaumet","email":"aymeric@beaumet.me"}],"modified":"2016-09-04T01:22:17.585Z","released":"2016-09-04T01:22:17.585Z","downloadsLastWeek":1}
+{
+	"name": "headers2md",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "aymericbeaumet",
+			"email": "aymeric@beaumet.me"
+		}
+	],
+	"modified": "2016-09-04T01:22:17.585Z",
+	"released": "2016-09-04T01:22:17.585Z",
+	"downloadsLastWeek": 1
+}

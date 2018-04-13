@@ -1,1 +1,14 @@
-{"name":"democracyos","version":"0.8.26","depVersion":"~0.2.9","maintainers":[{"name":"slifszyc","email":"sacha.lifszyc@gmail.com"}],"modified":"2015-01-06T01:40:03.034Z","released":"2015-01-06T01:40:03.034Z","downloadsLastWeek":1}
+{
+	"name": "democracyos",
+	"version": "0.8.26",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "slifszyc",
+			"email": "sacha.lifszyc@gmail.com"
+		}
+	],
+	"modified": "2015-01-06T01:40:03.034Z",
+	"released": "2015-01-06T01:40:03.034Z",
+	"downloadsLastWeek": 1
+}

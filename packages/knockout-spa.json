@@ -1,1 +1,14 @@
-{"name":"knockout-spa","version":"3.16.1","depVersion":"^0.3.5","maintainers":[{"name":"onlyurei","email":"fancheng33@hotmail.com"}],"modified":"2017-09-26T01:41:39.941Z","released":"2017-02-10T05:09:26.350Z","downloadsLastWeek":3}
+{
+	"name": "knockout-spa",
+	"version": "3.16.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "onlyurei",
+			"email": "fancheng33@hotmail.com"
+		}
+	],
+	"modified": "2017-09-26T01:41:39.941Z",
+	"released": "2017-02-10T05:09:26.350Z",
+	"downloadsLastWeek": 3
+}

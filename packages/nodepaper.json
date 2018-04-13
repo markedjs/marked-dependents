@@ -1,1 +1,14 @@
-{"name":"nodepaper","version":"0.1.3","depVersion":"~0.2.8","maintainers":[{"name":"schoonology","email":"michael.r.schoonmaker@gmail.com"}],"modified":"2013-05-20T16:22:00.658Z","released":"2013-04-08T01:27:39.859Z","downloadsLastWeek":1}
+{
+	"name": "nodepaper",
+	"version": "0.1.3",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "schoonology",
+			"email": "michael.r.schoonmaker@gmail.com"
+		}
+	],
+	"modified": "2013-05-20T16:22:00.658Z",
+	"released": "2013-04-08T01:27:39.859Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"voxer-blog-demo","version":"0.0.1","depVersion":"~0.2.5","maintainers":[{"name":"isaacs","email":"i@izs.me"}],"modified":"2012-06-07T21:14:05.660Z","released":"2012-06-07T21:14:05.660Z","downloadsLastWeek":3}
+{
+	"name": "voxer-blog-demo",
+	"version": "0.0.1",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "isaacs",
+			"email": "i@izs.me"
+		}
+	],
+	"modified": "2012-06-07T21:14:05.660Z",
+	"released": "2012-06-07T21:14:05.660Z",
+	"downloadsLastWeek": 3
+}

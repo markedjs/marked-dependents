@@ -1,1 +1,14 @@
-{"name":"yolosparo","version":"1.0.5","depVersion":"^0.3.3","maintainers":[{"name":"matias_mi","email":"lumen.night@gmail.com"}],"modified":"2015-05-08T03:14:19.673Z","released":"2015-05-08T03:14:19.673Z","downloadsLastWeek":3}
+{
+	"name": "yolosparo",
+	"version": "1.0.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "matias_mi",
+			"email": "lumen.night@gmail.com"
+		}
+	],
+	"modified": "2015-05-08T03:14:19.673Z",
+	"released": "2015-05-08T03:14:19.673Z",
+	"downloadsLastWeek": 3
+}

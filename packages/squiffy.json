@@ -1,1 +1,14 @@
-{"name":"squiffy","version":"5.1.2","depVersion":"^0.3.2","maintainers":[{"name":"manowar","email":"papadasoft@gmail.com"}],"modified":"2017-11-22T17:40:12.870Z","released":"2017-11-22T17:40:12.870Z","downloadsLastWeek":45}
+{
+	"name": "squiffy",
+	"version": "5.1.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "manowar",
+			"email": "papadasoft@gmail.com"
+		}
+	],
+	"modified": "2017-11-22T17:40:12.870Z",
+	"released": "2017-11-22T17:40:12.870Z",
+	"downloadsLastWeek": 45
+}

@@ -1,1 +1,18 @@
-{"name":"raml-fleece","version":"0.7.0","depVersion":"^0.3.3","maintainers":[{"name":"rdenmark","email":"roby.denmark@gmail.com"},{"name":"tcmitche","email":"contact@traviscmitchell.com"}],"modified":"2016-06-30T19:15:10.015Z","released":"2016-06-30T19:15:10.015Z","downloadsLastWeek":24}
+{
+	"name": "raml-fleece",
+	"version": "0.7.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "rdenmark",
+			"email": "roby.denmark@gmail.com"
+		},
+		{
+			"name": "tcmitche",
+			"email": "contact@traviscmitchell.com"
+		}
+	],
+	"modified": "2016-06-30T19:15:10.015Z",
+	"released": "2016-06-30T19:15:10.015Z",
+	"downloadsLastWeek": 24
+}

@@ -1,1 +1,14 @@
-{"name":"pagemaki","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"name":"rhodesjason","email":"jason.matthew.rhodes@gmail.com"}],"modified":"2016-04-03T20:06:59.262Z","released":"2015-11-08T05:58:54.535Z","downloadsLastWeek":2}
+{
+	"name": "pagemaki",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "rhodesjason",
+			"email": "jason.matthew.rhodes@gmail.com"
+		}
+	],
+	"modified": "2016-04-03T20:06:59.262Z",
+	"released": "2015-11-08T05:58:54.535Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"markdown-av","version":"0.15.0","depVersion":"^0.3.5","maintainers":[{"name":"johnnyscript","email":"mostmodernist@gmail.com"}],"modified":"2016-06-18T13:23:41.113Z","released":"2016-06-18T13:23:41.113Z","downloadsLastWeek":2}
+{
+	"name": "markdown-av",
+	"version": "0.15.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "johnnyscript",
+			"email": "mostmodernist@gmail.com"
+		}
+	],
+	"modified": "2016-06-18T13:23:41.113Z",
+	"released": "2016-06-18T13:23:41.113Z",
+	"downloadsLastWeek": 2
+}

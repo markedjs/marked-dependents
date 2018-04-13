@@ -1,1 +1,14 @@
-{"name":"hs-marked-extra","version":"1.0.2","depVersion":"^0.3.5","maintainers":[{"name":"haishanh","email":"haishanhan@gmail.com"}],"modified":"2016-01-07T07:18:33.095Z","released":"2016-01-07T07:18:33.095Z","downloadsLastWeek":1}
+{
+	"name": "hs-marked-extra",
+	"version": "1.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "haishanh",
+			"email": "haishanhan@gmail.com"
+		}
+	],
+	"modified": "2016-01-07T07:18:33.095Z",
+	"released": "2016-01-07T07:18:33.095Z",
+	"downloadsLastWeek": 1
+}

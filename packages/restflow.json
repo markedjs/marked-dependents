@@ -1,1 +1,14 @@
-{"name":"restflow","version":"0.1.0","depVersion":"^0.3.5","maintainers":[{"name":"wojciechmleczek","email":"wojmle@10g.pl"}],"modified":"2016-07-16T20:15:36.668Z","released":"2016-07-16T20:15:36.668Z","downloadsLastWeek":3}
+{
+	"name": "restflow",
+	"version": "0.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "wojciechmleczek",
+			"email": "wojmle@10g.pl"
+		}
+	],
+	"modified": "2016-07-16T20:15:36.668Z",
+	"released": "2016-07-16T20:15:36.668Z",
+	"downloadsLastWeek": 3
+}

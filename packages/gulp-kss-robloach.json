@@ -1,1 +1,14 @@
-{"name":"gulp-kss-robloach","version":"0.0.2","depVersion":"~0.3.1","maintainers":[{"name":"robloach","email":"robloach@gmail.com"}],"modified":"2014-10-20T13:46:10.240Z","released":"2014-10-20T13:46:10.240Z","downloadsLastWeek":3}
+{
+	"name": "gulp-kss-robloach",
+	"version": "0.0.2",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "robloach",
+			"email": "robloach@gmail.com"
+		}
+	],
+	"modified": "2014-10-20T13:46:10.240Z",
+	"released": "2014-10-20T13:46:10.240Z",
+	"downloadsLastWeek": 3
+}

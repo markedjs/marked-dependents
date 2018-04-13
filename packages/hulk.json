@@ -1,1 +1,14 @@
-{"name":"hulk","version":"0.0.2","depVersion":"~0.2.8","maintainers":[{"name":"jpoehls","email":"joshua@zduck.com"}],"modified":"2014-05-11T17:05:51.332Z","released":"2013-03-31T18:04:37.102Z","downloadsLastWeek":4}
+{
+	"name": "hulk",
+	"version": "0.0.2",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "jpoehls",
+			"email": "joshua@zduck.com"
+		}
+	],
+	"modified": "2014-05-11T17:05:51.332Z",
+	"released": "2013-03-31T18:04:37.102Z",
+	"downloadsLastWeek": 4
+}

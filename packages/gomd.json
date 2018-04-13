@@ -1,1 +1,14 @@
-{"name":"gomd","version":"0.0.11","depVersion":"^0.3.6","maintainers":[{"name":"juneandgreen","email":"june_01@163.com"}],"modified":"2017-12-30T03:08:11.531Z","released":"2017-12-30T03:08:11.531Z","downloadsLastWeek":1}
+{
+	"name": "gomd",
+	"version": "0.0.11",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "juneandgreen",
+			"email": "june_01@163.com"
+		}
+	],
+	"modified": "2017-12-30T03:08:11.531Z",
+	"released": "2017-12-30T03:08:11.531Z",
+	"downloadsLastWeek": 1
+}

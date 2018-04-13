@@ -1,1 +1,14 @@
-{"name":"makedocs","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"evio","email":"evio@vip.qq.com"}],"modified":"2015-10-21T11:01:47.056Z","released":"2015-10-21T11:01:47.056Z","downloadsLastWeek":2}
+{
+	"name": "makedocs",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "evio",
+			"email": "evio@vip.qq.com"
+		}
+	],
+	"modified": "2015-10-21T11:01:47.056Z",
+	"released": "2015-10-21T11:01:47.056Z",
+	"downloadsLastWeek": 2
+}

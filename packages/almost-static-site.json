@@ -1,1 +1,14 @@
-{"name":"almost-static-site","version":"0.1.8","depVersion":"^0.3.2","maintainers":[{"name":"unkhz","email":"juhani.pelli@gmail.com"}],"modified":"2016-11-19T16:39:45.469Z","released":"2016-11-19T16:39:45.469Z","downloadsLastWeek":2}
+{
+	"name": "almost-static-site",
+	"version": "0.1.8",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "unkhz",
+			"email": "juhani.pelli@gmail.com"
+		}
+	],
+	"modified": "2016-11-19T16:39:45.469Z",
+	"released": "2016-11-19T16:39:45.469Z",
+	"downloadsLastWeek": 2
+}

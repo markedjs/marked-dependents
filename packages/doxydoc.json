@@ -1,1 +1,18 @@
-{"name":"doxydoc","version":"0.5.0","depVersion":"^0.3.5","maintainers":[{"name":"andi-oxidant","email":"andi.oxidant@noname-media.com"},{"name":"andifeind","email":"andifeind@noname-media.com"}],"modified":"2016-03-28T17:07:02.108Z","released":"2016-03-28T17:07:02.108Z","downloadsLastWeek":2}
+{
+	"name": "doxydoc",
+	"version": "0.5.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "andi-oxidant",
+			"email": "andi.oxidant@noname-media.com"
+		},
+		{
+			"name": "andifeind",
+			"email": "andifeind@noname-media.com"
+		}
+	],
+	"modified": "2016-03-28T17:07:02.108Z",
+	"released": "2016-03-28T17:07:02.108Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"reacat","version":"0.4.1","depVersion":"^0.3.3","maintainers":[{"name":"xcatliu","email":"xcatliu@gmail.com"}],"modified":"2015-07-04T08:27:38.943Z","released":"2015-07-04T08:27:38.943Z","downloadsLastWeek":1}
+{
+	"name": "reacat",
+	"version": "0.4.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "xcatliu",
+			"email": "xcatliu@gmail.com"
+		}
+	],
+	"modified": "2015-07-04T08:27:38.943Z",
+	"released": "2015-07-04T08:27:38.943Z",
+	"downloadsLastWeek": 1
+}

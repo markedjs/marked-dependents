@@ -1,1 +1,14 @@
-{"name":"bula","version":"0.3.17","depVersion":"0.3.1","maintainers":[{"name":"dlochrie","email":"dclochri@gmail.com"}],"modified":"2014-07-14T02:12:50.798Z","released":"2014-07-14T02:12:50.798Z","downloadsLastWeek":2}
+{
+	"name": "bula",
+	"version": "0.3.17",
+	"depVersion": "0.3.1",
+	"maintainers": [
+		{
+			"name": "dlochrie",
+			"email": "dclochri@gmail.com"
+		}
+	],
+	"modified": "2014-07-14T02:12:50.798Z",
+	"released": "2014-07-14T02:12:50.798Z",
+	"downloadsLastWeek": 2
+}

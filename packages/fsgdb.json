@@ -1,1 +1,14 @@
-{"name":"fsgdb","version":"0.3.0","depVersion":"0.3.5","maintainers":[{"name":"atix","email":"arthur@arthursilber.de"}],"modified":"2016-01-01T08:55:21.598Z","released":"2016-01-01T08:55:21.598Z","downloadsLastWeek":2}
+{
+	"name": "fsgdb",
+	"version": "0.3.0",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "atix",
+			"email": "arthur@arthursilber.de"
+		}
+	],
+	"modified": "2016-01-01T08:55:21.598Z",
+	"released": "2016-01-01T08:55:21.598Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,102 @@
-{"name":"cf-util-markdown","version":"3.2.5","depVersion":"^0.3.5","maintainers":[{"email":"adam.flynn.schwartz@gmail.com","name":"adamschwartz"},{"email":"npm-readonly@cloudflare.com","name":"cf-ci"},{"email":"npm-readonly@cloudflare.com","name":"cf-ci-write"},{"email":"ereeves@cloudflare.com","name":"ereeves"},{"email":"hamid.aghdaee@gmail.com","name":"hamidagh"},{"email":"henry@cloudflare.com","name":"handrews"},{"email":"harley@hturan.com","name":"hturan"},{"email":"ifaaan@gmail.com","name":"inikulin"},{"email":"jculveyhouse@gmail.com","name":"jculvey"},{"email":"jrf0110@gmail.com","name":"johndotawesome"},{"email":"jparyani@cloudflare.com","name":"jparyani-cloudflare"},{"email":"fernandes.sachin@gmail.com","name":"manatarms"},{"email":"mark@cloudflare.com","name":"marksteyn"},{"email":"vojtech@miksu.cz","name":"miksu"},{"email":"mpinter09@gmail.com","name":"mpint"},{"email":"nick@comer.io","name":"nkcmr"},{"email":"me@rreverser.com","name":"rreverser"},{"email":"npmjs@ryan0x44.com","name":"ryan0x44"},{"email":"sejoker@gmail.com","name":"sejoker"},{"email":"teffen@nirri.us","name":"teffenellis"},{"email":"terinjokes@gmail.com","name":"terinjokes"},{"email":"toekneestuck@gmail.com","name":"toekneestuck"},{"email":"vastur@gmail.com","name":"vasturiano"}],"modified":"2018-03-28T01:00:36.104Z","released":"2018-03-28T01:00:35.911Z","downloadsLastWeek":258}
+{
+	"name": "cf-util-markdown",
+	"version": "3.2.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"email": "adam.flynn.schwartz@gmail.com",
+			"name": "adamschwartz"
+		},
+		{
+			"email": "npm-readonly@cloudflare.com",
+			"name": "cf-ci"
+		},
+		{
+			"email": "npm-readonly@cloudflare.com",
+			"name": "cf-ci-write"
+		},
+		{
+			"email": "ereeves@cloudflare.com",
+			"name": "ereeves"
+		},
+		{
+			"email": "hamid.aghdaee@gmail.com",
+			"name": "hamidagh"
+		},
+		{
+			"email": "henry@cloudflare.com",
+			"name": "handrews"
+		},
+		{
+			"email": "harley@hturan.com",
+			"name": "hturan"
+		},
+		{
+			"email": "ifaaan@gmail.com",
+			"name": "inikulin"
+		},
+		{
+			"email": "jculveyhouse@gmail.com",
+			"name": "jculvey"
+		},
+		{
+			"email": "jrf0110@gmail.com",
+			"name": "johndotawesome"
+		},
+		{
+			"email": "jparyani@cloudflare.com",
+			"name": "jparyani-cloudflare"
+		},
+		{
+			"email": "fernandes.sachin@gmail.com",
+			"name": "manatarms"
+		},
+		{
+			"email": "mark@cloudflare.com",
+			"name": "marksteyn"
+		},
+		{
+			"email": "vojtech@miksu.cz",
+			"name": "miksu"
+		},
+		{
+			"email": "mpinter09@gmail.com",
+			"name": "mpint"
+		},
+		{
+			"email": "nick@comer.io",
+			"name": "nkcmr"
+		},
+		{
+			"email": "me@rreverser.com",
+			"name": "rreverser"
+		},
+		{
+			"email": "npmjs@ryan0x44.com",
+			"name": "ryan0x44"
+		},
+		{
+			"email": "sejoker@gmail.com",
+			"name": "sejoker"
+		},
+		{
+			"email": "teffen@nirri.us",
+			"name": "teffenellis"
+		},
+		{
+			"email": "terinjokes@gmail.com",
+			"name": "terinjokes"
+		},
+		{
+			"email": "toekneestuck@gmail.com",
+			"name": "toekneestuck"
+		},
+		{
+			"email": "vastur@gmail.com",
+			"name": "vasturiano"
+		}
+	],
+	"modified": "2018-03-28T01:00:36.104Z",
+	"released": "2018-03-28T01:00:35.911Z",
+	"downloadsLastWeek": 258
+}

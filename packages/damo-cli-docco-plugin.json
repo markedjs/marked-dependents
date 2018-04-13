@@ -1,1 +1,14 @@
-{"name":"damo-cli-docco-plugin","version":"0.0.5","depVersion":">= 0.2.7","maintainers":[{"name":"baqian","email":"st403471258@gmail.com"}],"modified":"2018-02-28T16:24:05.133Z","released":"2018-02-28T16:24:04.818Z","downloadsLastWeek":1}
+{
+	"name": "damo-cli-docco-plugin",
+	"version": "0.0.5",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "baqian",
+			"email": "st403471258@gmail.com"
+		}
+	],
+	"modified": "2018-02-28T16:24:05.133Z",
+	"released": "2018-02-28T16:24:04.818Z",
+	"downloadsLastWeek": 1
+}

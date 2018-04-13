@@ -1,1 +1,14 @@
-{"name":"getawesomeness","version":"0.1.0","depVersion":"latest","maintainers":[{"name":"alebcay","email":"calebcenter@live.com"}],"modified":"2014-12-18T07:09:51.702Z","released":"2014-12-18T07:09:51.702Z","downloadsLastWeek":1}
+{
+	"name": "getawesomeness",
+	"version": "0.1.0",
+	"depVersion": "latest",
+	"maintainers": [
+		{
+			"name": "alebcay",
+			"email": "calebcenter@live.com"
+		}
+	],
+	"modified": "2014-12-18T07:09:51.702Z",
+	"released": "2014-12-18T07:09:51.702Z",
+	"downloadsLastWeek": 1
+}

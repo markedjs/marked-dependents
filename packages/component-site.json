@@ -1,1 +1,14 @@
-{"name":"component-site","version":"0.0.14","depVersion":"~0.3.5","maintainers":[{"name":"windyge","email":"gxll1314@gmail.com"}],"modified":"2015-12-15T08:57:40.806Z","released":"2015-12-15T08:57:40.806Z","downloadsLastWeek":1}
+{
+	"name": "component-site",
+	"version": "0.0.14",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "windyge",
+			"email": "gxll1314@gmail.com"
+		}
+	],
+	"modified": "2015-12-15T08:57:40.806Z",
+	"released": "2015-12-15T08:57:40.806Z",
+	"downloadsLastWeek": 1
+}

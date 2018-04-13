@@ -1,1 +1,14 @@
-{"name":"browser-workshopper","version":"0.0.11","depVersion":"^0.3.2","maintainers":[{"name":"lakenen","email":"cameron.lakenen@gmail.com"}],"modified":"2015-04-17T20:52:34.205Z","released":"2015-04-17T20:52:34.205Z","downloadsLastWeek":2}
+{
+	"name": "browser-workshopper",
+	"version": "0.0.11",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "lakenen",
+			"email": "cameron.lakenen@gmail.com"
+		}
+	],
+	"modified": "2015-04-17T20:52:34.205Z",
+	"released": "2015-04-17T20:52:34.205Z",
+	"downloadsLastWeek": 2
+}

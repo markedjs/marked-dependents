@@ -1,1 +1,18 @@
-{"name":"otis","version":"0.3.0","depVersion":"0.2.x","maintainers":[{"name":"brynb","email":"bryn.bellomy@gmail.com"},{"name":"bryn","email":"bryn.bellomy@gmail.com"}],"modified":"2012-12-01T01:07:35.679Z","released":"2012-12-01T01:07:35.679Z","downloadsLastWeek":1}
+{
+	"name": "otis",
+	"version": "0.3.0",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "brynb",
+			"email": "bryn.bellomy@gmail.com"
+		},
+		{
+			"name": "bryn",
+			"email": "bryn.bellomy@gmail.com"
+		}
+	],
+	"modified": "2012-12-01T01:07:35.679Z",
+	"released": "2012-12-01T01:07:35.679Z",
+	"downloadsLastWeek": 1
+}

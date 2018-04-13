@@ -1,1 +1,14 @@
-{"name":"ember-cli-static","version":"0.0.3","depVersion":"^0.3.3","maintainers":[{"name":"tubbo","email":"tubbo@psychedeli.ca"}],"modified":"2015-05-17T05:41:15.469Z","released":"2015-05-17T05:41:15.469Z","downloadsLastWeek":2}
+{
+	"name": "ember-cli-static",
+	"version": "0.0.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "tubbo",
+			"email": "tubbo@psychedeli.ca"
+		}
+	],
+	"modified": "2015-05-17T05:41:15.469Z",
+	"released": "2015-05-17T05:41:15.469Z",
+	"downloadsLastWeek": 2
+}

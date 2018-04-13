@@ -1,1 +1,14 @@
-{"name":"readme-help","version":"1.1.1","depVersion":"^0.3.6","maintainers":[{"name":"jonelson","email":"jonelson@atlassian.com"}],"modified":"2017-02-28T05:17:58.352Z","released":"2017-02-28T05:17:58.352Z","downloadsLastWeek":19}
+{
+	"name": "readme-help",
+	"version": "1.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "jonelson",
+			"email": "jonelson@atlassian.com"
+		}
+	],
+	"modified": "2017-02-28T05:17:58.352Z",
+	"released": "2017-02-28T05:17:58.352Z",
+	"downloadsLastWeek": 19
+}

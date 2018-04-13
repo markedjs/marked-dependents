@@ -1,1 +1,14 @@
-{"name":"keystone-z","version":"4.0.0-beta.51","depVersion":"0.3.6","maintainers":[{"name":"jrhess","email":"jobhesk@gmail.com"}],"modified":"2017-02-09T14:15:27.840Z","released":"2017-02-09T14:15:27.840Z","downloadsLastWeek":1}
+{
+	"name": "keystone-z",
+	"version": "4.0.0-beta.51",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "jrhess",
+			"email": "jobhesk@gmail.com"
+		}
+	],
+	"modified": "2017-02-09T14:15:27.840Z",
+	"released": "2017-02-09T14:15:27.840Z",
+	"downloadsLastWeek": 1
+}

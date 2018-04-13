@@ -1,1 +1,14 @@
-{"name":"exspresso","version":"0.10.27","depVersion":"*","maintainers":[{"name":"darkoverlordofdata","email":"darkoverlordofdata@gmail.com"}],"modified":"2013-09-24T01:04:05.189Z","released":"2013-09-24T01:04:05.189Z","downloadsLastWeek":1}
+{
+	"name": "exspresso",
+	"version": "0.10.27",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "darkoverlordofdata",
+			"email": "darkoverlordofdata@gmail.com"
+		}
+	],
+	"modified": "2013-09-24T01:04:05.189Z",
+	"released": "2013-09-24T01:04:05.189Z",
+	"downloadsLastWeek": 1
+}

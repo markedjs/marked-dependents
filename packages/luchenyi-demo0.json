@@ -1,1 +1,14 @@
-{"name":"luchenyi-demo0","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"luchenyi","email":"1152554258@qq.com"}],"modified":"2017-09-13T08:40:22.901Z","released":"2017-09-13T08:40:22.901Z","downloadsLastWeek":3}
+{
+	"name": "luchenyi-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "luchenyi",
+			"email": "1152554258@qq.com"
+		}
+	],
+	"modified": "2017-09-13T08:40:22.901Z",
+	"released": "2017-09-13T08:40:22.901Z",
+	"downloadsLastWeek": 3
+}

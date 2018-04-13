@@ -1,1 +1,14 @@
-{"name":"yaml-markdown","version":"1.0.3","depVersion":"^0.3.3","maintainers":[{"name":"tom.n1ck","email":"tomwanick@gmail.com"}],"modified":"2015-11-02T22:57:53.072Z","released":"2015-11-02T22:57:53.072Z","downloadsLastWeek":113}
+{
+	"name": "yaml-markdown",
+	"version": "1.0.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "tom.n1ck",
+			"email": "tomwanick@gmail.com"
+		}
+	],
+	"modified": "2015-11-02T22:57:53.072Z",
+	"released": "2015-11-02T22:57:53.072Z",
+	"downloadsLastWeek": 113
+}

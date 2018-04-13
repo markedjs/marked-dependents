@@ -1,1 +1,14 @@
-{"name":"duck-docs","version":"0.0.0","depVersion":"^0.3.2","maintainers":[{"name":"hyubs","email":"hyubs.u@gmail.com"}],"modified":"2014-09-05T22:47:11.582Z","released":"2014-09-05T22:47:11.582Z","downloadsLastWeek":37}
+{
+	"name": "duck-docs",
+	"version": "0.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "hyubs",
+			"email": "hyubs.u@gmail.com"
+		}
+	],
+	"modified": "2014-09-05T22:47:11.582Z",
+	"released": "2014-09-05T22:47:11.582Z",
+	"downloadsLastWeek": 37
+}

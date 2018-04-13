@@ -1,1 +1,14 @@
-{"name":"projectmanagement","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"tkavukat","email":"tkavukat@gmail.com"}],"modified":"2016-05-16T01:57:56.067Z","released":"2016-05-16T01:57:56.067Z","downloadsLastWeek":3}
+{
+	"name": "projectmanagement",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "tkavukat",
+			"email": "tkavukat@gmail.com"
+		}
+	],
+	"modified": "2016-05-16T01:57:56.067Z",
+	"released": "2016-05-16T01:57:56.067Z",
+	"downloadsLastWeek": 3
+}

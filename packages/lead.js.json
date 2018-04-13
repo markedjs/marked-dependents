@@ -1,1 +1,14 @@
-{"name":"lead.js","version":"0.2.0-beta3","depVersion":"~0.3.0","maintainers":[{"name":"also","email":"ryan@ryanberdeen.com"}],"modified":"2014-07-20T23:27:26.223Z","released":"2014-07-20T23:27:26.223Z","downloadsLastWeek":1}
+{
+	"name": "lead.js",
+	"version": "0.2.0-beta3",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "also",
+			"email": "ryan@ryanberdeen.com"
+		}
+	],
+	"modified": "2014-07-20T23:27:26.223Z",
+	"released": "2014-07-20T23:27:26.223Z",
+	"downloadsLastWeek": 1
+}

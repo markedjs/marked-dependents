@@ -1,1 +1,14 @@
-{"name":"publishdoc","version":"1.0.3","depVersion":"^0.3.5","maintainers":[{"name":"zhangrenyang4","email":"zhang_renyang@126.com"}],"modified":"2016-06-30T13:27:21.777Z","released":"2016-06-30T13:27:21.777Z","downloadsLastWeek":2}
+{
+	"name": "publishdoc",
+	"version": "1.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "zhangrenyang4",
+			"email": "zhang_renyang@126.com"
+		}
+	],
+	"modified": "2016-06-30T13:27:21.777Z",
+	"released": "2016-06-30T13:27:21.777Z",
+	"downloadsLastWeek": 2
+}

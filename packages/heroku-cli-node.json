@@ -1,1 +1,14 @@
-{"name":"heroku-cli-node","version":"2.1.0","depVersion":"^0.3.6","maintainers":[{"name":"hunterloftis","email":"hunter@hunterloftis.com"}],"modified":"2017-05-19T18:17:47.393Z","released":"2017-05-19T18:17:47.393Z","downloadsLastWeek":5}
+{
+	"name": "heroku-cli-node",
+	"version": "2.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "hunterloftis",
+			"email": "hunter@hunterloftis.com"
+		}
+	],
+	"modified": "2017-05-19T18:17:47.393Z",
+	"released": "2017-05-19T18:17:47.393Z",
+	"downloadsLastWeek": 5
+}

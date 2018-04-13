@@ -1,1 +1,14 @@
-{"name":"make_docs","version":"1.1.1","depVersion":"latest","maintainers":[{"name":"pavelvasev","email":"pavel.vasev@gmail.com"}],"modified":"2015-10-12T08:14:57.161Z","released":"2015-10-12T08:14:57.161Z","downloadsLastWeek":2}
+{
+	"name": "make_docs",
+	"version": "1.1.1",
+	"depVersion": "latest",
+	"maintainers": [
+		{
+			"name": "pavelvasev",
+			"email": "pavel.vasev@gmail.com"
+		}
+	],
+	"modified": "2015-10-12T08:14:57.161Z",
+	"released": "2015-10-12T08:14:57.161Z",
+	"downloadsLastWeek": 2
+}

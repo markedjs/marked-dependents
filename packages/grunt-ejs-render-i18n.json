@@ -1,1 +1,14 @@
-{"name":"grunt-ejs-render-i18n","version":"0.2.7","depVersion":"~0.3.2","maintainers":[{"name":"kuzyakiev","email":"oleg.kudrenko@gmail.com"}],"modified":"2014-12-16T11:00:57.142Z","released":"2014-12-16T11:00:57.142Z","downloadsLastWeek":2}
+{
+	"name": "grunt-ejs-render-i18n",
+	"version": "0.2.7",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "kuzyakiev",
+			"email": "oleg.kudrenko@gmail.com"
+		}
+	],
+	"modified": "2014-12-16T11:00:57.142Z",
+	"released": "2014-12-16T11:00:57.142Z",
+	"downloadsLastWeek": 2
+}

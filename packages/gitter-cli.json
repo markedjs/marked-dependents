@@ -1,1 +1,14 @@
-{"name":"gitter-cli","version":"0.8.5","depVersion":"^0.3.3","maintainers":[{"name":"rec","email":"espinosacurbelo@gmail.com"}],"modified":"2015-07-14T02:46:00.153Z","released":"2015-07-14T02:46:00.153Z","downloadsLastWeek":5}
+{
+	"name": "gitter-cli",
+	"version": "0.8.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "rec",
+			"email": "espinosacurbelo@gmail.com"
+		}
+	],
+	"modified": "2015-07-14T02:46:00.153Z",
+	"released": "2015-07-14T02:46:00.153Z",
+	"downloadsLastWeek": 5
+}

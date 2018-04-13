@@ -1,1 +1,22 @@
-{"name":"keystone","version":"4.0.0-beta.8","depVersion":"0.3.9","maintainers":[{"email":"benjaminconolly@gmail.com","name":"noviny"},{"email":"npm@mxstbr.com","name":"mxstbr"},{"email":"jed.watson@me.com","name":"jedwatson"}],"modified":"2018-03-13T13:11:49.287Z","released":"2018-01-22T13:00:54.401Z","downloadsLastWeek":2241}
+{
+	"name": "keystone",
+	"version": "4.0.0-beta.8",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"email": "benjaminconolly@gmail.com",
+			"name": "noviny"
+		},
+		{
+			"email": "npm@mxstbr.com",
+			"name": "mxstbr"
+		},
+		{
+			"email": "jed.watson@me.com",
+			"name": "jedwatson"
+		}
+	],
+	"modified": "2018-03-13T13:11:49.287Z",
+	"released": "2018-01-22T13:00:54.401Z",
+	"downloadsLastWeek": 2241
+}

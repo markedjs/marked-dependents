@@ -1,1 +1,14 @@
-{"name":"gulp-viking-posts","version":"0.0.7","depVersion":"0.3.2","maintainers":[{"name":"jneurock","email":"info@vikingglory.com"}],"modified":"2015-05-03T20:50:10.262Z","released":"2015-05-03T20:50:10.262Z","downloadsLastWeek":1}
+{
+	"name": "gulp-viking-posts",
+	"version": "0.0.7",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "jneurock",
+			"email": "info@vikingglory.com"
+		}
+	],
+	"modified": "2015-05-03T20:50:10.262Z",
+	"released": "2015-05-03T20:50:10.262Z",
+	"downloadsLastWeek": 1
+}

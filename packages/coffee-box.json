@@ -1,1 +1,14 @@
-{"name":"coffee-box","version":"0.0.6","depVersion":">= 0.1.7","maintainers":[{"name":"qiao","email":"xueqiaoxu@gmail.com"}],"modified":"2012-01-27T11:59:56.112Z","released":"2012-01-27T11:59:56.112Z","downloadsLastWeek":1}
+{
+	"name": "coffee-box",
+	"version": "0.0.6",
+	"depVersion": ">= 0.1.7",
+	"maintainers": [
+		{
+			"name": "qiao",
+			"email": "xueqiaoxu@gmail.com"
+		}
+	],
+	"modified": "2012-01-27T11:59:56.112Z",
+	"released": "2012-01-27T11:59:56.112Z",
+	"downloadsLastWeek": 1
+}

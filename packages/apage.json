@@ -1,1 +1,14 @@
-{"name":"apage","version":"0.0.22","depVersion":"latest","maintainers":[{"name":"richplastow","email":"rich@richplastow.com"}],"modified":"2015-05-22T12:24:41.708Z","released":"2015-05-22T12:24:41.708Z","downloadsLastWeek":3}
+{
+	"name": "apage",
+	"version": "0.0.22",
+	"depVersion": "latest",
+	"maintainers": [
+		{
+			"name": "richplastow",
+			"email": "rich@richplastow.com"
+		}
+	],
+	"modified": "2015-05-22T12:24:41.708Z",
+	"released": "2015-05-22T12:24:41.708Z",
+	"downloadsLastWeek": 3
+}

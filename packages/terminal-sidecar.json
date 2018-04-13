@@ -1,1 +1,18 @@
-{"name":"terminal-sidecar","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"email":"safia@safia.rocks","name":"captainsafia"},{"email":"rgbkrk@gmail.com","name":"rgbkrk"}],"modified":"2017-05-22T18:17:16.823Z","released":"2016-01-19T03:31:26.389Z","downloadsLastWeek":6}
+{
+	"name": "terminal-sidecar",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"email": "safia@safia.rocks",
+			"name": "captainsafia"
+		},
+		{
+			"email": "rgbkrk@gmail.com",
+			"name": "rgbkrk"
+		}
+	],
+	"modified": "2017-05-22T18:17:16.823Z",
+	"released": "2016-01-19T03:31:26.389Z",
+	"downloadsLastWeek": 6
+}

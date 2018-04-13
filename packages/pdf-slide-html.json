@@ -1,1 +1,14 @@
-{"name":"pdf-slide-html","version":"2.1.1","depVersion":"^0.3.2","maintainers":[{"name":"azu","email":"azuciao@gmail.com"}],"modified":"2016-02-25T14:27:25.527Z","released":"2016-02-25T14:27:25.527Z","downloadsLastWeek":2}
+{
+	"name": "pdf-slide-html",
+	"version": "2.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "azu",
+			"email": "azuciao@gmail.com"
+		}
+	],
+	"modified": "2016-02-25T14:27:25.527Z",
+	"released": "2016-02-25T14:27:25.527Z",
+	"downloadsLastWeek": 2
+}

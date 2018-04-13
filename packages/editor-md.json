@@ -1,1 +1,14 @@
-{"name":"editor-md","version":"0.0.2","depVersion":"^0.3.6","maintainers":[{"name":"xuqinggang","email":"xuqinggangsls@163.com"}],"modified":"2017-11-18T10:25:14.009Z","released":"2017-11-18T10:25:14.009Z","downloadsLastWeek":3}
+{
+	"name": "editor-md",
+	"version": "0.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "xuqinggang",
+			"email": "xuqinggangsls@163.com"
+		}
+	],
+	"modified": "2017-11-18T10:25:14.009Z",
+	"released": "2017-11-18T10:25:14.009Z",
+	"downloadsLastWeek": 3
+}

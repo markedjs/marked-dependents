@@ -1,1 +1,14 @@
-{"name":"gulp-i18n-messageformat","version":"1.1.2","depVersion":"^0.3.6","maintainers":[{"name":"meezio","email":"contact@meez.io"}],"modified":"2017-10-05T23:18:37.312Z","released":"2017-10-05T23:18:37.312Z","downloadsLastWeek":1}
+{
+	"name": "gulp-i18n-messageformat",
+	"version": "1.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "meezio",
+			"email": "contact@meez.io"
+		}
+	],
+	"modified": "2017-10-05T23:18:37.312Z",
+	"released": "2017-10-05T23:18:37.312Z",
+	"downloadsLastWeek": 1
+}

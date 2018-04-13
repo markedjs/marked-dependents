@@ -1,1 +1,14 @@
-{"name":"twig-markdown","version":"0.1.2","depVersion":"*","maintainers":[{"name":"ianbytchek","email":"ianbytchek@gmail.com"}],"modified":"2016-03-25T10:16:43.942Z","released":"2016-03-25T10:16:43.942Z","downloadsLastWeek":59}
+{
+	"name": "twig-markdown",
+	"version": "0.1.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "ianbytchek",
+			"email": "ianbytchek@gmail.com"
+		}
+	],
+	"modified": "2016-03-25T10:16:43.942Z",
+	"released": "2016-03-25T10:16:43.942Z",
+	"downloadsLastWeek": 59
+}

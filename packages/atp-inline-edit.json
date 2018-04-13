@@ -1,1 +1,14 @@
-{"name":"atp-inline-edit","version":"0.9.8","depVersion":"^0.3.18","maintainers":[{"name":"daemonalchemist","email":"andy@wittrock.us"}],"modified":"2018-03-22T20:33:54.405Z","released":"2018-03-22T20:33:53.876Z","downloadsLastWeek":1}
+{
+	"name": "atp-inline-edit",
+	"version": "0.9.8",
+	"depVersion": "^0.3.18",
+	"maintainers": [
+		{
+			"name": "daemonalchemist",
+			"email": "andy@wittrock.us"
+		}
+	],
+	"modified": "2018-03-22T20:33:54.405Z",
+	"released": "2018-03-22T20:33:53.876Z",
+	"downloadsLastWeek": 1
+}

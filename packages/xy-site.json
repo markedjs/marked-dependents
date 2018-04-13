@@ -1,1 +1,14 @@
-{"name":"xy-site","version":"1.0.1","depVersion":"^0.3.3","maintainers":[{"name":"xiaoyuren","email":"3cking@163.com"}],"modified":"2017-06-09T06:27:00.486Z","released":"2017-06-09T06:27:00.486Z","downloadsLastWeek":4}
+{
+	"name": "xy-site",
+	"version": "1.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "xiaoyuren",
+			"email": "3cking@163.com"
+		}
+	],
+	"modified": "2017-06-09T06:27:00.486Z",
+	"released": "2017-06-09T06:27:00.486Z",
+	"downloadsLastWeek": 4
+}

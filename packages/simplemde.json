@@ -1,1 +1,14 @@
-{"name":"simplemde","version":"1.11.2","depVersion":"*","maintainers":[{"name":"wescossick","email":"wes@sparksuite.com"}],"modified":"2018-03-16T10:03:58.969Z","released":"2016-06-14T17:58:29.287Z","downloadsLastWeek":11105}
+{
+	"name": "simplemde",
+	"version": "1.11.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "wescossick",
+			"email": "wes@sparksuite.com"
+		}
+	],
+	"modified": "2018-03-16T10:03:58.969Z",
+	"released": "2016-06-14T17:58:29.287Z",
+	"downloadsLastWeek": 11105
+}

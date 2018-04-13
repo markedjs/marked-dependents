@@ -1,1 +1,14 @@
-{"name":"teleprompter","version":"1.3.1","depVersion":"~0.3.5","maintainers":[{"name":"schoonology","email":"michael.r.schoonmaker@gmail.com"}],"modified":"2016-04-15T23:19:06.135Z","released":"2016-04-15T23:19:06.135Z","downloadsLastWeek":13}
+{
+	"name": "teleprompter",
+	"version": "1.3.1",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "schoonology",
+			"email": "michael.r.schoonmaker@gmail.com"
+		}
+	],
+	"modified": "2016-04-15T23:19:06.135Z",
+	"released": "2016-04-15T23:19:06.135Z",
+	"downloadsLastWeek": 13
+}

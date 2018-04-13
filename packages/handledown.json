@@ -1,1 +1,14 @@
-{"name":"handledown","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"potch","email":"me@potch.me"}],"modified":"2017-01-27T23:01:44.917Z","released":"2017-01-27T23:01:44.917Z","downloadsLastWeek":3}
+{
+	"name": "handledown",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "potch",
+			"email": "me@potch.me"
+		}
+	],
+	"modified": "2017-01-27T23:01:44.917Z",
+	"released": "2017-01-27T23:01:44.917Z",
+	"downloadsLastWeek": 3
+}

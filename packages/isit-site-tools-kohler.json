@@ -1,1 +1,14 @@
-{"name":"isit-site-tools-kohler","version":"1.3.0","depVersion":"^0.3.6","maintainers":[{"name":"ilithor","email":"daryk.kohler@gmail.com"}],"modified":"2017-10-30T06:05:46.685Z","released":"2017-10-30T06:05:46.685Z","downloadsLastWeek":1}
+{
+	"name": "isit-site-tools-kohler",
+	"version": "1.3.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ilithor",
+			"email": "daryk.kohler@gmail.com"
+		}
+	],
+	"modified": "2017-10-30T06:05:46.685Z",
+	"released": "2017-10-30T06:05:46.685Z",
+	"downloadsLastWeek": 1
+}

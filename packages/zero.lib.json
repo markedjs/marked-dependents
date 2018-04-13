@@ -1,1 +1,14 @@
-{"name":"zero.lib","version":"0.0.3","depVersion":"0.3.5","maintainers":[{"name":"cadorn","email":"christoph@christophdorn.com"}],"modified":"2015-10-02T05:16:40.565Z","released":"2015-10-02T05:16:40.565Z","downloadsLastWeek":10}
+{
+	"name": "zero.lib",
+	"version": "0.0.3",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "cadorn",
+			"email": "christoph@christophdorn.com"
+		}
+	],
+	"modified": "2015-10-02T05:16:40.565Z",
+	"released": "2015-10-02T05:16:40.565Z",
+	"downloadsLastWeek": 10
+}

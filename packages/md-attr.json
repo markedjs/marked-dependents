@@ -1,1 +1,22 @@
-{"name":"md-attr","version":"0.3.5","depVersion":"^0.3.2","maintainers":[{"email":"chihsuan.tw@gmail.com","name":"chihsuan"},{"email":"wwwy3y3@gmail.com","name":"wwwy3y3"},{"email":"chilijung@gmail.com","name":"chilijung"}],"modified":"2017-05-22T10:38:48.219Z","released":"2015-11-16T13:31:24.977Z","downloadsLastWeek":2}
+{
+	"name": "md-attr",
+	"version": "0.3.5",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"email": "chihsuan.tw@gmail.com",
+			"name": "chihsuan"
+		},
+		{
+			"email": "wwwy3y3@gmail.com",
+			"name": "wwwy3y3"
+		},
+		{
+			"email": "chilijung@gmail.com",
+			"name": "chilijung"
+		}
+	],
+	"modified": "2017-05-22T10:38:48.219Z",
+	"released": "2015-11-16T13:31:24.977Z",
+	"downloadsLastWeek": 2
+}

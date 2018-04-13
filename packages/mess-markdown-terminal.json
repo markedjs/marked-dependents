@@ -1,1 +1,14 @@
-{"name":"mess-markdown-terminal","version":"1.0.1","depVersion":"0.3.9","maintainers":[{"name":"oschrenk","email":"oliver.schrenk@gmail.com"}],"modified":"2018-01-07T16:01:40.527Z","released":"2018-01-07T16:01:40.527Z","downloadsLastWeek":2}
+{
+	"name": "mess-markdown-terminal",
+	"version": "1.0.1",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"name": "oschrenk",
+			"email": "oliver.schrenk@gmail.com"
+		}
+	],
+	"modified": "2018-01-07T16:01:40.527Z",
+	"released": "2018-01-07T16:01:40.527Z",
+	"downloadsLastWeek": 2
+}

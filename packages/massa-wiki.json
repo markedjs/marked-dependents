@@ -1,1 +1,14 @@
-{"name":"massa-wiki","version":"1.0.0","depVersion":"~0.3.2","maintainers":[{"name":"smassa","email":"endangeredmassa@gmail.com"}],"modified":"2014-09-26T17:43:19.251Z","released":"2014-09-26T17:43:19.251Z","downloadsLastWeek":2}
+{
+	"name": "massa-wiki",
+	"version": "1.0.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "smassa",
+			"email": "endangeredmassa@gmail.com"
+		}
+	],
+	"modified": "2014-09-26T17:43:19.251Z",
+	"released": "2014-09-26T17:43:19.251Z",
+	"downloadsLastWeek": 2
+}

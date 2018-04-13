@@ -1,1 +1,14 @@
-{"name":"angular2-md","version":"0.0.3","depVersion":"^0.3.6","maintainers":[{"name":"clepto","email":"triantafyllis.christos@gmail.com"}],"modified":"2016-12-26T19:29:05.099Z","released":"2016-12-26T19:29:05.099Z","downloadsLastWeek":4}
+{
+	"name": "angular2-md",
+	"version": "0.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "clepto",
+			"email": "triantafyllis.christos@gmail.com"
+		}
+	],
+	"modified": "2016-12-26T19:29:05.099Z",
+	"released": "2016-12-26T19:29:05.099Z",
+	"downloadsLastWeek": 4
+}

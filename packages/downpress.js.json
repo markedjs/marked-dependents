@@ -1,1 +1,14 @@
-{"name":"downpress.js","version":"0.1.1","depVersion":"^0.3.2","maintainers":[{"name":"da4c30ff","email":"da4c30ff@ssl-mail.com"}],"modified":"2014-05-09T18:29:58.999Z","released":"2014-05-09T18:29:58.999Z","downloadsLastWeek":1}
+{
+	"name": "downpress.js",
+	"version": "0.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "da4c30ff",
+			"email": "da4c30ff@ssl-mail.com"
+		}
+	],
+	"modified": "2014-05-09T18:29:58.999Z",
+	"released": "2014-05-09T18:29:58.999Z",
+	"downloadsLastWeek": 1
+}

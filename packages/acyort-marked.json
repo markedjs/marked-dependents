@@ -1,1 +1,14 @@
-{"name":"acyort-marked","version":"1.1.0","depVersion":"^0.3.9","maintainers":[{"name":"loeify","email":"loeify@gmail.com"}],"modified":"2018-02-24T05:05:04.185Z","released":"2018-02-24T05:05:03.874Z","downloadsLastWeek":14}
+{
+	"name": "acyort-marked",
+	"version": "1.1.0",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "loeify",
+			"email": "loeify@gmail.com"
+		}
+	],
+	"modified": "2018-02-24T05:05:04.185Z",
+	"released": "2018-02-24T05:05:03.874Z",
+	"downloadsLastWeek": 14
+}

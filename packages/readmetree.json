@@ -1,1 +1,18 @@
-{"name":"readmetree","version":"1.2.0","depVersion":"0.3.2","maintainers":[{"name":"dtrejo","email":"david.daniel.trejo@gmail.com"},{"name":"jarofghosts","email":"me@jessekeane.me"}],"modified":"2014-03-12T18:17:01.239Z","released":"2014-03-12T04:31:38.148Z","downloadsLastWeek":17}
+{
+	"name": "readmetree",
+	"version": "1.2.0",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "dtrejo",
+			"email": "david.daniel.trejo@gmail.com"
+		},
+		{
+			"name": "jarofghosts",
+			"email": "me@jessekeane.me"
+		}
+	],
+	"modified": "2014-03-12T18:17:01.239Z",
+	"released": "2014-03-12T04:31:38.148Z",
+	"downloadsLastWeek": 17
+}

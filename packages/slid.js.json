@@ -1,1 +1,14 @@
-{"name":"slid.js","version":"1.0.4","depVersion":"~0.3.1","maintainers":[{"name":"arnemart","email":"am@aurlien.net"}],"modified":"2017-05-31T12:41:44.356Z","released":"2017-05-31T12:41:44.356Z","downloadsLastWeek":29}
+{
+	"name": "slid.js",
+	"version": "1.0.4",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "arnemart",
+			"email": "am@aurlien.net"
+		}
+	],
+	"modified": "2017-05-31T12:41:44.356Z",
+	"released": "2017-05-31T12:41:44.356Z",
+	"downloadsLastWeek": 29
+}

@@ -1,1 +1,14 @@
-{"name":"generator-dummies","version":"3.0.0","depVersion":"^0.3.5","maintainers":[{"name":"plou","email":"cl.plou@gmail.com"}],"modified":"2017-02-24T15:29:01.399Z","released":"2017-02-24T15:29:01.399Z","downloadsLastWeek":1}
+{
+	"name": "generator-dummies",
+	"version": "3.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "plou",
+			"email": "cl.plou@gmail.com"
+		}
+	],
+	"modified": "2017-02-24T15:29:01.399Z",
+	"released": "2017-02-24T15:29:01.399Z",
+	"downloadsLastWeek": 1
+}

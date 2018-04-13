@@ -1,1 +1,14 @@
-{"name":"marked-lexer-stream","version":"0.0.2","depVersion":"^0.3.2","maintainers":[{"name":"nbqx","email":"nbqxnbq@gmail.com"}],"modified":"2014-05-08T04:41:08.183Z","released":"2014-05-08T04:41:08.183Z","downloadsLastWeek":1}
+{
+	"name": "marked-lexer-stream",
+	"version": "0.0.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "nbqx",
+			"email": "nbqxnbq@gmail.com"
+		}
+	],
+	"modified": "2014-05-08T04:41:08.183Z",
+	"released": "2014-05-08T04:41:08.183Z",
+	"downloadsLastWeek": 1
+}

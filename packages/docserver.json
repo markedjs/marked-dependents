@@ -1,1 +1,14 @@
-{"name":"docserver","version":"0.1.4","depVersion":"~0.2.5","maintainers":[{"name":"natevancouver","email":"nate@natesilva.com"}],"modified":"2013-01-15T20:30:12.945Z","released":"2013-01-15T20:30:12.945Z","downloadsLastWeek":65}
+{
+	"name": "docserver",
+	"version": "0.1.4",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "natevancouver",
+			"email": "nate@natesilva.com"
+		}
+	],
+	"modified": "2013-01-15T20:30:12.945Z",
+	"released": "2013-01-15T20:30:12.945Z",
+	"downloadsLastWeek": 65
+}

@@ -1,1 +1,14 @@
-{"name":"jstatico","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"egeozcan","email":"egecan@gmail.com"}],"modified":"2014-04-13T13:35:13.648Z","released":"2014-04-13T13:35:13.648Z","downloadsLastWeek":1}
+{
+	"name": "jstatico",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "egeozcan",
+			"email": "egecan@gmail.com"
+		}
+	],
+	"modified": "2014-04-13T13:35:13.648Z",
+	"released": "2014-04-13T13:35:13.648Z",
+	"downloadsLastWeek": 1
+}

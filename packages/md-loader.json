@@ -1,1 +1,14 @@
-{"name":"md-loader","version":"0.1.0","depVersion":"^0.3.5","maintainers":[{"name":"banama","email":"bniuyc@gmail.com"}],"modified":"2016-05-12T08:46:36.186Z","released":"2016-05-10T01:11:27.910Z","downloadsLastWeek":1}
+{
+	"name": "md-loader",
+	"version": "0.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "banama",
+			"email": "bniuyc@gmail.com"
+		}
+	],
+	"modified": "2016-05-12T08:46:36.186Z",
+	"released": "2016-05-10T01:11:27.910Z",
+	"downloadsLastWeek": 1
+}

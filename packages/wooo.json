@@ -1,1 +1,14 @@
-{"name":"wooo","version":"0.1.1","depVersion":"^0.3.17","maintainers":[{"name":"keelii","email":"keeliizhou@gmail.com"}],"modified":"2018-03-28T03:41:52.574Z","released":"2018-03-28T03:41:51.532Z","downloadsLastWeek":64}
+{
+	"name": "wooo",
+	"version": "0.1.1",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "keelii",
+			"email": "keeliizhou@gmail.com"
+		}
+	],
+	"modified": "2018-03-28T03:41:52.574Z",
+	"released": "2018-03-28T03:41:51.532Z",
+	"downloadsLastWeek": 64
+}

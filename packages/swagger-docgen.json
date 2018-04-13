@@ -1,1 +1,14 @@
-{"name":"swagger-docgen","version":"0.1.3","depVersion":"^0.3.5","maintainers":[{"name":"zanona","email":"zanona@me.com"}],"modified":"2016-04-03T10:25:15.456Z","released":"2016-04-03T08:30:53.090Z","downloadsLastWeek":5}
+{
+	"name": "swagger-docgen",
+	"version": "0.1.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "zanona",
+			"email": "zanona@me.com"
+		}
+	],
+	"modified": "2016-04-03T10:25:15.456Z",
+	"released": "2016-04-03T08:30:53.090Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"marked-stream","version":"0.0.1","depVersion":"~0.2.9","maintainers":[{"name":"jcrugzz","email":"jcrugzz@gmail.com"}],"modified":"2013-07-22T02:22:30.288Z","released":"2013-07-22T02:22:30.288Z","downloadsLastWeek":1}
+{
+	"name": "marked-stream",
+	"version": "0.0.1",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "jcrugzz",
+			"email": "jcrugzz@gmail.com"
+		}
+	],
+	"modified": "2013-07-22T02:22:30.288Z",
+	"released": "2013-07-22T02:22:30.288Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"blog-runner","version":"0.2.0","depVersion":"^0.3.5","maintainers":[{"name":"nalexpear","email":"alex@alexpear.com"}],"modified":"2016-03-12T04:24:37.849Z","released":"2016-03-12T04:24:37.849Z","downloadsLastWeek":1}
+{
+	"name": "blog-runner",
+	"version": "0.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "nalexpear",
+			"email": "alex@alexpear.com"
+		}
+	],
+	"modified": "2016-03-12T04:24:37.849Z",
+	"released": "2016-03-12T04:24:37.849Z",
+	"downloadsLastWeek": 1
+}

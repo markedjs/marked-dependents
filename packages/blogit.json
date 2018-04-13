@@ -1,1 +1,14 @@
-{"name":"blogit","version":"0.0.5","depVersion":"~0.2.5","maintainers":[{"name":"dshaw","email":"dshaw@dshaw.com"}],"modified":"2012-06-07T00:55:10.168Z","released":"2012-06-07T00:55:10.168Z","downloadsLastWeek":1}
+{
+	"name": "blogit",
+	"version": "0.0.5",
+	"depVersion": "~0.2.5",
+	"maintainers": [
+		{
+			"name": "dshaw",
+			"email": "dshaw@dshaw.com"
+		}
+	],
+	"modified": "2012-06-07T00:55:10.168Z",
+	"released": "2012-06-07T00:55:10.168Z",
+	"downloadsLastWeek": 1
+}

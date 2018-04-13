@@ -1,1 +1,14 @@
-{"name":"wein","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"wein","email":"wei_nai_sha@163.com"}],"modified":"2017-07-07T02:21:39.437Z","released":"2017-07-07T02:21:39.437Z","downloadsLastWeek":4}
+{
+	"name": "wein",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "wein",
+			"email": "wei_nai_sha@163.com"
+		}
+	],
+	"modified": "2017-07-07T02:21:39.437Z",
+	"released": "2017-07-07T02:21:39.437Z",
+	"downloadsLastWeek": 4
+}

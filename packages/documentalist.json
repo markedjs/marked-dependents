@@ -1,1 +1,14 @@
-{"name":"documentalist","version":"1.2.0","depVersion":"^0.3.7","maintainers":[{"name":"palantir","email":"pt-vendor-npm@palantir.com"}],"modified":"2018-03-16T22:42:19.550Z","released":"2018-03-16T22:42:18.801Z","downloadsLastWeek":93}
+{
+	"name": "documentalist",
+	"version": "1.2.0",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "palantir",
+			"email": "pt-vendor-npm@palantir.com"
+		}
+	],
+	"modified": "2018-03-16T22:42:19.550Z",
+	"released": "2018-03-16T22:42:18.801Z",
+	"downloadsLastWeek": 93
+}

@@ -1,1 +1,14 @@
-{"name":"ada-pages","version":"1.0.0","depVersion":"^0.3.7","maintainers":[{"name":"topolr","email":"topolr@vip.qq.com"}],"modified":"2017-12-20T11:04:42.036Z","released":"2017-12-20T11:04:42.036Z","downloadsLastWeek":1}
+{
+	"name": "ada-pages",
+	"version": "1.0.0",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "topolr",
+			"email": "topolr@vip.qq.com"
+		}
+	],
+	"modified": "2017-12-20T11:04:42.036Z",
+	"released": "2017-12-20T11:04:42.036Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"jader","version":"0.4.2","depVersion":"^0.3.3","maintainers":[{"name":"mattms","email":"matt@mattms.com"}],"modified":"2015-06-08T06:11:45.679Z","released":"2015-06-08T06:11:45.679Z","downloadsLastWeek":1}
+{
+	"name": "jader",
+	"version": "0.4.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "mattms",
+			"email": "matt@mattms.com"
+		}
+	],
+	"modified": "2015-06-08T06:11:45.679Z",
+	"released": "2015-06-08T06:11:45.679Z",
+	"downloadsLastWeek": 1
+}

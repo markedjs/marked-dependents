@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-luna","version":"0.2.1","depVersion":"~0.3.2","maintainers":[{"name":"mmathias01","email":"mmathias01@gmail.com"}],"modified":"2018-03-20T08:42:23.160Z","released":"2018-03-20T08:42:22.853Z","downloadsLastWeek":1}
+{
+	"name": "nodebb-plugin-import-luna",
+	"version": "0.2.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "mmathias01",
+			"email": "mmathias01@gmail.com"
+		}
+	],
+	"modified": "2018-03-20T08:42:23.160Z",
+	"released": "2018-03-20T08:42:22.853Z",
+	"downloadsLastWeek": 1
+}

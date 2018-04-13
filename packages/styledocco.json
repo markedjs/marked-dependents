@@ -1,1 +1,18 @@
-{"name":"styledocco","version":"0.6.6","depVersion":"0.2.x","maintainers":[{"name":"jacobrask","email":"jacob@jacobrask.net"},{"name":"marrs","email":"david@marrsbytes.com"}],"modified":"2017-01-21T15:04:04.252Z","released":"2014-01-28T20:34:26.607Z","downloadsLastWeek":2738}
+{
+	"name": "styledocco",
+	"version": "0.6.6",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "jacobrask",
+			"email": "jacob@jacobrask.net"
+		},
+		{
+			"name": "marrs",
+			"email": "david@marrsbytes.com"
+		}
+	],
+	"modified": "2017-01-21T15:04:04.252Z",
+	"released": "2014-01-28T20:34:26.607Z",
+	"downloadsLastWeek": 2738
+}

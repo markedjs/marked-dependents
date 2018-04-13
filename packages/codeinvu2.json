@@ -1,1 +1,14 @@
-{"name":"codeinvu2","version":"1.0.1","depVersion":"^0.3.12","maintainers":[{"name":"zyangnpm","email":"kero_zhao@163.com"}],"modified":"2018-01-26T02:52:32.849Z","released":"2018-01-26T02:52:32.849Z","downloadsLastWeek":3}
+{
+	"name": "codeinvu2",
+	"version": "1.0.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "zyangnpm",
+			"email": "kero_zhao@163.com"
+		}
+	],
+	"modified": "2018-01-26T02:52:32.849Z",
+	"released": "2018-01-26T02:52:32.849Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,14 @@
-{"name":"react-milkdown","version":"1.1.1","depVersion":"^0.3.6","maintainers":[{"name":"mirone","email":"610888871@qq.com"}],"modified":"2017-11-29T05:33:33.669Z","released":"2017-11-29T05:33:33.669Z","downloadsLastWeek":21}
+{
+	"name": "react-milkdown",
+	"version": "1.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "mirone",
+			"email": "610888871@qq.com"
+		}
+	],
+	"modified": "2017-11-29T05:33:33.669Z",
+	"released": "2017-11-29T05:33:33.669Z",
+	"downloadsLastWeek": 21
+}

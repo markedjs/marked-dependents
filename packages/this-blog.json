@@ -1,1 +1,14 @@
-{"name":"this-blog","version":"0.2.0","depVersion":">=0.1.2","maintainers":[{"name":"skid","email":"jordanovskid@gmail.com"}],"modified":"2012-01-19T19:18:42.587Z","released":"2012-01-19T19:18:42.587Z","downloadsLastWeek":3}
+{
+	"name": "this-blog",
+	"version": "0.2.0",
+	"depVersion": ">=0.1.2",
+	"maintainers": [
+		{
+			"name": "skid",
+			"email": "jordanovskid@gmail.com"
+		}
+	],
+	"modified": "2012-01-19T19:18:42.587Z",
+	"released": "2012-01-19T19:18:42.587Z",
+	"downloadsLastWeek": 3
+}

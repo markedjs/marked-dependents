@@ -1,1 +1,14 @@
-{"name":"xizero-wiki","version":"1.0.4","depVersion":"^0.3.6","maintainers":[{"name":"xizero","email":"f12998765@yeah.net"}],"modified":"2017-10-12T10:13:06.945Z","released":"2017-10-12T10:13:06.945Z","downloadsLastWeek":17}
+{
+	"name": "xizero-wiki",
+	"version": "1.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "xizero",
+			"email": "f12998765@yeah.net"
+		}
+	],
+	"modified": "2017-10-12T10:13:06.945Z",
+	"released": "2017-10-12T10:13:06.945Z",
+	"downloadsLastWeek": 17
+}

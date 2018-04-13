@@ -1,1 +1,14 @@
-{"name":"beautiful-docs","version":"1.0.3","depVersion":">=0.2.9","maintainers":[{"name":"maximebf","email":"maxime.bouroumeau@gmail.com"}],"modified":"2013-08-16T08:22:21.952Z","released":"2013-08-16T08:22:21.952Z","downloadsLastWeek":4}
+{
+	"name": "beautiful-docs",
+	"version": "1.0.3",
+	"depVersion": ">=0.2.9",
+	"maintainers": [
+		{
+			"name": "maximebf",
+			"email": "maxime.bouroumeau@gmail.com"
+		}
+	],
+	"modified": "2013-08-16T08:22:21.952Z",
+	"released": "2013-08-16T08:22:21.952Z",
+	"downloadsLastWeek": 4
+}

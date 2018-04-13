@@ -1,1 +1,14 @@
-{"name":"punch","version":"0.5.46","depVersion":">= 0.2.5","maintainers":[{"name":"laktek","email":"lakshan@web2media.net"}],"modified":"2014-12-07T00:54:39.247Z","released":"2014-12-07T00:54:39.247Z","downloadsLastWeek":20}
+{
+	"name": "punch",
+	"version": "0.5.46",
+	"depVersion": ">= 0.2.5",
+	"maintainers": [
+		{
+			"name": "laktek",
+			"email": "lakshan@web2media.net"
+		}
+	],
+	"modified": "2014-12-07T00:54:39.247Z",
+	"released": "2014-12-07T00:54:39.247Z",
+	"downloadsLastWeek": 20
+}

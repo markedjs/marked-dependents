@@ -1,1 +1,14 @@
-{"name":"i5ting_toc","version":"1.1.5","depVersion":"^0.3.2","maintainers":[{"name":"i5ting","email":"shiren1118@126.com"}],"modified":"2017-09-27T06:53:22.160Z","released":"2017-09-27T06:53:22.160Z","downloadsLastWeek":40}
+{
+	"name": "i5ting_toc",
+	"version": "1.1.5",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "i5ting",
+			"email": "shiren1118@126.com"
+		}
+	],
+	"modified": "2017-09-27T06:53:22.160Z",
+	"released": "2017-09-27T06:53:22.160Z",
+	"downloadsLastWeek": 40
+}

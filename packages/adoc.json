@@ -1,1 +1,14 @@
-{"name":"adoc","version":"0.1.1","depVersion":"0.3.5","maintainers":[{"name":"ysmood","email":"ys@ysmood.org"}],"modified":"2016-03-23T05:28:42.870Z","released":"2016-03-23T05:28:42.870Z","downloadsLastWeek":2}
+{
+	"name": "adoc",
+	"version": "0.1.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "ysmood",
+			"email": "ys@ysmood.org"
+		}
+	],
+	"modified": "2016-03-23T05:28:42.870Z",
+	"released": "2016-03-23T05:28:42.870Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"yongheng-dome","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"yongheng123","email":"1074827582@qq.com"}],"modified":"2017-08-06T07:51:30.298Z","released":"2017-08-06T07:51:30.298Z","downloadsLastWeek":5}
+{
+	"name": "yongheng-dome",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yongheng123",
+			"email": "1074827582@qq.com"
+		}
+	],
+	"modified": "2017-08-06T07:51:30.298Z",
+	"released": "2017-08-06T07:51:30.298Z",
+	"downloadsLastWeek": 5
+}

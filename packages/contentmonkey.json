@@ -1,1 +1,14 @@
-{"name":"contentmonkey","version":"0.1.1","depVersion":"^0.3.18","maintainers":[{"name":"marvman","email":"hoeraufzunerven@gmail.com"}],"modified":"2018-03-24T18:54:47.993Z","released":"2018-03-24T18:54:46.951Z","downloadsLastWeek":1}
+{
+	"name": "contentmonkey",
+	"version": "0.1.1",
+	"depVersion": "^0.3.18",
+	"maintainers": [
+		{
+			"name": "marvman",
+			"email": "hoeraufzunerven@gmail.com"
+		}
+	],
+	"modified": "2018-03-24T18:54:47.993Z",
+	"released": "2018-03-24T18:54:46.951Z",
+	"downloadsLastWeek": 1
+}

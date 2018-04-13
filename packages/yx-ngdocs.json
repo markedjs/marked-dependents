@@ -1,1 +1,14 @@
-{"name":"yx-ngdocs","version":"0.0.5","depVersion":"0.3.2","maintainers":[{"name":"wangjunjun6","email":"wangjunjun6@126.com"}],"modified":"2017-08-14T08:33:52.214Z","released":"2017-08-14T08:33:52.214Z","downloadsLastWeek":12}
+{
+	"name": "yx-ngdocs",
+	"version": "0.0.5",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "wangjunjun6",
+			"email": "wangjunjun6@126.com"
+		}
+	],
+	"modified": "2017-08-14T08:33:52.214Z",
+	"released": "2017-08-14T08:33:52.214Z",
+	"downloadsLastWeek": 12
+}

@@ -1,1 +1,18 @@
-{"name":"assemble-utils","version":"0.1.0","depVersion":"~0.2.8","maintainers":[{"name":"doowb","email":"brian.woodward@gmail.com"},{"name":"jonschlinkert","email":"github@sellside.com"}],"modified":"2015-03-13T02:10:40.694Z","released":"2013-04-23T02:34:59.456Z","downloadsLastWeek":64}
+{
+	"name": "assemble-utils",
+	"version": "0.1.0",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "doowb",
+			"email": "brian.woodward@gmail.com"
+		},
+		{
+			"name": "jonschlinkert",
+			"email": "github@sellside.com"
+		}
+	],
+	"modified": "2015-03-13T02:10:40.694Z",
+	"released": "2013-04-23T02:34:59.456Z",
+	"downloadsLastWeek": 64
+}

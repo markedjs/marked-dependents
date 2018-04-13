@@ -1,1 +1,14 @@
-{"name":"marked-directory","version":"0.0.6","depVersion":"^0.3.6","maintainers":[{"name":"bboone","email":"bboone@srssoft.com"}],"modified":"2016-11-21T02:33:33.550Z","released":"2016-11-21T02:33:33.550Z","downloadsLastWeek":7}
+{
+	"name": "marked-directory",
+	"version": "0.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bboone",
+			"email": "bboone@srssoft.com"
+		}
+	],
+	"modified": "2016-11-21T02:33:33.550Z",
+	"released": "2016-11-21T02:33:33.550Z",
+	"downloadsLastWeek": 7
+}

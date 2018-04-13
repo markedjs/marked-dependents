@@ -1,1 +1,14 @@
-{"name":"vue-simplemde","version":"0.4.8","depVersion":"^0.3.6","maintainers":[{"name":"f-loat","email":"chaimaoyuan@foxmail.com"}],"modified":"2018-03-31T03:14:19.967Z","released":"2018-03-31T03:14:18.595Z","downloadsLastWeek":1178}
+{
+	"name": "vue-simplemde",
+	"version": "0.4.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "f-loat",
+			"email": "chaimaoyuan@foxmail.com"
+		}
+	],
+	"modified": "2018-03-31T03:14:19.967Z",
+	"released": "2018-03-31T03:14:18.595Z",
+	"downloadsLastWeek": 1178
+}

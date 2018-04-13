@@ -1,1 +1,14 @@
-{"name":"nextstep-simplemde","version":"0.1.0","depVersion":"*","maintainers":[{"name":"junniejobs","email":"junniejobs@gmail.com"}],"modified":"2017-12-16T15:27:20.146Z","released":"2017-12-16T15:27:20.146Z","downloadsLastWeek":1}
+{
+	"name": "nextstep-simplemde",
+	"version": "0.1.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "junniejobs",
+			"email": "junniejobs@gmail.com"
+		}
+	],
+	"modified": "2017-12-16T15:27:20.146Z",
+	"released": "2017-12-16T15:27:20.146Z",
+	"downloadsLastWeek": 1
+}

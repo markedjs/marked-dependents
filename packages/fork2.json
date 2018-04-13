@@ -1,1 +1,14 @@
-{"name":"fork2","version":"0.0.2","depVersion":"~0.2.9","maintainers":[{"name":"hayeah","email":"howard@metacircus.com"}],"modified":"2013-12-04T11:30:31.433Z","released":"2013-12-04T11:30:31.433Z","downloadsLastWeek":2}
+{
+	"name": "fork2",
+	"version": "0.0.2",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "hayeah",
+			"email": "howard@metacircus.com"
+		}
+	],
+	"modified": "2013-12-04T11:30:31.433Z",
+	"released": "2013-12-04T11:30:31.433Z",
+	"downloadsLastWeek": 2
+}

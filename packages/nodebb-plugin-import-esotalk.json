@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-esotalk","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"sub-lunar","email":"et@sub-lunar.com"}],"modified":"2015-02-07T17:52:50.627Z","released":"2015-02-07T17:52:50.627Z","downloadsLastWeek":1}
+{
+	"name": "nodebb-plugin-import-esotalk",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "sub-lunar",
+			"email": "et@sub-lunar.com"
+		}
+	],
+	"modified": "2015-02-07T17:52:50.627Z",
+	"released": "2015-02-07T17:52:50.627Z",
+	"downloadsLastWeek": 1
+}

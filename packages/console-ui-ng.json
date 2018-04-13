@@ -1,1 +1,14 @@
-{"name":"console-ui-ng","version":"0.0.76","depVersion":"^0.3.6","maintainers":[{"name":"tonyeen","email":"tonyeen@foxmail.com"}],"modified":"2018-04-07T18:07:37.701Z","released":"2018-04-07T18:07:37.165Z","downloadsLastWeek":163}
+{
+	"name": "console-ui-ng",
+	"version": "0.0.76",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "tonyeen",
+			"email": "tonyeen@foxmail.com"
+		}
+	],
+	"modified": "2018-04-07T18:07:37.701Z",
+	"released": "2018-04-07T18:07:37.165Z",
+	"downloadsLastWeek": 163
+}

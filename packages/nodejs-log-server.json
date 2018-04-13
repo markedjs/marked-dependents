@@ -1,1 +1,14 @@
-{"name":"nodejs-log-server","version":"0.0.14","depVersion":"^0.3.6","maintainers":[{"name":"harttle","email":"yangjvn@126.com"}],"modified":"2017-01-21T03:52:40.131Z","released":"2017-01-21T03:52:40.131Z","downloadsLastWeek":2}
+{
+	"name": "nodejs-log-server",
+	"version": "0.0.14",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "harttle",
+			"email": "yangjvn@126.com"
+		}
+	],
+	"modified": "2017-01-21T03:52:40.131Z",
+	"released": "2017-01-21T03:52:40.131Z",
+	"downloadsLastWeek": 2
+}

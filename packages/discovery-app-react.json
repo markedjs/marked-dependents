@@ -1,1 +1,14 @@
-{"name":"discovery-app-react","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"oskarlind","email":"oskar.lind@gmail.com"}],"modified":"2018-01-30T11:36:20.084Z","released":"2018-01-30T11:36:20.084Z","downloadsLastWeek":1}
+{
+	"name": "discovery-app-react",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "oskarlind",
+			"email": "oskar.lind@gmail.com"
+		}
+	],
+	"modified": "2018-01-30T11:36:20.084Z",
+	"released": "2018-01-30T11:36:20.084Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"hackmycore","version":"0.4.0","depVersion":"^0.3.5","maintainers":[{"name":"hacksalot","email":"hacksalot@fluentdesk.com"}],"modified":"2016-01-26T19:02:07.903Z","released":"2016-01-26T19:02:07.903Z","downloadsLastWeek":1}
+{
+	"name": "hackmycore",
+	"version": "0.4.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "hacksalot",
+			"email": "hacksalot@fluentdesk.com"
+		}
+	],
+	"modified": "2016-01-26T19:02:07.903Z",
+	"released": "2016-01-26T19:02:07.903Z",
+	"downloadsLastWeek": 1
+}

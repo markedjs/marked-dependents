@@ -1,1 +1,18 @@
-{"name":"shario","version":"0.1.10","depVersion":"^0.3.6","maintainers":[{"name":"snowcakex","email":"snowcakex@gmail.com"},{"name":"xbt1","email":"xbtop1@gmail.com"}],"modified":"2017-08-30T16:40:59.441Z","released":"2017-08-30T16:40:59.441Z","downloadsLastWeek":23}
+{
+	"name": "shario",
+	"version": "0.1.10",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "snowcakex",
+			"email": "snowcakex@gmail.com"
+		},
+		{
+			"name": "xbt1",
+			"email": "xbtop1@gmail.com"
+		}
+	],
+	"modified": "2017-08-30T16:40:59.441Z",
+	"released": "2017-08-30T16:40:59.441Z",
+	"downloadsLastWeek": 23
+}

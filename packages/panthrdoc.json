@@ -1,1 +1,14 @@
-{"name":"panthrdoc","version":"0.0.3","depVersion":"^0.3.2","maintainers":[{"name":"skiadas","email":"skiadas@hanover.edu"}],"modified":"2014-08-24T07:20:10.355Z","released":"2014-08-24T07:20:10.355Z","downloadsLastWeek":2}
+{
+	"name": "panthrdoc",
+	"version": "0.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "skiadas",
+			"email": "skiadas@hanover.edu"
+		}
+	],
+	"modified": "2014-08-24T07:20:10.355Z",
+	"released": "2014-08-24T07:20:10.355Z",
+	"downloadsLastWeek": 2
+}

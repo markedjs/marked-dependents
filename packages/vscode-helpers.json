@@ -1,1 +1,14 @@
-{"name":"vscode-helpers","version":"1.10.0","depVersion":"^0.3.19","maintainers":[{"name":"mkloubert","email":"marcel.kloubert@gmx.net"}],"modified":"2018-04-13T00:34:45.905Z","released":"2018-04-13T00:34:44.726Z","downloadsLastWeek":722}
+{
+	"name": "vscode-helpers",
+	"version": "1.10.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "mkloubert",
+			"email": "marcel.kloubert@gmx.net"
+		}
+	],
+	"modified": "2018-04-13T00:34:45.905Z",
+	"released": "2018-04-13T00:34:44.726Z",
+	"downloadsLastWeek": 722
+}

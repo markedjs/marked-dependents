@@ -1,1 +1,14 @@
-{"name":"hexo-renderer-marked-enhanced","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"helinjiang","email":"me@helinjiang.com"}],"modified":"2015-12-19T07:45:46.187Z","released":"2015-12-19T07:45:46.187Z","downloadsLastWeek":1}
+{
+	"name": "hexo-renderer-marked-enhanced",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "helinjiang",
+			"email": "me@helinjiang.com"
+		}
+	],
+	"modified": "2015-12-19T07:45:46.187Z",
+	"released": "2015-12-19T07:45:46.187Z",
+	"downloadsLastWeek": 1
+}

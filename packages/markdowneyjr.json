@@ -1,1 +1,14 @@
-{"name":"markdowneyjr","version":"3.1.0","depVersion":"^0.3.3","maintainers":[{"name":"veltman","email":"noah@noahveltman.com"}],"modified":"2015-08-17T22:01:06.346Z","released":"2015-08-17T22:01:06.346Z","downloadsLastWeek":1}
+{
+	"name": "markdowneyjr",
+	"version": "3.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "veltman",
+			"email": "noah@noahveltman.com"
+		}
+	],
+	"modified": "2015-08-17T22:01:06.346Z",
+	"released": "2015-08-17T22:01:06.346Z",
+	"downloadsLastWeek": 1
+}

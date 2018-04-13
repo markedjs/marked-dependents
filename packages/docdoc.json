@@ -1,1 +1,14 @@
-{"name":"docdoc","version":"0.1.10","depVersion":">= 0.2.7","maintainers":[{"name":"pabloguevarac","email":"guevarapablo@gmail.com"}],"modified":"2014-12-26T03:38:24.448Z","released":"2014-12-26T03:38:11.756Z","downloadsLastWeek":1}
+{
+	"name": "docdoc",
+	"version": "0.1.10",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "pabloguevarac",
+			"email": "guevarapablo@gmail.com"
+		}
+	],
+	"modified": "2014-12-26T03:38:24.448Z",
+	"released": "2014-12-26T03:38:11.756Z",
+	"downloadsLastWeek": 1
+}

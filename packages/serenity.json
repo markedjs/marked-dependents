@@ -1,1 +1,14 @@
-{"name":"serenity","version":"1.1.6","depVersion":"^0.3.2","maintainers":[{"name":"simontabor","email":"me@simontabor.com"}],"modified":"2015-12-13T04:21:23.458Z","released":"2015-12-13T04:21:23.458Z","downloadsLastWeek":55}
+{
+	"name": "serenity",
+	"version": "1.1.6",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "simontabor",
+			"email": "me@simontabor.com"
+		}
+	],
+	"modified": "2015-12-13T04:21:23.458Z",
+	"released": "2015-12-13T04:21:23.458Z",
+	"downloadsLastWeek": 55
+}

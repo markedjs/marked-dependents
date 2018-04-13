@@ -1,1 +1,14 @@
-{"name":"dublog","version":"0.0.9","depVersion":">=0.2.9","maintainers":[{"name":"littledu","email":"410491325@qq.com"}],"modified":"2014-04-03T08:12:26.009Z","released":"2014-04-03T08:12:26.009Z","downloadsLastWeek":1}
+{
+	"name": "dublog",
+	"version": "0.0.9",
+	"depVersion": ">=0.2.9",
+	"maintainers": [
+		{
+			"name": "littledu",
+			"email": "410491325@qq.com"
+		}
+	],
+	"modified": "2014-04-03T08:12:26.009Z",
+	"released": "2014-04-03T08:12:26.009Z",
+	"downloadsLastWeek": 1
+}

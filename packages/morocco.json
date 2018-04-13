@@ -1,1 +1,14 @@
-{"name":"morocco","version":"0.1.0","depVersion":">= 0.2.7","maintainers":[{"name":"dtao","email":"daniel.tao@gmail.com"}],"modified":"2013-10-05T01:20:50.285Z","released":"2013-10-05T01:20:50.285Z","downloadsLastWeek":1}
+{
+	"name": "morocco",
+	"version": "0.1.0",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "dtao",
+			"email": "daniel.tao@gmail.com"
+		}
+	],
+	"modified": "2013-10-05T01:20:50.285Z",
+	"released": "2013-10-05T01:20:50.285Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"slowjam","version":"0.1.7","depVersion":"*","maintainers":[{"name":"hugs","email":"jrhuggins@gmail.com"}],"modified":"2016-11-23T20:10:26.210Z","released":"2016-11-23T20:10:26.210Z","downloadsLastWeek":17}
+{
+	"name": "slowjam",
+	"version": "0.1.7",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "hugs",
+			"email": "jrhuggins@gmail.com"
+		}
+	],
+	"modified": "2016-11-23T20:10:26.210Z",
+	"released": "2016-11-23T20:10:26.210Z",
+	"downloadsLastWeek": 17
+}

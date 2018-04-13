@@ -1,1 +1,14 @@
-{"name":"jsdoxy","version":"0.13.0","depVersion":"^0.3.3","maintainers":[{"name":"ruffrey","email":"jeffhparrish@gmail.com"}],"modified":"2015-07-15T18:31:30.891Z","released":"2015-07-15T18:31:30.891Z","downloadsLastWeek":2}
+{
+	"name": "jsdoxy",
+	"version": "0.13.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "ruffrey",
+			"email": "jeffhparrish@gmail.com"
+		}
+	],
+	"modified": "2015-07-15T18:31:30.891Z",
+	"released": "2015-07-15T18:31:30.891Z",
+	"downloadsLastWeek": 2
+}

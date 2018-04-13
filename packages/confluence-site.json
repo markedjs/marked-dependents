@@ -1,1 +1,14 @@
-{"name":"confluence-site","version":"1.0.4","depVersion":"^0.3.6","maintainers":[{"name":"bsorrentino","email":"bartolomeo.sorrentino@gmail.com"}],"modified":"2017-03-22T17:30:54.584Z","released":"2017-03-22T17:30:54.584Z","downloadsLastWeek":3}
+{
+	"name": "confluence-site",
+	"version": "1.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bsorrentino",
+			"email": "bartolomeo.sorrentino@gmail.com"
+		}
+	],
+	"modified": "2017-03-22T17:30:54.584Z",
+	"released": "2017-03-22T17:30:54.584Z",
+	"downloadsLastWeek": 3
+}

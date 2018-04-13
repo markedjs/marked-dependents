@@ -1,1 +1,14 @@
-{"name":"metalsmith-scoping","version":"1.0.0","depVersion":"^0.3.2","maintainers":[{"name":"devops","email":"devops@forbes-digital.com"}],"modified":"2014-10-02T15:26:39.707Z","released":"2014-10-02T15:26:39.707Z","downloadsLastWeek":2}
+{
+	"name": "metalsmith-scoping",
+	"version": "1.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "devops",
+			"email": "devops@forbes-digital.com"
+		}
+	],
+	"modified": "2014-10-02T15:26:39.707Z",
+	"released": "2014-10-02T15:26:39.707Z",
+	"downloadsLastWeek": 2
+}

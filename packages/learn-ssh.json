@@ -1,1 +1,18 @@
-{"name":"learn-ssh","version":"0.1.0","depVersion":"^0.3.3","maintainers":[{"name":"mattsurabian","email":"matt@mattsurabian.com"},{"name":"tkellen","email":"tyler@sleekcode.net"}],"modified":"2016-02-25T14:02:05.238Z","released":"2016-02-25T14:02:00.819Z","downloadsLastWeek":1}
+{
+	"name": "learn-ssh",
+	"version": "0.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "mattsurabian",
+			"email": "matt@mattsurabian.com"
+		},
+		{
+			"name": "tkellen",
+			"email": "tyler@sleekcode.net"
+		}
+	],
+	"modified": "2016-02-25T14:02:05.238Z",
+	"released": "2016-02-25T14:02:00.819Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"fms-oneres","version":"0.0.1","depVersion":"^0.3.3","maintainers":[{"name":"nicotrue","email":"nimojob@163.com"}],"modified":"2017-02-16T06:35:19.724Z","released":"2016-06-24T04:15:16.015Z","downloadsLastWeek":1}
+{
+	"name": "fms-oneres",
+	"version": "0.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "nicotrue",
+			"email": "nimojob@163.com"
+		}
+	],
+	"modified": "2017-02-16T06:35:19.724Z",
+	"released": "2016-06-24T04:15:16.015Z",
+	"downloadsLastWeek": 1
+}

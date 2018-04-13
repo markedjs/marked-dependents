@@ -1,1 +1,14 @@
-{"name":"mailmao","version":"1.0.0","depVersion":"*","maintainers":[{"name":"turing","email":"o.u.turing@gmail.com"}],"modified":"2013-09-24T06:13:17.551Z","released":"2013-09-24T06:13:17.551Z","downloadsLastWeek":1}
+{
+	"name": "mailmao",
+	"version": "1.0.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "turing",
+			"email": "o.u.turing@gmail.com"
+		}
+	],
+	"modified": "2013-09-24T06:13:17.551Z",
+	"released": "2013-09-24T06:13:17.551Z",
+	"downloadsLastWeek": 1
+}

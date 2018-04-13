@@ -1,1 +1,14 @@
-{"name":"vdm","version":"0.0.12","depVersion":"~0.3.5","maintainers":[{"name":"zan","email":"zanjser@163.com"}],"modified":"2016-04-25T04:40:35.421Z","released":"2016-04-25T04:40:35.421Z","downloadsLastWeek":7}
+{
+	"name": "vdm",
+	"version": "0.0.12",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "zan",
+			"email": "zanjser@163.com"
+		}
+	],
+	"modified": "2016-04-25T04:40:35.421Z",
+	"released": "2016-04-25T04:40:35.421Z",
+	"downloadsLastWeek": 7
+}

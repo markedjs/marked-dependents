@@ -1,1 +1,14 @@
-{"name":"bitrated","version":"0.2.1","depVersion":"~0.2.10","maintainers":[{"name":"helgamantra","email":"alaglx@gmail.com"}],"modified":"2014-07-29T05:38:10.736Z","released":"2014-07-29T05:38:10.736Z","downloadsLastWeek":2}
+{
+	"name": "bitrated",
+	"version": "0.2.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "helgamantra",
+			"email": "alaglx@gmail.com"
+		}
+	],
+	"modified": "2014-07-29T05:38:10.736Z",
+	"released": "2014-07-29T05:38:10.736Z",
+	"downloadsLastWeek": 2
+}

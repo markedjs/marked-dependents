@@ -1,1 +1,14 @@
-{"name":"fandoc","version":"1.6.0","depVersion":"^0.3.5","maintainers":[{"name":"wakeuppig","email":"1035465284@qq.com"}],"modified":"2016-08-15T10:57:48.115Z","released":"2016-08-15T10:57:48.115Z","downloadsLastWeek":1}
+{
+	"name": "fandoc",
+	"version": "1.6.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "wakeuppig",
+			"email": "1035465284@qq.com"
+		}
+	],
+	"modified": "2016-08-15T10:57:48.115Z",
+	"released": "2016-08-15T10:57:48.115Z",
+	"downloadsLastWeek": 1
+}

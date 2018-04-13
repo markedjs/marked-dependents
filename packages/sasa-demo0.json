@@ -1,1 +1,14 @@
-{"name":"sasa-demo0","version":"1.0.0","depVersion":"^0.3.19","maintainers":[{"name":"flysasa","email":"812071523@qq.com"}],"modified":"2018-03-26T06:23:49.689Z","released":"2018-03-26T06:23:49.533Z","downloadsLastWeek":5}
+{
+	"name": "sasa-demo0",
+	"version": "1.0.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "flysasa",
+			"email": "812071523@qq.com"
+		}
+	],
+	"modified": "2018-03-26T06:23:49.689Z",
+	"released": "2018-03-26T06:23:49.533Z",
+	"downloadsLastWeek": 5
+}

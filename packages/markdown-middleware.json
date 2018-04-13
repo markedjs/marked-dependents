@@ -1,1 +1,14 @@
-{"name":"markdown-middleware","version":"0.1.8","depVersion":"~0.3.2","maintainers":[{"name":"jkroso","email":"jkroso@gmail.com"}],"modified":"2014-05-15T02:28:08.895Z","released":"2014-05-15T02:28:08.895Z","downloadsLastWeek":2}
+{
+	"name": "markdown-middleware",
+	"version": "0.1.8",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "jkroso",
+			"email": "jkroso@gmail.com"
+		}
+	],
+	"modified": "2014-05-15T02:28:08.895Z",
+	"released": "2014-05-15T02:28:08.895Z",
+	"downloadsLastWeek": 2
+}

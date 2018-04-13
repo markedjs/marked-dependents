@@ -1,1 +1,54 @@
-{"name":"terra-markdown","version":"2.3.0","depVersion":"^0.3.6","maintainers":[{"email":"bjankord@gmail.com","name":"bjankord"},{"email":"kevin.shekleton+cerner-npm@gmail.com","name":"cerner-oss"},{"email":"emilyrohrbough@yahoo.com","name":"emilyrohrbough"},{"email":"kevin.shekleton@gmail.com","name":"kpshek"},{"email":"mattwbutler@gmail.com","name":"matt-butler"},{"email":"mjhenkes@gmail.com","name":"mjhenkes"},{"email":"rfmanuel@gmail.com","name":"ryanthemanuel"},{"email":"sambao21@gmail.com","name":"sambao21"},{"email":"Stephen.Esser@gmail.com","name":"stephenesser"},{"email":"tbiethman@gmail.com","name":"tbiethman"},{"email":"zhongyaonan@gmail.com","name":"yaonan"}],"modified":"2018-03-30T22:53:30.425Z","released":"2018-03-30T22:53:29.577Z","downloadsLastWeek":467}
+{
+	"name": "terra-markdown",
+	"version": "2.3.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "bjankord@gmail.com",
+			"name": "bjankord"
+		},
+		{
+			"email": "kevin.shekleton+cerner-npm@gmail.com",
+			"name": "cerner-oss"
+		},
+		{
+			"email": "emilyrohrbough@yahoo.com",
+			"name": "emilyrohrbough"
+		},
+		{
+			"email": "kevin.shekleton@gmail.com",
+			"name": "kpshek"
+		},
+		{
+			"email": "mattwbutler@gmail.com",
+			"name": "matt-butler"
+		},
+		{
+			"email": "mjhenkes@gmail.com",
+			"name": "mjhenkes"
+		},
+		{
+			"email": "rfmanuel@gmail.com",
+			"name": "ryanthemanuel"
+		},
+		{
+			"email": "sambao21@gmail.com",
+			"name": "sambao21"
+		},
+		{
+			"email": "Stephen.Esser@gmail.com",
+			"name": "stephenesser"
+		},
+		{
+			"email": "tbiethman@gmail.com",
+			"name": "tbiethman"
+		},
+		{
+			"email": "zhongyaonan@gmail.com",
+			"name": "yaonan"
+		}
+	],
+	"modified": "2018-03-30T22:53:30.425Z",
+	"released": "2018-03-30T22:53:29.577Z",
+	"downloadsLastWeek": 467
+}

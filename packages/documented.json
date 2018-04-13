@@ -1,1 +1,14 @@
-{"name":"documented","version":"0.5.4","depVersion":"0.3.*","maintainers":[{"name":"n-at","email":"atnurgaliev@gmail.com"}],"modified":"2015-09-20T18:18:44.452Z","released":"2015-09-20T18:18:44.452Z","downloadsLastWeek":2}
+{
+	"name": "documented",
+	"version": "0.5.4",
+	"depVersion": "0.3.*",
+	"maintainers": [
+		{
+			"name": "n-at",
+			"email": "atnurgaliev@gmail.com"
+		}
+	],
+	"modified": "2015-09-20T18:18:44.452Z",
+	"released": "2015-09-20T18:18:44.452Z",
+	"downloadsLastWeek": 2
+}

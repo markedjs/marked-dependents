@@ -1,1 +1,14 @@
-{"name":"mdocu","version":"0.0.52","depVersion":"^0.3.6","maintainers":[{"name":"markopostma","email":"mail@markopostma.com"}],"modified":"2017-05-02T10:27:35.684Z","released":"2017-05-02T10:27:35.684Z","downloadsLastWeek":1}
+{
+	"name": "mdocu",
+	"version": "0.0.52",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "markopostma",
+			"email": "mail@markopostma.com"
+		}
+	],
+	"modified": "2017-05-02T10:27:35.684Z",
+	"released": "2017-05-02T10:27:35.684Z",
+	"downloadsLastWeek": 1
+}

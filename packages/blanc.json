@@ -1,1 +1,14 @@
-{"name":"blanc","version":"1.0.1","depVersion":"^0.3.3","maintainers":[{"name":"schahriar","email":"info@schahriar.com"}],"modified":"2015-05-21T00:20:55.504Z","released":"2015-05-21T00:19:49.515Z","downloadsLastWeek":1}
+{
+	"name": "blanc",
+	"version": "1.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "schahriar",
+			"email": "info@schahriar.com"
+		}
+	],
+	"modified": "2015-05-21T00:20:55.504Z",
+	"released": "2015-05-21T00:19:49.515Z",
+	"downloadsLastWeek": 1
+}

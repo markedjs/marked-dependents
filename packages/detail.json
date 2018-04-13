@@ -1,1 +1,14 @@
-{"name":"detail","version":"1.0.10","depVersion":"^0.3.5","maintainers":[{"name":"javascript","email":"Array.prototype@gmail.com"}],"modified":"2015-11-21T00:15:53.919Z","released":"2015-11-21T00:15:53.919Z","downloadsLastWeek":1}
+{
+	"name": "detail",
+	"version": "1.0.10",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "javascript",
+			"email": "Array.prototype@gmail.com"
+		}
+	],
+	"modified": "2015-11-21T00:15:53.919Z",
+	"released": "2015-11-21T00:15:53.919Z",
+	"downloadsLastWeek": 1
+}

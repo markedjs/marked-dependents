@@ -1,1 +1,14 @@
-{"name":"modernizr-prebuilt","version":"3.0.0-pre","depVersion":"~0.2.8","maintainers":[{"name":"jonathanconway","email":"jonathan.conway@gmail.com"}],"modified":"2014-11-24T00:44:52.061Z","released":"2014-11-24T00:44:52.061Z","downloadsLastWeek":48}
+{
+	"name": "modernizr-prebuilt",
+	"version": "3.0.0-pre",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "jonathanconway",
+			"email": "jonathan.conway@gmail.com"
+		}
+	],
+	"modified": "2014-11-24T00:44:52.061Z",
+	"released": "2014-11-24T00:44:52.061Z",
+	"downloadsLastWeek": 48
+}

@@ -1,1 +1,14 @@
-{"name":"isit-site-tools-warren","version":"1.0.6","depVersion":"^0.3.6","maintainers":[{"name":"michaelwarren","email":"michael.warren@bellevuecollege.edu"}],"modified":"2017-11-28T00:28:50.510Z","released":"2017-11-28T00:28:50.510Z","downloadsLastWeek":2}
+{
+	"name": "isit-site-tools-warren",
+	"version": "1.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "michaelwarren",
+			"email": "michael.warren@bellevuecollege.edu"
+		}
+	],
+	"modified": "2017-11-28T00:28:50.510Z",
+	"released": "2017-11-28T00:28:50.510Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"grunt-doccolate","version":"0.0.3","depVersion":">= 0.2.7","maintainers":[{"name":"jperler","email":"jperler@gmail.com"}],"modified":"2015-07-02T17:26:16.851Z","released":"2015-07-02T17:26:16.851Z","downloadsLastWeek":1}
+{
+	"name": "grunt-doccolate",
+	"version": "0.0.3",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "jperler",
+			"email": "jperler@gmail.com"
+		}
+	],
+	"modified": "2015-07-02T17:26:16.851Z",
+	"released": "2015-07-02T17:26:16.851Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"keynote-extractor","version":"2.1.0","depVersion":"^0.3.5","maintainers":[{"name":"thomastuts","email":"thomas.tuts@gmail.com"},{"name":"wolfr","email":"johan@johanronsse.be"}],"modified":"2016-06-28T12:57:13.943Z","released":"2016-06-28T12:57:13.943Z","downloadsLastWeek":2}
+{
+	"name": "keynote-extractor",
+	"version": "2.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "thomastuts",
+			"email": "thomas.tuts@gmail.com"
+		},
+		{
+			"name": "wolfr",
+			"email": "johan@johanronsse.be"
+		}
+	],
+	"modified": "2016-06-28T12:57:13.943Z",
+	"released": "2016-06-28T12:57:13.943Z",
+	"downloadsLastWeek": 2
+}

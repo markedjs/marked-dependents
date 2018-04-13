@@ -1,1 +1,18 @@
-{"name":"statgen","version":"1.0.4","depVersion":"^0.3.5","maintainers":[{"name":"ehsanh06","email":"ehsanhussain991@gmail.com"},{"name":"shahidaltaf","email":"shahid634@gmail.com"}],"modified":"2017-03-20T14:18:45.516Z","released":"2017-03-20T14:18:45.516Z","downloadsLastWeek":7}
+{
+	"name": "statgen",
+	"version": "1.0.4",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ehsanh06",
+			"email": "ehsanhussain991@gmail.com"
+		},
+		{
+			"name": "shahidaltaf",
+			"email": "shahid634@gmail.com"
+		}
+	],
+	"modified": "2017-03-20T14:18:45.516Z",
+	"released": "2017-03-20T14:18:45.516Z",
+	"downloadsLastWeek": 7
+}

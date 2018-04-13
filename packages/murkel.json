@@ -1,1 +1,14 @@
-{"name":"murkel","version":"1.0.1","depVersion":"~0.3.3","maintainers":[{"name":"euhiemf","email":"noobtoothfairy@gmail.com"}],"modified":"2015-06-27T21:13:24.611Z","released":"2015-06-27T21:13:24.611Z","downloadsLastWeek":1}
+{
+	"name": "murkel",
+	"version": "1.0.1",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "euhiemf",
+			"email": "noobtoothfairy@gmail.com"
+		}
+	],
+	"modified": "2015-06-27T21:13:24.611Z",
+	"released": "2015-06-27T21:13:24.611Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"delicorice","version":"0.0.54","depVersion":"0.3.2","maintainers":[{"name":"architectd","email":"craig.j.condon@gmail.com"},{"name":"crcn","email":"craig.j.condon@gmail.com"}],"modified":"2016-02-01T20:46:00.658Z","released":"2014-09-18T23:56:41.889Z","downloadsLastWeek":1}
+{
+	"name": "delicorice",
+	"version": "0.0.54",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "architectd",
+			"email": "craig.j.condon@gmail.com"
+		},
+		{
+			"name": "crcn",
+			"email": "craig.j.condon@gmail.com"
+		}
+	],
+	"modified": "2016-02-01T20:46:00.658Z",
+	"released": "2014-09-18T23:56:41.889Z",
+	"downloadsLastWeek": 1
+}

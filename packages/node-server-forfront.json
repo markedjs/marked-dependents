@@ -1,1 +1,14 @@
-{"name":"node-server-forfront","version":"0.10.7","depVersion":"^0.3.3","maintainers":[{"name":"wangcaifeng","email":"piaoerxiaofeng@126.com"}],"modified":"2015-08-01T16:35:43.887Z","released":"2015-08-01T16:35:43.887Z","downloadsLastWeek":1}
+{
+	"name": "node-server-forfront",
+	"version": "0.10.7",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "wangcaifeng",
+			"email": "piaoerxiaofeng@126.com"
+		}
+	],
+	"modified": "2015-08-01T16:35:43.887Z",
+	"released": "2015-08-01T16:35:43.887Z",
+	"downloadsLastWeek": 1
+}

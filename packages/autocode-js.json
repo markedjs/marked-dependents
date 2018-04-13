@@ -1,1 +1,18 @@
-{"name":"autocode-js","version":"0.22.0","depVersion":"~0.3.3","maintainers":[{"name":"autocode","email":"chris@crystal.sh"},{"name":"studiotate","email":"chris@studiotate.com"}],"modified":"2015-10-21T09:32:04.240Z","released":"2015-10-21T09:32:04.240Z","downloadsLastWeek":4}
+{
+	"name": "autocode-js",
+	"version": "0.22.0",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "autocode",
+			"email": "chris@crystal.sh"
+		},
+		{
+			"name": "studiotate",
+			"email": "chris@studiotate.com"
+		}
+	],
+	"modified": "2015-10-21T09:32:04.240Z",
+	"released": "2015-10-21T09:32:04.240Z",
+	"downloadsLastWeek": 4
+}

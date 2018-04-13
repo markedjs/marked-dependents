@@ -1,1 +1,14 @@
-{"name":"blog-huachao","version":"0.0.1","depVersion":"~0.3.3","maintainers":[{"name":"huachao","email":"huachao.iscas@gmail.com"}],"modified":"2015-08-21T07:59:08.026Z","released":"2015-08-21T07:59:08.026Z","downloadsLastWeek":2}
+{
+	"name": "blog-huachao",
+	"version": "0.0.1",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "huachao",
+			"email": "huachao.iscas@gmail.com"
+		}
+	],
+	"modified": "2015-08-21T07:59:08.026Z",
+	"released": "2015-08-21T07:59:08.026Z",
+	"downloadsLastWeek": 2
+}

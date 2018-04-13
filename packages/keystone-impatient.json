@@ -1,1 +1,14 @@
-{"name":"keystone-impatient","version":"0.4.7","depVersion":"0.3.6","maintainers":[{"name":"phucpnt","email":"pn.truongphuc@gmail.com"}],"modified":"2016-08-27T16:29:33.880Z","released":"2016-08-27T16:29:33.880Z","downloadsLastWeek":1}
+{
+	"name": "keystone-impatient",
+	"version": "0.4.7",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "phucpnt",
+			"email": "pn.truongphuc@gmail.com"
+		}
+	],
+	"modified": "2016-08-27T16:29:33.880Z",
+	"released": "2016-08-27T16:29:33.880Z",
+	"downloadsLastWeek": 1
+}

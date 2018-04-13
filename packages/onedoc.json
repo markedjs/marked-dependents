@@ -1,1 +1,14 @@
-{"name":"onedoc","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"fritx","email":"uxfritz@163.com"}],"modified":"2014-11-21T01:24:39.643Z","released":"2014-11-21T01:24:39.643Z","downloadsLastWeek":1}
+{
+	"name": "onedoc",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "fritx",
+			"email": "uxfritz@163.com"
+		}
+	],
+	"modified": "2014-11-21T01:24:39.643Z",
+	"released": "2014-11-21T01:24:39.643Z",
+	"downloadsLastWeek": 1
+}

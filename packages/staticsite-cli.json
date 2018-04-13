@@ -1,1 +1,14 @@
-{"name":"staticsite-cli","version":"1.1.0","depVersion":"^0.3.5","maintainers":[{"name":"taylortom","email":"tom@taylortom.co.uk"}],"modified":"2017-11-12T10:33:28.095Z","released":"2017-11-12T10:33:28.095Z","downloadsLastWeek":7}
+{
+	"name": "staticsite-cli",
+	"version": "1.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "taylortom",
+			"email": "tom@taylortom.co.uk"
+		}
+	],
+	"modified": "2017-11-12T10:33:28.095Z",
+	"released": "2017-11-12T10:33:28.095Z",
+	"downloadsLastWeek": 7
+}

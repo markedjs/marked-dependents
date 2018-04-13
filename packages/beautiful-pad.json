@@ -1,1 +1,18 @@
-{"name":"beautiful-pad","version":"0.1.0","depVersion":"=0.2.5","maintainers":[{"name":"bitcoinjs","email":"justmoon@members.fsf.org"},{"name":"justmoon","email":"justmoon@members.fsf.org"}],"modified":"2012-12-07T06:55:12.909Z","released":"2012-10-30T00:13:53.101Z","downloadsLastWeek":1}
+{
+	"name": "beautiful-pad",
+	"version": "0.1.0",
+	"depVersion": "=0.2.5",
+	"maintainers": [
+		{
+			"name": "bitcoinjs",
+			"email": "justmoon@members.fsf.org"
+		},
+		{
+			"name": "justmoon",
+			"email": "justmoon@members.fsf.org"
+		}
+	],
+	"modified": "2012-12-07T06:55:12.909Z",
+	"released": "2012-10-30T00:13:53.101Z",
+	"downloadsLastWeek": 1
+}

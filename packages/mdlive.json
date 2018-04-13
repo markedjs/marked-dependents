@@ -1,1 +1,14 @@
-{"name":"mdlive","version":"0.0.5","depVersion":"^0.3.5","maintainers":[{"name":"ngyuki","email":"ngyuki.jp@gmail.com"}],"modified":"2018-03-28T06:15:25.884Z","released":"2018-03-28T06:15:25.209Z","downloadsLastWeek":2}
+{
+	"name": "mdlive",
+	"version": "0.0.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "ngyuki",
+			"email": "ngyuki.jp@gmail.com"
+		}
+	],
+	"modified": "2018-03-28T06:15:25.884Z",
+	"released": "2018-03-28T06:15:25.209Z",
+	"downloadsLastWeek": 2
+}

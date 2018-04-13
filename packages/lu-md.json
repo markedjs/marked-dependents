@@ -1,1 +1,14 @@
-{"name":"lu-md","version":"0.0.1","depVersion":"^0.3.6","maintainers":[{"name":"lu1991","email":"13163122737@163.com"}],"modified":"2016-09-09T16:03:00.968Z","released":"2016-09-09T16:03:00.968Z","downloadsLastWeek":2}
+{
+	"name": "lu-md",
+	"version": "0.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "lu1991",
+			"email": "13163122737@163.com"
+		}
+	],
+	"modified": "2016-09-09T16:03:00.968Z",
+	"released": "2016-09-09T16:03:00.968Z",
+	"downloadsLastWeek": 2
+}

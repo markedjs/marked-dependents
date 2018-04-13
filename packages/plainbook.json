@@ -1,1 +1,14 @@
-{"name":"plainbook","version":"0.2.0","depVersion":"^0.3.9","maintainers":[{"name":"ilmente","email":"hello@ilmente.it"}],"modified":"2018-02-16T21:47:18.540Z","released":"2018-02-16T21:47:17.184Z","downloadsLastWeek":1}
+{
+	"name": "plainbook",
+	"version": "0.2.0",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "ilmente",
+			"email": "hello@ilmente.it"
+		}
+	],
+	"modified": "2018-02-16T21:47:18.540Z",
+	"released": "2018-02-16T21:47:17.184Z",
+	"downloadsLastWeek": 1
+}

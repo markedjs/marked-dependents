@@ -1,1 +1,14 @@
-{"name":"about-json","version":"1.0.2","depVersion":"^0.3.17","maintainers":[{"name":"dkundel","email":"dominik.kundel@gmail.com"}],"modified":"2018-03-24T00:01:31.543Z","released":"2018-03-24T00:01:30.753Z","downloadsLastWeek":1}
+{
+	"name": "about-json",
+	"version": "1.0.2",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "dkundel",
+			"email": "dominik.kundel@gmail.com"
+		}
+	],
+	"modified": "2018-03-24T00:01:31.543Z",
+	"released": "2018-03-24T00:01:30.753Z",
+	"downloadsLastWeek": 1
+}

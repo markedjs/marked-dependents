@@ -1,1 +1,14 @@
-{"name":"polymer-ide","version":"0.4.0","depVersion":"^0.3.6","maintainers":[{"name":"polymer","email":"admin@polymer-project.org"}],"modified":"2017-08-01T21:02:31.288Z","released":"2017-08-01T21:02:31.288Z","downloadsLastWeek":3}
+{
+	"name": "polymer-ide",
+	"version": "0.4.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "polymer",
+			"email": "admin@polymer-project.org"
+		}
+	],
+	"modified": "2017-08-01T21:02:31.288Z",
+	"released": "2017-08-01T21:02:31.288Z",
+	"downloadsLastWeek": 3
+}

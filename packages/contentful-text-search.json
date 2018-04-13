@@ -1,1 +1,14 @@
-{"name":"contentful-text-search","version":"0.1.1","depVersion":"^0.3.6","maintainers":[{"name":"mattdean","email":"mattdean001@gmail.com"}],"modified":"2017-09-02T18:00:47.434Z","released":"2017-09-02T18:00:47.434Z","downloadsLastWeek":1}
+{
+	"name": "contentful-text-search",
+	"version": "0.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "mattdean",
+			"email": "mattdean001@gmail.com"
+		}
+	],
+	"modified": "2017-09-02T18:00:47.434Z",
+	"released": "2017-09-02T18:00:47.434Z",
+	"downloadsLastWeek": 1
+}

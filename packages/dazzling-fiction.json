@@ -1,1 +1,14 @@
-{"name":"dazzling-fiction","version":"0.6.0","depVersion":"^0.3.5","maintainers":[{"name":"olih","email":"npm.olivier.huin@flarebyte.com"}],"modified":"2016-10-23T11:09:24.099Z","released":"2016-10-23T11:09:24.099Z","downloadsLastWeek":1}
+{
+	"name": "dazzling-fiction",
+	"version": "0.6.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "olih",
+			"email": "npm.olivier.huin@flarebyte.com"
+		}
+	],
+	"modified": "2016-10-23T11:09:24.099Z",
+	"released": "2016-10-23T11:09:24.099Z",
+	"downloadsLastWeek": 1
+}

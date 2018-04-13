@@ -1,1 +1,14 @@
-{"name":"tiny-slides","version":"0.0.2","depVersion":"~0.3.2","maintainers":[{"name":"joyrexus","email":"joyrexus@gmail.com"}],"modified":"2014-12-06T16:58:26.935Z","released":"2014-12-06T16:58:26.935Z","downloadsLastWeek":5}
+{
+	"name": "tiny-slides",
+	"version": "0.0.2",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "joyrexus",
+			"email": "joyrexus@gmail.com"
+		}
+	],
+	"modified": "2014-12-06T16:58:26.935Z",
+	"released": "2014-12-06T16:58:26.935Z",
+	"downloadsLastWeek": 5
+}

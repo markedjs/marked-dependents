@@ -1,1 +1,26 @@
-{"name":"atomic-reactor","version":"1.1.8","depVersion":"^0.3.6","maintainers":[{"email":"jamescarbine@gmail.com","name":"bfcoder"},{"email":"jditton.atomic@gmail.com","name":"dittonjs"},{"email":"justin@atomicjolt.com","name":"jbasdf"},{"email":"nick.benoit14@gmail.com","name":"nick-benoit"}],"modified":"2018-03-27T23:52:03.462Z","released":"2018-03-27T23:52:02.729Z","downloadsLastWeek":178}
+{
+	"name": "atomic-reactor",
+	"version": "1.1.8",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "jamescarbine@gmail.com",
+			"name": "bfcoder"
+		},
+		{
+			"email": "jditton.atomic@gmail.com",
+			"name": "dittonjs"
+		},
+		{
+			"email": "justin@atomicjolt.com",
+			"name": "jbasdf"
+		},
+		{
+			"email": "nick.benoit14@gmail.com",
+			"name": "nick-benoit"
+		}
+	],
+	"modified": "2018-03-27T23:52:03.462Z",
+	"released": "2018-03-27T23:52:02.729Z",
+	"downloadsLastWeek": 178
+}

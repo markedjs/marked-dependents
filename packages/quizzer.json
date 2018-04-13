@@ -1,1 +1,14 @@
-{"name":"quizzer","version":"1.2.81","depVersion":">=0.2.10","maintainers":[{"name":"fbennett","email":"biercenator@gmail.com"}],"modified":"2014-10-07T01:38:59.913Z","released":"2014-10-07T01:38:59.913Z","downloadsLastWeek":1}
+{
+	"name": "quizzer",
+	"version": "1.2.81",
+	"depVersion": ">=0.2.10",
+	"maintainers": [
+		{
+			"name": "fbennett",
+			"email": "biercenator@gmail.com"
+		}
+	],
+	"modified": "2014-10-07T01:38:59.913Z",
+	"released": "2014-10-07T01:38:59.913Z",
+	"downloadsLastWeek": 1
+}

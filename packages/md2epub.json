@@ -1,1 +1,14 @@
-{"name":"md2epub","version":"1.1.0","depVersion":"^0.3.6","maintainers":[{"name":"kajyr","email":"carlo.panzi@gmail.com"}],"modified":"2016-08-04T16:05:22.134Z","released":"2016-08-04T16:05:22.134Z","downloadsLastWeek":1}
+{
+	"name": "md2epub",
+	"version": "1.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "kajyr",
+			"email": "carlo.panzi@gmail.com"
+		}
+	],
+	"modified": "2016-08-04T16:05:22.134Z",
+	"released": "2016-08-04T16:05:22.134Z",
+	"downloadsLastWeek": 1
+}

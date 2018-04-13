@@ -1,1 +1,14 @@
-{"name":"grunt-carpenter","version":"1.1.1","depVersion":"0.2.8","maintainers":[{"name":"vanetix","email":"matmcfarland@gmail.com"}],"modified":"2016-03-01T17:21:47.683Z","released":"2016-03-01T17:21:47.683Z","downloadsLastWeek":1}
+{
+	"name": "grunt-carpenter",
+	"version": "1.1.1",
+	"depVersion": "0.2.8",
+	"maintainers": [
+		{
+			"name": "vanetix",
+			"email": "matmcfarland@gmail.com"
+		}
+	],
+	"modified": "2016-03-01T17:21:47.683Z",
+	"released": "2016-03-01T17:21:47.683Z",
+	"downloadsLastWeek": 1
+}

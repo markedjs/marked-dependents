@@ -1,1 +1,14 @@
-{"name":"huayra-mu","version":"0.1.2","depVersion":"^0.3.2","maintainers":[{"name":"hugoruscitti","email":"hugoruscitti@gmail.com"}],"modified":"2016-01-28T15:28:45.801Z","released":"2016-01-28T15:28:45.801Z","downloadsLastWeek":3}
+{
+	"name": "huayra-mu",
+	"version": "0.1.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "hugoruscitti",
+			"email": "hugoruscitti@gmail.com"
+		}
+	],
+	"modified": "2016-01-28T15:28:45.801Z",
+	"released": "2016-01-28T15:28:45.801Z",
+	"downloadsLastWeek": 3
+}

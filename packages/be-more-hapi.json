@@ -1,1 +1,14 @@
-{"name":"be-more-hapi","version":"2.1.0","depVersion":"0.3.x","maintainers":[{"name":"glennjones","email":"glennjonesnet@gmail.com"}],"modified":"2016-04-25T14:49:21.202Z","released":"2016-04-25T14:49:21.202Z","downloadsLastWeek":1}
+{
+	"name": "be-more-hapi",
+	"version": "2.1.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "glennjones",
+			"email": "glennjonesnet@gmail.com"
+		}
+	],
+	"modified": "2016-04-25T14:49:21.202Z",
+	"released": "2016-04-25T14:49:21.202Z",
+	"downloadsLastWeek": 1
+}

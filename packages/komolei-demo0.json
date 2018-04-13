@@ -1,1 +1,14 @@
-{"name":"komolei-demo0","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"komolei","email":"chenkomo1314@gmail.com"}],"modified":"2017-05-18T02:48:04.906Z","released":"2017-05-18T02:48:04.906Z","downloadsLastWeek":1}
+{
+	"name": "komolei-demo0",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "komolei",
+			"email": "chenkomo1314@gmail.com"
+		}
+	],
+	"modified": "2017-05-18T02:48:04.906Z",
+	"released": "2017-05-18T02:48:04.906Z",
+	"downloadsLastWeek": 1
+}

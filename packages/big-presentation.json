@@ -1,1 +1,14 @@
-{"name":"big-presentation","version":"3.2.0","depVersion":"^0.3.6","maintainers":[{"email":"tom@macwright.org","name":"tmcw"}],"modified":"2017-09-22T23:21:23.144Z","released":"2017-08-04T19:44:03.973Z","downloadsLastWeek":21}
+{
+	"name": "big-presentation",
+	"version": "3.2.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "tom@macwright.org",
+			"name": "tmcw"
+		}
+	],
+	"modified": "2017-09-22T23:21:23.144Z",
+	"released": "2017-08-04T19:44:03.973Z",
+	"downloadsLastWeek": 21
+}

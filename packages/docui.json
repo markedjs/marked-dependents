@@ -1,1 +1,14 @@
-{"name":"docui","version":"1.4.1","depVersion":"0.3.5","maintainers":[{"name":"tilap","email":"jlavinh+npm@gmail.com"}],"modified":"2016-08-03T15:42:11.169Z","released":"2016-08-03T15:42:11.169Z","downloadsLastWeek":1}
+{
+	"name": "docui",
+	"version": "1.4.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "tilap",
+			"email": "jlavinh+npm@gmail.com"
+		}
+	],
+	"modified": "2016-08-03T15:42:11.169Z",
+	"released": "2016-08-03T15:42:11.169Z",
+	"downloadsLastWeek": 1
+}

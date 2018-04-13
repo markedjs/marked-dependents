@@ -1,1 +1,14 @@
-{"name":"assemble-markdown-import","version":"0.0.2","depVersion":"~0.2.9","maintainers":[{"name":"bravokiloecho","email":"ben@dk8.co"}],"modified":"2015-04-23T16:23:50.359Z","released":"2015-04-23T16:23:50.359Z","downloadsLastWeek":1}
+{
+	"name": "assemble-markdown-import",
+	"version": "0.0.2",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "bravokiloecho",
+			"email": "ben@dk8.co"
+		}
+	],
+	"modified": "2015-04-23T16:23:50.359Z",
+	"released": "2015-04-23T16:23:50.359Z",
+	"downloadsLastWeek": 1
+}

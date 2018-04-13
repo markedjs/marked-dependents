@@ -1,1 +1,14 @@
-{"name":"gulp-openjscad-standalone","version":"1.1.0","depVersion":"~0.3.6","maintainers":[{"name":"johnwebbcole","email":"johnwebbcole@gmail.com"}],"modified":"2017-02-26T22:34:07.215Z","released":"2017-02-26T22:34:07.215Z","downloadsLastWeek":1}
+{
+	"name": "gulp-openjscad-standalone",
+	"version": "1.1.0",
+	"depVersion": "~0.3.6",
+	"maintainers": [
+		{
+			"name": "johnwebbcole",
+			"email": "johnwebbcole@gmail.com"
+		}
+	],
+	"modified": "2017-02-26T22:34:07.215Z",
+	"released": "2017-02-26T22:34:07.215Z",
+	"downloadsLastWeek": 1
+}

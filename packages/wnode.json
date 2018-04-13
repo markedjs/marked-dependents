@@ -1,1 +1,14 @@
-{"name":"wnode","version":"0.2.71","depVersion":"0.3.16","maintainers":[{"name":"suntoe","email":"suntoe@189.cn"}],"modified":"2018-04-09T20:58:01.064Z","released":"2018-04-09T20:58:00.495Z","downloadsLastWeek":302}
+{
+	"name": "wnode",
+	"version": "0.2.71",
+	"depVersion": "0.3.16",
+	"maintainers": [
+		{
+			"name": "suntoe",
+			"email": "suntoe@189.cn"
+		}
+	],
+	"modified": "2018-04-09T20:58:01.064Z",
+	"released": "2018-04-09T20:58:00.495Z",
+	"downloadsLastWeek": 302
+}

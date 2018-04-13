@@ -1,1 +1,14 @@
-{"name":"stick-blog","version":"1.0.4","depVersion":">= 0.3.0","maintainers":[{"name":"olegp","email":"oleg.podsechin@ionsquare.com"}],"modified":"2014-09-03T19:28:05.914Z","released":"2014-09-03T19:28:05.914Z","downloadsLastWeek":11}
+{
+	"name": "stick-blog",
+	"version": "1.0.4",
+	"depVersion": ">= 0.3.0",
+	"maintainers": [
+		{
+			"name": "olegp",
+			"email": "oleg.podsechin@ionsquare.com"
+		}
+	],
+	"modified": "2014-09-03T19:28:05.914Z",
+	"released": "2014-09-03T19:28:05.914Z",
+	"downloadsLastWeek": 11
+}

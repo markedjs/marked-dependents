@@ -1,1 +1,14 @@
-{"name":"grunt-bulldoc","version":"0.1.1","depVersion":"~0.2.9","maintainers":[{"name":"equiet","email":"equiet@equiet.sk"}],"modified":"2013-08-02T06:10:46.604Z","released":"2013-08-02T06:10:46.604Z","downloadsLastWeek":1}
+{
+	"name": "grunt-bulldoc",
+	"version": "0.1.1",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "equiet",
+			"email": "equiet@equiet.sk"
+		}
+	],
+	"modified": "2013-08-02T06:10:46.604Z",
+	"released": "2013-08-02T06:10:46.604Z",
+	"downloadsLastWeek": 1
+}

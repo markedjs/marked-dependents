@@ -1,1 +1,14 @@
-{"name":"schtickle","version":"1.0.1","depVersion":"0.2.x","maintainers":[{"name":"crussell","email":"mr@colbyrussell.com"}],"modified":"2016-02-18T20:35:57.161Z","released":"2016-02-18T20:35:57.161Z","downloadsLastWeek":5}
+{
+	"name": "schtickle",
+	"version": "1.0.1",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "crussell",
+			"email": "mr@colbyrussell.com"
+		}
+	],
+	"modified": "2016-02-18T20:35:57.161Z",
+	"released": "2016-02-18T20:35:57.161Z",
+	"downloadsLastWeek": 5
+}

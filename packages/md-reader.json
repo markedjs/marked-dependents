@@ -1,1 +1,14 @@
-{"name":"md-reader","version":"0.2.3","depVersion":"^0.3.2","maintainers":[{"name":"alexeyraspopov","email":"avenger7x13@gmail.com"}],"modified":"2014-05-06T15:01:02.854Z","released":"2014-05-06T15:01:02.854Z","downloadsLastWeek":1}
+{
+	"name": "md-reader",
+	"version": "0.2.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "alexeyraspopov",
+			"email": "avenger7x13@gmail.com"
+		}
+	],
+	"modified": "2014-05-06T15:01:02.854Z",
+	"released": "2014-05-06T15:01:02.854Z",
+	"downloadsLastWeek": 1
+}

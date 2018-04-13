@@ -1,1 +1,14 @@
-{"name":"minima-dropbox-loader","version":"0.0.3","depVersion":"^0.3.3","maintainers":[{"name":"brettof86","email":"b4ae41e6@opayq.com"}],"modified":"2015-04-08T20:31:54.096Z","released":"2015-04-08T20:31:54.096Z","downloadsLastWeek":2}
+{
+	"name": "minima-dropbox-loader",
+	"version": "0.0.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "brettof86",
+			"email": "b4ae41e6@opayq.com"
+		}
+	],
+	"modified": "2015-04-08T20:31:54.096Z",
+	"released": "2015-04-08T20:31:54.096Z",
+	"downloadsLastWeek": 2
+}

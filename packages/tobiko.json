@@ -1,1 +1,14 @@
-{"name":"tobiko","version":"1.2.5","depVersion":"^0.3.16","maintainers":[{"name":"tridnguyen","email":"tri@tridnguyen.com"}],"modified":"2018-02-23T00:06:26.859Z","released":"2018-02-23T00:06:25.750Z","downloadsLastWeek":21}
+{
+	"name": "tobiko",
+	"version": "1.2.5",
+	"depVersion": "^0.3.16",
+	"maintainers": [
+		{
+			"name": "tridnguyen",
+			"email": "tri@tridnguyen.com"
+		}
+	],
+	"modified": "2018-02-23T00:06:26.859Z",
+	"released": "2018-02-23T00:06:25.750Z",
+	"downloadsLastWeek": 21
+}

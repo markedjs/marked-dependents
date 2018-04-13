@@ -1,1 +1,14 @@
-{"name":"mark-it","version":"0.0.1","depVersion":"~0.2.x","maintainers":[{"name":"lucasmotta","email":"mail@lucasmotta.com"}],"modified":"2013-10-04T19:15:15.131Z","released":"2013-10-04T19:15:15.131Z","downloadsLastWeek":1}
+{
+	"name": "mark-it",
+	"version": "0.0.1",
+	"depVersion": "~0.2.x",
+	"maintainers": [
+		{
+			"name": "lucasmotta",
+			"email": "mail@lucasmotta.com"
+		}
+	],
+	"modified": "2013-10-04T19:15:15.131Z",
+	"released": "2013-10-04T19:15:15.131Z",
+	"downloadsLastWeek": 1
+}

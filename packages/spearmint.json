@@ -1,1 +1,14 @@
-{"name":"spearmint","version":"0.2.0","depVersion":"~0.2.8","maintainers":[{"name":"chrisauer","email":"chris@enlightenmint.com"}],"modified":"2013-05-05T03:00:05.421Z","released":"2013-05-05T03:00:05.421Z","downloadsLastWeek":5}
+{
+	"name": "spearmint",
+	"version": "0.2.0",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "chrisauer",
+			"email": "chris@enlightenmint.com"
+		}
+	],
+	"modified": "2013-05-05T03:00:05.421Z",
+	"released": "2013-05-05T03:00:05.421Z",
+	"downloadsLastWeek": 5
+}

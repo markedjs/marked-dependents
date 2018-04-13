@@ -1,1 +1,14 @@
-{"name":"renderpipe","version":"0.0.10","depVersion":"^0.3.2","maintainers":[{"name":"rubenv","email":"ruben@savanne.be"}],"modified":"2014-11-05T14:17:10.638Z","released":"2014-11-05T14:17:10.638Z","downloadsLastWeek":21}
+{
+	"name": "renderpipe",
+	"version": "0.0.10",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "rubenv",
+			"email": "ruben@savanne.be"
+		}
+	],
+	"modified": "2014-11-05T14:17:10.638Z",
+	"released": "2014-11-05T14:17:10.638Z",
+	"downloadsLastWeek": 21
+}

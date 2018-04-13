@@ -1,1 +1,14 @@
-{"name":"uledev","version":"1.0.27","depVersion":"","maintainers":[{"name":"boat3471","email":"boat3471@qq.com"}],"modified":"2017-06-20T04:29:49.510Z","released":"2017-06-20T04:29:49.510Z","downloadsLastWeek":55}
+{
+	"name": "uledev",
+	"version": "1.0.27",
+	"depVersion": "",
+	"maintainers": [
+		{
+			"name": "boat3471",
+			"email": "boat3471@qq.com"
+		}
+	],
+	"modified": "2017-06-20T04:29:49.510Z",
+	"released": "2017-06-20T04:29:49.510Z",
+	"downloadsLastWeek": 55
+}

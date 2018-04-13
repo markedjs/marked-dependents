@@ -1,1 +1,14 @@
-{"name":"turner","version":"0.0.4","depVersion":"^0.3.2","maintainers":[{"name":"merciba","email":"team@merciba.com"}],"modified":"2015-01-22T18:59:58.619Z","released":"2015-01-22T18:59:58.619Z","downloadsLastWeek":9}
+{
+	"name": "turner",
+	"version": "0.0.4",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "merciba",
+			"email": "team@merciba.com"
+		}
+	],
+	"modified": "2015-01-22T18:59:58.619Z",
+	"released": "2015-01-22T18:59:58.619Z",
+	"downloadsLastWeek": 9
+}

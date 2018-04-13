@@ -1,1 +1,14 @@
-{"name":"darbak","version":"0.1.0","depVersion":"~0.2.9","maintainers":[{"name":"amitport","email":"amit.portnoy@gmail.com"}],"modified":"2013-06-26T19:56:14.886Z","released":"2013-06-26T19:56:14.886Z","downloadsLastWeek":1}
+{
+	"name": "darbak",
+	"version": "0.1.0",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "amitport",
+			"email": "amit.portnoy@gmail.com"
+		}
+	],
+	"modified": "2013-06-26T19:56:14.886Z",
+	"released": "2013-06-26T19:56:14.886Z",
+	"downloadsLastWeek": 1
+}

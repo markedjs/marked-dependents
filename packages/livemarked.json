@@ -1,1 +1,14 @@
-{"name":"livemarked","version":"1.0.3","depVersion":"~0.3.3","maintainers":[{"name":"radubrehar","email":"radu@evanghelic.ro"}],"modified":"2015-05-22T21:54:40.132Z","released":"2015-05-22T21:54:40.132Z","downloadsLastWeek":1}
+{
+	"name": "livemarked",
+	"version": "1.0.3",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "radubrehar",
+			"email": "radu@evanghelic.ro"
+		}
+	],
+	"modified": "2015-05-22T21:54:40.132Z",
+	"released": "2015-05-22T21:54:40.132Z",
+	"downloadsLastWeek": 1
+}

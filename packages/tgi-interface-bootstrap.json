@@ -1,1 +1,14 @@
-{"name":"tgi-interface-bootstrap","version":"0.1.22","depVersion":"^0.3.3","maintainers":[{"name":"dremoor","email":"dremoor@gmail.com"}],"modified":"2016-04-01T19:27:02.898Z","released":"2016-04-01T19:27:02.898Z","downloadsLastWeek":52}
+{
+	"name": "tgi-interface-bootstrap",
+	"version": "0.1.22",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "dremoor",
+			"email": "dremoor@gmail.com"
+		}
+	],
+	"modified": "2016-04-01T19:27:02.898Z",
+	"released": "2016-04-01T19:27:02.898Z",
+	"downloadsLastWeek": 52
+}

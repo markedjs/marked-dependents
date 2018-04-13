@@ -1,1 +1,14 @@
-{"name":"marked-sections","version":"0.1.5","depVersion":"~0.2.9","maintainers":[{"name":"yanatan16","email":"jon.m.eisen@gmail.com"}],"modified":"2017-07-11T16:18:03.633Z","released":"2013-10-17T13:54:38.005Z","downloadsLastWeek":1}
+{
+	"name": "marked-sections",
+	"version": "0.1.5",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "yanatan16",
+			"email": "jon.m.eisen@gmail.com"
+		}
+	],
+	"modified": "2017-07-11T16:18:03.633Z",
+	"released": "2013-10-17T13:54:38.005Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"dokker","version":"0.1.3","depVersion":"^0.3.3","maintainers":[{"name":"kengz","email":"kengzwl@gmail.com"},{"name":"oceanhouse21","email":"georg@oceanhouse21.com"}],"modified":"2016-07-09T00:15:33.759Z","released":"2015-07-21T22:01:12.615Z","downloadsLastWeek":3}
+{
+	"name": "dokker",
+	"version": "0.1.3",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "kengz",
+			"email": "kengzwl@gmail.com"
+		},
+		{
+			"name": "oceanhouse21",
+			"email": "georg@oceanhouse21.com"
+		}
+	],
+	"modified": "2016-07-09T00:15:33.759Z",
+	"released": "2015-07-21T22:01:12.615Z",
+	"downloadsLastWeek": 3
+}

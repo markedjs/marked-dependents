@@ -1,1 +1,14 @@
-{"name":"downmark-stream","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"akiva","email":"akiva@sixthirteen.co"}],"modified":"2015-11-04T05:34:47.812Z","released":"2015-11-04T05:34:47.812Z","downloadsLastWeek":4}
+{
+	"name": "downmark-stream",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "akiva",
+			"email": "akiva@sixthirteen.co"
+		}
+	],
+	"modified": "2015-11-04T05:34:47.812Z",
+	"released": "2015-11-04T05:34:47.812Z",
+	"downloadsLastWeek": 4
+}

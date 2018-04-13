@@ -1,1 +1,14 @@
-{"name":"vcl-doc-gen","version":"0.2.1","depVersion":"^0.3.6","maintainers":[{"email":"thomas.hoppe@n-fuse.co","name":"vanthome"}],"modified":"2017-05-30T09:24:04.430Z","released":"2017-05-30T09:24:04.430Z","downloadsLastWeek":9}
+{
+	"name": "vcl-doc-gen",
+	"version": "0.2.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "thomas.hoppe@n-fuse.co",
+			"name": "vanthome"
+		}
+	],
+	"modified": "2017-05-30T09:24:04.430Z",
+	"released": "2017-05-30T09:24:04.430Z",
+	"downloadsLastWeek": 9
+}

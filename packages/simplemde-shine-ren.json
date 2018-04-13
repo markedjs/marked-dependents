@@ -1,1 +1,14 @@
-{"name":"simplemde-shine-ren","version":"1.11.2","depVersion":"*","maintainers":[{"name":"shine_ren","email":"worenting@gmail.com"}],"modified":"2017-05-24T01:55:09.432Z","released":"2017-05-24T01:55:09.432Z","downloadsLastWeek":3}
+{
+	"name": "simplemde-shine-ren",
+	"version": "1.11.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "shine_ren",
+			"email": "worenting@gmail.com"
+		}
+	],
+	"modified": "2017-05-24T01:55:09.432Z",
+	"released": "2017-05-24T01:55:09.432Z",
+	"downloadsLastWeek": 3
+}

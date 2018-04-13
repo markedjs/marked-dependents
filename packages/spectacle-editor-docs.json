@@ -1,1 +1,114 @@
-{"name":"spectacle-editor-docs","version":"1.2.0","depVersion":"^0.3.5","maintainers":[{"email":"david.vonlehman@gmail.com","name":"dvonlehman"},{"email":"redfield.stefan@gmail.com","name":"redfieldstefan"},{"email":"ken_wheeler@me.com","name":"thekenwheeler"},{"email":"lavalle.paula@gmail.com","name":"paulathevalley"},{"email":"parker.ziegler@formidable.com","name":"parkerziegler"},{"email":"carlos@carlospaelinck.com","name":"carlospaelinck"},{"email":"me@ericbaer.com","name":"baer"},{"email":"kylieastewart@gmail.com","name":"kale-stew"},{"email":"dale@divmain.com","name":"divmain"},{"email":"Kierkegaurd@gmail.com","name":"aweary"},{"email":"imranolas@gmail.com","name":"imranolas"},{"email":"per@sproutlab.com","name":"coopy"},{"email":"exogen@gmail.com","name":"exogen"},{"email":"bolin.chris@gmail.com","name":"chrisbolin"},{"email":"david.davidson@formidablelabs.com","name":"david-davidson"},{"email":"ryan@eastridge.me","name":"eastridge"},{"email":"lauren.eastridge@formidablelabs.com","name":"boygirl"},{"email":"huynh.stefan@gmail.com","name":"stefvhuynh"},{"email":"mhink1103@gmail.com","name":"mhink"},{"email":"jrwilson@gmail.com","name":"jason.wilson"},{"email":"tyler@tylerpaulthompson.com","name":"tptee"},{"email":"emma.brillhart@gmail.com","name":"ebrillhart"},{"email":"spoonart@gmail.com","name":"bmathews"},{"email":"kyle@kylecesmat.com","name":"kylecesmat"},{"email":"ryan@loose-bits.com","name":"ryan.roemer"},{"email":"admin@formidablelabs.com","name":"formidable-owner"}],"modified":"2018-03-21T19:32:01.139Z","released":"2017-04-10T20:59:04.468Z","downloadsLastWeek":7}
+{
+	"name": "spectacle-editor-docs",
+	"version": "1.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"email": "david.vonlehman@gmail.com",
+			"name": "dvonlehman"
+		},
+		{
+			"email": "redfield.stefan@gmail.com",
+			"name": "redfieldstefan"
+		},
+		{
+			"email": "ken_wheeler@me.com",
+			"name": "thekenwheeler"
+		},
+		{
+			"email": "lavalle.paula@gmail.com",
+			"name": "paulathevalley"
+		},
+		{
+			"email": "parker.ziegler@formidable.com",
+			"name": "parkerziegler"
+		},
+		{
+			"email": "carlos@carlospaelinck.com",
+			"name": "carlospaelinck"
+		},
+		{
+			"email": "me@ericbaer.com",
+			"name": "baer"
+		},
+		{
+			"email": "kylieastewart@gmail.com",
+			"name": "kale-stew"
+		},
+		{
+			"email": "dale@divmain.com",
+			"name": "divmain"
+		},
+		{
+			"email": "Kierkegaurd@gmail.com",
+			"name": "aweary"
+		},
+		{
+			"email": "imranolas@gmail.com",
+			"name": "imranolas"
+		},
+		{
+			"email": "per@sproutlab.com",
+			"name": "coopy"
+		},
+		{
+			"email": "exogen@gmail.com",
+			"name": "exogen"
+		},
+		{
+			"email": "bolin.chris@gmail.com",
+			"name": "chrisbolin"
+		},
+		{
+			"email": "david.davidson@formidablelabs.com",
+			"name": "david-davidson"
+		},
+		{
+			"email": "ryan@eastridge.me",
+			"name": "eastridge"
+		},
+		{
+			"email": "lauren.eastridge@formidablelabs.com",
+			"name": "boygirl"
+		},
+		{
+			"email": "huynh.stefan@gmail.com",
+			"name": "stefvhuynh"
+		},
+		{
+			"email": "mhink1103@gmail.com",
+			"name": "mhink"
+		},
+		{
+			"email": "jrwilson@gmail.com",
+			"name": "jason.wilson"
+		},
+		{
+			"email": "tyler@tylerpaulthompson.com",
+			"name": "tptee"
+		},
+		{
+			"email": "emma.brillhart@gmail.com",
+			"name": "ebrillhart"
+		},
+		{
+			"email": "spoonart@gmail.com",
+			"name": "bmathews"
+		},
+		{
+			"email": "kyle@kylecesmat.com",
+			"name": "kylecesmat"
+		},
+		{
+			"email": "ryan@loose-bits.com",
+			"name": "ryan.roemer"
+		},
+		{
+			"email": "admin@formidablelabs.com",
+			"name": "formidable-owner"
+		}
+	],
+	"modified": "2018-03-21T19:32:01.139Z",
+	"released": "2017-04-10T20:59:04.468Z",
+	"downloadsLastWeek": 7
+}

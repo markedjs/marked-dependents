@@ -1,1 +1,14 @@
-{"name":"gulp-ngdocs-components","version":"0.1.4","depVersion":"0.3.2","maintainers":[{"name":"m-sanchez","email":"contact@miguelsanchez.co.uk"}],"modified":"2017-03-19T17:13:16.319Z","released":"2017-03-19T17:13:16.319Z","downloadsLastWeek":80}
+{
+	"name": "gulp-ngdocs-components",
+	"version": "0.1.4",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "m-sanchez",
+			"email": "contact@miguelsanchez.co.uk"
+		}
+	],
+	"modified": "2017-03-19T17:13:16.319Z",
+	"released": "2017-03-19T17:13:16.319Z",
+	"downloadsLastWeek": 80
+}

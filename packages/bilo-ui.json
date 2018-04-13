@@ -1,1 +1,14 @@
-{"name":"bilo-ui","version":"0.0.11","depVersion":"^0.3.6","maintainers":[{"name":"bilo89za","email":"bilo.lwabona@gmail.com"}],"modified":"2018-02-04T12:57:36.613Z","released":"2018-02-04T11:45:55.540Z","downloadsLastWeek":5}
+{
+	"name": "bilo-ui",
+	"version": "0.0.11",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bilo89za",
+			"email": "bilo.lwabona@gmail.com"
+		}
+	],
+	"modified": "2018-02-04T12:57:36.613Z",
+	"released": "2018-02-04T11:45:55.540Z",
+	"downloadsLastWeek": 5
+}

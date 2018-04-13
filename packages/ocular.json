@@ -1,1 +1,14 @@
-{"name":"ocular","version":"0.4.3","depVersion":"^0.3.6","maintainers":[{"name":"apercu","email":"bgronon@gmail.com"}],"modified":"2018-03-12T23:26:26.710Z","released":"2018-03-12T23:26:26.332Z","downloadsLastWeek":11}
+{
+	"name": "ocular",
+	"version": "0.4.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "apercu",
+			"email": "bgronon@gmail.com"
+		}
+	],
+	"modified": "2018-03-12T23:26:26.710Z",
+	"released": "2018-03-12T23:26:26.332Z",
+	"downloadsLastWeek": 11
+}

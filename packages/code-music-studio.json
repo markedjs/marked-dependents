@@ -1,1 +1,14 @@
-{"name":"code-music-studio","version":"1.6.0","depVersion":"^0.3.2","maintainers":[{"name":"substack","email":"mail@substack.net"}],"modified":"2017-06-19T11:36:47.059Z","released":"2017-06-19T11:36:47.059Z","downloadsLastWeek":1}
+{
+	"name": "code-music-studio",
+	"version": "1.6.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "substack",
+			"email": "mail@substack.net"
+		}
+	],
+	"modified": "2017-06-19T11:36:47.059Z",
+	"released": "2017-06-19T11:36:47.059Z",
+	"downloadsLastWeek": 1
+}

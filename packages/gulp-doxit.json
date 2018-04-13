@@ -1,1 +1,14 @@
-{"name":"gulp-doxit","version":"0.0.2","depVersion":"~0.3.3","maintainers":[{"name":"nevermoi","email":"wlgq@hotmail.com"}],"modified":"2015-03-26T07:47:44.928Z","released":"2015-03-26T07:47:44.928Z","downloadsLastWeek":3}
+{
+	"name": "gulp-doxit",
+	"version": "0.0.2",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "nevermoi",
+			"email": "wlgq@hotmail.com"
+		}
+	],
+	"modified": "2015-03-26T07:47:44.928Z",
+	"released": "2015-03-26T07:47:44.928Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,14 @@
-{"name":"vfenpm","version":"0.0.1","depVersion":"^0.3.3","maintainers":[{"name":"xyezir","email":"xyezir@gmail.com"}],"modified":"2016-02-27T08:17:55.450Z","released":"2016-02-27T08:17:55.450Z","downloadsLastWeek":3}
+{
+	"name": "vfenpm",
+	"version": "0.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "xyezir",
+			"email": "xyezir@gmail.com"
+		}
+	],
+	"modified": "2016-02-27T08:17:55.450Z",
+	"released": "2016-02-27T08:17:55.450Z",
+	"downloadsLastWeek": 3
+}

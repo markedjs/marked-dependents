@@ -1,1 +1,22 @@
-{"name":"juttle","version":"0.7.1","depVersion":"0.3.3","maintainers":[{"name":"demmer","email":"demmer@jut.io"},{"name":"dmajda","email":"david@majda.cz"},{"name":"go-oleg","email":"oleg.b.seletsky@gmail.com"}],"modified":"2016-03-24T18:54:05.127Z","released":"2016-03-24T18:54:05.127Z","downloadsLastWeek":4}
+{
+	"name": "juttle",
+	"version": "0.7.1",
+	"depVersion": "0.3.3",
+	"maintainers": [
+		{
+			"name": "demmer",
+			"email": "demmer@jut.io"
+		},
+		{
+			"name": "dmajda",
+			"email": "david@majda.cz"
+		},
+		{
+			"name": "go-oleg",
+			"email": "oleg.b.seletsky@gmail.com"
+		}
+	],
+	"modified": "2016-03-24T18:54:05.127Z",
+	"released": "2016-03-24T18:54:05.127Z",
+	"downloadsLastWeek": 4
+}

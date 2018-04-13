@@ -1,1 +1,14 @@
-{"name":"marked-middleware","version":"0.0.4","depVersion":"0.3.2","maintainers":[{"name":"markuz-gj","email":"markuz.br@gmail.com"}],"modified":"2014-05-16T22:29:41.226Z","released":"2014-05-16T22:29:41.226Z","downloadsLastWeek":2}
+{
+	"name": "marked-middleware",
+	"version": "0.0.4",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "markuz-gj",
+			"email": "markuz.br@gmail.com"
+		}
+	],
+	"modified": "2014-05-16T22:29:41.226Z",
+	"released": "2014-05-16T22:29:41.226Z",
+	"downloadsLastWeek": 2
+}

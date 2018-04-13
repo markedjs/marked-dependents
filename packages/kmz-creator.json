@@ -1,1 +1,14 @@
-{"name":"kmz-creator","version":"0.1.14","depVersion":"^0.3.3","maintainers":[{"name":"tanktheory","email":"ftourangeau@revox.ca"}],"modified":"2018-02-23T10:06:58.559Z","released":"2018-02-23T10:06:58.378Z","downloadsLastWeek":10}
+{
+	"name": "kmz-creator",
+	"version": "0.1.14",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "tanktheory",
+			"email": "ftourangeau@revox.ca"
+		}
+	],
+	"modified": "2018-02-23T10:06:58.559Z",
+	"released": "2018-02-23T10:06:58.378Z",
+	"downloadsLastWeek": 10
+}

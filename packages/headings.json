@@ -1,1 +1,14 @@
-{"name":"headings","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"i5ting","email":"shiren1118@126.com"}],"modified":"2016-09-28T01:52:26.379Z","released":"2016-09-28T01:52:26.379Z","downloadsLastWeek":2}
+{
+	"name": "headings",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "i5ting",
+			"email": "shiren1118@126.com"
+		}
+	],
+	"modified": "2016-09-28T01:52:26.379Z",
+	"released": "2016-09-28T01:52:26.379Z",
+	"downloadsLastWeek": 2
+}

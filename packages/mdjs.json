@@ -1,1 +1,14 @@
-{"name":"mdjs","version":"0.1.10","depVersion":"^0.3.5","maintainers":[{"name":"xuexb","email":"fe.xiaowu@gmail.com"}],"modified":"2016-01-29T03:21:45.255Z","released":"2016-01-29T03:21:45.255Z","downloadsLastWeek":5}
+{
+	"name": "mdjs",
+	"version": "0.1.10",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "xuexb",
+			"email": "fe.xiaowu@gmail.com"
+		}
+	],
+	"modified": "2016-01-29T03:21:45.255Z",
+	"released": "2016-01-29T03:21:45.255Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"amazeui-doc-util","version":"0.7.1","depVersion":"^0.3.5","maintainers":[{"name":"minwe","email":"hegfirose@gmail.com"}],"modified":"2016-06-28T08:13:13.156Z","released":"2016-06-28T08:13:13.156Z","downloadsLastWeek":2}
+{
+	"name": "amazeui-doc-util",
+	"version": "0.7.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "minwe",
+			"email": "hegfirose@gmail.com"
+		}
+	],
+	"modified": "2016-06-28T08:13:13.156Z",
+	"released": "2016-06-28T08:13:13.156Z",
+	"downloadsLastWeek": 2
+}

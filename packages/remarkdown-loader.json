@@ -1,1 +1,14 @@
-{"name":"remarkdown-loader","version":"2.0.8","depVersion":"^0.3.12","maintainers":[{"name":"hzongquan","email":"hzongquan@126.com"}],"modified":"2018-02-05T06:02:39.809Z","released":"2018-02-05T06:02:39.809Z","downloadsLastWeek":43}
+{
+	"name": "remarkdown-loader",
+	"version": "2.0.8",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "hzongquan",
+			"email": "hzongquan@126.com"
+		}
+	],
+	"modified": "2018-02-05T06:02:39.809Z",
+	"released": "2018-02-05T06:02:39.809Z",
+	"downloadsLastWeek": 43
+}

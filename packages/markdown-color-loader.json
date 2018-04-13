@@ -1,1 +1,14 @@
-{"name":"markdown-color-loader","version":"0.3.0","depVersion":"^0.3.2","maintainers":[{"name":"zolmeister","email":"zolikahan@gmail.com"}],"modified":"2015-02-22T11:48:20.396Z","released":"2015-02-22T11:48:20.396Z","downloadsLastWeek":1}
+{
+	"name": "markdown-color-loader",
+	"version": "0.3.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "zolmeister",
+			"email": "zolikahan@gmail.com"
+		}
+	],
+	"modified": "2015-02-22T11:48:20.396Z",
+	"released": "2015-02-22T11:48:20.396Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"hypercms","version":"0.0.1","depVersion":"0.3.6","maintainers":[{"name":"romanvegas","email":"romanvegas@yahoo.com"}],"modified":"2016-09-14T23:43:21.483Z","released":"2016-09-14T23:43:21.483Z","downloadsLastWeek":2}
+{
+	"name": "hypercms",
+	"version": "0.0.1",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "romanvegas",
+			"email": "romanvegas@yahoo.com"
+		}
+	],
+	"modified": "2016-09-14T23:43:21.483Z",
+	"released": "2016-09-14T23:43:21.483Z",
+	"downloadsLastWeek": 2
+}

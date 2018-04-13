@@ -1,1 +1,14 @@
-{"name":"sgcss","version":"0.2.1","depVersion":"^0.3.5","maintainers":[{"name":"mdahlstrand","email":"magnus@mdahlstrand.com"}],"modified":"2016-10-26T13:13:07.088Z","released":"2016-10-26T13:13:07.088Z","downloadsLastWeek":9}
+{
+	"name": "sgcss",
+	"version": "0.2.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "mdahlstrand",
+			"email": "magnus@mdahlstrand.com"
+		}
+	],
+	"modified": "2016-10-26T13:13:07.088Z",
+	"released": "2016-10-26T13:13:07.088Z",
+	"downloadsLastWeek": 9
+}

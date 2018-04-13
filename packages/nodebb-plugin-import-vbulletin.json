@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-vbulletin","version":"0.1.8","depVersion":"~0.3.2","maintainers":[{"name":"akhoury","email":"bentael@gmail.com"}],"modified":"2018-04-02T09:15:28.397Z","released":"2018-04-02T09:15:28.063Z","downloadsLastWeek":5}
+{
+	"name": "nodebb-plugin-import-vbulletin",
+	"version": "0.1.8",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "akhoury",
+			"email": "bentael@gmail.com"
+		}
+	],
+	"modified": "2018-04-02T09:15:28.397Z",
+	"released": "2018-04-02T09:15:28.063Z",
+	"downloadsLastWeek": 5
+}

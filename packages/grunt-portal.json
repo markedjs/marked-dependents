@@ -1,1 +1,14 @@
-{"name":"grunt-portal","version":"0.5.7","depVersion":"^0.3.2","maintainers":[{"name":"reaktivo","email":"m@reaktivo.com"}],"modified":"2014-12-24T21:58:58.717Z","released":"2014-12-24T21:58:58.717Z","downloadsLastWeek":1}
+{
+	"name": "grunt-portal",
+	"version": "0.5.7",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "reaktivo",
+			"email": "m@reaktivo.com"
+		}
+	],
+	"modified": "2014-12-24T21:58:58.717Z",
+	"released": "2014-12-24T21:58:58.717Z",
+	"downloadsLastWeek": 1
+}

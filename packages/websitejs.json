@@ -1,1 +1,14 @@
-{"name":"websitejs","version":"0.2.0","depVersion":"^0.3.2","maintainers":[{"name":"markmarijnissen","email":"info@madebymark.nl"}],"modified":"2015-01-12T10:34:47.686Z","released":"2015-01-12T10:34:47.686Z","downloadsLastWeek":5}
+{
+	"name": "websitejs",
+	"version": "0.2.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "markmarijnissen",
+			"email": "info@madebymark.nl"
+		}
+	],
+	"modified": "2015-01-12T10:34:47.686Z",
+	"released": "2015-01-12T10:34:47.686Z",
+	"downloadsLastWeek": 5
+}

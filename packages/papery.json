@@ -1,1 +1,14 @@
-{"name":"papery","version":"0.2.5-2","depVersion":"^0.3.2","maintainers":[{"name":"ericzhangcn","email":"ericzhang.buaa@gmail.com"}],"modified":"2016-03-18T08:54:35.148Z","released":"2016-03-18T08:54:35.148Z","downloadsLastWeek":2}
+{
+	"name": "papery",
+	"version": "0.2.5-2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "ericzhangcn",
+			"email": "ericzhang.buaa@gmail.com"
+		}
+	],
+	"modified": "2016-03-18T08:54:35.148Z",
+	"released": "2016-03-18T08:54:35.148Z",
+	"downloadsLastWeek": 2
+}

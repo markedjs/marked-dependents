@@ -1,1 +1,14 @@
-{"name":"yyp-md2html","version":"0.0.2","depVersion":"^0.3.6","maintainers":[{"name":"yeyingping","email":"yeyingping15@mails.ucas.ac.cn"}],"modified":"2017-11-14T12:53:42.996Z","released":"2017-11-14T12:53:42.996Z","downloadsLastWeek":5}
+{
+	"name": "yyp-md2html",
+	"version": "0.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "yeyingping",
+			"email": "yeyingping15@mails.ucas.ac.cn"
+		}
+	],
+	"modified": "2017-11-14T12:53:42.996Z",
+	"released": "2017-11-14T12:53:42.996Z",
+	"downloadsLastWeek": 5
+}

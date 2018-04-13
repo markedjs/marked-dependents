@@ -1,1 +1,14 @@
-{"name":"tpl_md","version":"1.0.2","depVersion":"^0.3.5","maintainers":[{"name":"i5ting","email":"shiren1118@126.com"}],"modified":"2016-04-02T08:27:56.002Z","released":"2016-04-02T08:27:56.002Z","downloadsLastWeek":7}
+{
+	"name": "tpl_md",
+	"version": "1.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "i5ting",
+			"email": "shiren1118@126.com"
+		}
+	],
+	"modified": "2016-04-02T08:27:56.002Z",
+	"released": "2016-04-02T08:27:56.002Z",
+	"downloadsLastWeek": 7
+}

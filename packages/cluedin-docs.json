@@ -1,1 +1,14 @@
-{"name":"cluedin-docs","version":"0.0.2","depVersion":"^0.3.5","maintainers":[{"name":"dervalp","email":"dervalp@gmail.com"}],"modified":"2016-12-26T13:50:53.540Z","released":"2016-12-26T13:50:38.942Z","downloadsLastWeek":2}
+{
+	"name": "cluedin-docs",
+	"version": "0.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dervalp",
+			"email": "dervalp@gmail.com"
+		}
+	],
+	"modified": "2016-12-26T13:50:53.540Z",
+	"released": "2016-12-26T13:50:38.942Z",
+	"downloadsLastWeek": 2
+}

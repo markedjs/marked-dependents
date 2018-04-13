@@ -1,1 +1,14 @@
-{"name":"tutors-ts","version":"1.2.5","depVersion":"^0.3.5","maintainers":[{"name":"edeleastar","email":"edeleastar@wit.ie"}],"modified":"2018-04-10T07:15:38.441Z","released":"2018-04-10T07:15:37.978Z","downloadsLastWeek":249}
+{
+	"name": "tutors-ts",
+	"version": "1.2.5",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "edeleastar",
+			"email": "edeleastar@wit.ie"
+		}
+	],
+	"modified": "2018-04-10T07:15:38.441Z",
+	"released": "2018-04-10T07:15:37.978Z",
+	"downloadsLastWeek": 249
+}

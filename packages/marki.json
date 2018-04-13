@@ -1,1 +1,14 @@
-{"name":"marki","version":"2.3.0","depVersion":"^0.3.3","maintainers":[{"name":"joshwnj","email":"josh@x-team.com"}],"modified":"2015-10-05T10:34:36.422Z","released":"2015-10-05T10:34:36.422Z","downloadsLastWeek":1}
+{
+	"name": "marki",
+	"version": "2.3.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "joshwnj",
+			"email": "josh@x-team.com"
+		}
+	],
+	"modified": "2015-10-05T10:34:36.422Z",
+	"released": "2015-10-05T10:34:36.422Z",
+	"downloadsLastWeek": 1
+}

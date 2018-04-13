@@ -1,1 +1,14 @@
-{"name":"biscotto","version":"2.3.1","depVersion":">= 0.1.9","maintainers":[{"name":"gjtorikian","email":"gjtorikian@gmail.com"}],"modified":"2014-11-23T06:30:06.157Z","released":"2014-11-23T06:26:06.456Z","downloadsLastWeek":234}
+{
+	"name": "biscotto",
+	"version": "2.3.1",
+	"depVersion": ">= 0.1.9",
+	"maintainers": [
+		{
+			"name": "gjtorikian",
+			"email": "gjtorikian@gmail.com"
+		}
+	],
+	"modified": "2014-11-23T06:30:06.157Z",
+	"released": "2014-11-23T06:26:06.456Z",
+	"downloadsLastWeek": 234
+}

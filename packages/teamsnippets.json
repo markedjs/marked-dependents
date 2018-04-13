@@ -1,1 +1,14 @@
-{"name":"teamsnippets","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"koenbollen","email":"meneer@koenbollen.nl"}],"modified":"2014-04-07T16:05:16.347Z","released":"2014-04-07T16:05:16.347Z","downloadsLastWeek":3}
+{
+	"name": "teamsnippets",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "koenbollen",
+			"email": "meneer@koenbollen.nl"
+		}
+	],
+	"modified": "2014-04-07T16:05:16.347Z",
+	"released": "2014-04-07T16:05:16.347Z",
+	"downloadsLastWeek": 3
+}

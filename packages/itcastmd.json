@@ -1,1 +1,14 @@
-{"name":"itcastmd","version":"1.1.2","depVersion":"^0.3.2","maintainers":[{"name":"malun","email":"malun666@126.com"}],"modified":"2016-07-06T23:49:02.135Z","released":"2016-07-06T23:49:02.135Z","downloadsLastWeek":1}
+{
+	"name": "itcastmd",
+	"version": "1.1.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "malun",
+			"email": "malun666@126.com"
+		}
+	],
+	"modified": "2016-07-06T23:49:02.135Z",
+	"released": "2016-07-06T23:49:02.135Z",
+	"downloadsLastWeek": 1
+}

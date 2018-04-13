@@ -1,1 +1,62 @@
-{"name":"apiconnect-explorer","version":"2.0.31","depVersion":"^0.3.6","maintainers":[{"email":"chris.dudley@gmail.com","name":"chrisdudley"},{"email":"johnbellessa@gmail.com","name":"johnbellessa"},{"email":"tffrench@us.ibm.com","name":"tonyf-ibm"},{"email":"smartmousejs@gmail.com","name":"smartmouse"},{"email":"kjdelisle@gmail.com","name":"kjdelisle"},{"email":"tjsmith@us.ibm.com","name":"tjsmith.us.ibm.com"},{"email":"joseph.tary@gmail.com","name":"jtary"},{"email":"qpresley@ca.ibm.com","name":"qpresley"},{"email":"mbajtoss@gmail.com","name":"bajtos"},{"email":"skawful@gmail.com","name":"ritch"},{"email":"kraman@gmail.com","name":"kraman"},{"email":"enjoyjava@gmail.com","name":"rfeng"},{"email":"r.m.graham@gmail.com","name":"rmg"}],"modified":"2018-01-22T15:17:02.995Z","released":"2017-11-13T16:02:49.554Z","downloadsLastWeek":538}
+{
+	"name": "apiconnect-explorer",
+	"version": "2.0.31",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "chris.dudley@gmail.com",
+			"name": "chrisdudley"
+		},
+		{
+			"email": "johnbellessa@gmail.com",
+			"name": "johnbellessa"
+		},
+		{
+			"email": "tffrench@us.ibm.com",
+			"name": "tonyf-ibm"
+		},
+		{
+			"email": "smartmousejs@gmail.com",
+			"name": "smartmouse"
+		},
+		{
+			"email": "kjdelisle@gmail.com",
+			"name": "kjdelisle"
+		},
+		{
+			"email": "tjsmith@us.ibm.com",
+			"name": "tjsmith.us.ibm.com"
+		},
+		{
+			"email": "joseph.tary@gmail.com",
+			"name": "jtary"
+		},
+		{
+			"email": "qpresley@ca.ibm.com",
+			"name": "qpresley"
+		},
+		{
+			"email": "mbajtoss@gmail.com",
+			"name": "bajtos"
+		},
+		{
+			"email": "skawful@gmail.com",
+			"name": "ritch"
+		},
+		{
+			"email": "kraman@gmail.com",
+			"name": "kraman"
+		},
+		{
+			"email": "enjoyjava@gmail.com",
+			"name": "rfeng"
+		},
+		{
+			"email": "r.m.graham@gmail.com",
+			"name": "rmg"
+		}
+	],
+	"modified": "2018-01-22T15:17:02.995Z",
+	"released": "2017-11-13T16:02:49.554Z",
+	"downloadsLastWeek": 538
+}

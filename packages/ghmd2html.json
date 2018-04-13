@@ -1,1 +1,14 @@
-{"name":"ghmd2html","version":"0.3.6","depVersion":"0.3.2","maintainers":[{"name":"edwardbotzum","email":"contact@edbotz.us"}],"modified":"2014-05-13T17:29:52.268Z","released":"2014-05-13T17:29:52.268Z","downloadsLastWeek":1}
+{
+	"name": "ghmd2html",
+	"version": "0.3.6",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "edwardbotzum",
+			"email": "contact@edbotz.us"
+		}
+	],
+	"modified": "2014-05-13T17:29:52.268Z",
+	"released": "2014-05-13T17:29:52.268Z",
+	"downloadsLastWeek": 1
+}

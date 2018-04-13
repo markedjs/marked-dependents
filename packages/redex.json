@@ -1,1 +1,14 @@
-{"name":"redex","version":"0.0.1","depVersion":"^0.3.3","maintainers":[{"name":"evanx","email":"evan.summers@gmail.com"}],"modified":"2017-02-19T11:25:36.488Z","released":"2017-02-19T11:25:36.488Z","downloadsLastWeek":6}
+{
+	"name": "redex",
+	"version": "0.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "evanx",
+			"email": "evan.summers@gmail.com"
+		}
+	],
+	"modified": "2017-02-19T11:25:36.488Z",
+	"released": "2017-02-19T11:25:36.488Z",
+	"downloadsLastWeek": 6
+}

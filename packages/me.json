@@ -1,1 +1,14 @@
-{"name":"me","version":"0.3.0","depVersion":"~0.2.8","maintainers":[{"name":"juliangruber","email":"julian@juliangruber.com"}],"modified":"2013-05-09T14:18:14.687Z","released":"2013-05-09T14:18:14.687Z","downloadsLastWeek":8}
+{
+	"name": "me",
+	"version": "0.3.0",
+	"depVersion": "~0.2.8",
+	"maintainers": [
+		{
+			"name": "juliangruber",
+			"email": "julian@juliangruber.com"
+		}
+	],
+	"modified": "2013-05-09T14:18:14.687Z",
+	"released": "2013-05-09T14:18:14.687Z",
+	"downloadsLastWeek": 8
+}

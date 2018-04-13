@@ -1,1 +1,14 @@
-{"name":"grunt-blog-generator","version":"0.1.4","depVersion":"^0.3.3","maintainers":[{"name":"grepug","email":"sk@grepug.com"}],"modified":"2015-05-09T07:33:15.532Z","released":"2015-05-09T07:33:15.532Z","downloadsLastWeek":1}
+{
+	"name": "grunt-blog-generator",
+	"version": "0.1.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "grepug",
+			"email": "sk@grepug.com"
+		}
+	],
+	"modified": "2015-05-09T07:33:15.532Z",
+	"released": "2015-05-09T07:33:15.532Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"bo-cloud","version":"0.0.7","depVersion":"0.2.9","maintainers":[{"name":"tianwu","email":"yejinjian@gmail.com"}],"modified":"2014-06-04T07:28:56.474Z","released":"2014-06-04T07:28:56.474Z","downloadsLastWeek":2}
+{
+	"name": "bo-cloud",
+	"version": "0.0.7",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "tianwu",
+			"email": "yejinjian@gmail.com"
+		}
+	],
+	"modified": "2014-06-04T07:28:56.474Z",
+	"released": "2014-06-04T07:28:56.474Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"markdown-editor-mw","version":"0.0.11","depVersion":"^0.3.3","maintainers":[{"name":"jroop","email":"joe.roop@gmail.com"}],"modified":"2015-07-16T05:47:16.727Z","released":"2015-07-16T05:47:16.727Z","downloadsLastWeek":1}
+{
+	"name": "markdown-editor-mw",
+	"version": "0.0.11",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "jroop",
+			"email": "joe.roop@gmail.com"
+		}
+	],
+	"modified": "2015-07-16T05:47:16.727Z",
+	"released": "2015-07-16T05:47:16.727Z",
+	"downloadsLastWeek": 1
+}

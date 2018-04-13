@@ -1,1 +1,14 @@
-{"name":"autopages","version":"0.1.0","depVersion":"~0.3.2","maintainers":[{"name":"mathisonian","email":"mc@mathisonian.com"}],"modified":"2014-06-28T19:57:22.503Z","released":"2014-06-28T19:57:22.503Z","downloadsLastWeek":1}
+{
+	"name": "autopages",
+	"version": "0.1.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "mathisonian",
+			"email": "mc@mathisonian.com"
+		}
+	],
+	"modified": "2014-06-28T19:57:22.503Z",
+	"released": "2014-06-28T19:57:22.503Z",
+	"downloadsLastWeek": 1
+}

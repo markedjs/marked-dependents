@@ -1,1 +1,18 @@
-{"name":"balrog","version":"1.0.2","depVersion":"~0.3.2","maintainers":[{"email":"to.jlord@gmail.com","name":"jlord"},{"email":"brianloveswords@gmail.com","name":"brianloveswords"}],"modified":"2017-07-22T18:26:56.215Z","released":"2015-04-27T06:06:59.341Z","downloadsLastWeek":1}
+{
+	"name": "balrog",
+	"version": "1.0.2",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"email": "to.jlord@gmail.com",
+			"name": "jlord"
+		},
+		{
+			"email": "brianloveswords@gmail.com",
+			"name": "brianloveswords"
+		}
+	],
+	"modified": "2017-07-22T18:26:56.215Z",
+	"released": "2015-04-27T06:06:59.341Z",
+	"downloadsLastWeek": 1
+}

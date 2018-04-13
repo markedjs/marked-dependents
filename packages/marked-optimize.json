@@ -1,1 +1,14 @@
-{"name":"marked-optimize","version":"0.0.2","depVersion":"^0.3.6","maintainers":[{"name":"wangfeia","email":"383109956@qq.com"}],"modified":"2016-08-24T09:56:16.300Z","released":"2016-08-24T09:56:16.300Z","downloadsLastWeek":1}
+{
+	"name": "marked-optimize",
+	"version": "0.0.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "wangfeia",
+			"email": "383109956@qq.com"
+		}
+	],
+	"modified": "2016-08-24T09:56:16.300Z",
+	"released": "2016-08-24T09:56:16.300Z",
+	"downloadsLastWeek": 1
+}

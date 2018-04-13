@@ -1,1 +1,18 @@
-{"name":"fekit-extension-qdoc","version":"0.0.12","depVersion":"^0.3.5","maintainers":[{"name":"huina.gu","email":"lunaghn@gmail.com"},{"name":"xbf321","email":"xbf321@gmail.com"}],"modified":"2016-03-25T11:12:24.047Z","released":"2016-03-25T11:12:24.047Z","downloadsLastWeek":2}
+{
+	"name": "fekit-extension-qdoc",
+	"version": "0.0.12",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "huina.gu",
+			"email": "lunaghn@gmail.com"
+		},
+		{
+			"name": "xbf321",
+			"email": "xbf321@gmail.com"
+		}
+	],
+	"modified": "2016-03-25T11:12:24.047Z",
+	"released": "2016-03-25T11:12:24.047Z",
+	"downloadsLastWeek": 2
+}

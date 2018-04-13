@@ -1,1 +1,14 @@
-{"name":"hexo-post-editor","version":"0.0.3","depVersion":"^0.3.5","maintainers":[{"name":"tyleryang","email":"tyler.z.yang@gmail.com"}],"modified":"2016-01-09T11:37:39.943Z","released":"2016-01-09T11:37:39.943Z","downloadsLastWeek":2}
+{
+	"name": "hexo-post-editor",
+	"version": "0.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "tyleryang",
+			"email": "tyler.z.yang@gmail.com"
+		}
+	],
+	"modified": "2016-01-09T11:37:39.943Z",
+	"released": "2016-01-09T11:37:39.943Z",
+	"downloadsLastWeek": 2
+}

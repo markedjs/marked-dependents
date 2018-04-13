@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-wefrag","version":"0.1.1","depVersion":"~0.3.2","maintainers":[{"name":"lohek","email":"nainpuissant@gmail.com"}],"modified":"2014-09-25T13:32:52.088Z","released":"2014-09-25T13:32:52.088Z","downloadsLastWeek":1}
+{
+	"name": "nodebb-plugin-import-wefrag",
+	"version": "0.1.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "lohek",
+			"email": "nainpuissant@gmail.com"
+		}
+	],
+	"modified": "2014-09-25T13:32:52.088Z",
+	"released": "2014-09-25T13:32:52.088Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"distancss","version":"0.2.0","depVersion":"0.2.x","maintainers":[{"name":"xzyfer","email":"xzyfer@gmail.com"}],"modified":"2015-08-05T02:56:21.068Z","released":"2015-08-05T02:56:21.068Z","downloadsLastWeek":1}
+{
+	"name": "distancss",
+	"version": "0.2.0",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "xzyfer",
+			"email": "xzyfer@gmail.com"
+		}
+	],
+	"modified": "2015-08-05T02:56:21.068Z",
+	"released": "2015-08-05T02:56:21.068Z",
+	"downloadsLastWeek": 1
+}

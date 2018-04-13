@@ -1,1 +1,14 @@
-{"name":"we-editor","version":"0.1.2","depVersion":"^0.3.6","maintainers":[{"name":"niklaslu","email":"332553882@qq.com"}],"modified":"2016-11-06T14:19:39.772Z","released":"2016-11-06T14:19:39.772Z","downloadsLastWeek":7}
+{
+	"name": "we-editor",
+	"version": "0.1.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "niklaslu",
+			"email": "332553882@qq.com"
+		}
+	],
+	"modified": "2016-11-06T14:19:39.772Z",
+	"released": "2016-11-06T14:19:39.772Z",
+	"downloadsLastWeek": 7
+}

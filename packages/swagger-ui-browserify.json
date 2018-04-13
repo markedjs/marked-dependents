@@ -1,1 +1,14 @@
-{"name":"swagger-ui-browserify","version":"2.2.3-a","depVersion":"^0.3.5","maintainers":[{"name":"achingbrain","email":"alex@achingbrain.net"}],"modified":"2016-09-09T09:26:10.290Z","released":"2016-09-09T09:26:10.290Z","downloadsLastWeek":59}
+{
+	"name": "swagger-ui-browserify",
+	"version": "2.2.3-a",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "achingbrain",
+			"email": "alex@achingbrain.net"
+		}
+	],
+	"modified": "2016-09-09T09:26:10.290Z",
+	"released": "2016-09-09T09:26:10.290Z",
+	"downloadsLastWeek": 59
+}

@@ -1,1 +1,14 @@
-{"name":"coffeekraken-carpenter","version":"1.0.4","depVersion":"^0.3.6","maintainers":[{"name":"coffeekraken","email":"hello@coffeekraken.io"}],"modified":"2018-03-21T07:34:53.275Z","released":"2018-03-21T07:34:51.608Z","downloadsLastWeek":1}
+{
+	"name": "coffeekraken-carpenter",
+	"version": "1.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "coffeekraken",
+			"email": "hello@coffeekraken.io"
+		}
+	],
+	"modified": "2018-03-21T07:34:53.275Z",
+	"released": "2018-03-21T07:34:51.608Z",
+	"downloadsLastWeek": 1
+}

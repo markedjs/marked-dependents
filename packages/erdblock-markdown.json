@@ -1,1 +1,18 @@
-{"name":"erdblock-markdown","version":"0.1.0","depVersion":"x","maintainers":[{"name":"firebug","email":"dev@janniklorenz.de"},{"name":"aroneiermann","email":"npmjs@aroneiermann.de"}],"modified":"2015-07-16T07:13:37.170Z","released":"2015-07-10T15:11:48.310Z","downloadsLastWeek":1}
+{
+	"name": "erdblock-markdown",
+	"version": "0.1.0",
+	"depVersion": "x",
+	"maintainers": [
+		{
+			"name": "firebug",
+			"email": "dev@janniklorenz.de"
+		},
+		{
+			"name": "aroneiermann",
+			"email": "npmjs@aroneiermann.de"
+		}
+	],
+	"modified": "2015-07-16T07:13:37.170Z",
+	"released": "2015-07-10T15:11:48.310Z",
+	"downloadsLastWeek": 1
+}

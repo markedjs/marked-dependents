@@ -1,1 +1,14 @@
-{"name":"squick","version":"0.1.1","depVersion":"^0.3.5","maintainers":[{"name":"yourpalal","email":"aewilson@ualberta.ca"}],"modified":"2016-01-03T01:44:58.759Z","released":"2016-01-03T01:44:58.759Z","downloadsLastWeek":13}
+{
+	"name": "squick",
+	"version": "0.1.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "yourpalal",
+			"email": "aewilson@ualberta.ca"
+		}
+	],
+	"modified": "2016-01-03T01:44:58.759Z",
+	"released": "2016-01-03T01:44:58.759Z",
+	"downloadsLastWeek": 13
+}

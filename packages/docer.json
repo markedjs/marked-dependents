@@ -1,1 +1,14 @@
-{"name":"docer","version":"0.0.6","depVersion":"^0.3.6","maintainers":[{"name":"sherluok","email":"1054334756@qq.com"}],"modified":"2017-04-03T00:05:18.383Z","released":"2017-04-03T00:05:18.383Z","downloadsLastWeek":1}
+{
+	"name": "docer",
+	"version": "0.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sherluok",
+			"email": "1054334756@qq.com"
+		}
+	],
+	"modified": "2017-04-03T00:05:18.383Z",
+	"released": "2017-04-03T00:05:18.383Z",
+	"downloadsLastWeek": 1
+}

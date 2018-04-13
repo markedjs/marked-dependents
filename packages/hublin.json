@@ -1,1 +1,14 @@
-{"name":"hublin","version":"0.1.0","depVersion":"~0.3.3","maintainers":[{"name":"samyb","email":"samy.benhamiche@gmail.com"}],"modified":"2016-06-03T13:58:19.315Z","released":"2016-06-03T13:58:19.315Z","downloadsLastWeek":2}
+{
+	"name": "hublin",
+	"version": "0.1.0",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "samyb",
+			"email": "samy.benhamiche@gmail.com"
+		}
+	],
+	"modified": "2016-06-03T13:58:19.315Z",
+	"released": "2016-06-03T13:58:19.315Z",
+	"downloadsLastWeek": 2
+}

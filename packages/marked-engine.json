@@ -1,1 +1,14 @@
-{"name":"marked-engine","version":"0.2.0","depVersion":"0.3.x","maintainers":[{"name":"jaredhanson","email":"jaredhanson@gmail.com"}],"modified":"2018-02-13T05:37:44.415Z","released":"2017-09-19T23:03:49.938Z","downloadsLastWeek":15}
+{
+	"name": "marked-engine",
+	"version": "0.2.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "jaredhanson",
+			"email": "jaredhanson@gmail.com"
+		}
+	],
+	"modified": "2018-02-13T05:37:44.415Z",
+	"released": "2017-09-19T23:03:49.938Z",
+	"downloadsLastWeek": 15
+}

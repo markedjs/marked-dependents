@@ -1,1 +1,14 @@
-{"name":"doctor-mark","version":"1.1.1","depVersion":"^0.3.2","maintainers":[{"name":"jxnblk","email":"jxnblk@gmail.com"}],"modified":"2015-07-06T14:30:57.367Z","released":"2015-07-06T14:30:57.367Z","downloadsLastWeek":2}
+{
+	"name": "doctor-mark",
+	"version": "1.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "jxnblk",
+			"email": "jxnblk@gmail.com"
+		}
+	],
+	"modified": "2015-07-06T14:30:57.367Z",
+	"released": "2015-07-06T14:30:57.367Z",
+	"downloadsLastWeek": 2
+}

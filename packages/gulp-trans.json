@@ -1,1 +1,14 @@
-{"name":"gulp-trans","version":"1.0.3","depVersion":"^0.3.2","maintainers":[{"name":"i5ting","email":"shiren1118@126.com"}],"modified":"2016-08-07T10:36:06.675Z","released":"2016-08-07T10:36:06.675Z","downloadsLastWeek":1}
+{
+	"name": "gulp-trans",
+	"version": "1.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "i5ting",
+			"email": "shiren1118@126.com"
+		}
+	],
+	"modified": "2016-08-07T10:36:06.675Z",
+	"released": "2016-08-07T10:36:06.675Z",
+	"downloadsLastWeek": 1
+}

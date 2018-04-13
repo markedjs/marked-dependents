@@ -1,1 +1,14 @@
-{"name":"sails-hook-i18n-fragment","version":"1.0.0","depVersion":"^0.3.3","maintainers":[{"name":"sfomin","email":"s.fomin@betsol.ru"}],"modified":"2016-12-22T23:47:12.726Z","released":"2015-07-19T13:53:02.683Z","downloadsLastWeek":8}
+{
+	"name": "sails-hook-i18n-fragment",
+	"version": "1.0.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "sfomin",
+			"email": "s.fomin@betsol.ru"
+		}
+	],
+	"modified": "2016-12-22T23:47:12.726Z",
+	"released": "2015-07-19T13:53:02.683Z",
+	"downloadsLastWeek": 8
+}

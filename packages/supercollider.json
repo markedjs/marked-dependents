@@ -1,1 +1,26 @@
-{"name":"supercollider","version":"1.4.4","depVersion":"^0.3.14","maintainers":[{"email":"christopher.oyler@gmail.com","name":"eddiedean"},{"email":"geoff@geoffkimball.com","name":"gakimball"},{"email":"kball@zendev.com","name":"kbal11"},{"email":"nicolas@ncoden.fr","name":"ncoden"}],"modified":"2018-02-25T17:17:00.820Z","released":"2018-02-25T17:16:59.219Z","downloadsLastWeek":444}
+{
+	"name": "supercollider",
+	"version": "1.4.4",
+	"depVersion": "^0.3.14",
+	"maintainers": [
+		{
+			"email": "christopher.oyler@gmail.com",
+			"name": "eddiedean"
+		},
+		{
+			"email": "geoff@geoffkimball.com",
+			"name": "gakimball"
+		},
+		{
+			"email": "kball@zendev.com",
+			"name": "kbal11"
+		},
+		{
+			"email": "nicolas@ncoden.fr",
+			"name": "ncoden"
+		}
+	],
+	"modified": "2018-02-25T17:17:00.820Z",
+	"released": "2018-02-25T17:16:59.219Z",
+	"downloadsLastWeek": 444
+}

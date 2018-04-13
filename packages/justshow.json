@@ -1,1 +1,14 @@
-{"name":"justshow","version":"0.0.2","depVersion":"^0.3.5","maintainers":[{"name":"spikef","email":"Spikef@Foxmail.com"}],"modified":"2015-11-24T07:32:37.058Z","released":"2015-11-24T07:32:37.058Z","downloadsLastWeek":1}
+{
+	"name": "justshow",
+	"version": "0.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "spikef",
+			"email": "Spikef@Foxmail.com"
+		}
+	],
+	"modified": "2015-11-24T07:32:37.058Z",
+	"released": "2015-11-24T07:32:37.058Z",
+	"downloadsLastWeek": 1
+}

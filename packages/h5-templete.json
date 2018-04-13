@@ -1,1 +1,14 @@
-{"name":"h5-templete","version":"0.0.1","depVersion":"^0.3.6","maintainers":[{"name":"pengyuanyuan","email":"1024371442@qq.com"}],"modified":"2017-04-11T03:35:27.248Z","released":"2017-04-11T03:35:10.679Z","downloadsLastWeek":3}
+{
+	"name": "h5-templete",
+	"version": "0.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "pengyuanyuan",
+			"email": "1024371442@qq.com"
+		}
+	],
+	"modified": "2017-04-11T03:35:27.248Z",
+	"released": "2017-04-11T03:35:10.679Z",
+	"downloadsLastWeek": 3
+}

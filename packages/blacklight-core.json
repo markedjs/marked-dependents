@@ -1,1 +1,14 @@
-{"name":"blacklight-core","version":"0.6.8","depVersion":"^0.3.5","maintainers":[{"name":"entropy","email":"info@entropy.cc"}],"modified":"2018-03-16T17:21:36.286Z","released":"2018-03-16T17:21:35.707Z","downloadsLastWeek":1}
+{
+	"name": "blacklight-core",
+	"version": "0.6.8",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "entropy",
+			"email": "info@entropy.cc"
+		}
+	],
+	"modified": "2018-03-16T17:21:36.286Z",
+	"released": "2018-03-16T17:21:35.707Z",
+	"downloadsLastWeek": 1
+}

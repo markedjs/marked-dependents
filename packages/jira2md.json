@@ -1,1 +1,14 @@
-{"name":"jira2md","version":"2.0.3","depVersion":"^0.3.5","maintainers":[{"name":"kylefarris","email":"kyle@chomponllc.com"}],"modified":"2017-09-15T17:51:34.247Z","released":"2017-09-15T17:51:34.247Z","downloadsLastWeek":92}
+{
+	"name": "jira2md",
+	"version": "2.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "kylefarris",
+			"email": "kyle@chomponllc.com"
+		}
+	],
+	"modified": "2017-09-15T17:51:34.247Z",
+	"released": "2017-09-15T17:51:34.247Z",
+	"downloadsLastWeek": 92
+}

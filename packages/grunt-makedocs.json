@@ -1,1 +1,14 @@
-{"name":"grunt-makedocs","version":"2.1.6","depVersion":"^0.3.9","maintainers":[{"name":"chris5marsh","email":"chris.marsh@york.ac.uk"}],"modified":"2018-01-05T14:02:15.370Z","released":"2018-01-05T14:02:15.370Z","downloadsLastWeek":1}
+{
+	"name": "grunt-makedocs",
+	"version": "2.1.6",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "chris5marsh",
+			"email": "chris.marsh@york.ac.uk"
+		}
+	],
+	"modified": "2018-01-05T14:02:15.370Z",
+	"released": "2018-01-05T14:02:15.370Z",
+	"downloadsLastWeek": 1
+}

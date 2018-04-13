@@ -1,1 +1,14 @@
-{"name":"twriter","version":"0.0.4","depVersion":"^0.3.6","maintainers":[{"name":"sumight","email":"1005546504@qq.com"}],"modified":"2017-05-27T03:03:53.034Z","released":"2017-05-27T03:03:53.034Z","downloadsLastWeek":11}
+{
+	"name": "twriter",
+	"version": "0.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sumight",
+			"email": "1005546504@qq.com"
+		}
+	],
+	"modified": "2017-05-27T03:03:53.034Z",
+	"released": "2017-05-27T03:03:53.034Z",
+	"downloadsLastWeek": 11
+}

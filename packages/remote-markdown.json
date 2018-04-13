@@ -1,1 +1,14 @@
-{"name":"remote-markdown","version":"0.3.2","depVersion":"*","maintainers":[{"name":"dracupid","email":"dracupid@gmail.com"}],"modified":"2015-02-08T16:34:20.099Z","released":"2015-02-08T16:34:20.099Z","downloadsLastWeek":17}
+{
+	"name": "remote-markdown",
+	"version": "0.3.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "dracupid",
+			"email": "dracupid@gmail.com"
+		}
+	],
+	"modified": "2015-02-08T16:34:20.099Z",
+	"released": "2015-02-08T16:34:20.099Z",
+	"downloadsLastWeek": 17
+}

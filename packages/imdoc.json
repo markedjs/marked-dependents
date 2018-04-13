@@ -1,1 +1,14 @@
-{"name":"imdoc","version":"1.1.0","depVersion":"^0.3.6","maintainers":[{"name":"doodlewind","email":"doodlewind@gmail.com"}],"modified":"2016-09-29T13:09:57.432Z","released":"2016-09-29T13:09:57.432Z","downloadsLastWeek":1}
+{
+	"name": "imdoc",
+	"version": "1.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "doodlewind",
+			"email": "doodlewind@gmail.com"
+		}
+	],
+	"modified": "2016-09-29T13:09:57.432Z",
+	"released": "2016-09-29T13:09:57.432Z",
+	"downloadsLastWeek": 1
+}

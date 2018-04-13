@@ -1,1 +1,14 @@
-{"name":"markdown-live-preview","version":"0.1.1","depVersion":"^0.3.2","maintainers":[{"email":"ludwig@mediatool.com","name":"theludd"}],"modified":"2017-06-12T19:22:24.832Z","released":"2014-10-29T13:12:40.709Z","downloadsLastWeek":1}
+{
+	"name": "markdown-live-preview",
+	"version": "0.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"email": "ludwig@mediatool.com",
+			"name": "theludd"
+		}
+	],
+	"modified": "2017-06-12T19:22:24.832Z",
+	"released": "2014-10-29T13:12:40.709Z",
+	"downloadsLastWeek": 1
+}

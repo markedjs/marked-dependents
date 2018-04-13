@@ -1,1 +1,14 @@
-{"name":"picoes","version":"0.3.2","depVersion":"^0.3.19","maintainers":[{"name":"ayebear","email":"ayebear@gmail.com"}],"modified":"2018-04-09T05:20:38.588Z","released":"2018-04-09T05:20:37.827Z","downloadsLastWeek":118}
+{
+	"name": "picoes",
+	"version": "0.3.2",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "ayebear",
+			"email": "ayebear@gmail.com"
+		}
+	],
+	"modified": "2018-04-09T05:20:38.588Z",
+	"released": "2018-04-09T05:20:37.827Z",
+	"downloadsLastWeek": 118
+}

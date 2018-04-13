@@ -1,1 +1,14 @@
-{"name":"simplemde-flarum","version":"1.11.6-flarum.2","depVersion":"*","maintainers":[{"name":"nzx-design","email":"nicobrobst@gmail.com"}],"modified":"2018-02-05T09:11:37.842Z","released":"2018-02-05T09:11:37.842Z","downloadsLastWeek":7}
+{
+	"name": "simplemde-flarum",
+	"version": "1.11.6-flarum.2",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "nzx-design",
+			"email": "nicobrobst@gmail.com"
+		}
+	],
+	"modified": "2018-02-05T09:11:37.842Z",
+	"released": "2018-02-05T09:11:37.842Z",
+	"downloadsLastWeek": 7
+}

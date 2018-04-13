@@ -1,1 +1,14 @@
-{"name":"fiction","version":"0.0.4","depVersion":"^0.3.3","maintainers":[{"name":"lo5","email":"prithvi.prabhu@gmail.com"}],"modified":"2015-05-14T02:08:17.399Z","released":"2015-05-14T02:08:17.399Z","downloadsLastWeek":14}
+{
+	"name": "fiction",
+	"version": "0.0.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "lo5",
+			"email": "prithvi.prabhu@gmail.com"
+		}
+	],
+	"modified": "2015-05-14T02:08:17.399Z",
+	"released": "2015-05-14T02:08:17.399Z",
+	"downloadsLastWeek": 14
+}

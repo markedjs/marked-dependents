@@ -1,1 +1,14 @@
-{"name":"marked-asciimath","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"shritesh","email":"shritesh@shritesh.com"}],"modified":"2016-05-09T00:54:59.744Z","released":"2016-05-09T00:54:59.744Z","downloadsLastWeek":1}
+{
+	"name": "marked-asciimath",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "shritesh",
+			"email": "shritesh@shritesh.com"
+		}
+	],
+	"modified": "2016-05-09T00:54:59.744Z",
+	"released": "2016-05-09T00:54:59.744Z",
+	"downloadsLastWeek": 1
+}

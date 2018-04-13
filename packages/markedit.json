@@ -1,1 +1,14 @@
-{"name":"markedit","version":"1.0.1","depVersion":"^0.3.5","maintainers":[{"name":"sirchris","email":"nwambachristian@gmail.com"}],"modified":"2016-07-25T17:47:58.607Z","released":"2016-07-25T17:47:58.607Z","downloadsLastWeek":1}
+{
+	"name": "markedit",
+	"version": "1.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "sirchris",
+			"email": "nwambachristian@gmail.com"
+		}
+	],
+	"modified": "2016-07-25T17:47:58.607Z",
+	"released": "2016-07-25T17:47:58.607Z",
+	"downloadsLastWeek": 1
+}

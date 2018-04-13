@@ -1,1 +1,14 @@
-{"name":"dep-docs","version":"1.0.1","depVersion":"^0.3.2","maintainers":[{"name":"lisposter","email":"i@zhuli.me"}],"modified":"2014-10-07T08:07:53.190Z","released":"2014-10-07T08:07:53.190Z","downloadsLastWeek":1}
+{
+	"name": "dep-docs",
+	"version": "1.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "lisposter",
+			"email": "i@zhuli.me"
+		}
+	],
+	"modified": "2014-10-07T08:07:53.190Z",
+	"released": "2014-10-07T08:07:53.190Z",
+	"downloadsLastWeek": 1
+}

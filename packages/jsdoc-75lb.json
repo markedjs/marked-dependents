@@ -1,1 +1,14 @@
-{"name":"jsdoc-75lb","version":"3.6.0","depVersion":"~0.3.6","maintainers":[{"name":"75lb","email":"75pound@gmail.com"}],"modified":"2016-10-09T15:56:47.236Z","released":"2016-10-09T15:56:47.236Z","downloadsLastWeek":15477}
+{
+	"name": "jsdoc-75lb",
+	"version": "3.6.0",
+	"depVersion": "~0.3.6",
+	"maintainers": [
+		{
+			"name": "75lb",
+			"email": "75pound@gmail.com"
+		}
+	],
+	"modified": "2016-10-09T15:56:47.236Z",
+	"released": "2016-10-09T15:56:47.236Z",
+	"downloadsLastWeek": 15477
+}

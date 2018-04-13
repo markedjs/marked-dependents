@@ -1,1 +1,14 @@
-{"name":"mdrender","version":"1.0.2","depVersion":"~0.2.9","maintainers":[{"name":"tgvashworth","email":"tgvashworth@gmail.com"}],"modified":"2017-04-28T23:35:41.356Z","released":"2013-07-17T13:22:42.969Z","downloadsLastWeek":2}
+{
+	"name": "mdrender",
+	"version": "1.0.2",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "tgvashworth",
+			"email": "tgvashworth@gmail.com"
+		}
+	],
+	"modified": "2017-04-28T23:35:41.356Z",
+	"released": "2013-07-17T13:22:42.969Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"markdown-impress","version":"0.1.6","depVersion":"*","maintainers":[{"name":"steel1990","email":"lbbsteel@gmail.com"}],"modified":"2016-02-25T09:06:29.167Z","released":"2016-02-25T09:06:29.167Z","downloadsLastWeek":1}
+{
+	"name": "markdown-impress",
+	"version": "0.1.6",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "steel1990",
+			"email": "lbbsteel@gmail.com"
+		}
+	],
+	"modified": "2016-02-25T09:06:29.167Z",
+	"released": "2016-02-25T09:06:29.167Z",
+	"downloadsLastWeek": 1
+}

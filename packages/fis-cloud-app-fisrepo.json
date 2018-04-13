@@ -1,1 +1,18 @@
-{"name":"fis-cloud-app-fisrepo","version":"0.0.5","depVersion":"0.2.9","maintainers":[{"name":"lily-zhangying","email":"zhangying3210@gmail.com"},{"name":"wangcheng714","email":"wangcheng714@gmail.com"}],"modified":"2013-11-14T11:51:46.942Z","released":"2013-11-14T11:51:46.942Z","downloadsLastWeek":1}
+{
+	"name": "fis-cloud-app-fisrepo",
+	"version": "0.0.5",
+	"depVersion": "0.2.9",
+	"maintainers": [
+		{
+			"name": "lily-zhangying",
+			"email": "zhangying3210@gmail.com"
+		},
+		{
+			"name": "wangcheng714",
+			"email": "wangcheng714@gmail.com"
+		}
+	],
+	"modified": "2013-11-14T11:51:46.942Z",
+	"released": "2013-11-14T11:51:46.942Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"juicepress","version":"1.1.0","depVersion":"^0.3.5","maintainers":[{"name":"garfieldius","email":"contact@grossberger-ge.org"}],"modified":"2016-06-27T18:59:06.540Z","released":"2016-06-27T18:59:06.540Z","downloadsLastWeek":2}
+{
+	"name": "juicepress",
+	"version": "1.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "garfieldius",
+			"email": "contact@grossberger-ge.org"
+		}
+	],
+	"modified": "2016-06-27T18:59:06.540Z",
+	"released": "2016-06-27T18:59:06.540Z",
+	"downloadsLastWeek": 2
+}

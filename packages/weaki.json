@@ -1,1 +1,14 @@
-{"name":"weaki","version":"0.1.3","depVersion":"~0.2.10","maintainers":[{"name":"arnorhs","email":"arnorhs@gmail.com"}],"modified":"2013-12-10T09:24:00.161Z","released":"2013-12-10T09:24:00.161Z","downloadsLastWeek":11}
+{
+	"name": "weaki",
+	"version": "0.1.3",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "arnorhs",
+			"email": "arnorhs@gmail.com"
+		}
+	],
+	"modified": "2013-12-10T09:24:00.161Z",
+	"released": "2013-12-10T09:24:00.161Z",
+	"downloadsLastWeek": 11
+}

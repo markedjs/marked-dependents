@@ -1,1 +1,14 @@
-{"name":"wikismith-bs3","version":"0.0.2","depVersion":"^0.3.2","maintainers":[{"name":"jrhicks","email":"jrhicks@gmail.com"}],"modified":"2014-07-28T02:17:26.913Z","released":"2014-07-28T02:17:26.913Z","downloadsLastWeek":5}
+{
+	"name": "wikismith-bs3",
+	"version": "0.0.2",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "jrhicks",
+			"email": "jrhicks@gmail.com"
+		}
+	],
+	"modified": "2014-07-28T02:17:26.913Z",
+	"released": "2014-07-28T02:17:26.913Z",
+	"downloadsLastWeek": 5
+}

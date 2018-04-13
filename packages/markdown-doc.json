@@ -1,1 +1,14 @@
-{"name":"markdown-doc","version":"1.0.6","depVersion":"0.3.x","maintainers":[{"name":"jifeng","email":"ilife5@qq.com"}],"modified":"2015-02-12T10:13:07.409Z","released":"2015-02-12T10:13:07.409Z","downloadsLastWeek":1}
+{
+	"name": "markdown-doc",
+	"version": "1.0.6",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "jifeng",
+			"email": "ilife5@qq.com"
+		}
+	],
+	"modified": "2015-02-12T10:13:07.409Z",
+	"released": "2015-02-12T10:13:07.409Z",
+	"downloadsLastWeek": 1
+}

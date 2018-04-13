@@ -1,1 +1,14 @@
-{"name":"kankan","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"qian_qi","email":"3239089064@qq.com"}],"modified":"2017-07-15T13:29:44.121Z","released":"2017-07-15T13:29:44.121Z","downloadsLastWeek":1}
+{
+	"name": "kankan",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "qian_qi",
+			"email": "3239089064@qq.com"
+		}
+	],
+	"modified": "2017-07-15T13:29:44.121Z",
+	"released": "2017-07-15T13:29:44.121Z",
+	"downloadsLastWeek": 1
+}

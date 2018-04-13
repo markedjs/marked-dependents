@@ -1,1 +1,14 @@
-{"name":"datapackage-render","version":"0.2.0","depVersion":"","maintainers":[{"name":"rufuspollock","email":"rufus.pollock@okfn.org"}],"modified":"2016-03-23T12:39:36.648Z","released":"2016-03-23T12:39:36.648Z","downloadsLastWeek":1}
+{
+	"name": "datapackage-render",
+	"version": "0.2.0",
+	"depVersion": "",
+	"maintainers": [
+		{
+			"name": "rufuspollock",
+			"email": "rufus.pollock@okfn.org"
+		}
+	],
+	"modified": "2016-03-23T12:39:36.648Z",
+	"released": "2016-03-23T12:39:36.648Z",
+	"downloadsLastWeek": 1
+}

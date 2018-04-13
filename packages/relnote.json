@@ -1,1 +1,14 @@
-{"name":"relnote","version":"0.0.2","depVersion":">0.2.4","maintainers":[{"name":"isao","email":"isao@yahoo-inc.com"}],"modified":"2012-11-13T19:07:10.085Z","released":"2012-11-13T19:07:10.085Z","downloadsLastWeek":5}
+{
+	"name": "relnote",
+	"version": "0.0.2",
+	"depVersion": ">0.2.4",
+	"maintainers": [
+		{
+			"name": "isao",
+			"email": "isao@yahoo-inc.com"
+		}
+	],
+	"modified": "2012-11-13T19:07:10.085Z",
+	"released": "2012-11-13T19:07:10.085Z",
+	"downloadsLastWeek": 5
+}

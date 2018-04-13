@@ -1,1 +1,14 @@
-{"name":"f.orum","version":"1.2.2","depVersion":"git://github.com/twinlabs/marked.git","maintainers":[{"name":"nchase","email":"nchase@gmail.com"}],"modified":"2015-05-11T22:21:39.094Z","released":"2015-05-11T22:21:39.094Z","downloadsLastWeek":2}
+{
+	"name": "f.orum",
+	"version": "1.2.2",
+	"depVersion": "git://github.com/twinlabs/marked.git",
+	"maintainers": [
+		{
+			"name": "nchase",
+			"email": "nchase@gmail.com"
+		}
+	],
+	"modified": "2015-05-11T22:21:39.094Z",
+	"released": "2015-05-11T22:21:39.094Z",
+	"downloadsLastWeek": 2
+}

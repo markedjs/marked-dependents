@@ -1,1 +1,14 @@
-{"name":"docky","version":"1.5.4","depVersion":"^0.3.9","maintainers":[{"name":"markmur","email":"mmmarkmurray@gmail.com"}],"modified":"2018-01-08T10:26:52.967Z","released":"2018-01-08T10:26:52.967Z","downloadsLastWeek":1}
+{
+	"name": "docky",
+	"version": "1.5.4",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "markmur",
+			"email": "mmmarkmurray@gmail.com"
+		}
+	],
+	"modified": "2018-01-08T10:26:52.967Z",
+	"released": "2018-01-08T10:26:52.967Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"markdown-extract","version":"1.0.2","depVersion":"^0.3.3","maintainers":[{"name":"maboiteaspam","email":"cpasmaboiteaspam@gmail.com"}],"modified":"2015-07-16T16:37:34.930Z","released":"2015-07-16T16:37:34.930Z","downloadsLastWeek":65}
+{
+	"name": "markdown-extract",
+	"version": "1.0.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "maboiteaspam",
+			"email": "cpasmaboiteaspam@gmail.com"
+		}
+	],
+	"modified": "2015-07-16T16:37:34.930Z",
+	"released": "2015-07-16T16:37:34.930Z",
+	"downloadsLastWeek": 65
+}

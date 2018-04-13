@@ -1,1 +1,14 @@
-{"name":"markdown-parse","version":"0.2.1","depVersion":"^0.3.2","maintainers":[{"name":"binocarlos","email":"kaiyadavenport@gmail.com"}],"modified":"2014-06-29T15:28:24.967Z","released":"2014-06-29T15:28:24.967Z","downloadsLastWeek":5}
+{
+	"name": "markdown-parse",
+	"version": "0.2.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "binocarlos",
+			"email": "kaiyadavenport@gmail.com"
+		}
+	],
+	"modified": "2014-06-29T15:28:24.967Z",
+	"released": "2014-06-29T15:28:24.967Z",
+	"downloadsLastWeek": 5
+}

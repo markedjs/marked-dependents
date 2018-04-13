@@ -1,1 +1,14 @@
-{"name":"pagemesh-book-generator","version":"1.3.5","depVersion":"^0.3.3","maintainers":[{"name":"pagemesh","email":"joel@pagemesh.com"}],"modified":"2015-03-25T03:19:27.473Z","released":"2015-03-25T03:19:27.473Z","downloadsLastWeek":1}
+{
+	"name": "pagemesh-book-generator",
+	"version": "1.3.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "pagemesh",
+			"email": "joel@pagemesh.com"
+		}
+	],
+	"modified": "2015-03-25T03:19:27.473Z",
+	"released": "2015-03-25T03:19:27.473Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,74 @@
-{"name":"rsg-alt","version":"3.17.1","depVersion":"0.3.5","maintainers":[{"email":"mdavis777@gmail.com","name":"goodmorninggoaway"},{"email":"npm@tiii.de","name":"tiii"},{"email":"lists@union.io","name":"union.io"},{"email":"fabri_feno@yahoo.it","name":"fenos"},{"email":"grammka@gmail.com","name":"grammka"},{"email":"ticemochka@gmail.com","name":"ticemochka"},{"email":"stevoland@gmail.com","name":"stevoland"},{"email":"joefraley@protonmail.com","name":"joefraley"},{"email":"duncan.ben@gmail.com","name":"bendman"},{"email":"mattdell29@gmail.com","name":"mattdell"},{"email":"samuel.nystedt@gmail.com","name":"samny"},{"email":"caleb.wright@gmail.com","name":"c0"},{"email":"nathanes@gmail.com","name":"nogs"},{"email":"ziebold@gmail.com","name":"gregz67"},{"email":"gabrielhpugliese@gmail.com","name":"gabrielhpugliese"},{"email":"theo@suteki.nu","name":"theo.gravity"}],"modified":"2017-09-22T14:26:31.638Z","released":"2017-05-01T04:17:48.356Z","downloadsLastWeek":411}
+{
+	"name": "rsg-alt",
+	"version": "3.17.1",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"email": "mdavis777@gmail.com",
+			"name": "goodmorninggoaway"
+		},
+		{
+			"email": "npm@tiii.de",
+			"name": "tiii"
+		},
+		{
+			"email": "lists@union.io",
+			"name": "union.io"
+		},
+		{
+			"email": "fabri_feno@yahoo.it",
+			"name": "fenos"
+		},
+		{
+			"email": "grammka@gmail.com",
+			"name": "grammka"
+		},
+		{
+			"email": "ticemochka@gmail.com",
+			"name": "ticemochka"
+		},
+		{
+			"email": "stevoland@gmail.com",
+			"name": "stevoland"
+		},
+		{
+			"email": "joefraley@protonmail.com",
+			"name": "joefraley"
+		},
+		{
+			"email": "duncan.ben@gmail.com",
+			"name": "bendman"
+		},
+		{
+			"email": "mattdell29@gmail.com",
+			"name": "mattdell"
+		},
+		{
+			"email": "samuel.nystedt@gmail.com",
+			"name": "samny"
+		},
+		{
+			"email": "caleb.wright@gmail.com",
+			"name": "c0"
+		},
+		{
+			"email": "nathanes@gmail.com",
+			"name": "nogs"
+		},
+		{
+			"email": "ziebold@gmail.com",
+			"name": "gregz67"
+		},
+		{
+			"email": "gabrielhpugliese@gmail.com",
+			"name": "gabrielhpugliese"
+		},
+		{
+			"email": "theo@suteki.nu",
+			"name": "theo.gravity"
+		}
+	],
+	"modified": "2017-09-22T14:26:31.638Z",
+	"released": "2017-05-01T04:17:48.356Z",
+	"downloadsLastWeek": 411
+}

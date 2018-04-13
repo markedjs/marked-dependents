@@ -1,1 +1,14 @@
-{"name":"saurier","version":"0.0.1","depVersion":"~0.2.10","maintainers":[{"name":"patrickkeller","email":"patrick.keller@apmatic.ch"}],"modified":"2013-12-04T11:17:03.376Z","released":"2013-12-04T11:17:03.376Z","downloadsLastWeek":4}
+{
+	"name": "saurier",
+	"version": "0.0.1",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "patrickkeller",
+			"email": "patrick.keller@apmatic.ch"
+		}
+	],
+	"modified": "2013-12-04T11:17:03.376Z",
+	"released": "2013-12-04T11:17:03.376Z",
+	"downloadsLastWeek": 4
+}

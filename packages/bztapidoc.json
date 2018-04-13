@@ -1,1 +1,14 @@
-{"name":"bztapidoc","version":"0.0.2","depVersion":"~0.3.2","maintainers":[{"name":"simpleman","email":"simpleman1984@126.com"}],"modified":"2014-11-27T02:23:37.408Z","released":"2014-11-27T02:23:37.408Z","downloadsLastWeek":1}
+{
+	"name": "bztapidoc",
+	"version": "0.0.2",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "simpleman",
+			"email": "simpleman1984@126.com"
+		}
+	],
+	"modified": "2014-11-27T02:23:37.408Z",
+	"released": "2014-11-27T02:23:37.408Z",
+	"downloadsLastWeek": 1
+}

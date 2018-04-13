@@ -1,1 +1,14 @@
-{"name":"sagemathcloud","version":"0.9.1","depVersion":"^0.3.3","maintainers":[{"name":"wstein","email":"wstein@sagemath.com"}],"modified":"2015-06-17T23:18:15.212Z","released":"2015-06-17T23:18:15.212Z","downloadsLastWeek":5}
+{
+	"name": "sagemathcloud",
+	"version": "0.9.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "wstein",
+			"email": "wstein@sagemath.com"
+		}
+	],
+	"modified": "2015-06-17T23:18:15.212Z",
+	"released": "2015-06-17T23:18:15.212Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"graphiql-editor","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"macilry","email":"antoine.cellier@zenika.com"}],"modified":"2016-08-06T15:25:53.670Z","released":"2016-08-06T15:25:53.670Z","downloadsLastWeek":1}
+{
+	"name": "graphiql-editor",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "macilry",
+			"email": "antoine.cellier@zenika.com"
+		}
+	],
+	"modified": "2016-08-06T15:25:53.670Z",
+	"released": "2016-08-06T15:25:53.670Z",
+	"downloadsLastWeek": 1
+}

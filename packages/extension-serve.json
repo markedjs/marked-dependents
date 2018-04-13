@@ -1,1 +1,14 @@
-{"name":"extension-serve","version":"0.0.4","depVersion":"^0.3.3","maintainers":[{"name":"tute","email":"emilioplatzer@outlook.com"}],"modified":"2015-07-28T15:51:45.121Z","released":"2015-07-28T15:51:45.121Z","downloadsLastWeek":2}
+{
+	"name": "extension-serve",
+	"version": "0.0.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "tute",
+			"email": "emilioplatzer@outlook.com"
+		}
+	],
+	"modified": "2015-07-28T15:51:45.121Z",
+	"released": "2015-07-28T15:51:45.121Z",
+	"downloadsLastWeek": 2
+}

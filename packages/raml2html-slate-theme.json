@@ -1,1 +1,14 @@
-{"name":"raml2html-slate-theme","version":"2.3.0","depVersion":"^0.3.12","maintainers":[{"name":"wdullaer","email":"wouter.dullaert@gmail.com"}],"modified":"2018-02-11T19:29:03.567Z","released":"2018-02-11T19:29:01.569Z","downloadsLastWeek":42}
+{
+	"name": "raml2html-slate-theme",
+	"version": "2.3.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "wdullaer",
+			"email": "wouter.dullaert@gmail.com"
+		}
+	],
+	"modified": "2018-02-11T19:29:03.567Z",
+	"released": "2018-02-11T19:29:01.569Z",
+	"downloadsLastWeek": 42
+}

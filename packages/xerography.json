@@ -1,1 +1,14 @@
-{"name":"xerography","version":"0.0.1","depVersion":">=0.2.5","maintainers":[{"name":"aaronjorbin","email":"aaron@jorb.in"}],"modified":"2013-06-30T20:17:51.643Z","released":"2013-06-30T20:17:51.643Z","downloadsLastWeek":5}
+{
+	"name": "xerography",
+	"version": "0.0.1",
+	"depVersion": ">=0.2.5",
+	"maintainers": [
+		{
+			"name": "aaronjorbin",
+			"email": "aaron@jorb.in"
+		}
+	],
+	"modified": "2013-06-30T20:17:51.643Z",
+	"released": "2013-06-30T20:17:51.643Z",
+	"downloadsLastWeek": 5
+}

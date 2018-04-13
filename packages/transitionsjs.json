@@ -1,1 +1,14 @@
-{"name":"transitionsjs","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"aunyks","email":"g.nash.dev@gmail.com"}],"modified":"2017-08-07T00:30:23.886Z","released":"2017-08-07T00:30:23.886Z","downloadsLastWeek":3}
+{
+	"name": "transitionsjs",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "aunyks",
+			"email": "g.nash.dev@gmail.com"
+		}
+	],
+	"modified": "2017-08-07T00:30:23.886Z",
+	"released": "2017-08-07T00:30:23.886Z",
+	"downloadsLastWeek": 3
+}

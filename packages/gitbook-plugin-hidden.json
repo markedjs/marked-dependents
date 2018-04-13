@@ -1,1 +1,14 @@
-{"name":"gitbook-plugin-hidden","version":"1.2.0","depVersion":"^0.3.6","maintainers":[{"name":"mistakevin","email":"kevincolten@gmail.com"}],"modified":"2017-06-24T09:53:40.544Z","released":"2017-04-06T19:50:52.918Z","downloadsLastWeek":11}
+{
+	"name": "gitbook-plugin-hidden",
+	"version": "1.2.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "mistakevin",
+			"email": "kevincolten@gmail.com"
+		}
+	],
+	"modified": "2017-06-24T09:53:40.544Z",
+	"released": "2017-04-06T19:50:52.918Z",
+	"downloadsLastWeek": 11
+}

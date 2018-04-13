@@ -1,1 +1,14 @@
-{"name":"stachedown","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"andrejewski","email":"chrisishereladies@gmail.com"}],"modified":"2014-08-23T22:36:46.530Z","released":"2014-08-23T22:36:46.530Z","downloadsLastWeek":3}
+{
+	"name": "stachedown",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "andrejewski",
+			"email": "chrisishereladies@gmail.com"
+		}
+	],
+	"modified": "2014-08-23T22:36:46.530Z",
+	"released": "2014-08-23T22:36:46.530Z",
+	"downloadsLastWeek": 3
+}

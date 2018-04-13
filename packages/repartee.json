@@ -1,1 +1,14 @@
-{"name":"repartee","version":"0.2.0","depVersion":"^0.3.2","maintainers":[{"name":"banterability","email":"hello@banterability.com"}],"modified":"2015-07-24T20:39:23.849Z","released":"2015-07-24T20:39:23.849Z","downloadsLastWeek":5}
+{
+	"name": "repartee",
+	"version": "0.2.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "banterability",
+			"email": "hello@banterability.com"
+		}
+	],
+	"modified": "2015-07-24T20:39:23.849Z",
+	"released": "2015-07-24T20:39:23.849Z",
+	"downloadsLastWeek": 5
+}

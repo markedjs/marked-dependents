@@ -1,1 +1,14 @@
-{"name":"for-little-test","version":"1.0.1","depVersion":"^0.3.6","maintainers":[{"name":"decolo","email":"decolo@163.com"}],"modified":"2017-05-01T12:36:23.478Z","released":"2017-05-01T12:36:23.478Z","downloadsLastWeek":2}
+{
+	"name": "for-little-test",
+	"version": "1.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "decolo",
+			"email": "decolo@163.com"
+		}
+	],
+	"modified": "2017-05-01T12:36:23.478Z",
+	"released": "2017-05-01T12:36:23.478Z",
+	"downloadsLastWeek": 2
+}

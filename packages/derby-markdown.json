@@ -1,1 +1,18 @@
-{"name":"derby-markdown","version":"0.1.0","depVersion":"~0.3.2","maintainers":[{"name":"vmakhaev","email":"vmakhaev@gmail.com"},{"name":"zag2art","email":"zag2art@gmail.com"}],"modified":"2014-12-13T14:54:39.702Z","released":"2014-06-15T18:22:54.579Z","downloadsLastWeek":1}
+{
+	"name": "derby-markdown",
+	"version": "0.1.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "vmakhaev",
+			"email": "vmakhaev@gmail.com"
+		},
+		{
+			"name": "zag2art",
+			"email": "zag2art@gmail.com"
+		}
+	],
+	"modified": "2014-12-13T14:54:39.702Z",
+	"released": "2014-06-15T18:22:54.579Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"grunt-docdown","version":"0.1.0","depVersion":"^0.3.2","maintainers":[{"name":"mateusnroll","email":"mateus.pinheiro@gmail.com"}],"modified":"2014-12-04T16:44:57.390Z","released":"2014-12-04T16:44:57.390Z","downloadsLastWeek":1}
+{
+	"name": "grunt-docdown",
+	"version": "0.1.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "mateusnroll",
+			"email": "mateus.pinheiro@gmail.com"
+		}
+	],
+	"modified": "2014-12-04T16:44:57.390Z",
+	"released": "2014-12-04T16:44:57.390Z",
+	"downloadsLastWeek": 1
+}

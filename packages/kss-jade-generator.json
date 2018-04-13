@@ -1,1 +1,14 @@
-{"name":"kss-jade-generator","version":"1.0.3","depVersion":"^0.3.5","maintainers":[{"name":"markscripter","email":"markscript@gmail.com"}],"modified":"2015-12-17T20:22:40.417Z","released":"2015-12-17T20:22:40.417Z","downloadsLastWeek":2}
+{
+	"name": "kss-jade-generator",
+	"version": "1.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "markscripter",
+			"email": "markscript@gmail.com"
+		}
+	],
+	"modified": "2015-12-17T20:22:40.417Z",
+	"released": "2015-12-17T20:22:40.417Z",
+	"downloadsLastWeek": 2
+}

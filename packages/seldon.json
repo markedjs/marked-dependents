@@ -1,1 +1,14 @@
-{"name":"seldon","version":"0.4.4","depVersion":"0.3.9","maintainers":[{"name":"akdetrick","email":"akdetrick@gmail.com"}],"modified":"2018-03-05T23:30:50.089Z","released":"2018-03-05T23:30:49.251Z","downloadsLastWeek":19}
+{
+	"name": "seldon",
+	"version": "0.4.4",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"name": "akdetrick",
+			"email": "akdetrick@gmail.com"
+		}
+	],
+	"modified": "2018-03-05T23:30:50.089Z",
+	"released": "2018-03-05T23:30:49.251Z",
+	"downloadsLastWeek": 19
+}

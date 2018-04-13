@@ -1,1 +1,14 @@
-{"name":"fapply","version":"0.3.0","depVersion":"^0.3.9","maintainers":[{"name":"chbrown","email":"io@henrian.com"}],"modified":"2018-01-05T21:07:41.461Z","released":"2018-01-05T21:07:41.461Z","downloadsLastWeek":1}
+{
+	"name": "fapply",
+	"version": "0.3.0",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "chbrown",
+			"email": "io@henrian.com"
+		}
+	],
+	"modified": "2018-01-05T21:07:41.461Z",
+	"released": "2018-01-05T21:07:41.461Z",
+	"downloadsLastWeek": 1
+}

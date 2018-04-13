@@ -1,1 +1,14 @@
-{"name":"watchmd","version":"0.0.2","depVersion":"~0.3.1","maintainers":[{"email":"evan.mallory@gmail.com","name":"esopian"}],"modified":"2017-05-22T12:15:56.512Z","released":"2014-02-12T00:19:29.932Z","downloadsLastWeek":5}
+{
+	"name": "watchmd",
+	"version": "0.0.2",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"email": "evan.mallory@gmail.com",
+			"name": "esopian"
+		}
+	],
+	"modified": "2017-05-22T12:15:56.512Z",
+	"released": "2014-02-12T00:19:29.932Z",
+	"downloadsLastWeek": 5
+}

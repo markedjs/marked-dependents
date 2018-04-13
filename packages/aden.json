@@ -1,1 +1,14 @@
-{"name":"aden","version":"0.2.0-alpha.14","depVersion":"0.3.6","maintainers":[{"name":"kommander","email":"hasta84@gmail.com"}],"modified":"2017-07-24T00:25:07.969Z","released":"2017-07-09T16:05:43.853Z","downloadsLastWeek":1}
+{
+	"name": "aden",
+	"version": "0.2.0-alpha.14",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "kommander",
+			"email": "hasta84@gmail.com"
+		}
+	],
+	"modified": "2017-07-24T00:25:07.969Z",
+	"released": "2017-07-09T16:05:43.853Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"modulequery","version":"0.0.24","depVersion":"^0.3.6","maintainers":[{"name":"kazmer","email":"ultimus@gmail.com"}],"modified":"2018-01-06T21:51:09.430Z","released":"2018-01-06T21:51:09.430Z","downloadsLastWeek":1}
+{
+	"name": "modulequery",
+	"version": "0.0.24",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "kazmer",
+			"email": "ultimus@gmail.com"
+		}
+	],
+	"modified": "2018-01-06T21:51:09.430Z",
+	"released": "2018-01-06T21:51:09.430Z",
+	"downloadsLastWeek": 1
+}

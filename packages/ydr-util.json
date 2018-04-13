@@ -1,1 +1,14 @@
-{"name":"ydr-util","version":"101.0.0","depVersion":"^0.3.2","maintainers":[{"name":"cloudcome","email":"cloudcome@163.com"}],"modified":"2015-05-13T09:35:47.627Z","released":"2015-05-13T09:35:47.627Z","downloadsLastWeek":170}
+{
+	"name": "ydr-util",
+	"version": "101.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "cloudcome",
+			"email": "cloudcome@163.com"
+		}
+	],
+	"modified": "2015-05-13T09:35:47.627Z",
+	"released": "2015-05-13T09:35:47.627Z",
+	"downloadsLastWeek": 170
+}

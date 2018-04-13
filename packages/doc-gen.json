@@ -1,1 +1,14 @@
-{"name":"doc-gen","version":"0.1.0","depVersion":"^0.3.5","maintainers":[{"name":"radic","email":"robin@radic.nl"}],"modified":"2018-03-19T02:45:07.574Z","released":"2018-03-19T02:45:06.358Z","downloadsLastWeek":1}
+{
+	"name": "doc-gen",
+	"version": "0.1.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "radic",
+			"email": "robin@radic.nl"
+		}
+	],
+	"modified": "2018-03-19T02:45:07.574Z",
+	"released": "2018-03-19T02:45:06.358Z",
+	"downloadsLastWeek": 1
+}

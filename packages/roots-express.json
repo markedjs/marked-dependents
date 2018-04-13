@@ -1,1 +1,14 @@
-{"name":"roots-express","version":"0.0.5","depVersion":"0.2.x","maintainers":[{"name":"jescalan","email":"npm.je@mailhero.io"}],"modified":"2016-08-08T19:50:32.986Z","released":"2013-04-22T02:37:17.901Z","downloadsLastWeek":25}
+{
+	"name": "roots-express",
+	"version": "0.0.5",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "jescalan",
+			"email": "npm.je@mailhero.io"
+		}
+	],
+	"modified": "2016-08-08T19:50:32.986Z",
+	"released": "2013-04-22T02:37:17.901Z",
+	"downloadsLastWeek": 25
+}

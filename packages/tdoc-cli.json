@@ -1,1 +1,14 @@
-{"name":"tdoc-cli","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"huyueb","email":"1062887235@qq.com"}],"modified":"2017-12-13T08:34:16.089Z","released":"2017-12-13T08:34:16.089Z","downloadsLastWeek":42}
+{
+	"name": "tdoc-cli",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "huyueb",
+			"email": "1062887235@qq.com"
+		}
+	],
+	"modified": "2017-12-13T08:34:16.089Z",
+	"released": "2017-12-13T08:34:16.089Z",
+	"downloadsLastWeek": 42
+}

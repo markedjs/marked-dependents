@@ -1,1 +1,14 @@
-{"name":"checkmarked","version":"0.1.0","depVersion":"^0.3.6","maintainers":[{"name":"glennsl","email":"gsl-npm@slotte.net"}],"modified":"2017-06-10T11:40:44.873Z","released":"2017-06-10T11:40:44.873Z","downloadsLastWeek":1}
+{
+	"name": "checkmarked",
+	"version": "0.1.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "glennsl",
+			"email": "gsl-npm@slotte.net"
+		}
+	],
+	"modified": "2017-06-10T11:40:44.873Z",
+	"released": "2017-06-10T11:40:44.873Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"gsalescms","version":"4.0.0-beta.5","depVersion":"0.3.6","maintainers":[{"name":"ranaali","email":"ranaali1810@gmail.com"}],"modified":"2017-06-02T17:56:56.310Z","released":"2017-06-02T17:56:56.310Z","downloadsLastWeek":1}
+{
+	"name": "gsalescms",
+	"version": "4.0.0-beta.5",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "ranaali",
+			"email": "ranaali1810@gmail.com"
+		}
+	],
+	"modified": "2017-06-02T17:56:56.310Z",
+	"released": "2017-06-02T17:56:56.310Z",
+	"downloadsLastWeek": 1
+}

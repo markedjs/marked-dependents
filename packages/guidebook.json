@@ -1,1 +1,14 @@
-{"name":"guidebook","version":"0.2.3","depVersion":"^0.3.2","maintainers":[{"name":"damonoehlman","email":"damon.oehlman@gmail.com"}],"modified":"2014-09-01T01:35:45.173Z","released":"2014-09-01T01:35:45.173Z","downloadsLastWeek":2}
+{
+	"name": "guidebook",
+	"version": "0.2.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "damonoehlman",
+			"email": "damon.oehlman@gmail.com"
+		}
+	],
+	"modified": "2014-09-01T01:35:45.173Z",
+	"released": "2014-09-01T01:35:45.173Z",
+	"downloadsLastWeek": 2
+}

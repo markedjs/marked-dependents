@@ -1,1 +1,14 @@
-{"name":"producify","version":"1.0.1","depVersion":"^0.3.15","maintainers":[{"name":"jesobreira","email":"jsantos@forteras.tech"}],"modified":"2018-02-21T16:35:21.408Z","released":"2018-02-21T16:35:20.137Z","downloadsLastWeek":2}
+{
+	"name": "producify",
+	"version": "1.0.1",
+	"depVersion": "^0.3.15",
+	"maintainers": [
+		{
+			"name": "jesobreira",
+			"email": "jsantos@forteras.tech"
+		}
+	],
+	"modified": "2018-02-21T16:35:21.408Z",
+	"released": "2018-02-21T16:35:20.137Z",
+	"downloadsLastWeek": 2
+}

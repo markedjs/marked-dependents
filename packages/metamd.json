@@ -1,1 +1,14 @@
-{"name":"metamd","version":"0.3.0","depVersion":"0.2.x","maintainers":[{"name":"chrisjaure","email":"chrisjaure@gmail.com"}],"modified":"2012-09-16T14:16:07.211Z","released":"2012-09-16T14:16:07.211Z","downloadsLastWeek":2}
+{
+	"name": "metamd",
+	"version": "0.3.0",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "chrisjaure",
+			"email": "chrisjaure@gmail.com"
+		}
+	],
+	"modified": "2012-09-16T14:16:07.211Z",
+	"released": "2012-09-16T14:16:07.211Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"nap-cli","version":"1.0.38","depVersion":"^0.3.5","maintainers":[{"name":"evio","email":"evio@vip.qq.com"}],"modified":"2016-03-01T07:45:31.691Z","released":"2016-03-01T07:45:31.691Z","downloadsLastWeek":2}
+{
+	"name": "nap-cli",
+	"version": "1.0.38",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "evio",
+			"email": "evio@vip.qq.com"
+		}
+	],
+	"modified": "2016-03-01T07:45:31.691Z",
+	"released": "2016-03-01T07:45:31.691Z",
+	"downloadsLastWeek": 2
+}

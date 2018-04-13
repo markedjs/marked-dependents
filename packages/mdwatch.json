@@ -1,1 +1,14 @@
-{"name":"mdwatch","version":"0.1.3","depVersion":"0.2.4","maintainers":[{"name":"qiao","email":"xueqiaoxu@gmail.com"}],"modified":"2013-06-24T01:30:37.494Z","released":"2013-06-24T01:30:37.494Z","downloadsLastWeek":1}
+{
+	"name": "mdwatch",
+	"version": "0.1.3",
+	"depVersion": "0.2.4",
+	"maintainers": [
+		{
+			"name": "qiao",
+			"email": "xueqiaoxu@gmail.com"
+		}
+	],
+	"modified": "2013-06-24T01:30:37.494Z",
+	"released": "2013-06-24T01:30:37.494Z",
+	"downloadsLastWeek": 1
+}

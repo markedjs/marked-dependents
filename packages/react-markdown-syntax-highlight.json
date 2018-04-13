@@ -1,1 +1,14 @@
-{"name":"react-markdown-syntax-highlight","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"shmck","email":"Shawn.McKay10@gmail.com"}],"modified":"2016-05-28T19:30:06.394Z","released":"2016-05-28T19:30:06.394Z","downloadsLastWeek":4}
+{
+	"name": "react-markdown-syntax-highlight",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "shmck",
+			"email": "Shawn.McKay10@gmail.com"
+		}
+	],
+	"modified": "2016-05-28T19:30:06.394Z",
+	"released": "2016-05-28T19:30:06.394Z",
+	"downloadsLastWeek": 4
+}

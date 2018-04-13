@@ -1,1 +1,14 @@
-{"name":"asterisk","version":"0.5.1","depVersion":"^0.3.2","maintainers":[{"name":"1000ch","email":"orz1000ch@gmail.com"}],"modified":"2014-08-16T07:13:41.907Z","released":"2014-08-16T07:13:41.907Z","downloadsLastWeek":1}
+{
+	"name": "asterisk",
+	"version": "0.5.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "1000ch",
+			"email": "orz1000ch@gmail.com"
+		}
+	],
+	"modified": "2014-08-16T07:13:41.907Z",
+	"released": "2014-08-16T07:13:41.907Z",
+	"downloadsLastWeek": 1
+}

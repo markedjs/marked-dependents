@@ -1,1 +1,14 @@
-{"name":"ssc","version":"0.0.9","depVersion":"0.2.x","maintainers":[{"name":"kaw2k","email":"kaw2k@virginia.edu"}],"modified":"2013-01-26T03:23:17.537Z","released":"2013-01-26T03:23:17.537Z","downloadsLastWeek":19}
+{
+	"name": "ssc",
+	"version": "0.0.9",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "kaw2k",
+			"email": "kaw2k@virginia.edu"
+		}
+	],
+	"modified": "2013-01-26T03:23:17.537Z",
+	"released": "2013-01-26T03:23:17.537Z",
+	"downloadsLastWeek": 19
+}

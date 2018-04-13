@@ -1,1 +1,14 @@
-{"name":"grunt-mt-style-guide","version":"0.1.27","depVersion":"^0.3.3","maintainers":[{"name":"martinjunior","email":"martinduranwebdesign@gmail.com"}],"modified":"2015-12-23T21:41:22.845Z","released":"2015-12-23T21:41:22.845Z","downloadsLastWeek":2}
+{
+	"name": "grunt-mt-style-guide",
+	"version": "0.1.27",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "martinjunior",
+			"email": "martinduranwebdesign@gmail.com"
+		}
+	],
+	"modified": "2015-12-23T21:41:22.845Z",
+	"released": "2015-12-23T21:41:22.845Z",
+	"downloadsLastWeek": 2
+}

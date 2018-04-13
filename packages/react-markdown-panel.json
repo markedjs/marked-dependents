@@ -1,1 +1,14 @@
-{"name":"react-markdown-panel","version":"1.0.1","depVersion":"^0.3.12","maintainers":[{"name":"sfairley","email":"stephen@mudbath.com.au"}],"modified":"2018-01-24T04:36:09.652Z","released":"2018-01-24T04:36:09.652Z","downloadsLastWeek":3}
+{
+	"name": "react-markdown-panel",
+	"version": "1.0.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "sfairley",
+			"email": "stephen@mudbath.com.au"
+		}
+	],
+	"modified": "2018-01-24T04:36:09.652Z",
+	"released": "2018-01-24T04:36:09.652Z",
+	"downloadsLastWeek": 3
+}

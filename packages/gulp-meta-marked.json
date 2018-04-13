@@ -1,1 +1,14 @@
-{"name":"gulp-meta-marked","version":"0.1.3","depVersion":"^0.3.2","maintainers":[{"name":"andorx","email":"pngduc@gmail.com"}],"modified":"2016-06-02T10:24:44.582Z","released":"2016-06-02T10:24:44.582Z","downloadsLastWeek":1}
+{
+	"name": "gulp-meta-marked",
+	"version": "0.1.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "andorx",
+			"email": "pngduc@gmail.com"
+		}
+	],
+	"modified": "2016-06-02T10:24:44.582Z",
+	"released": "2016-06-02T10:24:44.582Z",
+	"downloadsLastWeek": 1
+}

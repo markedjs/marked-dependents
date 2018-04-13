@@ -1,1 +1,14 @@
-{"name":"docco-ng","version":"0.1.0","depVersion":"~0.3.1","maintainers":[{"name":"pkaroukin","email":"pavel@karoukin.us"}],"modified":"2015-03-11T05:16:41.099Z","released":"2015-03-11T05:16:41.099Z","downloadsLastWeek":2}
+{
+	"name": "docco-ng",
+	"version": "0.1.0",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "pkaroukin",
+			"email": "pavel@karoukin.us"
+		}
+	],
+	"modified": "2015-03-11T05:16:41.099Z",
+	"released": "2015-03-11T05:16:41.099Z",
+	"downloadsLastWeek": 2
+}

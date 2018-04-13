@@ -1,1 +1,14 @@
-{"name":"chalkboard","version":"0.5.1","depVersion":"~0.3.2","maintainers":[{"name":"adrianlee44","email":"adrianlee44@gmail.com"}],"modified":"2014-08-17T08:58:07.003Z","released":"2014-08-17T08:58:07.003Z","downloadsLastWeek":2}
+{
+	"name": "chalkboard",
+	"version": "0.5.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "adrianlee44",
+			"email": "adrianlee44@gmail.com"
+		}
+	],
+	"modified": "2014-08-17T08:58:07.003Z",
+	"released": "2014-08-17T08:58:07.003Z",
+	"downloadsLastWeek": 2
+}

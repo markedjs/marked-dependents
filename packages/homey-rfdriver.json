@@ -1,1 +1,14 @@
-{"name":"homey-rfdriver","version":"2.0.12","depVersion":"^0.3.12","maintainers":[{"name":"athombv","email":"info@athom.nl"}],"modified":"2018-04-12T12:53:58.459Z","released":"2018-04-12T12:53:57.484Z","downloadsLastWeek":558}
+{
+	"name": "homey-rfdriver",
+	"version": "2.0.12",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "athombv",
+			"email": "info@athom.nl"
+		}
+	],
+	"modified": "2018-04-12T12:53:58.459Z",
+	"released": "2018-04-12T12:53:57.484Z",
+	"downloadsLastWeek": 558
+}

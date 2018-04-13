@@ -1,1 +1,14 @@
-{"name":"hymark","version":"0.2.1","depVersion":"^0.3.2","maintainers":[{"name":"tschaub","email":"tim.schaub@gmail.com"}],"modified":"2014-11-08T16:33:50.284Z","released":"2014-11-08T16:33:50.284Z","downloadsLastWeek":1}
+{
+	"name": "hymark",
+	"version": "0.2.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "tschaub",
+			"email": "tim.schaub@gmail.com"
+		}
+	],
+	"modified": "2014-11-08T16:33:50.284Z",
+	"released": "2014-11-08T16:33:50.284Z",
+	"downloadsLastWeek": 1
+}

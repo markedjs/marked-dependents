@@ -1,1 +1,14 @@
-{"name":"luis","version":"2.4.4","depVersion":"^0.3.12","maintainers":[{"name":"tomitrescak","email":"tomi.trescak@gmail.com"}],"modified":"2018-03-09T03:14:51.284Z","released":"2018-03-09T03:14:49.854Z","downloadsLastWeek":20}
+{
+	"name": "luis",
+	"version": "2.4.4",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "tomitrescak",
+			"email": "tomi.trescak@gmail.com"
+		}
+	],
+	"modified": "2018-03-09T03:14:51.284Z",
+	"released": "2018-03-09T03:14:49.854Z",
+	"downloadsLastWeek": 20
+}

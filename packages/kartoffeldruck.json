@@ -1,1 +1,14 @@
-{"name":"kartoffeldruck","version":"1.0.0","depVersion":"^0.3.3","maintainers":[{"name":"nikku","email":"git_nikku@nixis.de"}],"modified":"2017-11-11T22:25:42.458Z","released":"2017-11-11T22:25:42.458Z","downloadsLastWeek":4}
+{
+	"name": "kartoffeldruck",
+	"version": "1.0.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "nikku",
+			"email": "git_nikku@nixis.de"
+		}
+	],
+	"modified": "2017-11-11T22:25:42.458Z",
+	"released": "2017-11-11T22:25:42.458Z",
+	"downloadsLastWeek": 4
+}

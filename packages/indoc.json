@@ -1,1 +1,14 @@
-{"name":"indoc","version":"0.4.18","depVersion":"^0.3.5","maintainers":[{"name":"zlsa","email":"jonross.zlsa@gmail.com"}],"modified":"2017-07-27T02:48:43.855Z","released":"2017-07-27T02:48:43.855Z","downloadsLastWeek":1}
+{
+	"name": "indoc",
+	"version": "0.4.18",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "zlsa",
+			"email": "jonross.zlsa@gmail.com"
+		}
+	],
+	"modified": "2017-07-27T02:48:43.855Z",
+	"released": "2017-07-27T02:48:43.855Z",
+	"downloadsLastWeek": 1
+}

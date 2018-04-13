@@ -1,1 +1,14 @@
-{"name":"submarine","version":"0.2.4","depVersion":"~0.3.2","maintainers":[{"name":"muan","email":"me@muanchiou.com"}],"modified":"2017-06-05T10:40:53.389Z","released":"2014-10-23T16:46:18.649Z","downloadsLastWeek":35}
+{
+	"name": "submarine",
+	"version": "0.2.4",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "muan",
+			"email": "me@muanchiou.com"
+		}
+	],
+	"modified": "2017-06-05T10:40:53.389Z",
+	"released": "2014-10-23T16:46:18.649Z",
+	"downloadsLastWeek": 35
+}

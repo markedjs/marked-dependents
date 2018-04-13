@@ -1,1 +1,14 @@
-{"name":"miblog","version":"2.2.3","depVersion":"^0.3.6","maintainers":[{"name":"scastiel","email":"sebastien@castiel.me"}],"modified":"2017-08-23T21:16:56.855Z","released":"2017-08-23T21:16:56.855Z","downloadsLastWeek":1}
+{
+	"name": "miblog",
+	"version": "2.2.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "scastiel",
+			"email": "sebastien@castiel.me"
+		}
+	],
+	"modified": "2017-08-23T21:16:56.855Z",
+	"released": "2017-08-23T21:16:56.855Z",
+	"downloadsLastWeek": 1
+}

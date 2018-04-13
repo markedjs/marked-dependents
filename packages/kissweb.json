@@ -1,1 +1,14 @@
-{"name":"kissweb","version":"0.0.3","depVersion":"","maintainers":[{"name":"sarfata","email":"thomas@sarlandie.net"}],"modified":"2012-11-26T18:29:07.196Z","released":"2012-11-26T18:29:07.196Z","downloadsLastWeek":1}
+{
+	"name": "kissweb",
+	"version": "0.0.3",
+	"depVersion": "",
+	"maintainers": [
+		{
+			"name": "sarfata",
+			"email": "thomas@sarlandie.net"
+		}
+	],
+	"modified": "2012-11-26T18:29:07.196Z",
+	"released": "2012-11-26T18:29:07.196Z",
+	"downloadsLastWeek": 1
+}

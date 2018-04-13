@@ -1,1 +1,14 @@
-{"name":"njk","version":"2.2.2","depVersion":"^0.3.14","maintainers":[{"name":"mohitsingh","email":"mohit@mohitsingh.in"}],"modified":"2018-02-19T02:50:05.471Z","released":"2018-02-19T02:50:04.325Z","downloadsLastWeek":1}
+{
+	"name": "njk",
+	"version": "2.2.2",
+	"depVersion": "^0.3.14",
+	"maintainers": [
+		{
+			"name": "mohitsingh",
+			"email": "mohit@mohitsingh.in"
+		}
+	],
+	"modified": "2018-02-19T02:50:05.471Z",
+	"released": "2018-02-19T02:50:04.325Z",
+	"downloadsLastWeek": 1
+}

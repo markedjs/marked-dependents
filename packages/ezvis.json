@@ -1,1 +1,22 @@
-{"name":"ezvis","version":"6.8.5","depVersion":"^0.3.3","maintainers":[{"name":"kerphi","email":"stephane.gully@gmail.com"},{"name":"parmentf","email":"francois.parmentier@gmail.com"},{"name":"touv","email":"nthouvenin@gmail.com"}],"modified":"2016-08-22T07:20:53.033Z","released":"2015-12-04T14:34:55.733Z","downloadsLastWeek":1}
+{
+	"name": "ezvis",
+	"version": "6.8.5",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "kerphi",
+			"email": "stephane.gully@gmail.com"
+		},
+		{
+			"name": "parmentf",
+			"email": "francois.parmentier@gmail.com"
+		},
+		{
+			"name": "touv",
+			"email": "nthouvenin@gmail.com"
+		}
+	],
+	"modified": "2016-08-22T07:20:53.033Z",
+	"released": "2015-12-04T14:34:55.733Z",
+	"downloadsLastWeek": 1
+}

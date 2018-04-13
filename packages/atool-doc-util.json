@@ -1,1 +1,14 @@
-{"name":"atool-doc-util","version":"0.1.1","depVersion":"~0.3.5","maintainers":[{"name":"jaredleechn","email":"jaredleechn@gmail.com"}],"modified":"2016-06-07T04:00:26.387Z","released":"2016-06-07T04:00:26.387Z","downloadsLastWeek":5}
+{
+	"name": "atool-doc-util",
+	"version": "0.1.1",
+	"depVersion": "~0.3.5",
+	"maintainers": [
+		{
+			"name": "jaredleechn",
+			"email": "jaredleechn@gmail.com"
+		}
+	],
+	"modified": "2016-06-07T04:00:26.387Z",
+	"released": "2016-06-07T04:00:26.387Z",
+	"downloadsLastWeek": 5
+}

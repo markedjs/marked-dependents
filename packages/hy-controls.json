@@ -1,1 +1,22 @@
-{"name":"hy-controls","version":"0.0.39","depVersion":"^0.3.6","maintainers":[{"email":"wangcheng@hiynn.com","name":"wangc107135"},{"email":"943547450@qq.com","name":"zenglingfang"},{"email":"zhangyujie3344521@163.com","name":"zhangyujie"}],"modified":"2017-12-21T09:41:02.855Z","released":"2017-12-21T09:41:02.855Z","downloadsLastWeek":4}
+{
+	"name": "hy-controls",
+	"version": "0.0.39",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"email": "wangcheng@hiynn.com",
+			"name": "wangc107135"
+		},
+		{
+			"email": "943547450@qq.com",
+			"name": "zenglingfang"
+		},
+		{
+			"email": "zhangyujie3344521@163.com",
+			"name": "zhangyujie"
+		}
+	],
+	"modified": "2017-12-21T09:41:02.855Z",
+	"released": "2017-12-21T09:41:02.855Z",
+	"downloadsLastWeek": 4
+}

@@ -1,1 +1,14 @@
-{"name":"blog-base","version":"0.2.0","depVersion":"~0.2.9","maintainers":[{"name":"jli","email":"jli.justinli@gmail.com"}],"modified":"2013-10-23T03:48:09.525Z","released":"2013-10-23T03:48:09.525Z","downloadsLastWeek":1}
+{
+	"name": "blog-base",
+	"version": "0.2.0",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "jli",
+			"email": "jli.justinli@gmail.com"
+		}
+	],
+	"modified": "2013-10-23T03:48:09.525Z",
+	"released": "2013-10-23T03:48:09.525Z",
+	"downloadsLastWeek": 1
+}

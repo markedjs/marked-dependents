@@ -1,1 +1,14 @@
-{"name":"gulp-html-to-json","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"johnturingan","email":"john.turingan@gmail.com"}],"modified":"2018-02-26T08:26:12.295Z","released":"2018-02-26T08:26:11.737Z","downloadsLastWeek":121}
+{
+	"name": "gulp-html-to-json",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "johnturingan",
+			"email": "john.turingan@gmail.com"
+		}
+	],
+	"modified": "2018-02-26T08:26:12.295Z",
+	"released": "2018-02-26T08:26:11.737Z",
+	"downloadsLastWeek": 121
+}

@@ -1,1 +1,14 @@
-{"name":"react-calendar-render","version":"0.1.2","depVersion":"^0.3.5","maintainers":[{"name":"davija","email":"davija@cshp.info"}],"modified":"2016-01-05T14:30:07.949Z","released":"2016-01-05T14:30:07.949Z","downloadsLastWeek":1}
+{
+	"name": "react-calendar-render",
+	"version": "0.1.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "davija",
+			"email": "davija@cshp.info"
+		}
+	],
+	"modified": "2016-01-05T14:30:07.949Z",
+	"released": "2016-01-05T14:30:07.949Z",
+	"downloadsLastWeek": 1
+}

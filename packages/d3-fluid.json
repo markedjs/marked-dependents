@@ -1,1 +1,14 @@
-{"name":"d3-fluid","version":"0.3.1","depVersion":"~0.3.9","maintainers":[{"name":"lsbardel","email":"luca@quantmind.com"}],"modified":"2018-04-07T10:51:12.879Z","released":"2018-04-07T10:51:12.123Z","downloadsLastWeek":72}
+{
+	"name": "d3-fluid",
+	"version": "0.3.1",
+	"depVersion": "~0.3.9",
+	"maintainers": [
+		{
+			"name": "lsbardel",
+			"email": "luca@quantmind.com"
+		}
+	],
+	"modified": "2018-04-07T10:51:12.879Z",
+	"released": "2018-04-07T10:51:12.123Z",
+	"downloadsLastWeek": 72
+}

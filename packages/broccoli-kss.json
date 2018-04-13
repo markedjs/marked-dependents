@@ -1,1 +1,14 @@
-{"name":"broccoli-kss","version":"0.1.1","depVersion":"0.1.x","maintainers":[{"name":"habdelra","email":"hassan.abdelrahman@gmail.com"}],"modified":"2014-09-21T19:25:11.643Z","released":"2014-09-21T19:25:11.643Z","downloadsLastWeek":1}
+{
+	"name": "broccoli-kss",
+	"version": "0.1.1",
+	"depVersion": "0.1.x",
+	"maintainers": [
+		{
+			"name": "habdelra",
+			"email": "hassan.abdelrahman@gmail.com"
+		}
+	],
+	"modified": "2014-09-21T19:25:11.643Z",
+	"released": "2014-09-21T19:25:11.643Z",
+	"downloadsLastWeek": 1
+}

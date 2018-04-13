@@ -1,1 +1,14 @@
-{"name":"mikan","version":"0.1.2","depVersion":"^0.3.5","maintainers":[{"name":"nicolasmerouze","email":"nicolas@merouze.me"}],"modified":"2016-02-18T02:38:09.318Z","released":"2016-02-18T02:38:09.318Z","downloadsLastWeek":2}
+{
+	"name": "mikan",
+	"version": "0.1.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "nicolasmerouze",
+			"email": "nicolas@merouze.me"
+		}
+	],
+	"modified": "2016-02-18T02:38:09.318Z",
+	"released": "2016-02-18T02:38:09.318Z",
+	"downloadsLastWeek": 2
+}

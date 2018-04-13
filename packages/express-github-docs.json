@@ -1,1 +1,14 @@
-{"name":"express-github-docs","version":"0.6.9","depVersion":"^0.3.3","maintainers":[{"name":"miskun","email":"miska.kaipiainen@gmail.com"}],"modified":"2016-10-07T13:31:17.154Z","released":"2016-10-07T13:31:17.154Z","downloadsLastWeek":1}
+{
+	"name": "express-github-docs",
+	"version": "0.6.9",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "miskun",
+			"email": "miska.kaipiainen@gmail.com"
+		}
+	],
+	"modified": "2016-10-07T13:31:17.154Z",
+	"released": "2016-10-07T13:31:17.154Z",
+	"downloadsLastWeek": 1
+}

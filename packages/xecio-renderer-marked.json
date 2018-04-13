@@ -1,1 +1,14 @@
-{"name":"xecio-renderer-marked","version":"0.1.1","depVersion":"^0.3.5","maintainers":[{"name":"dww510","email":"dww510@gmail.com"}],"modified":"2016-02-04T21:41:37.129Z","released":"2016-02-04T21:41:37.129Z","downloadsLastWeek":6}
+{
+	"name": "xecio-renderer-marked",
+	"version": "0.1.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dww510",
+			"email": "dww510@gmail.com"
+		}
+	],
+	"modified": "2016-02-04T21:41:37.129Z",
+	"released": "2016-02-04T21:41:37.129Z",
+	"downloadsLastWeek": 6
+}

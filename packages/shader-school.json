@@ -1,1 +1,54 @@
-{"name":"shader-school","version":"1.1.1","depVersion":"^0.3.2","maintainers":[{"email":"me@mikkoh.com","name":"mikkoh"},{"email":"tatum.creative@gmail.com","name":"tatumcreative"},{"email":"wwwtyro@gmail.com","name":"wwwtyro"},{"email":"syed.reza.ali@gmail.com","name":"rezaali"},{"email":"mikolalysenko@gmail.com","name":"mikolalysenko"},{"email":"hughskennedy@gmail.com","name":"hughsk"},{"email":"chris@neversaw.us","name":"chrisdickinson"},{"email":"dave.des@gmail.com","name":"mattdesl"},{"email":"substack@gmail.com","name":"substack"},{"email":"thibaut.seguy@gmail.com","name":"thibauts"},{"email":"i@yoshuawuyts.com","name":"yoshuawuyts"}],"modified":"2017-07-22T21:05:48.004Z","released":"2016-03-24T00:19:28.069Z","downloadsLastWeek":44}
+{
+	"name": "shader-school",
+	"version": "1.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"email": "me@mikkoh.com",
+			"name": "mikkoh"
+		},
+		{
+			"email": "tatum.creative@gmail.com",
+			"name": "tatumcreative"
+		},
+		{
+			"email": "wwwtyro@gmail.com",
+			"name": "wwwtyro"
+		},
+		{
+			"email": "syed.reza.ali@gmail.com",
+			"name": "rezaali"
+		},
+		{
+			"email": "mikolalysenko@gmail.com",
+			"name": "mikolalysenko"
+		},
+		{
+			"email": "hughskennedy@gmail.com",
+			"name": "hughsk"
+		},
+		{
+			"email": "chris@neversaw.us",
+			"name": "chrisdickinson"
+		},
+		{
+			"email": "dave.des@gmail.com",
+			"name": "mattdesl"
+		},
+		{
+			"email": "substack@gmail.com",
+			"name": "substack"
+		},
+		{
+			"email": "thibaut.seguy@gmail.com",
+			"name": "thibauts"
+		},
+		{
+			"email": "i@yoshuawuyts.com",
+			"name": "yoshuawuyts"
+		}
+	],
+	"modified": "2017-07-22T21:05:48.004Z",
+	"released": "2016-03-24T00:19:28.069Z",
+	"downloadsLastWeek": 44
+}

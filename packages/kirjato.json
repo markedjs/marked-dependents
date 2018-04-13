@@ -1,1 +1,14 @@
-{"name":"kirjato","version":"0.0.0","depVersion":"^0.3.2","maintainers":[{"name":"bretcope","email":"bret@atlantisflight.org"}],"modified":"2014-07-06T06:46:38.837Z","released":"2014-07-06T06:46:38.837Z","downloadsLastWeek":2}
+{
+	"name": "kirjato",
+	"version": "0.0.0",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "bretcope",
+			"email": "bret@atlantisflight.org"
+		}
+	],
+	"modified": "2014-07-06T06:46:38.837Z",
+	"released": "2014-07-06T06:46:38.837Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"fec","version":"0.0.4","depVersion":"~0.3.0","maintainers":[{"name":"dashkb","email":"kyle@kylebrett.com"}],"modified":"2016-12-29T15:12:33.122Z","released":"2016-12-29T15:12:33.122Z","downloadsLastWeek":1}
+{
+	"name": "fec",
+	"version": "0.0.4",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "dashkb",
+			"email": "kyle@kylebrett.com"
+		}
+	],
+	"modified": "2016-12-29T15:12:33.122Z",
+	"released": "2016-12-29T15:12:33.122Z",
+	"downloadsLastWeek": 1
+}

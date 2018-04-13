@@ -1,1 +1,14 @@
-{"name":"ngui-tools","version":"0.3.5","depVersion":"~0.3.6","maintainers":[{"name":"louistru","email":"louistru@hotmail.com"}],"modified":"2018-04-04T08:58:51.268Z","released":"2018-04-04T08:58:50.978Z","downloadsLastWeek":6}
+{
+	"name": "ngui-tools",
+	"version": "0.3.5",
+	"depVersion": "~0.3.6",
+	"maintainers": [
+		{
+			"name": "louistru",
+			"email": "louistru@hotmail.com"
+		}
+	],
+	"modified": "2018-04-04T08:58:51.268Z",
+	"released": "2018-04-04T08:58:50.978Z",
+	"downloadsLastWeek": 6
+}

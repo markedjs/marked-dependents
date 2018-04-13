@@ -1,1 +1,14 @@
-{"name":"marky-editor","version":"0.2.0","depVersion":"^0.3.5","maintainers":[{"name":"janstuemmel","email":"info@janstuemmel.de"}],"modified":"2016-06-25T16:23:49.702Z","released":"2016-06-25T16:23:49.702Z","downloadsLastWeek":1}
+{
+	"name": "marky-editor",
+	"version": "0.2.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "janstuemmel",
+			"email": "info@janstuemmel.de"
+		}
+	],
+	"modified": "2016-06-25T16:23:49.702Z",
+	"released": "2016-06-25T16:23:49.702Z",
+	"downloadsLastWeek": 1
+}

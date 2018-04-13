@@ -1,1 +1,14 @@
-{"name":"markdown-highlight-loader","version":"0.1.2","depVersion":"0.3.x","maintainers":[{"name":"deepsweet","email":"kir@soulshine.in"}],"modified":"2015-04-06T14:12:17.129Z","released":"2015-04-06T14:12:17.129Z","downloadsLastWeek":9}
+{
+	"name": "markdown-highlight-loader",
+	"version": "0.1.2",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "deepsweet",
+			"email": "kir@soulshine.in"
+		}
+	],
+	"modified": "2015-04-06T14:12:17.129Z",
+	"released": "2015-04-06T14:12:17.129Z",
+	"downloadsLastWeek": 9
+}

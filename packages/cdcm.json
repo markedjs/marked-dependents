@@ -1,1 +1,14 @@
-{"name":"cdcm","version":"0.0.4","depVersion":"^0.3.6","maintainers":[{"name":"iambriansreed","email":"me@iambrian.com"}],"modified":"2017-05-31T02:27:11.050Z","released":"2017-05-31T02:27:11.050Z","downloadsLastWeek":1}
+{
+	"name": "cdcm",
+	"version": "0.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "iambriansreed",
+			"email": "me@iambrian.com"
+		}
+	],
+	"modified": "2017-05-31T02:27:11.050Z",
+	"released": "2017-05-31T02:27:11.050Z",
+	"downloadsLastWeek": 1
+}

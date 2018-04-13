@@ -1,1 +1,14 @@
-{"name":"section-markdown","version":"0.1.4","depVersion":"~0.2.9","maintainers":[{"name":"iclanzan","email":"sorin@iclanzan.com"}],"modified":"2013-10-29T23:23:15.882Z","released":"2013-10-29T23:23:15.881Z","downloadsLastWeek":11}
+{
+	"name": "section-markdown",
+	"version": "0.1.4",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "iclanzan",
+			"email": "sorin@iclanzan.com"
+		}
+	],
+	"modified": "2013-10-29T23:23:15.882Z",
+	"released": "2013-10-29T23:23:15.881Z",
+	"downloadsLastWeek": 11
+}

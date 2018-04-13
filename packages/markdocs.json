@@ -1,1 +1,30 @@
-{"name":"markdocs","version":"3.1.0","depVersion":"^0.3.3","maintainers":[{"email":"support@auth0.com","name":"auth0npm"},{"email":"nathan@ntotten.com","name":"ntotten"},{"email":"cristiandouce@gmail.com","name":"cristiandouce"},{"email":"jfromaniello@gmail.com","name":"jfromaniello"},{"email":"matiasw@gmail.com","name":"woloski"}],"modified":"2017-10-02T16:06:13.253Z","released":"2015-07-22T18:08:08.258Z","downloadsLastWeek":1}
+{
+	"name": "markdocs",
+	"version": "3.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"email": "support@auth0.com",
+			"name": "auth0npm"
+		},
+		{
+			"email": "nathan@ntotten.com",
+			"name": "ntotten"
+		},
+		{
+			"email": "cristiandouce@gmail.com",
+			"name": "cristiandouce"
+		},
+		{
+			"email": "jfromaniello@gmail.com",
+			"name": "jfromaniello"
+		},
+		{
+			"email": "matiasw@gmail.com",
+			"name": "woloski"
+		}
+	],
+	"modified": "2017-10-02T16:06:13.253Z",
+	"released": "2015-07-22T18:08:08.258Z",
+	"downloadsLastWeek": 1
+}

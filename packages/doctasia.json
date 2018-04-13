@@ -1,1 +1,14 @@
-{"name":"doctasia","version":"0.0.7","depVersion":"0.2.8","maintainers":[{"name":"nherment","email":"nherment@gmail.com"}],"modified":"2013-03-30T08:49:20.647Z","released":"2013-03-30T08:49:20.647Z","downloadsLastWeek":1}
+{
+	"name": "doctasia",
+	"version": "0.0.7",
+	"depVersion": "0.2.8",
+	"maintainers": [
+		{
+			"name": "nherment",
+			"email": "nherment@gmail.com"
+		}
+	],
+	"modified": "2013-03-30T08:49:20.647Z",
+	"released": "2013-03-30T08:49:20.647Z",
+	"downloadsLastWeek": 1
+}

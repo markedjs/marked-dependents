@@ -1,1 +1,14 @@
-{"name":"crystal","version":"0.18.0","depVersion":"~0.3.3","maintainers":[{"name":"studiotate","email":"chris@studiotate.com"}],"modified":"2017-04-11T00:01:35.340Z","released":"2015-09-15T23:27:53.353Z","downloadsLastWeek":2}
+{
+	"name": "crystal",
+	"version": "0.18.0",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "studiotate",
+			"email": "chris@studiotate.com"
+		}
+	],
+	"modified": "2017-04-11T00:01:35.340Z",
+	"released": "2015-09-15T23:27:53.353Z",
+	"downloadsLastWeek": 2
+}

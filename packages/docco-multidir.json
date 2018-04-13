@@ -1,1 +1,14 @@
-{"name":"docco-multidir","version":"1.0.0","depVersion":">= 0.2.7","maintainers":[{"name":"lare","email":"laregrodzicki@gmail.com"}],"modified":"2015-06-30T18:30:24.555Z","released":"2015-06-30T18:30:24.555Z","downloadsLastWeek":5}
+{
+	"name": "docco-multidir",
+	"version": "1.0.0",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "lare",
+			"email": "laregrodzicki@gmail.com"
+		}
+	],
+	"modified": "2015-06-30T18:30:24.555Z",
+	"released": "2015-06-30T18:30:24.555Z",
+	"downloadsLastWeek": 5
+}

@@ -1,1 +1,14 @@
-{"name":"mandi","version":"1.0.45","depVersion":"^0.3.6","maintainers":[{"name":"tancredi","email":"tancredi.trugenberger@gmail.com"}],"modified":"2017-05-08T12:12:24.925Z","released":"2017-05-08T12:12:24.925Z","downloadsLastWeek":2}
+{
+	"name": "mandi",
+	"version": "1.0.45",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "tancredi",
+			"email": "tancredi.trugenberger@gmail.com"
+		}
+	],
+	"modified": "2017-05-08T12:12:24.925Z",
+	"released": "2017-05-08T12:12:24.925Z",
+	"downloadsLastWeek": 2
+}

@@ -1,1 +1,14 @@
-{"name":"literasee-viewer","version":"1.1.0","depVersion":"^0.3.3","maintainers":[{"name":"bclinkinbeard","email":"ben.clinkinbeard@gmail.com"}],"modified":"2015-09-24T19:16:17.638Z","released":"2015-09-24T19:16:17.638Z","downloadsLastWeek":1}
+{
+	"name": "literasee-viewer",
+	"version": "1.1.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "bclinkinbeard",
+			"email": "ben.clinkinbeard@gmail.com"
+		}
+	],
+	"modified": "2015-09-24T19:16:17.638Z",
+	"released": "2015-09-24T19:16:17.638Z",
+	"downloadsLastWeek": 1
+}

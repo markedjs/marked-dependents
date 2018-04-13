@@ -1,1 +1,14 @@
-{"name":"comby-util","version":"0.0.7","depVersion":"^0.3.6","maintainers":[{"name":"perfey7891","email":"perfey7891@gmail.com"}],"modified":"2017-06-08T09:11:19.764Z","released":"2017-06-08T09:11:19.764Z","downloadsLastWeek":1}
+{
+	"name": "comby-util",
+	"version": "0.0.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "perfey7891",
+			"email": "perfey7891@gmail.com"
+		}
+	],
+	"modified": "2017-06-08T09:11:19.764Z",
+	"released": "2017-06-08T09:11:19.764Z",
+	"downloadsLastWeek": 1
+}

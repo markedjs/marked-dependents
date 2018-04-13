@@ -1,1 +1,14 @@
-{"name":"lazz","version":"0.0.3","depVersion":"^0.3.2","maintainers":[{"name":"zhuochun","email":"zhuochun@hotmail.com"}],"modified":"2014-09-23T08:21:51.950Z","released":"2014-09-23T08:21:51.950Z","downloadsLastWeek":1}
+{
+	"name": "lazz",
+	"version": "0.0.3",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "zhuochun",
+			"email": "zhuochun@hotmail.com"
+		}
+	],
+	"modified": "2014-09-23T08:21:51.950Z",
+	"released": "2014-09-23T08:21:51.950Z",
+	"downloadsLastWeek": 1
+}

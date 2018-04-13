@@ -1,1 +1,14 @@
-{"name":"group-lunches","version":"0.0.10","depVersion":"~0.2.10","maintainers":[{"name":"danschumann","email":"dan.schumann@gmail.com"}],"modified":"2014-02-07T15:28:55.001Z","released":"2014-02-07T15:28:55.001Z","downloadsLastWeek":1}
+{
+	"name": "group-lunches",
+	"version": "0.0.10",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "danschumann",
+			"email": "dan.schumann@gmail.com"
+		}
+	],
+	"modified": "2014-02-07T15:28:55.001Z",
+	"released": "2014-02-07T15:28:55.001Z",
+	"downloadsLastWeek": 1
+}

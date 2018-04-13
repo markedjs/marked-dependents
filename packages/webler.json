@@ -1,1 +1,14 @@
-{"name":"webler","version":"0.0.1003","depVersion":"^0.3.3","maintainers":[{"name":"rudarobson","email":"no-reply@rudarobson.com"}],"modified":"2015-04-30T03:27:17.625Z","released":"2015-04-30T03:27:17.625Z","downloadsLastWeek":10}
+{
+	"name": "webler",
+	"version": "0.0.1003",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "rudarobson",
+			"email": "no-reply@rudarobson.com"
+		}
+	],
+	"modified": "2015-04-30T03:27:17.625Z",
+	"released": "2015-04-30T03:27:17.625Z",
+	"downloadsLastWeek": 10
+}

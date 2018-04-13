@@ -1,1 +1,14 @@
-{"name":"powder","version":"2.0.0","depVersion":"~0.2.10","maintainers":[{"name":"diffsky","email":"matthew.hadley@gmail.com"}],"modified":"2015-08-28T07:16:22.786Z","released":"2015-08-28T07:16:22.786Z","downloadsLastWeek":1}
+{
+	"name": "powder",
+	"version": "2.0.0",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "diffsky",
+			"email": "matthew.hadley@gmail.com"
+		}
+	],
+	"modified": "2015-08-28T07:16:22.786Z",
+	"released": "2015-08-28T07:16:22.786Z",
+	"downloadsLastWeek": 1
+}

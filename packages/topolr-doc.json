@@ -1,1 +1,14 @@
-{"name":"topolr-doc","version":"0.0.4","depVersion":"^0.3.6","maintainers":[{"name":"topolr","email":"topolr@vip.qq.com"}],"modified":"2017-03-13T02:51:50.173Z","released":"2017-03-13T02:51:50.173Z","downloadsLastWeek":7}
+{
+	"name": "topolr-doc",
+	"version": "0.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "topolr",
+			"email": "topolr@vip.qq.com"
+		}
+	],
+	"modified": "2017-03-13T02:51:50.173Z",
+	"released": "2017-03-13T02:51:50.173Z",
+	"downloadsLastWeek": 7
+}

@@ -1,1 +1,14 @@
-{"name":"hexo-renderer-marked-lazy","version":"1.0.2","depVersion":"^0.3.5","maintainers":[{"name":"yywl","email":"angusfu1126@qq.com"}],"modified":"2016-11-06T12:32:23.154Z","released":"2016-11-06T12:32:23.154Z","downloadsLastWeek":1}
+{
+	"name": "hexo-renderer-marked-lazy",
+	"version": "1.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "yywl",
+			"email": "angusfu1126@qq.com"
+		}
+	],
+	"modified": "2016-11-06T12:32:23.154Z",
+	"released": "2016-11-06T12:32:23.154Z",
+	"downloadsLastWeek": 1
+}

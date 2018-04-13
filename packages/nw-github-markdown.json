@@ -1,1 +1,14 @@
-{"name":"nw-github-markdown","version":"0.1.0","depVersion":"~0.3.1","maintainers":[{"name":"1000ch","email":"orz1000ch@gmail.com"}],"modified":"2014-02-16T14:34:44.277Z","released":"2014-02-16T14:34:44.277Z","downloadsLastWeek":1}
+{
+	"name": "nw-github-markdown",
+	"version": "0.1.0",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "1000ch",
+			"email": "orz1000ch@gmail.com"
+		}
+	],
+	"modified": "2014-02-16T14:34:44.277Z",
+	"released": "2014-02-16T14:34:44.277Z",
+	"downloadsLastWeek": 1
+}

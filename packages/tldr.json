@@ -1,1 +1,22 @@
-{"name":"tldr","version":"3.2.1","depVersion":"^0.3.9","maintainers":[{"name":"agnivade","email":"agniva.quicksilver@gmail.com"},{"name":"asyncadventures","email":"asyncadventures@gmail.com"},{"name":"igorshubovych","email":"igor.shubovych@gmail.com"}],"modified":"2018-04-01T18:18:58.816Z","released":"2018-04-01T18:18:57.257Z","downloadsLastWeek":681}
+{
+	"name": "tldr",
+	"version": "3.2.1",
+	"depVersion": "^0.3.9",
+	"maintainers": [
+		{
+			"name": "agnivade",
+			"email": "agniva.quicksilver@gmail.com"
+		},
+		{
+			"name": "asyncadventures",
+			"email": "asyncadventures@gmail.com"
+		},
+		{
+			"name": "igorshubovych",
+			"email": "igor.shubovych@gmail.com"
+		}
+	],
+	"modified": "2018-04-01T18:18:58.816Z",
+	"released": "2018-04-01T18:18:57.257Z",
+	"downloadsLastWeek": 681
+}

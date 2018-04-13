@@ -1,1 +1,14 @@
-{"name":"pmd","version":"3.0.1","depVersion":"^0.3.3","maintainers":[{"name":"suyash","email":"dextrous93@gmail.com"}],"modified":"2017-02-08T17:20:10.236Z","released":"2017-02-08T17:20:10.236Z","downloadsLastWeek":3}
+{
+	"name": "pmd",
+	"version": "3.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "suyash",
+			"email": "dextrous93@gmail.com"
+		}
+	],
+	"modified": "2017-02-08T17:20:10.236Z",
+	"released": "2017-02-08T17:20:10.236Z",
+	"downloadsLastWeek": 3
+}

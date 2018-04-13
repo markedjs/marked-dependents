@@ -1,1 +1,14 @@
-{"name":"grunt-writing","version":"0.0.3","depVersion":"~0.2.9","maintainers":[{"name":"colingourlay","email":"colin.j.gourlay@gmail.com"}],"modified":"2013-08-14T12:49:42.035Z","released":"2013-08-14T12:49:42.035Z","downloadsLastWeek":1}
+{
+	"name": "grunt-writing",
+	"version": "0.0.3",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "colingourlay",
+			"email": "colin.j.gourlay@gmail.com"
+		}
+	],
+	"modified": "2013-08-14T12:49:42.035Z",
+	"released": "2013-08-14T12:49:42.035Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"mark2html","version":"0.0.7","depVersion":"~0.3.3","maintainers":[{"name":"saltfactory","email":"saltfactory@gmail.com"}],"modified":"2015-03-16T01:15:53.338Z","released":"2015-03-16T01:15:53.338Z","downloadsLastWeek":1}
+{
+	"name": "mark2html",
+	"version": "0.0.7",
+	"depVersion": "~0.3.3",
+	"maintainers": [
+		{
+			"name": "saltfactory",
+			"email": "saltfactory@gmail.com"
+		}
+	],
+	"modified": "2015-03-16T01:15:53.338Z",
+	"released": "2015-03-16T01:15:53.338Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,18 @@
-{"name":"newsprint","version":"0.3.2","depVersion":"^0.3.3","maintainers":[{"name":"rodati","email":"it@rodati.com"},{"name":"leandono","email":"leandrodonofrio@gmail.com"}],"modified":"2015-07-12T21:07:12.861Z","released":"2015-07-12T21:07:12.861Z","downloadsLastWeek":1}
+{
+	"name": "newsprint",
+	"version": "0.3.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "rodati",
+			"email": "it@rodati.com"
+		},
+		{
+			"name": "leandono",
+			"email": "leandrodonofrio@gmail.com"
+		}
+	],
+	"modified": "2015-07-12T21:07:12.861Z",
+	"released": "2015-07-12T21:07:12.861Z",
+	"downloadsLastWeek": 1
+}

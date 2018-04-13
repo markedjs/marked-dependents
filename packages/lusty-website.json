@@ -1,1 +1,14 @@
-{"name":"lusty-website","version":"0.10.1","depVersion":"^0.3.5","maintainers":[{"name":"loicsaintroch","email":"hack@loic.io"}],"modified":"2015-08-19T17:47:10.282Z","released":"2015-08-19T17:47:10.282Z","downloadsLastWeek":1}
+{
+	"name": "lusty-website",
+	"version": "0.10.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "loicsaintroch",
+			"email": "hack@loic.io"
+		}
+	],
+	"modified": "2015-08-19T17:47:10.282Z",
+	"released": "2015-08-19T17:47:10.282Z",
+	"downloadsLastWeek": 1
+}

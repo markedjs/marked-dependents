@@ -1,1 +1,14 @@
-{"name":"ysfcode","version":"0.0.1","depVersion":"^0.3.5","maintainers":[{"name":"dkypooh","email":"bluepooh@126.com"}],"modified":"2016-04-23T06:43:52.842Z","released":"2016-04-23T06:43:52.842Z","downloadsLastWeek":3}
+{
+	"name": "ysfcode",
+	"version": "0.0.1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "dkypooh",
+			"email": "bluepooh@126.com"
+		}
+	],
+	"modified": "2016-04-23T06:43:52.842Z",
+	"released": "2016-04-23T06:43:52.842Z",
+	"downloadsLastWeek": 3
+}

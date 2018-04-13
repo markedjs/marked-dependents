@@ -1,1 +1,14 @@
-{"name":"pops","version":"0.1.0","depVersion":"0.3.6","maintainers":[{"name":"briandgls","email":"briandgls@yahoo.com"}],"modified":"2017-04-20T16:33:37.588Z","released":"2017-04-20T16:33:37.588Z","downloadsLastWeek":2}
+{
+	"name": "pops",
+	"version": "0.1.0",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "briandgls",
+			"email": "briandgls@yahoo.com"
+		}
+	],
+	"modified": "2017-04-20T16:33:37.588Z",
+	"released": "2017-04-20T16:33:37.588Z",
+	"downloadsLastWeek": 2
+}

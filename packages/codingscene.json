@@ -1,1 +1,14 @@
-{"name":"codingscene","version":"1.0.6","depVersion":"0.2.x","maintainers":[{"name":"jakutis","email":"me@jakut.is"}],"modified":"2014-02-17T09:53:21.808Z","released":"2012-12-11T20:28:00.450Z","downloadsLastWeek":1}
+{
+	"name": "codingscene",
+	"version": "1.0.6",
+	"depVersion": "0.2.x",
+	"maintainers": [
+		{
+			"name": "jakutis",
+			"email": "me@jakut.is"
+		}
+	],
+	"modified": "2014-02-17T09:53:21.808Z",
+	"released": "2012-12-11T20:28:00.450Z",
+	"downloadsLastWeek": 1
+}

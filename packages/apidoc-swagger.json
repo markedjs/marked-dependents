@@ -1,1 +1,14 @@
-{"name":"apidoc-swagger","version":"0.2.2","depVersion":"^0.3.3","maintainers":[{"name":"bahman","email":"bahman.fakhr@gmail.com"}],"modified":"2017-07-16T15:41:57.760Z","released":"2015-10-27T12:10:59.657Z","downloadsLastWeek":449}
+{
+	"name": "apidoc-swagger",
+	"version": "0.2.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "bahman",
+			"email": "bahman.fakhr@gmail.com"
+		}
+	],
+	"modified": "2017-07-16T15:41:57.760Z",
+	"released": "2015-10-27T12:10:59.657Z",
+	"downloadsLastWeek": 449
+}

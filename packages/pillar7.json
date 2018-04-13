@@ -1,1 +1,14 @@
-{"name":"pillar7","version":"1.0.12","depVersion":">=0.3.5","maintainers":[{"name":"muchavie","email":"code@ogilvie.us.com"}],"modified":"2015-10-24T22:10:15.246Z","released":"2015-10-24T22:10:15.246Z","downloadsLastWeek":1}
+{
+	"name": "pillar7",
+	"version": "1.0.12",
+	"depVersion": ">=0.3.5",
+	"maintainers": [
+		{
+			"name": "muchavie",
+			"email": "code@ogilvie.us.com"
+		}
+	],
+	"modified": "2015-10-24T22:10:15.246Z",
+	"released": "2015-10-24T22:10:15.246Z",
+	"downloadsLastWeek": 1
+}

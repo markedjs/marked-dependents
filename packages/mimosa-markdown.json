@@ -1,1 +1,14 @@
-{"name":"mimosa-markdown","version":"1.0.0","depVersion":"~0.3.0","maintainers":[{"name":"ifraixedes","email":"ifcdev@gmail.com"}],"modified":"2015-03-11T19:12:23.349Z","released":"2015-03-11T19:12:23.349Z","downloadsLastWeek":6}
+{
+	"name": "mimosa-markdown",
+	"version": "1.0.0",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "ifraixedes",
+			"email": "ifcdev@gmail.com"
+		}
+	],
+	"modified": "2015-03-11T19:12:23.349Z",
+	"released": "2015-03-11T19:12:23.349Z",
+	"downloadsLastWeek": 6
+}

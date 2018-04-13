@@ -1,1 +1,14 @@
-{"name":"nodebb-plugin-import-smallworld","version":"0.0.1","depVersion":"~0.3.2","maintainers":[{"name":"akhoury","email":"bentael@gmail.com"}],"modified":"2018-04-06T16:03:54.552Z","released":"2018-04-06T16:03:54.175Z","downloadsLastWeek":24}
+{
+	"name": "nodebb-plugin-import-smallworld",
+	"version": "0.0.1",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "akhoury",
+			"email": "bentael@gmail.com"
+		}
+	],
+	"modified": "2018-04-06T16:03:54.552Z",
+	"released": "2018-04-06T16:03:54.175Z",
+	"downloadsLastWeek": 24
+}

@@ -1,1 +1,14 @@
-{"name":"express-wiki","version":"1.0.3","depVersion":"^0.3.5","maintainers":[{"name":"schematical","email":"mlea@schematical.com"}],"modified":"2016-06-15T17:15:20.161Z","released":"2016-06-15T17:15:20.161Z","downloadsLastWeek":1}
+{
+	"name": "express-wiki",
+	"version": "1.0.3",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "schematical",
+			"email": "mlea@schematical.com"
+		}
+	],
+	"modified": "2016-06-15T17:15:20.161Z",
+	"released": "2016-06-15T17:15:20.161Z",
+	"downloadsLastWeek": 1
+}

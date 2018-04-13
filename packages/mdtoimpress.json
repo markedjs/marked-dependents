@@ -1,1 +1,14 @@
-{"name":"mdtoimpress","version":"1.1.0","depVersion":"*","maintainers":[{"name":"ear1grey","email":"rjb@boakes.org"}],"modified":"2016-08-19T23:27:53.905Z","released":"2016-08-19T23:27:53.905Z","downloadsLastWeek":1}
+{
+	"name": "mdtoimpress",
+	"version": "1.1.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "ear1grey",
+			"email": "rjb@boakes.org"
+		}
+	],
+	"modified": "2016-08-19T23:27:53.905Z",
+	"released": "2016-08-19T23:27:53.905Z",
+	"downloadsLastWeek": 1
+}

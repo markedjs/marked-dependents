@@ -1,1 +1,14 @@
-{"name":"lambdasync","version":"3.2.6","depVersion":"0.3.6","maintainers":[{"name":"fanderzon","email":"f.anderzon@gmail.com"}],"modified":"2017-10-23T22:03:08.304Z","released":"2017-10-15T19:40:57.794Z","downloadsLastWeek":3}
+{
+	"name": "lambdasync",
+	"version": "3.2.6",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "fanderzon",
+			"email": "f.anderzon@gmail.com"
+		}
+	],
+	"modified": "2017-10-23T22:03:08.304Z",
+	"released": "2017-10-15T19:40:57.794Z",
+	"downloadsLastWeek": 3
+}

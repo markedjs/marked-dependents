@@ -1,1 +1,14 @@
-{"name":"marc","version":"0.1.0","depVersion":"~0.3.1","maintainers":[{"name":"bredele","email":"olivier.wietrich@gmail.com"}],"modified":"2014-04-06T20:07:24.930Z","released":"2014-04-06T20:07:24.930Z","downloadsLastWeek":6}
+{
+	"name": "marc",
+	"version": "0.1.0",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "bredele",
+			"email": "olivier.wietrich@gmail.com"
+		}
+	],
+	"modified": "2014-04-06T20:07:24.930Z",
+	"released": "2014-04-06T20:07:24.930Z",
+	"downloadsLastWeek": 6
+}

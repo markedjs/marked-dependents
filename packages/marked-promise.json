@@ -1,1 +1,14 @@
-{"name":"marked-promise","version":"2.0.0","depVersion":"*","maintainers":[{"name":"ahmadnassri","email":"ahmad@ahmadnassri.com"}],"modified":"2017-04-14T18:11:56.799Z","released":"2017-04-14T18:11:56.799Z","downloadsLastWeek":1}
+{
+	"name": "marked-promise",
+	"version": "2.0.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "ahmadnassri",
+			"email": "ahmad@ahmadnassri.com"
+		}
+	],
+	"modified": "2017-04-14T18:11:56.799Z",
+	"released": "2017-04-14T18:11:56.799Z",
+	"downloadsLastWeek": 1
+}

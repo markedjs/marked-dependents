@@ -1,1 +1,14 @@
-{"name":"gitpress","version":"0.3.3","depVersion":"https://github.com/akira-cn/marked/tarball/gitpress","maintainers":[{"name":"akira_cn","email":"19511344@qq.com"}],"modified":"2013-12-24T11:24:30.858Z","released":"2013-12-24T11:24:30.858Z","downloadsLastWeek":1}
+{
+	"name": "gitpress",
+	"version": "0.3.3",
+	"depVersion": "https://github.com/akira-cn/marked/tarball/gitpress",
+	"maintainers": [
+		{
+			"name": "akira_cn",
+			"email": "19511344@qq.com"
+		}
+	],
+	"modified": "2013-12-24T11:24:30.858Z",
+	"released": "2013-12-24T11:24:30.858Z",
+	"downloadsLastWeek": 1
+}

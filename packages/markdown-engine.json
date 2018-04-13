@@ -1,1 +1,14 @@
-{"name":"markdown-engine","version":"0.0.2","depVersion":"^0.3.3","maintainers":[{"name":"kyledetella","email":"kdetella@gmail.com"}],"modified":"2015-04-26T17:02:10.585Z","released":"2015-04-26T17:02:10.585Z","downloadsLastWeek":1}
+{
+	"name": "markdown-engine",
+	"version": "0.0.2",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "kyledetella",
+			"email": "kdetella@gmail.com"
+		}
+	],
+	"modified": "2015-04-26T17:02:10.585Z",
+	"released": "2015-04-26T17:02:10.585Z",
+	"downloadsLastWeek": 1
+}

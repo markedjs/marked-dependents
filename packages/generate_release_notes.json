@@ -1,1 +1,14 @@
-{"name":"generate_release_notes","version":"1.3.0","depVersion":"^0.3.5","maintainers":[{"name":"lukejpreston","email":"lukejpreston@gmail.com"}],"modified":"2017-07-17T08:03:22.845Z","released":"2016-03-08T12:13:01.571Z","downloadsLastWeek":1}
+{
+	"name": "generate_release_notes",
+	"version": "1.3.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "lukejpreston",
+			"email": "lukejpreston@gmail.com"
+		}
+	],
+	"modified": "2017-07-17T08:03:22.845Z",
+	"released": "2016-03-08T12:13:01.571Z",
+	"downloadsLastWeek": 1
+}

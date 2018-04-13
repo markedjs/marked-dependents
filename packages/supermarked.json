@@ -1,1 +1,14 @@
-{"name":"supermarked","version":"2.0.0","depVersion":"~0.3.2","maintainers":[{"name":"forbeslindesay","email":"forbes@lindesay.co.uk"}],"modified":"2014-11-04T13:50:41.637Z","released":"2014-11-04T13:50:41.637Z","downloadsLastWeek":28}
+{
+	"name": "supermarked",
+	"version": "2.0.0",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "forbeslindesay",
+			"email": "forbes@lindesay.co.uk"
+		}
+	],
+	"modified": "2014-11-04T13:50:41.637Z",
+	"released": "2014-11-04T13:50:41.637Z",
+	"downloadsLastWeek": 28
+}

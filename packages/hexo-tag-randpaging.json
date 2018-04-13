@@ -1,1 +1,14 @@
-{"name":"hexo-tag-randpaging","version":"0.0.1","depVersion":"^0.3.6","maintainers":[{"name":"ryanniu","email":"ryan4work@163.com"}],"modified":"2017-01-31T16:57:45.045Z","released":"2017-01-31T16:57:45.045Z","downloadsLastWeek":1}
+{
+	"name": "hexo-tag-randpaging",
+	"version": "0.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "ryanniu",
+			"email": "ryan4work@163.com"
+		}
+	],
+	"modified": "2017-01-31T16:57:45.045Z",
+	"released": "2017-01-31T16:57:45.045Z",
+	"downloadsLastWeek": 1
+}

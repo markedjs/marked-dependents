@@ -1,1 +1,14 @@
-{"name":"hungerdemo0814","version":"0.0.1","depVersion":"^0.3.6","maintainers":[{"name":"liyu0906","email":"yunyu950908@gmail.com"}],"modified":"2017-08-13T16:23:55.531Z","released":"2017-08-13T16:23:55.531Z","downloadsLastWeek":1}
+{
+	"name": "hungerdemo0814",
+	"version": "0.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "liyu0906",
+			"email": "yunyu950908@gmail.com"
+		}
+	],
+	"modified": "2017-08-13T16:23:55.531Z",
+	"released": "2017-08-13T16:23:55.531Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"bootstrap-coffeedoc","version":"0.3.4","depVersion":">=0.2.5","maintainers":[{"name":"tamanyan","email":"tamanyan.sss@gmail.com"}],"modified":"2013-09-20T18:54:02.686Z","released":"2013-09-20T18:54:02.686Z","downloadsLastWeek":1}
+{
+	"name": "bootstrap-coffeedoc",
+	"version": "0.3.4",
+	"depVersion": ">=0.2.5",
+	"maintainers": [
+		{
+			"name": "tamanyan",
+			"email": "tamanyan.sss@gmail.com"
+		}
+	],
+	"modified": "2013-09-20T18:54:02.686Z",
+	"released": "2013-09-20T18:54:02.686Z",
+	"downloadsLastWeek": 1
+}

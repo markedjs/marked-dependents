@@ -1,1 +1,14 @@
-{"name":"swagger-plus","version":"1.0.0","depVersion":"^0.3.7","maintainers":[{"name":"calvin.chen","email":"calvin.chen.310@gmail.com"}],"modified":"2017-12-26T10:56:08.297Z","released":"2017-12-26T10:55:03.943Z","downloadsLastWeek":4}
+{
+	"name": "swagger-plus",
+	"version": "1.0.0",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "calvin.chen",
+			"email": "calvin.chen.310@gmail.com"
+		}
+	],
+	"modified": "2017-12-26T10:56:08.297Z",
+	"released": "2017-12-26T10:55:03.943Z",
+	"downloadsLastWeek": 4
+}

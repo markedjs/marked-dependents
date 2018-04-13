@@ -1,1 +1,14 @@
-{"name":"pubmd","version":"1.1.1","depVersion":"^0.3.6","maintainers":[{"name":"obber","email":"kan@kanadachi.com"}],"modified":"2017-04-02T16:23:02.099Z","released":"2017-04-02T16:23:02.099Z","downloadsLastWeek":1}
+{
+	"name": "pubmd",
+	"version": "1.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "obber",
+			"email": "kan@kanadachi.com"
+		}
+	],
+	"modified": "2017-04-02T16:23:02.099Z",
+	"released": "2017-04-02T16:23:02.099Z",
+	"downloadsLastWeek": 1
+}

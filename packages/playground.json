@@ -1,1 +1,14 @@
-{"name":"playground","version":"0.7.0","depVersion":"0.3.2","maintainers":[{"name":"jas","email":"jasandmeyer@icloud.com"}],"modified":"2014-10-14T21:11:29.108Z","released":"2014-10-14T21:11:29.108Z","downloadsLastWeek":2}
+{
+	"name": "playground",
+	"version": "0.7.0",
+	"depVersion": "0.3.2",
+	"maintainers": [
+		{
+			"name": "jas",
+			"email": "jasandmeyer@icloud.com"
+		}
+	],
+	"modified": "2014-10-14T21:11:29.108Z",
+	"released": "2014-10-14T21:11:29.108Z",
+	"downloadsLastWeek": 2
+}

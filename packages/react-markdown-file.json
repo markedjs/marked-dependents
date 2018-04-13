@@ -1,1 +1,14 @@
-{"name":"react-markdown-file","version":"0.0.4","depVersion":"^0.3.3","maintainers":[{"name":"adamrneary","email":"contact@adamrneary.com"}],"modified":"2015-02-24T17:26:50.410Z","released":"2015-02-24T17:26:50.410Z","downloadsLastWeek":3}
+{
+	"name": "react-markdown-file",
+	"version": "0.0.4",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "adamrneary",
+			"email": "contact@adamrneary.com"
+		}
+	],
+	"modified": "2015-02-24T17:26:50.410Z",
+	"released": "2015-02-24T17:26:50.410Z",
+	"downloadsLastWeek": 3
+}

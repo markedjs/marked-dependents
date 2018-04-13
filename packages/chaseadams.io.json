@@ -1,1 +1,14 @@
-{"name":"chaseadams.io","version":"2.2.0","depVersion":"^0.3.3","maintainers":[{"name":"chaseadamsio","email":"chaseadamsio.bcn@gmail.com"}],"modified":"2015-07-08T13:54:32.741Z","released":"2015-07-08T13:54:32.741Z","downloadsLastWeek":1}
+{
+	"name": "chaseadams.io",
+	"version": "2.2.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "chaseadamsio",
+			"email": "chaseadamsio.bcn@gmail.com"
+		}
+	],
+	"modified": "2015-07-08T13:54:32.741Z",
+	"released": "2015-07-08T13:54:32.741Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"json-dss","version":"1.0.0","depVersion":"^0.3.3","maintainers":[{"name":"fredus0076","email":"madrangesahadri@yahoo.fr"}],"modified":"2016-11-22T09:42:32.185Z","released":"2016-11-22T09:42:32.185Z","downloadsLastWeek":1}
+{
+	"name": "json-dss",
+	"version": "1.0.0",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "fredus0076",
+			"email": "madrangesahadri@yahoo.fr"
+		}
+	],
+	"modified": "2016-11-22T09:42:32.185Z",
+	"released": "2016-11-22T09:42:32.185Z",
+	"downloadsLastWeek": 1
+}

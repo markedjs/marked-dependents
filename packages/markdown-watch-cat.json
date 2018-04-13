@@ -1,1 +1,14 @@
-{"name":"markdown-watch-cat","version":"0.1.1","depVersion":"^0.3.7","maintainers":[{"name":"ushiboy","email":"ushiboy.dev@gmail.com"}],"modified":"2017-12-11T14:12:29.056Z","released":"2017-12-11T14:12:29.056Z","downloadsLastWeek":1}
+{
+	"name": "markdown-watch-cat",
+	"version": "0.1.1",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "ushiboy",
+			"email": "ushiboy.dev@gmail.com"
+		}
+	],
+	"modified": "2017-12-11T14:12:29.056Z",
+	"released": "2017-12-11T14:12:29.056Z",
+	"downloadsLastWeek": 1
+}

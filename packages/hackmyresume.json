@@ -1,1 +1,14 @@
-{"name":"hackmyresume","version":"1.9.0-beta","depVersion":"^0.3.5","maintainers":[{"name":"hacksalot","email":"hacksalot@fluentdesk.com"}],"modified":"2018-02-12T12:36:33.336Z","released":"2018-02-12T12:36:30.452Z","downloadsLastWeek":310}
+{
+	"name": "hackmyresume",
+	"version": "1.9.0-beta",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "hacksalot",
+			"email": "hacksalot@fluentdesk.com"
+		}
+	],
+	"modified": "2018-02-12T12:36:33.336Z",
+	"released": "2018-02-12T12:36:30.452Z",
+	"downloadsLastWeek": 310
+}

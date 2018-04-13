@@ -1,1 +1,14 @@
-{"name":"slides-cli","version":"0.3.1","depVersion":"^0.3.2","maintainers":[{"name":"robinthrift","email":"thrift.d.robin@googlemail.com"}],"modified":"2014-09-01T12:15:19.092Z","released":"2014-09-01T12:15:19.092Z","downloadsLastWeek":5}
+{
+	"name": "slides-cli",
+	"version": "0.3.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "robinthrift",
+			"email": "thrift.d.robin@googlemail.com"
+		}
+	],
+	"modified": "2014-09-01T12:15:19.092Z",
+	"released": "2014-09-01T12:15:19.092Z",
+	"downloadsLastWeek": 5
+}

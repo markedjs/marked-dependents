@@ -1,1 +1,14 @@
-{"name":"whiteboard-app","version":"0.0.41","depVersion":"0.3.6","maintainers":[{"name":"michaelb","email":"michaelpb@gmail.com"}],"modified":"2018-01-19T02:08:08.020Z","released":"2018-01-19T02:08:08.020Z","downloadsLastWeek":69}
+{
+	"name": "whiteboard-app",
+	"version": "0.0.41",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "michaelb",
+			"email": "michaelpb@gmail.com"
+		}
+	],
+	"modified": "2018-01-19T02:08:08.020Z",
+	"released": "2018-01-19T02:08:08.020Z",
+	"downloadsLastWeek": 69
+}

@@ -1,1 +1,14 @@
-{"name":"rmarked","version":"1.0.0","depVersion":"^0.3.6","maintainers":[{"name":"rainboy","email":"597872644@qq.com"}],"modified":"2017-10-29T15:30:14.236Z","released":"2017-10-29T15:30:14.236Z","downloadsLastWeek":3}
+{
+	"name": "rmarked",
+	"version": "1.0.0",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "rainboy",
+			"email": "597872644@qq.com"
+		}
+	],
+	"modified": "2017-10-29T15:30:14.236Z",
+	"released": "2017-10-29T15:30:14.236Z",
+	"downloadsLastWeek": 3
+}

@@ -1,1 +1,14 @@
-{"name":"scotch-blog","version":"0.1.7","depVersion":"~0.2.x","maintainers":[{"name":"techwraith","email":"techwraithpdx@gmail.com"}],"modified":"2013-07-29T01:01:50.060Z","released":"2013-07-29T01:01:50.060Z","downloadsLastWeek":13}
+{
+	"name": "scotch-blog",
+	"version": "0.1.7",
+	"depVersion": "~0.2.x",
+	"maintainers": [
+		{
+			"name": "techwraith",
+			"email": "techwraithpdx@gmail.com"
+		}
+	],
+	"modified": "2013-07-29T01:01:50.060Z",
+	"released": "2013-07-29T01:01:50.060Z",
+	"downloadsLastWeek": 13
+}

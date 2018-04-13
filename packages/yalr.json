@@ -1,1 +1,14 @@
-{"name":"yalr","version":"1.1.1","depVersion":"0.2.5","maintainers":[{"name":"epeli","email":"esa-matti@suuronen.org"}],"modified":"2013-07-08T07:56:26.329Z","released":"2013-07-08T07:56:26.329Z","downloadsLastWeek":29}
+{
+	"name": "yalr",
+	"version": "1.1.1",
+	"depVersion": "0.2.5",
+	"maintainers": [
+		{
+			"name": "epeli",
+			"email": "esa-matti@suuronen.org"
+		}
+	],
+	"modified": "2013-07-08T07:56:26.329Z",
+	"released": "2013-07-08T07:56:26.329Z",
+	"downloadsLastWeek": 29
+}

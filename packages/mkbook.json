@@ -1,1 +1,14 @@
-{"name":"mkbook","version":"0.0.5","depVersion":"*","maintainers":[{"name":"jiuhuan","email":"by11880@gmail.com"}],"modified":"2015-03-05T05:57:53.400Z","released":"2015-03-05T05:57:53.400Z","downloadsLastWeek":1}
+{
+	"name": "mkbook",
+	"version": "0.0.5",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "jiuhuan",
+			"email": "by11880@gmail.com"
+		}
+	],
+	"modified": "2015-03-05T05:57:53.400Z",
+	"released": "2015-03-05T05:57:53.400Z",
+	"downloadsLastWeek": 1
+}

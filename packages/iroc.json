@@ -1,1 +1,14 @@
-{"name":"iroc","version":"0.0.3","depVersion":"^0.3.6","maintainers":[{"name":"iroc","email":"ipengzhou@outlook.com"}],"modified":"2016-08-26T16:25:13.050Z","released":"2016-08-26T16:25:13.050Z","downloadsLastWeek":1}
+{
+	"name": "iroc",
+	"version": "0.0.3",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "iroc",
+			"email": "ipengzhou@outlook.com"
+		}
+	],
+	"modified": "2016-08-26T16:25:13.050Z",
+	"released": "2016-08-26T16:25:13.050Z",
+	"downloadsLastWeek": 1
+}

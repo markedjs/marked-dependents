@@ -1,1 +1,14 @@
-{"name":"bootstrap-starter","version":"1.0.0","depVersion":"^0.3.5","maintainers":[{"name":"sirthxalot","email":"sirwillread@gmail.com"}],"modified":"2016-05-07T23:16:02.439Z","released":"2016-05-07T23:16:02.439Z","downloadsLastWeek":2}
+{
+	"name": "bootstrap-starter",
+	"version": "1.0.0",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "sirthxalot",
+			"email": "sirwillread@gmail.com"
+		}
+	],
+	"modified": "2016-05-07T23:16:02.439Z",
+	"released": "2016-05-07T23:16:02.439Z",
+	"downloadsLastWeek": 2
+}

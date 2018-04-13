@@ -1,1 +1,14 @@
-{"name":"pressjs","version":"0.0.6","depVersion":"~0.2.9","maintainers":[{"name":"amirs","email":"amir.saboury@gmail.com"}],"modified":"2013-11-04T00:17:21.967Z","released":"2013-11-04T00:17:21.967Z","downloadsLastWeek":1}
+{
+	"name": "pressjs",
+	"version": "0.0.6",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "amirs",
+			"email": "amir.saboury@gmail.com"
+		}
+	],
+	"modified": "2013-11-04T00:17:21.967Z",
+	"released": "2013-11-04T00:17:21.967Z",
+	"downloadsLastWeek": 1
+}

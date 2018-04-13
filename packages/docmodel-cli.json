@@ -1,1 +1,14 @@
-{"name":"docmodel-cli","version":"0.1.4","depVersion":"^0.3.6","maintainers":[{"name":"nodehead","email":"shout@nodehead.com"}],"modified":"2017-01-20T21:26:31.402Z","released":"2017-01-20T21:26:31.402Z","downloadsLastWeek":3}
+{
+	"name": "docmodel-cli",
+	"version": "0.1.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "nodehead",
+			"email": "shout@nodehead.com"
+		}
+	],
+	"modified": "2017-01-20T21:26:31.402Z",
+	"released": "2017-01-20T21:26:31.402Z",
+	"downloadsLastWeek": 3
+}

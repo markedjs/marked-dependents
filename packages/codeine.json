@@ -1,1 +1,14 @@
-{"name":"codeine","version":"0.0.2","depVersion":"^0.3.5","maintainers":[{"name":"pjfh","email":"peter.hancock@gmail.com"}],"modified":"2015-09-20T11:46:11.600Z","released":"2015-09-20T11:46:11.600Z","downloadsLastWeek":1}
+{
+	"name": "codeine",
+	"version": "0.0.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "pjfh",
+			"email": "peter.hancock@gmail.com"
+		}
+	],
+	"modified": "2015-09-20T11:46:11.600Z",
+	"released": "2015-09-20T11:46:11.600Z",
+	"downloadsLastWeek": 1
+}

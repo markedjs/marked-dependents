@@ -1,1 +1,14 @@
-{"name":"drizzle-builder","version":"0.0.10","depVersion":"^0.3.5","maintainers":[{"name":"cloudfour","email":"info@cloudfour.com"}],"modified":"2016-11-01T20:31:04.082Z","released":"2016-11-01T20:31:04.082Z","downloadsLastWeek":72}
+{
+	"name": "drizzle-builder",
+	"version": "0.0.10",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "cloudfour",
+			"email": "info@cloudfour.com"
+		}
+	],
+	"modified": "2016-11-01T20:31:04.082Z",
+	"released": "2016-11-01T20:31:04.082Z",
+	"downloadsLastWeek": 72
+}

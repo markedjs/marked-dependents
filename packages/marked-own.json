@@ -1,1 +1,14 @@
-{"name":"marked-own","version":"0.0.1-alpha","depVersion":"^0.3.5","maintainers":[{"name":"59naga","email":"i59naga@icloud.com"}],"modified":"2016-02-25T07:55:29.774Z","released":"2016-02-25T07:55:29.774Z","downloadsLastWeek":1}
+{
+	"name": "marked-own",
+	"version": "0.0.1-alpha",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "59naga",
+			"email": "i59naga@icloud.com"
+		}
+	],
+	"modified": "2016-02-25T07:55:29.774Z",
+	"released": "2016-02-25T07:55:29.774Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"slidemate","version":"0.0.3","depVersion":"*","maintainers":[{"name":"jacksontian","email":"shyvo1987@gmail.com"}],"modified":"2013-04-16T05:23:55.859Z","released":"2013-04-16T05:23:55.859Z","downloadsLastWeek":7}
+{
+	"name": "slidemate",
+	"version": "0.0.3",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "jacksontian",
+			"email": "shyvo1987@gmail.com"
+		}
+	],
+	"modified": "2013-04-16T05:23:55.859Z",
+	"released": "2013-04-16T05:23:55.859Z",
+	"downloadsLastWeek": 7
+}

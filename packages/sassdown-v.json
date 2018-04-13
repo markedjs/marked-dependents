@@ -1,1 +1,14 @@
-{"name":"sassdown-v","version":"0.2.6","depVersion":"~0.2.10","maintainers":[{"name":"rvinay88","email":"rvinay88@gmail.com"}],"modified":"2014-06-07T15:05:16.621Z","released":"2014-06-07T15:05:16.621Z","downloadsLastWeek":3}
+{
+	"name": "sassdown-v",
+	"version": "0.2.6",
+	"depVersion": "~0.2.10",
+	"maintainers": [
+		{
+			"name": "rvinay88",
+			"email": "rvinay88@gmail.com"
+		}
+	],
+	"modified": "2014-06-07T15:05:16.621Z",
+	"released": "2014-06-07T15:05:16.621Z",
+	"downloadsLastWeek": 3
+}

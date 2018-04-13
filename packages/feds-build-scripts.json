@@ -1,1 +1,18 @@
-{"name":"feds-build-scripts","version":"0.13.2","depVersion":"^0.3.5","maintainers":[{"name":"czert","email":"pecert@gmail.com"},{"name":"viktorbezdek","email":"viktor.bezdek@gmail.com"}],"modified":"2016-08-19T11:58:00.889Z","released":"2016-08-19T11:58:00.889Z","downloadsLastWeek":1}
+{
+	"name": "feds-build-scripts",
+	"version": "0.13.2",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "czert",
+			"email": "pecert@gmail.com"
+		},
+		{
+			"name": "viktorbezdek",
+			"email": "viktor.bezdek@gmail.com"
+		}
+	],
+	"modified": "2016-08-19T11:58:00.889Z",
+	"released": "2016-08-19T11:58:00.889Z",
+	"downloadsLastWeek": 1
+}

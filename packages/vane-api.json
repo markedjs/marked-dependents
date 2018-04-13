@@ -1,1 +1,14 @@
-{"name":"vane-api","version":"0.0.3","depVersion":"0.3.5","maintainers":[{"name":"ysmood","email":"ys@ysmood.org"}],"modified":"2015-12-25T11:13:05.361Z","released":"2015-12-25T11:13:05.361Z","downloadsLastWeek":8}
+{
+	"name": "vane-api",
+	"version": "0.0.3",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "ysmood",
+			"email": "ys@ysmood.org"
+		}
+	],
+	"modified": "2015-12-25T11:13:05.361Z",
+	"released": "2015-12-25T11:13:05.361Z",
+	"downloadsLastWeek": 8
+}

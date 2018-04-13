@@ -1,1 +1,14 @@
-{"name":"cc-demo2","version":"3.0.1","depVersion":"^0.3.6","maintainers":[{"name":"luo_occ","email":"cco.oul@gmail.com"}],"modified":"2017-08-13T21:49:01.180Z","released":"2017-08-13T21:49:01.180Z","downloadsLastWeek":1}
+{
+	"name": "cc-demo2",
+	"version": "3.0.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "luo_occ",
+			"email": "cco.oul@gmail.com"
+		}
+	],
+	"modified": "2017-08-13T21:49:01.180Z",
+	"released": "2017-08-13T21:49:01.180Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"jx-demo0","version":"0.0.1","depVersion":"^0.3.7","maintainers":[{"name":"antonxmh","email":"web_antox@126.com"}],"modified":"2017-12-18T09:44:40.210Z","released":"2017-12-18T09:44:40.210Z","downloadsLastWeek":2}
+{
+	"name": "jx-demo0",
+	"version": "0.0.1",
+	"depVersion": "^0.3.7",
+	"maintainers": [
+		{
+			"name": "antonxmh",
+			"email": "web_antox@126.com"
+		}
+	],
+	"modified": "2017-12-18T09:44:40.210Z",
+	"released": "2017-12-18T09:44:40.210Z",
+	"downloadsLastWeek": 2
+}

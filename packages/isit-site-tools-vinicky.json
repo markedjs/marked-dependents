@@ -1,1 +1,14 @@
-{"name":"isit-site-tools-vinicky","version":"1.0.13","depVersion":"^0.3.6","maintainers":[{"name":"tyler40k","email":"tyler40k@hotmail.com"}],"modified":"2017-11-28T00:18:01.045Z","released":"2017-11-28T00:18:01.045Z","downloadsLastWeek":2}
+{
+	"name": "isit-site-tools-vinicky",
+	"version": "1.0.13",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "tyler40k",
+			"email": "tyler40k@hotmail.com"
+		}
+	],
+	"modified": "2017-11-28T00:18:01.045Z",
+	"released": "2017-11-28T00:18:01.045Z",
+	"downloadsLastWeek": 2
+}

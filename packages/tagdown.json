@@ -1,1 +1,14 @@
-{"name":"tagdown","version":"2.0.0","depVersion":"~0.3.0","maintainers":[{"name":"jongleberry","email":"jonathanrichardong@gmail.com"}],"modified":"2014-07-20T11:57:08.122Z","released":"2014-07-20T11:57:08.122Z","downloadsLastWeek":35}
+{
+	"name": "tagdown",
+	"version": "2.0.0",
+	"depVersion": "~0.3.0",
+	"maintainers": [
+		{
+			"name": "jongleberry",
+			"email": "jonathanrichardong@gmail.com"
+		}
+	],
+	"modified": "2014-07-20T11:57:08.122Z",
+	"released": "2014-07-20T11:57:08.122Z",
+	"downloadsLastWeek": 35
+}

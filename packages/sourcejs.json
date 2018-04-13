@@ -1,1 +1,14 @@
-{"name":"sourcejs","version":"0.5.6","depVersion":"^0.3.2","maintainers":[{"name":"sourcejs","email":"source@rhr.me"}],"modified":"2017-01-17T14:43:06.959Z","released":"2015-09-20T20:23:43.308Z","downloadsLastWeek":47}
+{
+	"name": "sourcejs",
+	"version": "0.5.6",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "sourcejs",
+			"email": "source@rhr.me"
+		}
+	],
+	"modified": "2017-01-17T14:43:06.959Z",
+	"released": "2015-09-20T20:23:43.308Z",
+	"downloadsLastWeek": 47
+}

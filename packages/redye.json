@@ -1,1 +1,14 @@
-{"name":"redye","version":"0.0.2","depVersion":"~0.3.1","maintainers":[{"name":"jacksontian","email":"shyvo1987@gmail.com"}],"modified":"2015-06-30T08:29:19.759Z","released":"2015-06-30T08:29:19.759Z","downloadsLastWeek":6}
+{
+	"name": "redye",
+	"version": "0.0.2",
+	"depVersion": "~0.3.1",
+	"maintainers": [
+		{
+			"name": "jacksontian",
+			"email": "shyvo1987@gmail.com"
+		}
+	],
+	"modified": "2015-06-30T08:29:19.759Z",
+	"released": "2015-06-30T08:29:19.759Z",
+	"downloadsLastWeek": 6
+}

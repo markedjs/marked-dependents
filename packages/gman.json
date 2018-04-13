@@ -1,1 +1,14 @@
-{"name":"gman","version":"0.1.5","depVersion":"^0.3.2","maintainers":[{"name":"wildhoney","email":"adam.timberlake@gmail.com"}],"modified":"2014-08-10T21:24:54.598Z","released":"2014-08-10T21:24:54.598Z","downloadsLastWeek":1}
+{
+	"name": "gman",
+	"version": "0.1.5",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "wildhoney",
+			"email": "adam.timberlake@gmail.com"
+		}
+	],
+	"modified": "2014-08-10T21:24:54.598Z",
+	"released": "2014-08-10T21:24:54.598Z",
+	"downloadsLastWeek": 1
+}

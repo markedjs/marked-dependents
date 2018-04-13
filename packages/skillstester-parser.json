@@ -1,1 +1,14 @@
-{"name":"skillstester-parser","version":"0.0.2","depVersion":"~0.2.9","maintainers":[{"name":"jedi4ever","email":"Patrick.Debois@jedi.be"}],"modified":"2013-10-15T18:02:54.277Z","released":"2013-10-15T18:02:54.277Z","downloadsLastWeek":3}
+{
+	"name": "skillstester-parser",
+	"version": "0.0.2",
+	"depVersion": "~0.2.9",
+	"maintainers": [
+		{
+			"name": "jedi4ever",
+			"email": "Patrick.Debois@jedi.be"
+		}
+	],
+	"modified": "2013-10-15T18:02:54.277Z",
+	"released": "2013-10-15T18:02:54.277Z",
+	"downloadsLastWeek": 3
+}

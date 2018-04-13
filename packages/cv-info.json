@@ -1,1 +1,14 @@
-{"name":"cv-info","version":"0.4.1","depVersion":"^0.3.2","maintainers":[{"name":"paul-nechifor","email":"paul@nechifor.net"}],"modified":"2014-12-06T17:06:56.522Z","released":"2014-12-06T17:06:56.522Z","downloadsLastWeek":1}
+{
+	"name": "cv-info",
+	"version": "0.4.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "paul-nechifor",
+			"email": "paul@nechifor.net"
+		}
+	],
+	"modified": "2014-12-06T17:06:56.522Z",
+	"released": "2014-12-06T17:06:56.522Z",
+	"downloadsLastWeek": 1
+}

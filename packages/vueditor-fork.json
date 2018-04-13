@@ -1,1 +1,14 @@
-{"name":"vueditor-fork","version":"0.3.13","depVersion":"^0.3.6","maintainers":[{"name":"chiaweilee","email":"ljw@Live.jp"}],"modified":"2018-03-21T04:42:47.700Z","released":"2018-03-21T04:42:47.067Z","downloadsLastWeek":8}
+{
+	"name": "vueditor-fork",
+	"version": "0.3.13",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "chiaweilee",
+			"email": "ljw@Live.jp"
+		}
+	],
+	"modified": "2018-03-21T04:42:47.700Z",
+	"released": "2018-03-21T04:42:47.067Z",
+	"downloadsLastWeek": 8
+}

@@ -1,1 +1,14 @@
-{"name":"livemark-cli","version":"0.1.1","depVersion":"^0.3.2","maintainers":[{"name":"cedced19","email":"cedced19@gmail.com"}],"modified":"2015-06-13T13:34:04.539Z","released":"2015-06-13T13:34:04.539Z","downloadsLastWeek":1}
+{
+	"name": "livemark-cli",
+	"version": "0.1.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "cedced19",
+			"email": "cedced19@gmail.com"
+		}
+	],
+	"modified": "2015-06-13T13:34:04.539Z",
+	"released": "2015-06-13T13:34:04.539Z",
+	"downloadsLastWeek": 1
+}

@@ -1,1 +1,14 @@
-{"name":"wwwrite","version":"0.0.1","depVersion":"^0.3.2","maintainers":[{"name":"vieron","email":"javiersanchezmarin@gmail.com"}],"modified":"2014-11-01T18:24:45.141Z","released":"2014-11-01T18:24:45.141Z","downloadsLastWeek":4}
+{
+	"name": "wwwrite",
+	"version": "0.0.1",
+	"depVersion": "^0.3.2",
+	"maintainers": [
+		{
+			"name": "vieron",
+			"email": "javiersanchezmarin@gmail.com"
+		}
+	],
+	"modified": "2014-11-01T18:24:45.141Z",
+	"released": "2014-11-01T18:24:45.141Z",
+	"downloadsLastWeek": 4
+}

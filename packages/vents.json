@@ -1,1 +1,14 @@
-{"name":"vents","version":"0.1.1","depVersion":"^0.3.6","maintainers":[{"name":"millette","email":"robin@millette.info"}],"modified":"2017-03-25T11:20:31.361Z","released":"2017-03-25T11:20:31.361Z","downloadsLastWeek":5}
+{
+	"name": "vents",
+	"version": "0.1.1",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "millette",
+			"email": "robin@millette.info"
+		}
+	],
+	"modified": "2017-03-25T11:20:31.361Z",
+	"released": "2017-03-25T11:20:31.361Z",
+	"downloadsLastWeek": 5
+}

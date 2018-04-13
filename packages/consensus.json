@@ -1,1 +1,14 @@
-{"name":"consensus","version":"0.0.8","depVersion":"*","maintainers":[{"name":"ceejbot","email":"ceejceej@gmail.com"}],"modified":"2013-10-30T23:11:48.266Z","released":"2013-10-30T23:11:48.266Z","downloadsLastWeek":2}
+{
+	"name": "consensus",
+	"version": "0.0.8",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "ceejbot",
+			"email": "ceejceej@gmail.com"
+		}
+	],
+	"modified": "2013-10-30T23:11:48.266Z",
+	"released": "2013-10-30T23:11:48.266Z",
+	"downloadsLastWeek": 2
+}

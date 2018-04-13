@@ -1,1 +1,14 @@
-{"name":"nxus-md-renderer","version":"4.0.0-1","depVersion":"^0.3.5","maintainers":[{"name":"mjreich","email":"mike@sensamo.com"}],"modified":"2016-12-12T15:58:41.773Z","released":"2016-12-12T15:58:41.773Z","downloadsLastWeek":3}
+{
+	"name": "nxus-md-renderer",
+	"version": "4.0.0-1",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "mjreich",
+			"email": "mike@sensamo.com"
+		}
+	],
+	"modified": "2016-12-12T15:58:41.773Z",
+	"released": "2016-12-12T15:58:41.773Z",
+	"downloadsLastWeek": 3
+}
