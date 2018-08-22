@@ -4,11 +4,11 @@ Stats on marked dependents.
 
 ## Usage
 
-### update dependent information
+### Update dependent information
 
 Update dependent json files in [./packages](./packages)
 
-NOTE: by default only new dependents not already in ./packages will be updated.
+> NOTE: By default only new dependents not already in ./packages will be updated.
 This happens so resuming after network error is possible.
 If you want new information for current dependents in ./packages then just delete the packages directory before updating.
 
@@ -16,15 +16,15 @@ If you want new information for current dependents in ./packages then just delet
 npm run update-packages
 ```
 
-### update dependent information
+### Update stats
 
-Update stats from dependents in [./stats](./stats)
+Update stats in [./stats](./stats)
 
 ```sh
 npm run update-stats
 ```
 
-## current stats
+## Current stats
 
 #### [dlGt1000.json](./stats/dlGt1000.json):
 
