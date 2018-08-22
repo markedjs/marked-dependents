@@ -1,6 +1,6 @@
 {
 	"name": "flatsurface",
-	"version": "0.4.50",
+	"version": "0.4.56",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -20,7 +20,7 @@
 			"email": "katiyar.suyash@gmail.com"
 		}
 	],
-	"modified": "2018-03-27T09:14:07.093Z",
-	"released": "2018-03-27T09:14:06.688Z",
-	"downloadsLastWeek": 9
+	"modified": "2018-08-21T12:10:26.859Z",
+	"released": "2018-08-21T12:10:23.979Z",
+	"downloadsLastWeek": 165
 }

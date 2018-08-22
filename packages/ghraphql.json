@@ -1,0 +1,14 @@
+{
+	"name": "ghraphql",
+	"version": "0.10.0",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "millette",
+			"email": "robin@millette.info"
+		}
+	],
+	"modified": "2018-08-21T21:53:01.894Z",
+	"released": "2018-08-21T21:52:58.664Z",
+	"downloadsLastWeek": 18
+}

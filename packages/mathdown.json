@@ -1,0 +1,14 @@
+{
+	"name": "mathdown",
+	"version": "0.1.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "jdmichaud",
+			"email": "jean.daniel.michaud@gmail.com"
+		}
+	],
+	"modified": "2018-05-20T12:02:06.837Z",
+	"released": "2018-05-20T12:02:03.214Z",
+	"downloadsLastWeek": 3
+}

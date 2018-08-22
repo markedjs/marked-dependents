@@ -1,0 +1,14 @@
+{
+	"name": "fjordkraft-alliance",
+	"version": "1.3.5",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "nocms",
+			"email": "nocms@miles.no"
+		}
+	],
+	"modified": "2018-06-05T19:35:04.042Z",
+	"released": "2018-06-05T19:34:59.824Z",
+	"downloadsLastWeek": 39
+}

@@ -4,11 +4,11 @@
 	"depVersion": ">= 0.2.7",
 	"maintainers": [
 		{
-			"name": "codepunkt",
-			"email": "christoph+npm@codepunkt.de"
+			"email": "christoph+npm@codepunkt.de",
+			"name": "cwer"
 		}
 	],
-	"modified": "2017-01-18T22:48:17.306Z",
+	"modified": "2018-06-12T10:45:15.450Z",
 	"released": "2014-01-20T10:15:20.471Z",
-	"downloadsLastWeek": 38
+	"downloadsLastWeek": 59
 }

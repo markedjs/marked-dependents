@@ -1,0 +1,14 @@
+{
+	"name": "riothing",
+	"version": "0.2.5",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "noneedsystem",
+			"email": "noneedsystem@gmail.com"
+		}
+	],
+	"modified": "2018-08-12T20:47:19.831Z",
+	"released": "2018-08-12T20:47:15.803Z",
+	"downloadsLastWeek": 6
+}

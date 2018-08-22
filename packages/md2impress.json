@@ -1,6 +1,6 @@
 {
 	"name": "md2impress",
-	"version": "0.1.5",
+	"version": "0.2.0",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "louisjordan@hotmail.com"
 		}
 	],
-	"modified": "2018-02-17T23:53:15.269Z",
-	"released": "2018-02-17T23:53:14.027Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-04-26T00:35:24.280Z",
+	"released": "2018-04-26T00:35:20.256Z",
+	"downloadsLastWeek": 14
 }

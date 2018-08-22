@@ -1,0 +1,14 @@
+{
+	"name": "core-client",
+	"version": "2.2.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "christinedavis",
+			"email": "christine.davis@resolver.com"
+		}
+	],
+	"modified": "2018-07-11T21:29:04.236Z",
+	"released": "2018-07-11T21:29:01.039Z",
+	"downloadsLastWeek": 0
+}

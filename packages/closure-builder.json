@@ -1,14 +1,14 @@
 {
 	"name": "closure-builder",
-	"version": "2.2.39",
-	"depVersion": "^0.3.17",
+	"version": "2.2.46",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "markusbordihn",
 			"email": "NPM@MarkusBordihn.de"
 		}
 	],
-	"modified": "2018-03-17T16:00:41.745Z",
-	"released": "2018-03-17T16:00:39.156Z",
-	"downloadsLastWeek": 124
+	"modified": "2018-05-28T19:09:12.013Z",
+	"released": "2018-05-28T19:09:07.714Z",
+	"downloadsLastWeek": 67
 }

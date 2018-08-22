@@ -1,14 +1,18 @@
 {
 	"name": "ocular",
-	"version": "0.4.3",
+	"version": "0.6.1",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "apercu",
-			"email": "bgronon@gmail.com"
+			"email": "bgronon@gmail.com",
+			"name": "apercu"
+		},
+		{
+			"email": "opensource@uber.com",
+			"name": "uber"
 		}
 	],
-	"modified": "2018-03-12T23:26:26.710Z",
-	"released": "2018-03-12T23:26:26.332Z",
-	"downloadsLastWeek": 11
+	"modified": "2018-08-09T01:00:33.770Z",
+	"released": "2018-08-09T01:00:30.991Z",
+	"downloadsLastWeek": 20
 }

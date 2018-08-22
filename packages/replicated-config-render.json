@@ -1,6 +1,6 @@
 {
 	"name": "replicated-config-render",
-	"version": "5.6.0",
+	"version": "5.6.1",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -20,7 +20,7 @@
 			"email": "ethan@replicated.com"
 		}
 	],
-	"modified": "2018-03-06T01:59:41.615Z",
-	"released": "2018-03-06T01:50:10.887Z",
-	"downloadsLastWeek": 72
+	"modified": "2018-08-06T22:22:09.409Z",
+	"released": "2018-08-06T22:22:06.531Z",
+	"downloadsLastWeek": 47
 }

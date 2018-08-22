@@ -1,0 +1,14 @@
+{
+	"name": "bloxciting",
+	"version": "0.0.5",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "tdglj",
+			"email": "linjie.gao@tendcloud.com"
+		}
+	],
+	"modified": "2018-04-18T13:19:19.723Z",
+	"released": "2018-04-18T13:19:16.424Z",
+	"downloadsLastWeek": 7
+}

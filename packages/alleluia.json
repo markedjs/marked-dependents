@@ -1,6 +1,6 @@
 {
 	"name": "alleluia",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "alex7kom@gmail.com"
 		}
 	],
-	"modified": "2016-09-15T06:11:53.043Z",
-	"released": "2016-09-15T06:11:53.043Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-04-29T19:36:18.537Z",
+	"released": "2018-04-29T19:36:13.224Z",
+	"downloadsLastWeek": 2
 }

@@ -1,6 +1,6 @@
 {
 	"name": "vue-docs",
-	"version": "1.5.5",
+	"version": "1.5.6",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -12,7 +12,7 @@
 			"email": "321jiangtao@gmail.com"
 		}
 	],
-	"modified": "2018-01-09T14:29:18.151Z",
-	"released": "2018-01-09T14:29:18.151Z",
-	"downloadsLastWeek": 94
+	"modified": "2018-05-06T14:28:32.424Z",
+	"released": "2018-05-06T14:28:28.528Z",
+	"downloadsLastWeek": 49
 }

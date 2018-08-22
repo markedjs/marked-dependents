@@ -1,14 +1,14 @@
 {
 	"name": "wig",
-	"version": "1.0.7",
-	"depVersion": "^0.3.17",
+	"version": "1.0.10",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "zk33",
 			"email": "ymzktkak+npm@gmail.com"
 		}
 	],
-	"modified": "2018-03-28T13:23:22.535Z",
-	"released": "2018-03-28T13:23:22.078Z",
-	"downloadsLastWeek": 66
+	"modified": "2018-08-07T09:23:46.041Z",
+	"released": "2018-08-07T09:23:41.622Z",
+	"downloadsLastWeek": 3
 }

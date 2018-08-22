@@ -1,14 +1,14 @@
 {
 	"name": "entulib",
-	"version": "2.0.3",
-	"depVersion": "0.3.5",
+	"version": "2.0.4",
+	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
 			"name": "mitselek",
 			"email": "mihkel.putrinsh@gmail.com"
 		}
 	],
-	"modified": "2017-10-11T07:59:19.185Z",
-	"released": "2017-10-11T07:59:19.185Z",
+	"modified": "2018-06-13T07:36:10.911Z",
+	"released": "2018-06-13T07:36:06.608Z",
 	"downloadsLastWeek": 5
 }

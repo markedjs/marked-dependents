@@ -1,0 +1,26 @@
+{
+	"name": "ice-devtools",
+	"version": "1.0.8",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"email": "chenbinad@gmail.com",
+			"name": "chenbin93"
+		},
+		{
+			"email": "noyobo@gmail.com",
+			"name": "noyobo"
+		},
+		{
+			"email": "yujiangshui@gmail.com",
+			"name": "yujiangshui"
+		},
+		{
+			"email": "wssgcg1213@qq.com",
+			"name": "zeroling"
+		}
+	],
+	"modified": "2018-08-14T14:37:54.630Z",
+	"released": "2018-08-14T14:37:49.022Z",
+	"downloadsLastWeek": 129
+}

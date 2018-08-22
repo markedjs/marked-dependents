@@ -4,11 +4,11 @@
 	"depVersion": "0.2.5",
 	"maintainers": [
 		{
-			"name": "epeli",
-			"email": "esa-matti@suuronen.org"
+			"email": "esa-matti@suuronen.org",
+			"name": "esamatti"
 		}
 	],
-	"modified": "2013-07-08T07:56:26.329Z",
+	"modified": "2018-06-12T20:26:55.233Z",
 	"released": "2013-07-08T07:56:26.329Z",
-	"downloadsLastWeek": 29
+	"downloadsLastWeek": 2
 }

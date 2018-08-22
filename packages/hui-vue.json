@@ -1,14 +1,14 @@
 {
 	"name": "hui-vue",
-	"version": "0.2.7",
-	"depVersion": "^0.3.17",
+	"version": "0.3.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "henryhyn",
 			"email": "henryhyn@163.com"
 		}
 	],
-	"modified": "2018-03-27T11:12:28.013Z",
-	"released": "2018-03-27T11:12:27.412Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-07-11T05:57:56.592Z",
+	"released": "2018-07-11T05:57:52.991Z",
+	"downloadsLastWeek": 31
 }

@@ -1,0 +1,14 @@
+{
+	"name": "markdown-component",
+	"version": "1.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "jekrb",
+			"email": "jake@doge.haus"
+		}
+	],
+	"modified": "2018-06-23T03:40:47.172Z",
+	"released": "2018-06-23T03:40:44.858Z",
+	"downloadsLastWeek": 13
+}

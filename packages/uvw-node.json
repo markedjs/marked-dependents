@@ -1,0 +1,14 @@
+{
+	"name": "uvw-node",
+	"version": "0.0.4",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "uvworkspace",
+			"email": "uvw@mytraces.net"
+		}
+	],
+	"modified": "2018-04-16T03:58:15.658Z",
+	"released": "2018-04-16T03:58:12.261Z",
+	"downloadsLastWeek": 1
+}

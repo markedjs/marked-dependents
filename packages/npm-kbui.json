@@ -1,0 +1,14 @@
+{
+	"name": "npm-kbui",
+	"version": "0.0.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "liky",
+			"email": "1275519373@qq.com"
+		}
+	],
+	"modified": "2018-08-14T05:56:38.700Z",
+	"released": "2018-08-14T05:56:36.072Z",
+	"downloadsLastWeek": 4
+}

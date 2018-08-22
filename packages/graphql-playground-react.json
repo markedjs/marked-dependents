@@ -1,6 +1,6 @@
 {
 	"name": "graphql-playground-react",
-	"version": "1.6.3",
+	"version": "1.7.2",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -12,7 +12,7 @@
 			"name": "timsuchanek"
 		}
 	],
-	"modified": "2018-04-12T14:08:53.632Z",
-	"released": "2018-04-12T14:08:53.043Z",
-	"downloadsLastWeek": 208
+	"modified": "2018-08-02T07:33:43.407Z",
+	"released": "2018-07-06T08:15:18.304Z",
+	"downloadsLastWeek": 130
 }

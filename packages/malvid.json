@@ -1,14 +1,14 @@
 {
 	"name": "malvid",
-	"version": "4.1.1",
-	"depVersion": "^0.3.6",
+	"version": "5.0.2",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "electerious",
 			"email": "tobias@electerious.com"
 		}
 	],
-	"modified": "2018-02-19T10:52:25.608Z",
-	"released": "2018-02-19T10:52:24.530Z",
+	"modified": "2018-06-24T13:52:13.799Z",
+	"released": "2018-06-24T13:52:11.463Z",
 	"downloadsLastWeek": 77
 }

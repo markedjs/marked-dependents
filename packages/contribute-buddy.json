@@ -1,14 +1,14 @@
 {
 	"name": "contribute-buddy",
-	"version": "1.4.0",
-	"depVersion": "0.3.12",
+	"version": "1.4.1",
+	"depVersion": "0.3.19",
 	"maintainers": [
 		{
 			"name": "smollweide",
 			"email": "simon.mollweide@web.de"
 		}
 	],
-	"modified": "2018-01-21T15:59:13.477Z",
-	"released": "2018-01-21T15:59:13.477Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-05-19T12:10:59.644Z",
+	"released": "2018-05-19T12:10:56.481Z",
+	"downloadsLastWeek": 3
 }

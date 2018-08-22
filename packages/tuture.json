@@ -1,0 +1,22 @@
+{
+	"name": "tuture",
+	"version": "1.2.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"email": "huan1043269995@gmail.com",
+			"name": "pftom"
+		},
+		{
+			"email": "powerformarc@qq.com",
+			"name": "powerformarc"
+		},
+		{
+			"email": "a429273392@qq.com",
+			"name": "tomwenthey"
+		}
+	],
+	"modified": "2018-08-22T03:16:07.898Z",
+	"released": "2018-08-22T03:16:03.766Z",
+	"downloadsLastWeek": 29
+}

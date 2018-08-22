@@ -1,7 +1,7 @@
 {
 	"name": "crsearch",
-	"version": "2.7.5",
-	"depVersion": "^0.3.12",
+	"version": "2.8.0",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "melpon",
@@ -12,7 +12,7 @@
 			"email": "saki7@setna.io"
 		}
 	],
-	"modified": "2018-01-11T03:40:29.730Z",
-	"released": "2018-01-11T03:40:29.730Z",
+	"modified": "2018-07-29T17:11:06.864Z",
+	"released": "2018-07-29T17:11:04.497Z",
 	"downloadsLastWeek": 1
 }

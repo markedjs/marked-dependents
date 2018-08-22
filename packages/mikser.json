@@ -1,6 +1,6 @@
 {
 	"name": "mikser",
-	"version": "7.9.3",
+	"version": "7.9.6",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "dick@ingbg.com"
 		}
 	],
-	"modified": "2018-02-12T12:39:55.447Z",
-	"released": "2018-02-12T12:39:53.148Z",
-	"downloadsLastWeek": 3
+	"modified": "2018-04-24T14:36:46.761Z",
+	"released": "2018-04-24T14:36:42.376Z",
+	"downloadsLastWeek": 176
 }

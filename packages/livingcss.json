@@ -1,6 +1,6 @@
 {
 	"name": "livingcss",
-	"version": "4.5.0",
+	"version": "5.0.0",
 	"depVersion": "^0.3.12",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "stevenlambert503@gmail.com"
 		}
 	],
-	"modified": "2018-02-07T04:29:54.765Z",
-	"released": "2018-02-07T04:29:52.704Z",
-	"downloadsLastWeek": 179
+	"modified": "2018-04-27T05:45:26.895Z",
+	"released": "2018-04-27T05:45:22.897Z",
+	"downloadsLastWeek": 222
 }

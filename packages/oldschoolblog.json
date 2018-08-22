@@ -1,6 +1,6 @@
 {
 	"name": "oldschoolblog",
-	"version": "0.5.20",
+	"version": "0.5.24",
 	"depVersion": "*",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "dave.winer@gmail.com"
 		}
 	],
-	"modified": "2018-03-05T15:34:47.356Z",
-	"released": "2018-03-05T15:34:47.146Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-05-16T15:49:20.257Z",
+	"released": "2018-05-16T15:49:10.439Z",
+	"downloadsLastWeek": 59
 }

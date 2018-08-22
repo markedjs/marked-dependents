@@ -1,6 +1,6 @@
 {
 	"name": "redux-form-website-template",
-	"version": "0.0.122",
+	"version": "0.0.123",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "rasmussenerik@gmail.com"
 		}
 	],
-	"modified": "2018-04-12T18:20:27.050Z",
-	"released": "2018-04-12T18:20:26.724Z",
-	"downloadsLastWeek": 2907
+	"modified": "2018-06-12T08:21:22.228Z",
+	"released": "2018-06-12T08:21:19.127Z",
+	"downloadsLastWeek": 1240
 }

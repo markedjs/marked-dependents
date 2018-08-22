@@ -1,6 +1,6 @@
 {
 	"name": "tar-simditor-markdown",
-	"version": "1.2.1",
+	"version": "1.2.3",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "gcy77@live.com"
 		}
 	],
-	"modified": "2018-03-01T09:35:18.750Z",
-	"released": "2018-03-01T09:35:18.342Z",
-	"downloadsLastWeek": 5
+	"modified": "2018-04-21T10:18:30.618Z",
+	"released": "2018-04-21T10:18:28.097Z",
+	"downloadsLastWeek": 1
 }

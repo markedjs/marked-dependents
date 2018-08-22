@@ -1,0 +1,30 @@
+{
+	"name": "postman-collection",
+	"version": "3.2.0",
+	"depVersion": "0.5.0",
+	"maintainers": [
+		{
+			"email": "harendra@shippable.com",
+			"name": "harryi3t"
+		},
+		{
+			"email": "nkamalakannan1992@gmail.com",
+			"name": "kamalaknn"
+		},
+		{
+			"email": "kunal@getpostman.com",
+			"name": "kunagpal"
+		},
+		{
+			"email": "help@getpostman.com",
+			"name": "postman-admin"
+		},
+		{
+			"email": "mail@shamasis.net",
+			"name": "shamasis"
+		}
+	],
+	"modified": "2018-08-20T14:11:26.840Z",
+	"released": "2018-08-20T14:11:24.047Z",
+	"downloadsLastWeek": 45061
+}

@@ -1,0 +1,14 @@
+{
+	"name": "diapo",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "delvedor",
+			"email": "tommydelved@gmail.com"
+		}
+	],
+	"modified": "2018-08-12T17:08:10.982Z",
+	"released": "2018-08-12T17:08:08.202Z",
+	"downloadsLastWeek": 6
+}

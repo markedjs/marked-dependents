@@ -1,6 +1,6 @@
 {
 	"name": "goat",
-	"version": "1.0.0",
+	"version": "1.1.2",
 	"depVersion": "^0.3.2",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ilya@burstcreations.com"
 		}
 	],
-	"modified": "2016-05-06T15:49:40.835Z",
-	"released": "2016-05-06T15:49:40.835Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-05-24T16:27:16.496Z",
+	"released": "2018-05-24T16:27:13.646Z",
+	"downloadsLastWeek": 26
 }

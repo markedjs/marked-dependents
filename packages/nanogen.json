@@ -1,0 +1,14 @@
+{
+	"name": "nanogen",
+	"version": "0.3.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "dmatoso",
+			"email": "dmatoso@outlook.com"
+		}
+	],
+	"modified": "2018-06-15T23:43:43.010Z",
+	"released": "2018-06-15T23:43:35.867Z",
+	"downloadsLastWeek": 23
+}

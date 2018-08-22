@@ -1,0 +1,14 @@
+{
+	"name": "miniml",
+	"version": "1.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "alexrdz",
+			"email": "drinkhorchata@gmail.com"
+		}
+	],
+	"modified": "2018-06-01T15:56:27.566Z",
+	"released": "2018-06-01T15:56:24.720Z",
+	"downloadsLastWeek": 2
+}

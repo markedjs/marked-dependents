@@ -1,0 +1,14 @@
+{
+	"name": "rwt-md",
+	"version": "1.0.0",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "ruiweitang",
+			"email": "ruiweitang@163.com"
+		}
+	],
+	"modified": "2018-08-16T09:16:42.623Z",
+	"released": "2018-08-16T09:16:39.674Z",
+	"downloadsLastWeek": 16
+}

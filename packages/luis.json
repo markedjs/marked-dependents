@@ -1,6 +1,6 @@
 {
 	"name": "luis",
-	"version": "2.4.4",
+	"version": "2.5.11",
 	"depVersion": "^0.3.12",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "tomi.trescak@gmail.com"
 		}
 	],
-	"modified": "2018-03-09T03:14:51.284Z",
-	"released": "2018-03-09T03:14:49.854Z",
-	"downloadsLastWeek": 20
+	"modified": "2018-07-12T05:22:34.070Z",
+	"released": "2018-07-12T05:22:29.744Z",
+	"downloadsLastWeek": 190
 }

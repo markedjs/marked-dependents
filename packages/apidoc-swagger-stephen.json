@@ -1,0 +1,14 @@
+{
+	"name": "apidoc-swagger-stephen",
+	"version": "0.0.1",
+	"depVersion": "^0.3.3",
+	"maintainers": [
+		{
+			"name": "stephen1706",
+			"email": "stephenadipradhana@gmail.com"
+		}
+	],
+	"modified": "2018-06-26T05:07:01.187Z",
+	"released": "2018-06-26T05:06:58.835Z",
+	"downloadsLastWeek": 1
+}

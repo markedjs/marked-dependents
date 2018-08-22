@@ -1,0 +1,14 @@
+{
+	"name": "referenza",
+	"version": "0.0.6",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "wilsonzlin",
+			"email": "contact@wilsonl.in"
+		}
+	],
+	"modified": "2018-06-14T00:27:28.676Z",
+	"released": "2018-06-14T00:27:25.802Z",
+	"downloadsLastWeek": 6
+}

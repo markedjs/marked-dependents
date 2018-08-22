@@ -1,0 +1,14 @@
+{
+	"name": "docsify-rv-react",
+	"version": "1.0.4",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "bazudragon",
+			"email": "339754028@qq.com"
+		}
+	],
+	"modified": "2018-05-13T01:08:27.586Z",
+	"released": "2018-05-13T01:08:24.324Z",
+	"downloadsLastWeek": 2
+}

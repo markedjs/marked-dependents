@@ -1,0 +1,14 @@
+{
+	"name": "ngx-storybook",
+	"version": "4.0.15",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "n9niwas",
+			"email": "ademchk@gmail.com"
+		}
+	],
+	"modified": "2018-08-13T20:27:04.662Z",
+	"released": "2018-08-13T20:26:57.792Z",
+	"downloadsLastWeek": 59
+}

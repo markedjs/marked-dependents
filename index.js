@@ -8,9 +8,16 @@ const requestsPerSecond = 30;
 let timeouts = [];
 let download429 = false;
 
+
 getDependents("marked");
 
 function getDependents(packageName) {
+
+	// create dir if not exists
+	if (!fs.existsSync("./packages")) {
+		fs.mkdirSync("./packages");
+	}
+
 	const uri = url.format({
 		protocol: "https",
 		host: "skimdb.npmjs.com",

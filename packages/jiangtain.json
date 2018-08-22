@@ -1,0 +1,14 @@
+{
+	"name": "jiangtain",
+	"version": "1.0.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "jiangtian",
+			"email": "JiangTian6666@gmail.com"
+		}
+	],
+	"modified": "2018-05-20T11:51:38.921Z",
+	"released": "2018-05-20T11:51:35.871Z",
+	"downloadsLastWeek": 3
+}

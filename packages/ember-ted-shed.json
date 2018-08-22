@@ -4,19 +4,23 @@
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "brenna",
-			"email": "brenna@bren.zone"
+			"email": "hello@jonbellah.com",
+			"name": "jonbellah"
 		},
 		{
-			"name": "romulomachado",
-			"email": "romulo.machado5@gmail.com"
+			"email": "zebulonj@gmail.com",
+			"name": "zebulonj"
 		},
 		{
-			"name": "zebulonj",
-			"email": "zebulonj@gmail.com"
+			"email": "brenna@bren.zone",
+			"name": "brenna"
+		},
+		{
+			"email": "romulo.machado5@gmail.com",
+			"name": "romulomachado"
 		}
 	],
-	"modified": "2018-02-24T00:22:52.178Z",
+	"modified": "2018-06-29T13:47:15.236Z",
 	"released": "2017-07-18T14:31:08.691Z",
-	"downloadsLastWeek": 3
+	"downloadsLastWeek": 1
 }

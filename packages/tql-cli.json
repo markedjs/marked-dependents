@@ -1,14 +1,14 @@
 {
 	"name": "tql-cli",
-	"version": "12.0.0",
-	"depVersion": "^0.3.6",
+	"version": "15.0.0",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "runvnc",
 			"email": "ithkuil@gmail.com"
 		}
 	],
-	"modified": "2018-03-02T02:58:40.319Z",
-	"released": "2018-03-02T02:58:39.542Z",
-	"downloadsLastWeek": 25
+	"modified": "2018-07-24T20:41:27.904Z",
+	"released": "2018-07-24T20:41:25.491Z",
+	"downloadsLastWeek": 1
 }

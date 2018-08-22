@@ -1,0 +1,14 @@
+{
+	"name": "spectacle-docs-etsfactory",
+	"version": "0.8.27",
+	"depVersion": "^0.3.5",
+	"maintainers": [
+		{
+			"name": "bcontreras",
+			"email": "bcontreras@etsfactory.com"
+		}
+	],
+	"modified": "2018-04-16T08:37:40.522Z",
+	"released": "2018-04-16T08:37:36.073Z",
+	"downloadsLastWeek": 1
+}

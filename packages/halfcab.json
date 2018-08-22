@@ -1,14 +1,14 @@
 {
 	"name": "halfcab",
-	"version": "8.2.0",
-	"depVersion": "^0.3.19",
+	"version": "10.1.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "lorengreenfield",
 			"email": "loren@intereact.co.nz"
 		}
 	],
-	"modified": "2018-04-02T23:41:43.910Z",
-	"released": "2018-04-02T23:41:41.204Z",
-	"downloadsLastWeek": 34
+	"modified": "2018-07-05T02:07:40.048Z",
+	"released": "2018-07-05T02:07:36.256Z",
+	"downloadsLastWeek": 188
 }

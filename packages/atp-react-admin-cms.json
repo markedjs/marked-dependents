@@ -1,0 +1,14 @@
+{
+	"name": "atp-react-admin-cms",
+	"version": "0.1.2",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "daemonalchemist",
+			"email": "andy@wittrock.us"
+		}
+	],
+	"modified": "2018-08-20T21:26:27.810Z",
+	"released": "2018-08-20T21:26:24.939Z",
+	"downloadsLastWeek": 34
+}

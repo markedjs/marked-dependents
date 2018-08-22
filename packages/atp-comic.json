@@ -1,0 +1,14 @@
+{
+	"name": "atp-comic",
+	"version": "0.26.6",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "daemonalchemist",
+			"email": "andy@wittrock.us"
+		}
+	],
+	"modified": "2018-07-29T04:08:52.477Z",
+	"released": "2018-07-29T04:08:52.477Z",
+	"downloadsLastWeek": 2
+}

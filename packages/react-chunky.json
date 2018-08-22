@@ -1,6 +1,6 @@
 {
 	"name": "react-chunky",
-	"version": "0.9.15",
+	"version": "0.9.58",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "idancalinescu@gmail.com"
 		}
 	],
-	"modified": "2018-04-02T06:57:07.713Z",
-	"released": "2018-04-02T06:57:07.013Z",
-	"downloadsLastWeek": 7
+	"modified": "2018-08-18T23:28:36.942Z",
+	"released": "2018-08-18T23:28:34.249Z",
+	"downloadsLastWeek": 833
 }

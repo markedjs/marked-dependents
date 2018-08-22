@@ -1,0 +1,14 @@
+{
+	"name": "markdown-syntax-resolve",
+	"version": "1.0.4",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "xiaojiading",
+			"email": "541298259@qq.com"
+		}
+	],
+	"modified": "2018-04-19T11:01:19.534Z",
+	"released": "2018-04-19T11:01:16.580Z",
+	"downloadsLastWeek": 6
+}

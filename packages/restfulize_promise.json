@@ -1,6 +1,6 @@
 {
 	"name": "restfulize_promise",
-	"version": "2.5.3",
+	"version": "2.5.11",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "jasonfutch@gmail.com"
 		}
 	],
-	"modified": "2018-03-21T00:52:44.837Z",
-	"released": "2018-03-21T00:52:44.049Z",
-	"downloadsLastWeek": 69
+	"modified": "2018-08-16T21:23:12.548Z",
+	"released": "2018-08-16T21:23:09.459Z",
+	"downloadsLastWeek": 709
 }

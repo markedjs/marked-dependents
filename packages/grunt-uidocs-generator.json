@@ -1,0 +1,14 @@
+{
+	"name": "grunt-uidocs-generator",
+	"version": "0.6.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "mportuga",
+			"email": "marceloquarion@gmail.com"
+		}
+	],
+	"modified": "2018-07-18T05:02:36.720Z",
+	"released": "2018-07-18T05:02:34.304Z",
+	"downloadsLastWeek": 8
+}

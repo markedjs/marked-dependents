@@ -1,0 +1,14 @@
+{
+	"name": "gitbook-plugin-auto-summary-ory",
+	"version": "0.0.0",
+	"depVersion": "0.3.x",
+	"maintainers": [
+		{
+			"name": "arekkas",
+			"email": "hi@ory.am"
+		}
+	],
+	"modified": "2018-05-16T21:12:36.407Z",
+	"released": "2018-05-16T21:12:32.633Z",
+	"downloadsLastWeek": 6
+}

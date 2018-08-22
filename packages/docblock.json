@@ -1,14 +1,14 @@
 {
 	"name": "docblock",
-	"version": "0.3.5",
-	"depVersion": "0.3.12",
+	"version": "0.4.0",
+	"depVersion": "0.4.0",
 	"maintainers": [
 		{
 			"name": "andifeind",
 			"email": "andifeind@noname-media.com"
 		}
 	],
-	"modified": "2018-01-22T20:38:25.043Z",
-	"released": "2018-01-22T20:38:25.043Z",
-	"downloadsLastWeek": 55
+	"modified": "2018-07-19T15:39:03.477Z",
+	"released": "2018-07-19T15:39:00.481Z",
+	"downloadsLastWeek": 70
 }

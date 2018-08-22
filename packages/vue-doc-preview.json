@@ -1,0 +1,14 @@
+{
+	"name": "vue-doc-preview",
+	"version": "0.3.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "cainsyake",
+			"email": "598147223@qq.com"
+		}
+	],
+	"modified": "2018-08-17T01:45:29.846Z",
+	"released": "2018-08-17T01:45:26.596Z",
+	"downloadsLastWeek": 99
+}

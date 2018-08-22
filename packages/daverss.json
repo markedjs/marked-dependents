@@ -1,6 +1,6 @@
 {
 	"name": "daverss",
-	"version": "0.5.5",
+	"version": "0.5.7",
 	"depVersion": "*",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "dave.winer@gmail.com"
 		}
 	],
-	"modified": "2017-07-05T14:07:30.641Z",
-	"released": "2017-07-05T14:07:30.641Z",
+	"modified": "2018-07-25T22:30:52.170Z",
+	"released": "2018-07-25T22:30:45.502Z",
 	"downloadsLastWeek": 1
 }

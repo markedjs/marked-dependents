@@ -1,7 +1,7 @@
 {
 	"name": "vue-openapi",
-	"version": "0.7.1",
-	"depVersion": "^0.3.9",
+	"version": "0.10.0",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "albanm",
@@ -12,7 +12,7 @@
 			"email": "nicolas.bonnel@gmail.com"
 		}
 	],
-	"modified": "2018-04-11T09:13:27.095Z",
-	"released": "2018-04-11T09:13:26.724Z",
-	"downloadsLastWeek": 169
+	"modified": "2018-08-14T09:22:58.166Z",
+	"released": "2018-08-14T09:22:55.174Z",
+	"downloadsLastWeek": 44
 }

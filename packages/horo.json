@@ -1,0 +1,14 @@
+{
+	"name": "horo",
+	"version": "0.0.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "kinglisky",
+			"email": "kinglisky@qq.com"
+		}
+	],
+	"modified": "2018-06-07T17:37:59.780Z",
+	"released": "2018-06-07T17:37:57.322Z",
+	"downloadsLastWeek": 2
+}

@@ -1,0 +1,14 @@
+{
+	"name": "simplemde-antd",
+	"version": "1.0.0",
+	"depVersion": "*",
+	"maintainers": [
+		{
+			"name": "cipchk",
+			"email": "cipchk@qq.com"
+		}
+	],
+	"modified": "2018-06-09T07:08:32.305Z",
+	"released": "2018-06-09T07:08:27.825Z",
+	"downloadsLastWeek": 48
+}

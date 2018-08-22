@@ -1,6 +1,6 @@
 {
 	"name": "acquit",
-	"version": "0.6.2",
+	"version": "1.0.0",
 	"depVersion": "0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "valkar207@gmail.com"
 		}
 	],
-	"modified": "2018-03-31T05:02:05.832Z",
-	"released": "2018-03-31T05:02:04.738Z",
-	"downloadsLastWeek": 461
+	"modified": "2018-05-31T14:54:56.860Z",
+	"released": "2018-05-31T14:54:53.517Z",
+	"downloadsLastWeek": 822
 }

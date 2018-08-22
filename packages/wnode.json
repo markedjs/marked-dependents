@@ -1,6 +1,6 @@
 {
 	"name": "wnode",
-	"version": "0.2.71",
+	"version": "0.3.15",
 	"depVersion": "0.3.16",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "suntoe@189.cn"
 		}
 	],
-	"modified": "2018-04-09T20:58:01.064Z",
-	"released": "2018-04-09T20:58:00.495Z",
-	"downloadsLastWeek": 302
+	"modified": "2018-06-25T00:44:50.056Z",
+	"released": "2018-06-25T00:44:46.027Z",
+	"downloadsLastWeek": 1
 }

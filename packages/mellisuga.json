@@ -1,0 +1,14 @@
+{
+	"name": "mellisuga",
+	"version": "0.2.25",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "qualphey",
+			"email": "qualphey@gmail.com"
+		}
+	],
+	"modified": "2018-08-03T19:09:24.053Z",
+	"released": "2018-08-03T19:09:21.196Z",
+	"downloadsLastWeek": 25
+}

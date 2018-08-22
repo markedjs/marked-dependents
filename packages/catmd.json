@@ -1,0 +1,14 @@
+{
+	"name": "catmd",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "lucasgruwez",
+			"email": "gruwez.lucas@gmail.com"
+		}
+	],
+	"modified": "2018-05-29T13:39:23.647Z",
+	"released": "2018-05-29T13:39:19.269Z",
+	"downloadsLastWeek": 1
+}

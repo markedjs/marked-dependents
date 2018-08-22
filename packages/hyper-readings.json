@@ -1,0 +1,14 @@
+{
+	"name": "hyper-readings",
+	"version": "0.0.14",
+	"depVersion": "^0.3.15",
+	"maintainers": [
+		{
+			"name": "e-e-e",
+			"email": "benjamin.mforster@gmail.com"
+		}
+	],
+	"modified": "2018-05-31T13:03:24.397Z",
+	"released": "2018-05-31T13:03:19.424Z",
+	"downloadsLastWeek": 16
+}

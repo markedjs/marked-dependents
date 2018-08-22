@@ -1,0 +1,14 @@
+{
+	"name": "nodebb-plugin-import-rpa",
+	"version": "0.0.4",
+	"depVersion": "~0.3.2",
+	"maintainers": [
+		{
+			"name": "rogerlevy",
+			"email": "roger.levy@gmail.com"
+		}
+	],
+	"modified": "2018-06-11T20:27:24.485Z",
+	"released": "2018-06-11T20:27:18.714Z",
+	"downloadsLastWeek": 6
+}

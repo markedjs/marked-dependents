@@ -1,0 +1,14 @@
+{
+	"name": "serverlessbot",
+	"version": "0.0.1-alpha",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "pragmatismo-io",
+			"email": "operations@pragmatismo.io"
+		}
+	],
+	"modified": "2018-05-02T15:19:10.584Z",
+	"released": "2018-05-02T15:19:07.396Z",
+	"downloadsLastWeek": 2
+}

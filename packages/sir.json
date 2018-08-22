@@ -1,14 +1,14 @@
 {
 	"name": "sir",
-	"version": "2.5.0",
-	"depVersion": "^0.3.17",
+	"version": "2.6.0",
+	"depVersion": "0.3.6",
 	"maintainers": [
 		{
 			"name": "billymoon",
 			"email": "billy@itaccess.org"
 		}
 	],
-	"modified": "2018-03-03T01:44:52.979Z",
-	"released": "2018-03-03T01:44:52.377Z",
-	"downloadsLastWeek": 57
+	"modified": "2018-04-23T23:01:25.381Z",
+	"released": "2018-04-23T23:01:21.999Z",
+	"downloadsLastWeek": 1
 }

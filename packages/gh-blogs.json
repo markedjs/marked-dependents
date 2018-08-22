@@ -1,0 +1,14 @@
+{
+	"name": "gh-blogs",
+	"version": "0.2.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "ole3021",
+			"email": "ole3021@gmail.com"
+		}
+	],
+	"modified": "2018-06-05T12:47:50.657Z",
+	"released": "2018-06-05T12:47:47.762Z",
+	"downloadsLastWeek": 3
+}

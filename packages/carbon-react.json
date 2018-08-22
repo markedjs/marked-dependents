@@ -1,12 +1,8 @@
 {
 	"name": "carbon-react",
-	"version": "3.1.2",
+	"version": "4.5.0",
 	"depVersion": "~0.3.9",
 	"maintainers": [
-		{
-			"email": "alexander.ramin@sage.com",
-			"name": "abramin-sage"
-		},
 		{
 			"email": "andrew.tait@sage.com",
 			"name": "andrewjtait"
@@ -20,19 +16,11 @@
 			"name": "ianoxley"
 		},
 		{
-			"email": "sw.armstrong55@gmail.com",
-			"name": "seanarmstrong"
-		},
-		{
 			"email": "sageoneplatform@sage.com",
 			"name": "sopci"
-		},
-		{
-			"email": "tonileigh303@gmail.com",
-			"name": "tonileigh303"
 		}
 	],
-	"modified": "2018-03-07T15:48:28.742Z",
-	"released": "2018-03-07T15:48:27.136Z",
-	"downloadsLastWeek": 2735
+	"modified": "2018-08-13T08:13:29.302Z",
+	"released": "2018-08-13T08:13:21.961Z",
+	"downloadsLastWeek": 1307
 }

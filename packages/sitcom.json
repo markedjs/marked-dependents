@@ -1,0 +1,14 @@
+{
+	"name": "sitcom",
+	"version": "1.0.0-alpha1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "applet",
+			"email": "japplet@163.com"
+		}
+	],
+	"modified": "2018-06-23T22:51:22.447Z",
+	"released": "2018-06-23T22:51:19.917Z",
+	"downloadsLastWeek": 1
+}

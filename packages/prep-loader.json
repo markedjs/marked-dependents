@@ -1,0 +1,14 @@
+{
+	"name": "prep-loader",
+	"version": "0.1.6",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "pirogram",
+			"email": "manas@pirogram.com"
+		}
+	],
+	"modified": "2018-08-18T23:49:43.310Z",
+	"released": "2018-08-18T23:49:40.439Z",
+	"downloadsLastWeek": 51
+}

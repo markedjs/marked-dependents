@@ -1,14 +1,14 @@
 {
 	"name": "koru",
-	"version": "0.16.6",
-	"depVersion": "^0.3.7",
+	"version": "0.22.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "jacott",
 			"email": "geoffjacobsen@gmail.com"
 		}
 	],
-	"modified": "2018-03-03T21:57:14.774Z",
-	"released": "2018-03-03T21:57:13.625Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-07-09T04:21:23.710Z",
+	"released": "2018-07-09T04:21:21.344Z",
+	"downloadsLastWeek": 87
 }

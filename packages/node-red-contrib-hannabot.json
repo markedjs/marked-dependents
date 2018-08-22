@@ -1,0 +1,14 @@
+{
+	"name": "node-red-contrib-hannabot",
+	"version": "0.12.5",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "abdelhay",
+			"email": "dev.abdelhay@gmail.com"
+		}
+	],
+	"modified": "2018-05-04T15:56:02.937Z",
+	"released": "2018-05-04T15:55:58.716Z",
+	"downloadsLastWeek": 8
+}

@@ -1,7 +1,7 @@
 {
 	"name": "docpad-plugin-marked",
-	"version": "2.4.0",
-	"depVersion": "~0.3.3",
+	"version": "2.5.0",
+	"depVersion": "~0.4.0",
 	"maintainers": [
 		{
 			"name": "balupton",
@@ -24,7 +24,7 @@
 			"email": "danny@stormpoopersmith.com"
 		}
 	],
-	"modified": "2017-04-17T14:40:00.312Z",
-	"released": "2017-04-17T14:40:00.312Z",
-	"downloadsLastWeek": 122
+	"modified": "2018-07-11T03:53:17.521Z",
+	"released": "2018-07-11T03:53:15.001Z",
+	"downloadsLastWeek": 62
 }

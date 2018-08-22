@@ -1,6 +1,6 @@
 {
 	"name": "md-http",
-	"version": "1.0.6",
+	"version": "1.0.9",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "lyl0839@163.com"
 		}
 	],
-	"modified": "2017-11-10T03:34:38.752Z",
-	"released": "2017-11-10T03:34:38.752Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-05-21T08:08:06.319Z",
+	"released": "2018-05-21T08:08:03.407Z",
+	"downloadsLastWeek": 10
 }

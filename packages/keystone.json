@@ -1,22 +1,26 @@
 {
 	"name": "keystone",
-	"version": "4.0.0-beta.8",
-	"depVersion": "0.3.9",
+	"version": "4.0.0",
+	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
-			"email": "benjaminconolly@gmail.com",
-			"name": "noviny"
+			"email": "hi@dominik-wilkowski.com",
+			"name": "dominikwilkowski"
+		},
+		{
+			"email": "jed.watson@me.com",
+			"name": "jedwatson"
 		},
 		{
 			"email": "npm@mxstbr.com",
 			"name": "mxstbr"
 		},
 		{
-			"email": "jed.watson@me.com",
-			"name": "jedwatson"
+			"email": "benjaminconolly@gmail.com",
+			"name": "noviny"
 		}
 	],
-	"modified": "2018-03-13T13:11:49.287Z",
-	"released": "2018-01-22T13:00:54.401Z",
-	"downloadsLastWeek": 2241
+	"modified": "2018-08-01T08:45:57.379Z",
+	"released": "2018-07-25T08:31:09.803Z",
+	"downloadsLastWeek": 2224
 }

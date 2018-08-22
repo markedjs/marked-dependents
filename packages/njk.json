@@ -1,14 +1,14 @@
 {
 	"name": "njk",
-	"version": "2.2.2",
-	"depVersion": "^0.3.14",
+	"version": "3.0.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "mohitsingh",
 			"email": "mohit@mohitsingh.in"
 		}
 	],
-	"modified": "2018-02-19T02:50:05.471Z",
-	"released": "2018-02-19T02:50:04.325Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-09T05:05:14.253Z",
+	"released": "2018-08-09T05:05:11.554Z",
+	"downloadsLastWeek": 31
 }

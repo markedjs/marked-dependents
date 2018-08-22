@@ -1,14 +1,14 @@
 {
 	"name": "bumbler",
-	"version": "0.5.1",
-	"depVersion": "^0.3.6",
+	"version": "0.6.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "fenwick67",
 			"email": "dfharwell@gmail.com"
 		}
 	],
-	"modified": "2018-03-15T01:17:18.740Z",
-	"released": "2018-03-15T01:17:17.716Z",
+	"modified": "2018-07-15T20:09:12.592Z",
+	"released": "2018-07-15T20:09:10.212Z",
 	"downloadsLastWeek": 1
 }

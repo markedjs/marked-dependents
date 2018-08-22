@@ -1,0 +1,14 @@
+{
+	"name": "mfgames-writing-epub",
+	"version": "1.1.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "dmoonfire",
+			"email": "d.moonfire@mfgames.com"
+		}
+	],
+	"modified": "2018-04-17T05:26:23.159Z",
+	"released": "2018-04-17T05:26:20.715Z",
+	"downloadsLastWeek": 55
+}

@@ -1,6 +1,6 @@
 {
 	"name": "pie-catalog-client",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ed.eustace@gmail.com"
 		}
 	],
-	"modified": "2018-03-12T19:00:54.679Z",
-	"released": "2018-03-12T19:00:54.173Z",
-	"downloadsLastWeek": 6
+	"modified": "2018-05-21T15:24:37.728Z",
+	"released": "2018-05-21T15:24:34.549Z",
+	"downloadsLastWeek": 9
 }

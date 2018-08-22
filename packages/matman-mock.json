@@ -1,0 +1,14 @@
+{
+	"name": "matman-mock",
+	"version": "3.0.11",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "helinjiang",
+			"email": "me@helinjiang.com"
+		}
+	],
+	"modified": "2018-07-19T16:46:24.773Z",
+	"released": "2018-07-19T16:46:24.772Z",
+	"downloadsLastWeek": 4
+}

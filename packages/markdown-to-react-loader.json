@@ -1,0 +1,14 @@
+{
+	"name": "markdown-to-react-loader",
+	"version": "1.0.1",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"name": "jon.sakas",
+			"email": "jon.sakas@gmail.com"
+		}
+	],
+	"modified": "2018-08-19T03:58:38.219Z",
+	"released": "2018-08-19T03:58:35.323Z",
+	"downloadsLastWeek": 60
+}

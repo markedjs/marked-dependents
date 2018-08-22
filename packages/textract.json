@@ -1,14 +1,14 @@
 {
 	"name": "textract",
-	"version": "2.2.0",
-	"depVersion": "0.3.6",
+	"version": "2.4.0",
+	"depVersion": "0.3.17",
 	"maintainers": [
 		{
 			"name": "dbashford",
 			"email": "dbashford@hotmail.com"
 		}
 	],
-	"modified": "2018-03-02T11:24:02.544Z",
-	"released": "2017-09-12T00:42:10.768Z",
-	"downloadsLastWeek": 1196
+	"modified": "2018-08-03T21:05:59.172Z",
+	"released": "2018-08-03T21:05:55.708Z",
+	"downloadsLastWeek": 1806
 }

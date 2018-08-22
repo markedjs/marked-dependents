@@ -1,0 +1,14 @@
+{
+	"name": "typedoc-tslatest",
+	"version": "0.11.1",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "ssbeefeater",
+			"email": "ssbeefeater@gmail.com"
+		}
+	],
+	"modified": "2018-07-13T11:48:40.766Z",
+	"released": "2018-07-13T11:48:38.365Z",
+	"downloadsLastWeek": 0
+}

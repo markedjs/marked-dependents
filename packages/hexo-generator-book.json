@@ -1,0 +1,14 @@
+{
+	"name": "hexo-generator-book",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "wangchenxunum",
+			"email": "wangchenxunum@qq.com"
+		}
+	],
+	"modified": "2018-08-01T14:16:43.176Z",
+	"released": "2018-08-01T14:16:42.852Z",
+	"downloadsLastWeek": 5
+}

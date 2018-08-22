@@ -1,6 +1,6 @@
 {
 	"name": "spectacle-docs",
-	"version": "1.0.2",
+	"version": "1.0.5",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "auscaster@gmail.com"
 		}
 	],
-	"modified": "2018-03-22T11:53:49.715Z",
-	"released": "2018-03-22T11:53:48.138Z",
-	"downloadsLastWeek": 2005
+	"modified": "2018-07-02T00:26:06.891Z",
+	"released": "2018-07-02T00:26:02.987Z",
+	"downloadsLastWeek": 2448
 }

@@ -1,0 +1,14 @@
+{
+	"name": "teadocs",
+	"version": "0.1.5",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "lisniuse",
+			"email": "17560235@qq.com"
+		}
+	],
+	"modified": "2018-08-08T11:41:51.146Z",
+	"released": "2018-08-08T11:41:42.417Z",
+	"downloadsLastWeek": 6
+}

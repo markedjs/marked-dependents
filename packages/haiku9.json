@@ -1,31 +1,11 @@
 {
 	"name": "haiku9",
-	"version": "2.0.6",
+	"version": "2.1.0",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"email": "real.david.harper@gmail.com",
-			"name": "freeformflow"
-		},
-		{
-			"email": "info@pandastrike.com",
-			"name": "pandastrike"
-		},
-		{
 			"email": "automatthew@gmail.com",
 			"name": "automatthew"
-		},
-		{
-			"email": "maximbert@gmail.com",
-			"name": "maximbert"
-		},
-		{
-			"email": "teamlinx@gmail.com",
-			"name": "jessefrye"
-		},
-		{
-			"email": "disinnovate+npm@gmail.com",
-			"name": "f1337"
 		},
 		{
 			"email": "benniemosher@gmail.com",
@@ -38,9 +18,29 @@
 		{
 			"email": "danielyoder@gmail.com",
 			"name": "dyoder"
+		},
+		{
+			"email": "disinnovate+npm@gmail.com",
+			"name": "f1337"
+		},
+		{
+			"email": "real.david.harper@gmail.com",
+			"name": "freeformflow"
+		},
+		{
+			"email": "teamlinx@gmail.com",
+			"name": "jessefrye"
+		},
+		{
+			"email": "maximbert@gmail.com",
+			"name": "maximbert"
+		},
+		{
+			"email": "info@pandastrike.com",
+			"name": "pandastrike"
 		}
 	],
-	"modified": "2018-02-03T04:21:22.311Z",
-	"released": "2018-02-03T04:21:22.311Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-06-07T23:52:29.492Z",
+	"released": "2018-06-07T23:52:26.314Z",
+	"downloadsLastWeek": 39
 }

@@ -1,14 +1,14 @@
 {
 	"name": "simple-site",
-	"version": "0.1.13",
-	"depVersion": "0.3.9",
+	"version": "0.1.15",
+	"depVersion": "0.3.19",
 	"maintainers": [
 		{
 			"name": "nidi",
 			"email": "ich@nidi.guru"
 		}
 	],
-	"modified": "2018-03-06T21:08:52.778Z",
-	"released": "2018-03-06T21:08:52.170Z",
-	"downloadsLastWeek": 23
+	"modified": "2018-05-01T16:50:21.980Z",
+	"released": "2018-05-01T16:50:18.349Z",
+	"downloadsLastWeek": 2
 }

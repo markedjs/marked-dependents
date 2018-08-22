@@ -1,6 +1,6 @@
 {
 	"name": "matman",
-	"version": "1.5.0",
+	"version": "2.1.4",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "me@helinjiang.com"
 		}
 	],
-	"modified": "2018-04-12T05:52:06.656Z",
-	"released": "2018-04-12T05:52:05.968Z",
-	"downloadsLastWeek": 74
+	"modified": "2018-06-28T06:58:33.836Z",
+	"released": "2018-06-28T06:58:29.804Z",
+	"downloadsLastWeek": 39
 }

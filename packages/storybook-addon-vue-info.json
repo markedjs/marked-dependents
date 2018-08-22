@@ -1,0 +1,14 @@
+{
+	"name": "storybook-addon-vue-info",
+	"version": "0.6.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "pocka",
+			"email": "pocka.moe@gmail.com"
+		}
+	],
+	"modified": "2018-08-21T04:47:19.891Z",
+	"released": "2018-08-21T04:47:16.868Z",
+	"downloadsLastWeek": 1684
+}

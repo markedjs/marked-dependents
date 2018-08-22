@@ -1,0 +1,14 @@
+{
+	"name": "i-read-u",
+	"version": "0.0.4",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "s2terminal",
+			"email": "suzukiterminal@gmail.com"
+		}
+	],
+	"modified": "2018-07-29T09:24:32.017Z",
+	"released": "2018-07-29T09:24:29.676Z",
+	"downloadsLastWeek": 3
+}

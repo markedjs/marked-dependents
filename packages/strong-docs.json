@@ -1,7 +1,7 @@
 {
 	"name": "strong-docs",
-	"version": "1.10.2",
-	"depVersion": "^0.3.19",
+	"version": "4.0.0",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
 			"email": "ngcandy@ca.ibm.com",
@@ -84,7 +84,7 @@
 			"name": "virkt25"
 		}
 	],
-	"modified": "2018-03-30T19:06:26.177Z",
-	"released": "2018-03-30T19:06:24.872Z",
-	"downloadsLastWeek": 656
+	"modified": "2018-08-20T16:14:24.129Z",
+	"released": "2018-08-20T16:14:21.059Z",
+	"downloadsLastWeek": 1751
 }

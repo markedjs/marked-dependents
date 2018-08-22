@@ -1,0 +1,14 @@
+{
+	"name": "bilibili-zhuanlan-markdown-tool",
+	"version": "1.0.4",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "zihengcat",
+			"email": "zihenglv@gmail.com"
+		}
+	],
+	"modified": "2018-05-03T20:38:08.704Z",
+	"released": "2018-05-03T20:38:05.122Z",
+	"downloadsLastWeek": 4
+}

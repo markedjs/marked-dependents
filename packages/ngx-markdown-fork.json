@@ -1,0 +1,14 @@
+{
+	"name": "ngx-markdown-fork",
+	"version": "2.0.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "maxime1992",
+			"email": "maxime.robert1992@gmail.com"
+		}
+	],
+	"modified": "2018-05-22T15:51:46.788Z",
+	"released": "2018-05-22T15:51:40.315Z",
+	"downloadsLastWeek": 5
+}

@@ -1,0 +1,14 @@
+{
+	"name": "node-pluma",
+	"version": "1.0.2",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "jmlevick",
+			"email": "code@jmlevick.me"
+		}
+	],
+	"modified": "2018-08-18T21:34:36.847Z",
+	"released": "2018-08-18T21:34:33.880Z",
+	"downloadsLastWeek": 44
+}

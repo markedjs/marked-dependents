@@ -1,0 +1,14 @@
+{
+	"name": "micrpkey",
+	"version": "4.0.0-beta.8",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"name": "kyarunts",
+			"email": "kyaruntsdavid@gmail.com"
+		}
+	],
+	"modified": "2018-05-30T17:49:24.875Z",
+	"released": "2018-05-30T17:49:21.048Z",
+	"downloadsLastWeek": 2
+}

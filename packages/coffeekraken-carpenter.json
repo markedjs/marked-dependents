@@ -1,6 +1,6 @@
 {
 	"name": "coffeekraken-carpenter",
-	"version": "1.0.4",
+	"version": "1.2.9",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "hello@coffeekraken.io"
 		}
 	],
-	"modified": "2018-03-21T07:34:53.275Z",
-	"released": "2018-03-21T07:34:51.608Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-21T13:12:49.435Z",
+	"released": "2018-08-21T13:12:46.278Z",
+	"downloadsLastWeek": 246
 }

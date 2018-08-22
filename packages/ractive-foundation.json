@@ -1,6 +1,6 @@
 {
 	"name": "ractive-foundation",
-	"version": "0.27.1",
+	"version": "0.29.0",
 	"depVersion": "~0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "pv.shum@gmail.com"
 		}
 	],
-	"modified": "2017-07-27T05:06:14.903Z",
-	"released": "2017-07-27T05:06:14.903Z",
-	"downloadsLastWeek": 18
+	"modified": "2018-06-12T23:16:12.119Z",
+	"released": "2018-06-12T23:16:11.176Z",
+	"downloadsLastWeek": 80
 }

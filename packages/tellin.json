@@ -1,6 +1,6 @@
 {
 	"name": "tellin",
-	"version": "1.1.15",
+	"version": "1.1.16",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "arthusliang@gmail.com"
 		}
 	],
-	"modified": "2017-12-07T07:09:04.232Z",
-	"released": "2017-12-07T07:09:04.232Z",
-	"downloadsLastWeek": 31
+	"modified": "2018-07-03T06:44:49.654Z",
+	"released": "2018-07-03T06:44:45.530Z",
+	"downloadsLastWeek": 1
 }

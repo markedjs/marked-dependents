@@ -1,14 +1,14 @@
 {
 	"name": "node-slate",
-	"version": "1.6.1",
-	"depVersion": "~0.3",
+	"version": "1.7.0",
+	"depVersion": "~0.4",
 	"maintainers": [
 		{
 			"name": "dpilafian",
 			"email": "dem@centerkey.com"
 		}
 	],
-	"modified": "2018-01-16T21:03:21.166Z",
-	"released": "2018-01-16T21:03:21.166Z",
-	"downloadsLastWeek": 12
+	"modified": "2018-06-13T06:32:50.432Z",
+	"released": "2018-06-13T06:32:47.964Z",
+	"downloadsLastWeek": 25
 }

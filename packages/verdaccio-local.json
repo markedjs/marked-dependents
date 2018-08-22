@@ -1,0 +1,14 @@
+{
+	"name": "verdaccio-local",
+	"version": "2.7.4",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"name": "itwang",
+			"email": "cjking.wang@gmail.com"
+		}
+	],
+	"modified": "2018-05-25T10:53:48.083Z",
+	"released": "2018-05-25T10:53:44.547Z",
+	"downloadsLastWeek": 1
+}

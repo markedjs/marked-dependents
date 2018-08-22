@@ -1,0 +1,14 @@
+{
+	"name": "beijaflor-io-typedoc",
+	"version": "0.11.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "yamadapc",
+			"email": "tacla.yamada@gmail.com"
+		}
+	],
+	"modified": "2018-07-26T00:45:38.831Z",
+	"released": "2018-07-26T00:45:36.093Z",
+	"downloadsLastWeek": 1
+}

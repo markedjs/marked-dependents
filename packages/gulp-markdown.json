@@ -1,14 +1,14 @@
 {
 	"name": "gulp-markdown",
-	"version": "2.0.1",
-	"depVersion": "^0.3.9",
+	"version": "3.0.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "sindresorhus",
 			"email": "sindresorhus@gmail.com"
 		}
 	],
-	"modified": "2018-02-14T03:10:38.573Z",
-	"released": "2017-12-31T10:10:25.987Z",
-	"downloadsLastWeek": 3582
+	"modified": "2018-08-08T19:13:49.831Z",
+	"released": "2018-08-08T19:13:41.779Z",
+	"downloadsLastWeek": 3521
 }

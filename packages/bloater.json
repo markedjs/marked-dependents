@@ -1,0 +1,14 @@
+{
+	"name": "bloater",
+	"version": "0.2.5",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "stefan-hering",
+			"email": "stefanvhering@gmail.com"
+		}
+	],
+	"modified": "2018-07-19T19:25:46.547Z",
+	"released": "2018-07-19T19:25:44.030Z",
+	"downloadsLastWeek": 1
+}

@@ -1,14 +1,14 @@
 {
 	"name": "draft-js-oneteam-rte-plugin",
-	"version": "0.4.2",
-	"depVersion": "~0.3.16",
+	"version": "0.4.4",
+	"depVersion": "~0.4.0",
 	"maintainers": [
 		{
 			"name": "sugarshin",
 			"email": "shinsugar@gmail.com"
 		}
 	],
-	"modified": "2018-02-21T13:29:44.199Z",
-	"released": "2018-02-21T13:29:43.881Z",
+	"modified": "2018-08-07T07:01:11.446Z",
+	"released": "2018-08-07T07:01:05.352Z",
 	"downloadsLastWeek": 13
 }

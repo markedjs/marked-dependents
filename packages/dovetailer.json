@@ -1,14 +1,14 @@
 {
 	"name": "dovetailer",
-	"version": "0.5.19",
-	"depVersion": "^0.3.6",
+	"version": "0.7.10",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
 			"name": "maxlapides",
 			"email": "max@maxlapides.com"
 		}
 	],
-	"modified": "2017-08-08T19:46:43.762Z",
-	"released": "2017-08-08T19:46:43.762Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-08-18T04:44:14.121Z",
+	"released": "2018-08-18T04:44:11.130Z",
+	"downloadsLastWeek": 93
 }

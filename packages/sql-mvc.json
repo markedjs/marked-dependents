@@ -1,6 +1,6 @@
 {
 	"name": "sql-mvc",
-	"version": "0.0.139",
+	"version": "0.0.157",
 	"depVersion": "^0.3.2",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "lafras@xietel.com"
 		}
 	],
-	"modified": "2018-03-26T07:55:38.008Z",
-	"released": "2018-03-26T07:55:36.314Z",
-	"downloadsLastWeek": 219
+	"modified": "2018-07-25T14:46:20.974Z",
+	"released": "2018-07-25T14:46:18.528Z",
+	"downloadsLastWeek": 1
 }

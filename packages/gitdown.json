@@ -1,14 +1,14 @@
 {
 	"name": "gitdown",
-	"version": "2.5.1",
-	"depVersion": "^0.3.6",
+	"version": "2.5.2",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"email": "gajus@gajus.com",
 			"name": "gajus"
 		}
 	],
-	"modified": "2017-09-24T15:40:20.090Z",
-	"released": "2017-09-24T15:40:20.090Z",
-	"downloadsLastWeek": 442
+	"modified": "2018-05-17T11:39:39.287Z",
+	"released": "2018-05-17T11:39:34.849Z",
+	"downloadsLastWeek": 159
 }

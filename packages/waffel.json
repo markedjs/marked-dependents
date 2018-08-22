@@ -1,6 +1,6 @@
 {
 	"name": "waffel",
-	"version": "0.1.15",
+	"version": "0.1.16",
 	"depVersion": "^0.3.3",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "diego.caponera@gmail.com"
 		}
 	],
-	"modified": "2017-09-04T22:04:45.073Z",
-	"released": "2017-09-04T22:04:45.073Z",
-	"downloadsLastWeek": 124
+	"modified": "2018-06-19T15:15:23.948Z",
+	"released": "2018-06-19T15:15:15.047Z",
+	"downloadsLastWeek": 66
 }

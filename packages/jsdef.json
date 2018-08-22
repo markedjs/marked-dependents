@@ -4,15 +4,15 @@
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "befe",
-			"email": "befe@baidu.com"
+			"email": "befe@baidu.com",
+			"name": "befe-owner"
 		},
 		{
-			"name": "jspopisno1",
-			"email": "jspop_no1@hotmail.com"
+			"email": "jspop_no1@hotmail.com",
+			"name": "jspopisno1"
 		}
 	],
-	"modified": "2018-03-26T10:41:56.293Z",
+	"modified": "2018-08-20T10:51:25.236Z",
 	"released": "2018-03-26T10:41:55.168Z",
-	"downloadsLastWeek": 4
+	"downloadsLastWeek": 89
 }

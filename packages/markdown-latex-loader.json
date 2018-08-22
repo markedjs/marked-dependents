@@ -1,0 +1,14 @@
+{
+	"name": "markdown-latex-loader",
+	"version": "0.0.0-alpha",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "bguyl",
+			"email": "bastien@guyl.me"
+		}
+	],
+	"modified": "2018-06-25T13:08:05.464Z",
+	"released": "2018-06-25T13:08:02.358Z",
+	"downloadsLastWeek": 1
+}

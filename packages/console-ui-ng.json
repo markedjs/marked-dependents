@@ -1,6 +1,6 @@
 {
 	"name": "console-ui-ng",
-	"version": "0.0.76",
+	"version": "0.1.84",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "tonyeen@foxmail.com"
 		}
 	],
-	"modified": "2018-04-07T18:07:37.701Z",
-	"released": "2018-04-07T18:07:37.165Z",
-	"downloadsLastWeek": 163
+	"modified": "2018-08-07T08:42:37.156Z",
+	"released": "2018-08-07T08:42:27.907Z",
+	"downloadsLastWeek": 12
 }

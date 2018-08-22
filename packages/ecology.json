@@ -4,32 +4,28 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"email": "admin@formidablelabs.com",
-			"name": "formidable-owner"
+			"email": "ryanrray@gmail.com",
+			"name": "ryanisinallofus"
 		},
 		{
-			"email": "bolin.chris@gmail.com",
-			"name": "chrisbolin"
+			"email": "sarahmichellemeyer@gmail.com",
+			"name": "sarmeyer"
 		},
 		{
-			"email": "kyle@kylecesmat.com",
-			"name": "kylecesmat"
+			"email": "michael@michaelmerrill.io",
+			"name": "michaelmerrill"
 		},
 		{
-			"email": "per@sproutlab.com",
-			"name": "coopy"
+			"email": "mariano.martinez@formidable.com",
+			"name": "mariano-formidable"
 		},
 		{
-			"email": "lauren.eastridge@formidablelabs.com",
-			"name": "boygirl"
+			"email": "samuelestrella226@gmail.com",
+			"name": "samwhale"
 		},
 		{
-			"email": "ken_wheeler@me.com",
-			"name": "thekenwheeler"
-		},
-		{
-			"email": "colinmegill@gmail.com",
-			"name": "colinmegill"
+			"email": "jen.luker@formidable.com",
+			"name": "knitcodemonkey"
 		},
 		{
 			"email": "parker.ziegler@formidable.com",
@@ -48,28 +44,28 @@
 			"name": "kale-stew"
 		},
 		{
-			"email": "dale@divmain.com",
-			"name": "divmain"
-		},
-		{
-			"email": "Kierkegaurd@gmail.com",
-			"name": "aweary"
-		},
-		{
 			"email": "imranolas@gmail.com",
 			"name": "imranolas"
+		},
+		{
+			"email": "per@sproutlab.com",
+			"name": "coopy"
 		},
 		{
 			"email": "exogen@gmail.com",
 			"name": "exogen"
 		},
 		{
-			"email": "david.davidson@formidablelabs.com",
-			"name": "david-davidson"
+			"email": "bolin.chris@gmail.com",
+			"name": "chrisbolin"
 		},
 		{
 			"email": "ryan@eastridge.me",
 			"name": "eastridge"
+		},
+		{
+			"email": "lauren.eastridge@formidable.com",
+			"name": "boygirl"
 		},
 		{
 			"email": "huynh.stefan@gmail.com",
@@ -96,8 +92,16 @@
 			"name": "redfieldstefan"
 		},
 		{
+			"email": "ken_wheeler@me.com",
+			"name": "thekenwheeler"
+		},
+		{
 			"email": "spoonart@gmail.com",
 			"name": "bmathews"
+		},
+		{
+			"email": "kyle@kylecesmat.com",
+			"name": "kylecesmat"
 		},
 		{
 			"email": "lavalle.paula@gmail.com",
@@ -106,9 +110,17 @@
 		{
 			"email": "ryan@loose-bits.com",
 			"name": "ryan.roemer"
+		},
+		{
+			"email": "admin@formidablelabs.com",
+			"name": "formidable-owner"
+		},
+		{
+			"email": "colinmegill@gmail.com",
+			"name": "colinmegill"
 		}
 	],
-	"modified": "2018-03-21T19:31:19.702Z",
+	"modified": "2018-08-20T23:09:56.104Z",
 	"released": "2017-09-21T20:38:52.268Z",
-	"downloadsLastWeek": 29
+	"downloadsLastWeek": 46
 }

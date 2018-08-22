@@ -4,11 +4,11 @@
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "ecomfe",
-			"email": "ecomfe@gmail.com"
+			"email": "ecomfe@gmail.com",
+			"name": "ecomfe-core"
 		}
 	],
-	"modified": "2017-08-05T04:59:51.060Z",
+	"modified": "2018-04-20T09:15:26.660Z",
 	"released": "2017-08-05T04:59:51.060Z",
 	"downloadsLastWeek": 1
 }

@@ -1,14 +1,14 @@
 {
 	"name": "tbirds",
-	"version": "0.4.2",
-	"depVersion": "^0.3.7",
+	"version": "0.4.20",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "umeboshi",
 			"email": "joseph.rawson.works@gmail.com"
 		}
 	],
-	"modified": "2018-03-25T19:56:29.329Z",
-	"released": "2018-03-25T19:56:27.587Z",
-	"downloadsLastWeek": 67
+	"modified": "2018-05-28T20:41:56.358Z",
+	"released": "2018-05-28T20:41:52.190Z",
+	"downloadsLastWeek": 1
 }

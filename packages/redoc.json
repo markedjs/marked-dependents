@@ -1,14 +1,14 @@
 {
 	"name": "redoc",
-	"version": "2.0.0-alpha.17",
-	"depVersion": "^0.3.12",
+	"version": "2.0.0-alpha.37",
+	"depVersion": "0.3.18",
 	"maintainers": [
 		{
 			"name": "romanhotsiy",
 			"email": "gotsijroman@gmail.com"
 		}
 	],
-	"modified": "2018-03-21T18:26:55.458Z",
-	"released": "2018-03-21T18:22:00.924Z",
-	"downloadsLastWeek": 2081
+	"modified": "2018-08-22T10:45:24.144Z",
+	"released": "2018-08-22T10:44:30.326Z",
+	"downloadsLastWeek": 6493
 }

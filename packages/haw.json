@@ -4,12 +4,12 @@
 	"depVersion": "~0.3.1",
 	"maintainers": [
 		{
-			"email": " sysadmins@zooniverse.org",
-			"name": "zooniverse-user"
+			"email": "jenkins@zooniverse.org",
+			"name": "zooniverse-jenkins"
 		},
 		{
-			"email": "brian.carstensen@gmail.com",
-			"name": "brian-c"
+			"email": "campbell.allen@gmail.com",
+			"name": "cam_allen"
 		},
 		{
 			"email": "jim@zooniverse.org",
@@ -26,9 +26,17 @@
 		{
 			"email": "roger@hutchin.gs",
 			"name": "rogerhutchings"
+		},
+		{
+			"email": "brian.carstensen@gmail.com",
+			"name": "brian-c"
+		},
+		{
+			"email": " sysadmins@zooniverse.org",
+			"name": "zooniverse-user"
 		}
 	],
-	"modified": "2017-05-31T20:27:29.308Z",
+	"modified": "2018-07-25T14:54:47.262Z",
 	"released": "2017-03-07T12:10:54.188Z",
-	"downloadsLastWeek": 13
+	"downloadsLastWeek": 102
 }

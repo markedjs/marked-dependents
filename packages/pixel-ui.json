@@ -1,0 +1,14 @@
+{
+	"name": "pixel-ui",
+	"version": "0.2.10",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "nitipit",
+			"email": "nitipit@gmail.com"
+		}
+	],
+	"modified": "2018-08-21T12:28:10.833Z",
+	"released": "2018-08-21T12:28:07.822Z",
+	"downloadsLastWeek": 82
+}

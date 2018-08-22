@@ -1,0 +1,14 @@
+{
+	"name": "node-help",
+	"version": "2.0.8",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "foundling",
+			"email": "alexramsdell@gmail.com"
+		}
+	],
+	"modified": "2018-07-19T20:51:25.762Z",
+	"released": "2018-07-19T20:51:22.616Z",
+	"downloadsLastWeek": 27
+}

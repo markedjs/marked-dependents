@@ -1,6 +1,6 @@
 {
 	"name": "eustia",
-	"version": "0.6.0",
+	"version": "0.6.3",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "670785827@qq.com"
 		}
 	],
-	"modified": "2018-01-07T07:15:14.906Z",
-	"released": "2018-01-07T07:15:14.906Z",
-	"downloadsLastWeek": 13
+	"modified": "2018-06-10T07:17:15.262Z",
+	"released": "2018-06-10T07:17:11.194Z",
+	"downloadsLastWeek": 8
 }

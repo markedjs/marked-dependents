@@ -1,6 +1,6 @@
 {
 	"name": "trelliscopejs-lib",
-	"version": "0.1.18",
+	"version": "0.1.21",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "rhafen@gmail.com"
 		}
 	],
-	"modified": "2017-01-25T22:14:09.357Z",
-	"released": "2017-01-25T22:14:09.357Z",
-	"downloadsLastWeek": 48
+	"modified": "2018-06-21T22:03:12.984Z",
+	"released": "2018-06-21T22:03:10.604Z",
+	"downloadsLastWeek": 24
 }

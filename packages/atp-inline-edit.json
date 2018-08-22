@@ -1,14 +1,14 @@
 {
 	"name": "atp-inline-edit",
-	"version": "0.9.8",
-	"depVersion": "^0.3.18",
+	"version": "0.10.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "daemonalchemist",
 			"email": "andy@wittrock.us"
 		}
 	],
-	"modified": "2018-03-22T20:33:54.405Z",
-	"released": "2018-03-22T20:33:53.876Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-07-28T21:51:43.410Z",
+	"released": "2018-07-28T21:51:43.410Z",
+	"downloadsLastWeek": 6
 }

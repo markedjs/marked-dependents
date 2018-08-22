@@ -1,0 +1,14 @@
+{
+	"name": "dotnetify-elements",
+	"version": "0.1.1",
+	"depVersion": "~0.4.0",
+	"maintainers": [
+		{
+			"name": "dsuryd",
+			"email": "dsuryd@gmail.com"
+		}
+	],
+	"modified": "2018-07-15T16:19:40.653Z",
+	"released": "2018-07-15T16:19:40.653Z",
+	"downloadsLastWeek": 2
+}

@@ -1,0 +1,14 @@
+{
+	"name": "atp-rest-cms",
+	"version": "0.2.0",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "daemonalchemist",
+			"email": "andy@wittrock.us"
+		}
+	],
+	"modified": "2018-08-21T22:03:32.466Z",
+	"released": "2018-08-21T22:03:29.658Z",
+	"downloadsLastWeek": 20
+}

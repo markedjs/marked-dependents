@@ -1,14 +1,14 @@
 {
 	"name": "klipse-github-docs-generator",
-	"version": "0.3.3",
-	"depVersion": "^0.3.19",
+	"version": "0.3.6",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
 			"name": "polytypic",
 			"email": "vesa.a.j.k@gmail.com"
 		}
 	],
-	"modified": "2018-03-26T10:47:55.370Z",
-	"released": "2018-03-26T10:47:55.003Z",
-	"downloadsLastWeek": 123
+	"modified": "2018-08-17T09:51:10.711Z",
+	"released": "2018-08-17T09:51:07.708Z",
+	"downloadsLastWeek": 396
 }

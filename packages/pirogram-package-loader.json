@@ -1,0 +1,14 @@
+{
+	"name": "pirogram-package-loader",
+	"version": "0.1.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "pirogram",
+			"email": "manas@pirogram.com"
+		}
+	],
+	"modified": "2018-04-30T02:54:18.419Z",
+	"released": "2018-04-30T02:54:15.642Z",
+	"downloadsLastWeek": 2
+}

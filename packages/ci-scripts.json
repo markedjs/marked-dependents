@@ -1,0 +1,14 @@
+{
+	"name": "ci-scripts",
+	"version": "0.10.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "streamich",
+			"email": "vadimsdaleckis@gmail.com"
+		}
+	],
+	"modified": "2018-05-16T14:00:49.366Z",
+	"released": "2018-05-16T14:00:45.726Z",
+	"downloadsLastWeek": 22
+}

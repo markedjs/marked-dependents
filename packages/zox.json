@@ -1,0 +1,14 @@
+{
+	"name": "zox",
+	"version": "1.0.27",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "zoranravic",
+			"email": "contact@zoranravic.com"
+		}
+	],
+	"modified": "2018-08-09T03:41:16.412Z",
+	"released": "2018-08-09T03:41:13.553Z",
+	"downloadsLastWeek": 1
+}

@@ -4,11 +4,11 @@
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "m31271n",
-			"email": "m31271n@gmail.com"
+			"email": "m31271n@gmail.com",
+			"name": "m31271n_account"
 		}
 	],
-	"modified": "2016-11-10T07:15:36.533Z",
+	"modified": "2018-04-15T06:18:14.176Z",
 	"released": "2016-11-10T07:15:36.533Z",
-	"downloadsLastWeek": 1
+	"downloadsLastWeek": 7
 }

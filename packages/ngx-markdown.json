@@ -1,14 +1,14 @@
 {
 	"name": "ngx-markdown",
-	"version": "1.5.2",
-	"depVersion": "^0.3.9",
+	"version": "6.1.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "j3ff",
 			"email": "jfcere@sherweb.com"
 		}
 	],
-	"modified": "2018-03-14T01:09:18.286Z",
-	"released": "2018-03-14T01:09:16.171Z",
-	"downloadsLastWeek": 1342
+	"modified": "2018-08-18T22:28:32.280Z",
+	"released": "2018-06-21T03:34:13.171Z",
+	"downloadsLastWeek": 2861
 }

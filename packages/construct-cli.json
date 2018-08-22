@@ -1,0 +1,14 @@
+{
+	"name": "construct-cli",
+	"version": "1.0.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "adamisntdead",
+			"email": "adam.guitar12@gmail.com"
+		}
+	],
+	"modified": "2018-04-15T21:20:19.708Z",
+	"released": "2018-04-15T21:20:16.803Z",
+	"downloadsLastWeek": 1
+}

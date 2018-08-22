@@ -1,0 +1,14 @@
+{
+	"name": "storybook-angular-scripts",
+	"version": "4.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "n9niwas",
+			"email": "ademchk@gmail.com"
+		}
+	],
+	"modified": "2018-07-16T01:10:18.510Z",
+	"released": "2018-07-16T01:10:09.317Z",
+	"downloadsLastWeek": 1
+}

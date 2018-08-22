@@ -1,0 +1,14 @@
+{
+	"name": "mpvue-markdown-parser",
+	"version": "1.0.2",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "dwqs",
+			"email": "pomysky@gmail.com"
+		}
+	],
+	"modified": "2018-06-26T08:05:32.282Z",
+	"released": "2018-06-26T08:05:28.969Z",
+	"downloadsLastWeek": 12
+}

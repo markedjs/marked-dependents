@@ -1,0 +1,14 @@
+{
+	"name": "tar-simditor",
+	"version": "3.0.5",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "targaryen",
+			"email": "gcy77@live.com"
+		}
+	],
+	"modified": "2018-04-24T09:51:48.263Z",
+	"released": "2018-04-24T09:51:45.050Z",
+	"downloadsLastWeek": 1
+}

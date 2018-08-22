@@ -1,0 +1,14 @@
+{
+	"name": "koa-md-parser",
+	"version": "0.10.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "wuxifei",
+			"email": "sduwxf@qq.com"
+		}
+	],
+	"modified": "2018-04-26T11:53:43.427Z",
+	"released": "2018-04-26T11:53:40.800Z",
+	"downloadsLastWeek": 5
+}

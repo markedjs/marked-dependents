@@ -1,6 +1,6 @@
 {
 	"name": "nojs-react",
-	"version": "1.0.59",
+	"version": "1.0.62",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "nolure@vip.qq.com"
 		}
 	],
-	"modified": "2018-04-11T09:34:58.352Z",
-	"released": "2018-04-11T09:34:57.858Z",
-	"downloadsLastWeek": 480
+	"modified": "2018-07-09T01:56:24.045Z",
+	"released": "2018-07-09T01:56:21.661Z",
+	"downloadsLastWeek": 81
 }

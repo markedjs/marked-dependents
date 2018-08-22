@@ -1,6 +1,6 @@
 {
 	"name": "cloudcms-server",
-	"version": "0.9.138",
+	"version": "0.9.150",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "uzquiano@gmail.com"
 		}
 	],
-	"modified": "2018-04-11T16:14:28.197Z",
-	"released": "2018-04-11T16:14:28.084Z",
-	"downloadsLastWeek": 3303
+	"modified": "2018-08-08T00:02:29.155Z",
+	"released": "2018-08-08T00:02:24.841Z",
+	"downloadsLastWeek": 74
 }

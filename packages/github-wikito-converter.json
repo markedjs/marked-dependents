@@ -1,6 +1,6 @@
 {
 	"name": "github-wikito-converter",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "yakiv.mospan@gmail.com"
 		}
 	],
-	"modified": "2018-02-04T14:25:55.033Z",
-	"released": "2018-02-04T14:25:55.033Z",
-	"downloadsLastWeek": 70
+	"modified": "2018-08-21T11:35:54.547Z",
+	"released": "2018-08-21T11:35:51.690Z",
+	"downloadsLastWeek": 33
 }

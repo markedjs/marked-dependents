@@ -1,6 +1,6 @@
 {
 	"name": "data-cli",
-	"version": "0.8.13",
+	"version": "0.9.5",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -16,7 +16,7 @@
 			"name": "mikanebu"
 		}
 	],
-	"modified": "2018-04-12T18:48:57.798Z",
-	"released": "2018-04-12T18:48:56.987Z",
-	"downloadsLastWeek": 133
+	"modified": "2018-06-18T09:02:07.146Z",
+	"released": "2018-06-18T09:02:01.739Z",
+	"downloadsLastWeek": 25
 }

@@ -4,19 +4,11 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"email": "jburton@scottlogic.co.uk",
-			"name": "jburton"
-		},
-		{
 			"email": "luke.a.page@gmail.com",
 			"name": "lukeapage"
-		},
-		{
-			"email": "luke.a.page@gmail.com",
-			"name": "agatronic"
 		}
 	],
-	"modified": "2017-11-21T12:38:33.200Z",
+	"modified": "2018-07-12T22:55:21.650Z",
 	"released": "2017-11-21T12:38:33.200Z",
-	"downloadsLastWeek": 2161
+	"downloadsLastWeek": 1792
 }

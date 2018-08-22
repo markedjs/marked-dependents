@@ -1,6 +1,6 @@
 {
 	"name": "grunt-makedocs",
-	"version": "2.1.6",
+	"version": "2.3.0",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "chris.marsh@york.ac.uk"
 		}
 	],
-	"modified": "2018-01-05T14:02:15.370Z",
-	"released": "2018-01-05T14:02:15.370Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-04-23T15:56:00.396Z",
+	"released": "2018-04-23T15:55:53.969Z",
+	"downloadsLastWeek": 24
 }

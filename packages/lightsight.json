@@ -1,0 +1,14 @@
+{
+	"name": "lightsight",
+	"version": "1.0.0-beta.1",
+	"depVersion": "0.3.9",
+	"maintainers": [
+		{
+			"name": "lightman217",
+			"email": "lightmanwang@gmail.com"
+		}
+	],
+	"modified": "2018-05-01T23:51:31.213Z",
+	"released": "2018-05-01T23:51:27.147Z",
+	"downloadsLastWeek": 2
+}

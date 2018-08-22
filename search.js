@@ -34,6 +34,11 @@ packages.forEach((file) => {
 	}
 });
 
+// create dir if not exists
+if (!fs.existsSync("./stats")) {
+	fs.mkdirSync("./stats");
+}
+
 versions = Object.entries(versions).sort((a, b) => (b[1] - a[1])).map(a => a.reverse());
 fs.writeFileSync("./stats/versions.json", JSON.stringify(versions, null, "\t"));
 

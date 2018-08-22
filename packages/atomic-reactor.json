@@ -1,6 +1,6 @@
 {
 	"name": "atomic-reactor",
-	"version": "1.1.8",
+	"version": "3.0.0",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -20,7 +20,7 @@
 			"name": "nick-benoit"
 		}
 	],
-	"modified": "2018-03-27T23:52:03.462Z",
-	"released": "2018-03-27T23:52:02.729Z",
-	"downloadsLastWeek": 178
+	"modified": "2018-08-08T19:40:28.243Z",
+	"released": "2018-08-08T19:40:24.906Z",
+	"downloadsLastWeek": 50
 }

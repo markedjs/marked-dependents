@@ -1,0 +1,14 @@
+{
+	"name": "explain-a-module",
+	"version": "1.1.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "sustenance",
+			"email": "sustenance@remoterooting.com"
+		}
+	],
+	"modified": "2018-05-22T02:28:25.099Z",
+	"released": "2018-05-22T02:28:21.856Z",
+	"downloadsLastWeek": 3
+}

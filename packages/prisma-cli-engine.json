@@ -1,6 +1,6 @@
 {
 	"name": "prisma-cli-engine",
-	"version": "1.0.31",
+	"version": "1.0.74",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -12,7 +12,7 @@
 			"email": "tim.suchanek@gmail.com"
 		}
 	],
-	"modified": "2018-04-11T16:41:16.605Z",
-	"released": "2018-04-11T09:55:40.652Z",
-	"downloadsLastWeek": 4966
+	"modified": "2018-08-20T16:52:03.123Z",
+	"released": "2018-08-20T16:52:00.076Z",
+	"downloadsLastWeek": 10322
 }

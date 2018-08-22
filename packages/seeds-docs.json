@@ -1,0 +1,14 @@
+{
+	"name": "seeds-docs",
+	"version": "0.2.7",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "chasemccoy",
+			"email": "chasem000@gmail.com"
+		}
+	],
+	"modified": "2018-05-16T19:46:54.232Z",
+	"released": "2018-05-16T19:46:48.875Z",
+	"downloadsLastWeek": 3
+}

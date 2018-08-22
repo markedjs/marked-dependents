@@ -8,6 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "update-packages": "node .",
+    "update-stats": "node ./search.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

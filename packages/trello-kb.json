@@ -1,14 +1,14 @@
 {
 	"name": "trello-kb",
-	"version": "1.4.0",
-	"depVersion": "^0.3.17",
+	"version": "1.5.0",
+	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
 			"name": "dwilding",
 			"email": "tech@dpw.me"
 		}
 	],
-	"modified": "2018-04-02T13:28:19.845Z",
-	"released": "2018-04-02T13:28:18.238Z",
-	"downloadsLastWeek": 33
+	"modified": "2018-05-07T01:44:29.791Z",
+	"released": "2018-05-07T01:44:25.523Z",
+	"downloadsLastWeek": 31
 }

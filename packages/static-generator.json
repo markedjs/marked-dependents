@@ -1,14 +1,14 @@
 {
 	"name": "static-generator",
-	"version": "0.2.1",
-	"depVersion": "^0.3.9",
+	"version": "0.2.2",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "andreasdz",
 			"email": "andreas@marmorkuchen.net"
 		}
 	],
-	"modified": "2018-01-07T14:06:47.922Z",
-	"released": "2018-01-07T14:06:47.922Z",
-	"downloadsLastWeek": 7
+	"modified": "2018-06-18T20:52:20.777Z",
+	"released": "2018-06-18T20:52:16.903Z",
+	"downloadsLastWeek": 6
 }

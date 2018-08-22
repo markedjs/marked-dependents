@@ -1,0 +1,14 @@
+{
+	"name": "npm-audit-html",
+	"version": "1.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "nprail",
+			"email": "nprail@filiosoft.com"
+		}
+	],
+	"modified": "2018-06-14T22:11:27.291Z",
+	"released": "2018-06-14T22:11:22.795Z",
+	"downloadsLastWeek": 272
+}

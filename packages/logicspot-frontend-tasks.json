@@ -1,14 +1,14 @@
 {
 	"name": "logicspot-frontend-tasks",
-	"version": "2.4.2",
-	"depVersion": "~0.3.19",
+	"version": "2.6.0",
+	"depVersion": "~0.4.0",
 	"maintainers": [
 		{
 			"name": "natewoodbridge",
 			"email": "hi@natewoodbridge.com"
 		}
 	],
-	"modified": "2018-03-27T09:33:55.361Z",
-	"released": "2018-03-27T09:33:54.520Z",
-	"downloadsLastWeek": 3
+	"modified": "2018-06-08T10:23:19.892Z",
+	"released": "2018-06-08T10:23:15.212Z",
+	"downloadsLastWeek": 53
 }

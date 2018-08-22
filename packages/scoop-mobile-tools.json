@@ -1,0 +1,14 @@
+{
+	"name": "scoop-mobile-tools",
+	"version": "0.1.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "ldiqual-scoop",
+			"email": "lois@takescoop.com"
+		}
+	],
+	"modified": "2018-05-04T22:52:34.251Z",
+	"released": "2018-05-04T22:52:28.096Z",
+	"downloadsLastWeek": 2
+}

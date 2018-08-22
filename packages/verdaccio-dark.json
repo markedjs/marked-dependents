@@ -1,0 +1,14 @@
+{
+	"name": "verdaccio-dark",
+	"version": "3.3.0",
+	"depVersion": "0.3.17",
+	"maintainers": [
+		{
+			"name": "epistemex",
+			"email": "npm@epistemex.com"
+		}
+	],
+	"modified": "2018-07-05T20:44:08.352Z",
+	"released": "2018-07-05T20:44:05.920Z",
+	"downloadsLastWeek": 0
+}

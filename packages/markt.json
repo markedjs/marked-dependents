@@ -1,6 +1,6 @@
 {
 	"name": "markt",
-	"version": "1.0.1",
+	"version": "1.1.1",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "omri@hamadgera.com"
 		}
 	],
-	"modified": "2018-04-12T19:47:11.571Z",
-	"released": "2018-04-12T19:47:10.312Z",
-	"downloadsLastWeek": 39
+	"modified": "2018-05-30T11:28:01.996Z",
+	"released": "2018-05-30T11:27:59.049Z",
+	"downloadsLastWeek": 34
 }

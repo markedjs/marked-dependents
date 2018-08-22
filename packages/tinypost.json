@@ -1,0 +1,14 @@
+{
+	"name": "tinypost",
+	"version": "0.0.2",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "zeakd",
+			"email": "artydeveloperduck@gmail.com"
+		}
+	],
+	"modified": "2018-05-26T14:28:14.037Z",
+	"released": "2018-05-26T14:28:10.723Z",
+	"downloadsLastWeek": 1
+}

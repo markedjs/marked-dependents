@@ -1,6 +1,6 @@
 {
 	"name": "react-ions",
-	"version": "5.0.4",
+	"version": "5.1.13",
 	"depVersion": "~0.3.7",
 	"maintainers": [
 		{
@@ -12,7 +12,7 @@
 			"name": "smcka"
 		}
 	],
-	"modified": "2018-04-10T15:57:14.678Z",
-	"released": "2018-04-10T15:57:13.278Z",
-	"downloadsLastWeek": 488
+	"modified": "2018-08-22T14:09:53.746Z",
+	"released": "2018-08-22T14:09:49.848Z",
+	"downloadsLastWeek": 39
 }

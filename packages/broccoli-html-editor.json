@@ -1,6 +1,6 @@
 {
 	"name": "broccoli-html-editor",
-	"version": "0.2.0",
+	"version": "0.3.1",
 	"depVersion": "0.3.*",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "tomk79@gmail.com"
 		}
 	],
-	"modified": "2018-03-05T06:17:16.466Z",
-	"released": "2018-03-05T06:17:15.888Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-07-10T15:51:54.401Z",
+	"released": "2018-07-10T15:51:54.401Z",
+	"downloadsLastWeek": 18
 }

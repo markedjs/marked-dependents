@@ -1,14 +1,18 @@
 {
 	"name": "quantum-markdown",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "james.smyth",
-			"email": "jmsmyth21@gmail.com"
+			"email": "chazdude43@gmail.com",
+			"name": "charlie.frater"
+		},
+		{
+			"email": "jmsmyth21@gmail.com",
+			"name": "james.smyth"
 		}
 	],
-	"modified": "2017-06-22T21:24:53.380Z",
-	"released": "2017-06-22T21:24:53.380Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-09T09:35:14.357Z",
+	"released": "2018-08-09T09:35:08.870Z",
+	"downloadsLastWeek": 6
 }

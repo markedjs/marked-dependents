@@ -1,0 +1,14 @@
+{
+	"name": "reapack",
+	"version": "1.1.10",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "geraintluff",
+			"email": "luffgd@gmail.com"
+		}
+	],
+	"modified": "2018-06-09T23:05:25.051Z",
+	"released": "2018-06-09T23:05:22.256Z",
+	"downloadsLastWeek": 14
+}

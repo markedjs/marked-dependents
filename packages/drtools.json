@@ -1,0 +1,14 @@
+{
+	"name": "drtools",
+	"version": "0.6.5",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "daemonraco",
+			"email": "daemonraco@gmail.com"
+		}
+	],
+	"modified": "2018-08-02T02:32:50.767Z",
+	"released": "2018-08-02T02:32:47.896Z",
+	"downloadsLastWeek": 1
+}

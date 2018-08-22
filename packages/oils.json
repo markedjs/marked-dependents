@@ -1,14 +1,14 @@
 {
 	"name": "oils",
-	"version": "2.5.2",
-	"depVersion": "0.3.x",
+	"version": "3.0.0",
+	"depVersion": "0.4.x",
 	"maintainers": [
 		{
 			"name": "mannyvergel",
 			"email": "manny@mvergel.com"
 		}
 	],
-	"modified": "2017-12-01T02:24:41.159Z",
-	"released": "2017-12-01T02:24:41.159Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-10T03:57:48.866Z",
+	"released": "2018-08-10T03:57:45.929Z",
+	"downloadsLastWeek": 71
 }

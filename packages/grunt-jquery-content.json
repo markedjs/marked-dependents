@@ -4,27 +4,31 @@
 	"depVersion": "0.3.2",
 	"maintainers": [
 		{
-			"name": "dmethvin",
-			"email": "dave.methvin@gmail.com"
+			"email": "scott.gonzalez@gmail.com",
+			"name": "scott.gonzalez"
 		},
 		{
-			"name": "gnarf",
-			"email": "gnarf37@gmail.com"
+			"email": "joern.zaefferer@gmail.com",
+			"name": "jzaefferer"
 		},
 		{
-			"name": "jzaefferer",
-			"email": "joern.zaefferer@gmail.com"
+			"email": "dave.methvin@gmail.com",
+			"name": "dmethvin"
 		},
 		{
-			"name": "kborchers",
-			"email": "kris.borchers@gmail.com"
+			"email": "gnarf37@gmail.com",
+			"name": "gnarf"
 		},
 		{
-			"name": "scott.gonzalez",
-			"email": "scott.gonzalez@gmail.com"
+			"email": "kris.borchers@gmail.com",
+			"name": "kborchers"
+		},
+		{
+			"email": "m.goleb@gmail.com",
+			"name": "mgol"
 		}
 	],
-	"modified": "2017-03-11T12:11:59.038Z",
+	"modified": "2018-07-13T14:28:46.748Z",
 	"released": "2017-03-11T12:11:59.038Z",
-	"downloadsLastWeek": 3
+	"downloadsLastWeek": 81
 }

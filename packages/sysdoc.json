@@ -1,0 +1,14 @@
+{
+	"name": "sysdoc",
+	"version": "1.0.2",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "canvasplay",
+			"email": "canvasplay1@gmail.com"
+		}
+	],
+	"modified": "2018-08-18T15:33:15.164Z",
+	"released": "2018-08-18T15:33:12.301Z",
+	"downloadsLastWeek": 75
+}

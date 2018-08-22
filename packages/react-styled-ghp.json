@@ -1,0 +1,14 @@
+{
+	"name": "react-styled-ghp",
+	"version": "0.1.8",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "alexcasche",
+			"email": "alexcasche@gmail.com"
+		}
+	],
+	"modified": "2018-05-18T16:04:22.577Z",
+	"released": "2018-05-18T16:04:19.366Z",
+	"downloadsLastWeek": 19
+}

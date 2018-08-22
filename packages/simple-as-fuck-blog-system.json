@@ -1,0 +1,14 @@
+{
+	"name": "simple-as-fuck-blog-system",
+	"version": "0.3.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "farskid",
+			"email": "farskid@gmail.com"
+		}
+	],
+	"modified": "2018-05-26T16:24:06.556Z",
+	"released": "2018-05-26T16:24:02.913Z",
+	"downloadsLastWeek": 1
+}

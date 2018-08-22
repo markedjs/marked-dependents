@@ -1,0 +1,14 @@
+{
+	"name": "node-m2h",
+	"version": "0.0.3",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "oleg_templ",
+			"email": "linner_952@mail.ru"
+		}
+	],
+	"modified": "2018-07-03T21:45:08.635Z",
+	"released": "2018-07-03T21:45:02.700Z",
+	"downloadsLastWeek": 8
+}

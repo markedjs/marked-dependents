@@ -1,0 +1,14 @@
+{
+	"name": "validate-markdown",
+	"version": "1.0.0",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "zarelixcoder",
+			"email": "zarelixzana@gmail.com"
+		}
+	],
+	"modified": "2018-08-17T13:47:59.632Z",
+	"released": "2018-08-17T13:47:56.342Z",
+	"downloadsLastWeek": 22
+}

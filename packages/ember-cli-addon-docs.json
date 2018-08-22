@@ -1,6 +1,6 @@
 {
 	"name": "ember-cli-addon-docs",
-	"version": "0.3.0",
+	"version": "0.5.2",
 	"depVersion": "^0.3.12",
 	"maintainers": [
 		{
@@ -16,7 +16,7 @@
 			"email": "sam.selikoff@gmail.com"
 		}
 	],
-	"modified": "2018-03-26T03:26:48.480Z",
-	"released": "2018-03-26T03:26:47.756Z",
-	"downloadsLastWeek": 357
+	"modified": "2018-08-20T18:03:46.197Z",
+	"released": "2018-08-20T18:03:42.836Z",
+	"downloadsLastWeek": 823
 }

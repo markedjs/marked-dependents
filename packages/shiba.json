@@ -1,6 +1,6 @@
 {
 	"name": "shiba",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"depVersion": "github:rhysd/marked#emoji",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "lin90162@yahoo.co.jp"
 		}
 	],
-	"modified": "2018-03-17T10:08:53.303Z",
-	"released": "2018-03-17T10:08:51.726Z",
-	"downloadsLastWeek": 95
+	"modified": "2018-05-28T15:28:37.200Z",
+	"released": "2018-05-28T15:28:30.048Z",
+	"downloadsLastWeek": 66
 }

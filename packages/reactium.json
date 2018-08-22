@@ -1,0 +1,14 @@
+{
+	"name": "reactium",
+	"version": "2.3.7",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "camdagr8",
+			"email": "ctullos@illumifi.net"
+		}
+	],
+	"modified": "2018-08-04T02:34:53.726Z",
+	"released": "2018-08-04T02:34:50.833Z",
+	"downloadsLastWeek": 0
+}

@@ -1,0 +1,14 @@
+{
+	"name": "better-md-2-json",
+	"version": "1.0.6",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "williamnharvey",
+			"email": "williamnharvey@gmail.com"
+		}
+	],
+	"modified": "2018-06-12T17:00:45.909Z",
+	"released": "2018-06-12T17:00:40.470Z",
+	"downloadsLastWeek": 4
+}

@@ -1,6 +1,6 @@
 {
 	"name": "doctorlink-design-system",
-	"version": "1.0.0",
+	"version": "1.2.1",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "james@thoughtandfunction.com"
 		}
 	],
-	"modified": "2018-04-11T16:00:30.081Z",
-	"released": "2018-04-06T10:59:21.102Z",
-	"downloadsLastWeek": 145
+	"modified": "2018-06-25T10:17:08.725Z",
+	"released": "2018-06-25T10:17:06.318Z",
+	"downloadsLastWeek": 1
 }

@@ -1,6 +1,6 @@
 {
 	"name": "vscode-helpers",
-	"version": "1.10.0",
+	"version": "2.12.0",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "marcel.kloubert@gmx.net"
 		}
 	],
-	"modified": "2018-04-13T00:34:45.905Z",
-	"released": "2018-04-13T00:34:44.726Z",
-	"downloadsLastWeek": 722
+	"modified": "2018-07-08T04:14:11.345Z",
+	"released": "2018-07-08T04:14:09.006Z",
+	"downloadsLastWeek": 76
 }

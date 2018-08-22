@@ -4,11 +4,39 @@
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
-			"name": "polymer",
-			"email": "admin@polymer-project.org"
+			"email": "sorvell@google.com",
+			"name": "sorvell"
+		},
+		{
+			"email": "emarquez@google.com",
+			"name": "emarquez"
+		},
+		{
+			"email": "aomarks@google.com",
+			"name": "aomarks"
+		},
+		{
+			"email": "brendan@usergenic.com",
+			"name": "usergenic"
+		},
+		{
+			"email": "notwaldorf@gmail.com",
+			"name": "notwaldorf"
+		},
+		{
+			"email": "npm@keanulee.com",
+			"name": "keanulee"
+		},
+		{
+			"email": "dfreedm2@gmail.com",
+			"name": "azakus"
+		},
+		{
+			"email": "admin@polymer-project.org",
+			"name": "polymer-devs"
 		}
 	],
-	"modified": "2017-08-01T21:02:31.288Z",
+	"modified": "2018-08-08T19:40:34.780Z",
 	"released": "2017-08-01T21:02:31.288Z",
-	"downloadsLastWeek": 3
+	"downloadsLastWeek": 1
 }

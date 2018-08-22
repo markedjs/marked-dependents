@@ -1,6 +1,6 @@
 {
 	"name": "cmbird",
-	"version": "0.1.17",
+	"version": "0.1.25",
 	"depVersion": "^0.3.17",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "qualphey@gmail.com"
 		}
 	],
-	"modified": "2018-04-03T19:07:52.624Z",
-	"released": "2018-04-03T19:07:51.705Z",
-	"downloadsLastWeek": 5
+	"modified": "2018-06-01T08:18:29.602Z",
+	"released": "2018-06-01T08:18:26.587Z",
+	"downloadsLastWeek": 1
 }

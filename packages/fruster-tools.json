@@ -1,7 +1,7 @@
 {
 	"name": "fruster-tools",
-	"version": "0.0.23",
-	"depVersion": "^0.3.6",
+	"version": "0.0.24",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "jenkins-frost",
@@ -12,7 +12,7 @@
 			"email": "joel@frostdigital.se"
 		}
 	],
-	"modified": "2017-10-02T14:42:54.475Z",
-	"released": "2017-10-02T14:42:54.475Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-06-01T07:21:58.737Z",
+	"released": "2018-06-01T07:21:55.797Z",
+	"downloadsLastWeek": 23
 }

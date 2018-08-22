@@ -1,14 +1,14 @@
 {
 	"name": "blogtools",
-	"version": "1.0.3",
-	"depVersion": "^0.3.6",
+	"version": "1.0.5",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "bladechapman",
 			"email": "bladechapman@gmail.com"
 		}
 	],
-	"modified": "2017-10-02T00:48:28.937Z",
-	"released": "2017-10-02T00:48:28.937Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-06-09T23:30:03.965Z",
+	"released": "2018-06-09T23:30:01.329Z",
+	"downloadsLastWeek": 7
 }

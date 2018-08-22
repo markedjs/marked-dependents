@@ -1,0 +1,14 @@
+{
+	"name": "static-studio",
+	"version": "0.2.14",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "sbtoledo",
+			"email": "st.public@live.com"
+		}
+	],
+	"modified": "2018-06-14T11:00:52.404Z",
+	"released": "2018-06-14T11:00:48.127Z",
+	"downloadsLastWeek": 24
+}

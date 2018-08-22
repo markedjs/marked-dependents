@@ -4,6 +4,10 @@
 	"depVersion": "^0.x",
 	"maintainers": [
 		{
+			"email": "jens.reiner@conclurer.com",
+			"name": "jensreiner"
+		},
+		{
 			"email": "aaron@inoverse.de",
 			"name": "aaronczichon"
 		},
@@ -20,7 +24,7 @@
 			"name": "marvinscharle"
 		}
 	],
-	"modified": "2018-04-11T11:58:49.736Z",
+	"modified": "2018-06-07T08:16:54.133Z",
 	"released": "2017-11-30T13:27:38.750Z",
-	"downloadsLastWeek": 2088
+	"downloadsLastWeek": 1357
 }

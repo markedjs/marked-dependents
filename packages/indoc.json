@@ -1,6 +1,6 @@
 {
 	"name": "indoc",
-	"version": "0.4.18",
+	"version": "0.4.19",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "jonross.zlsa@gmail.com"
 		}
 	],
-	"modified": "2017-07-27T02:48:43.855Z",
-	"released": "2017-07-27T02:48:43.855Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-07-09T21:10:00.357Z",
+	"released": "2018-07-09T21:09:57.751Z",
+	"downloadsLastWeek": 69
 }

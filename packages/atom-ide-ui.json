@@ -1,26 +1,30 @@
 {
 	"name": "atom-ide-ui",
-	"version": "0.5.0",
+	"version": "0.7.2",
 	"depVersion": "0.3.9",
 	"maintainers": [
 		{
-			"name": "fb",
-			"email": "opensource+npm@fb.com"
+			"email": "opensource+npm@fb.com",
+			"name": "fb"
 		},
 		{
-			"name": "hansonw",
-			"email": "hanson.wng@gmail.com"
+			"email": "hanson.wng@gmail.com",
+			"name": "hansonw"
 		},
 		{
-			"name": "velocityboy",
-			"email": "velocityboy@gmail.com"
+			"email": "mo.eweda@gmail.com",
+			"name": "mostafaeweda"
 		},
 		{
-			"name": "wbinnssmith",
-			"email": "wbinnssmith@gmail.com"
+			"email": "velocityboy@gmail.com",
+			"name": "velocityboy"
+		},
+		{
+			"email": "wbinnssmith@gmail.com",
+			"name": "wbinnssmith"
 		}
 	],
-	"modified": "2018-02-21T01:21:27.826Z",
-	"released": "2018-02-21T01:21:26.797Z",
-	"downloadsLastWeek": 16
+	"modified": "2018-07-19T21:12:44.327Z",
+	"released": "2018-07-19T21:12:40.495Z",
+	"downloadsLastWeek": 31
 }

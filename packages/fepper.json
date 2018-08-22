@@ -1,14 +1,14 @@
 {
 	"name": "fepper",
-	"version": "0.25.5",
-	"depVersion": "0.3.12",
+	"version": "0.26.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "e2tha-e",
 			"email": "ee@electric-eloquence.io"
 		}
 	],
-	"modified": "2018-02-21T02:44:17.301Z",
-	"released": "2018-02-21T02:44:16.152Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-17T10:53:10.176Z",
+	"released": "2018-08-17T10:53:07.321Z",
+	"downloadsLastWeek": 800
 }

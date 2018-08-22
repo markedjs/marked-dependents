@@ -1,14 +1,14 @@
 {
 	"name": "catalog",
-	"version": "3.5.2",
-	"depVersion": "^0.3.12",
+	"version": "3.5.5",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "herrstucki",
 			"email": "jeremy@interactivethings.com"
 		}
 	],
-	"modified": "2018-04-06T14:25:28.696Z",
-	"released": "2018-04-06T14:25:28.069Z",
-	"downloadsLastWeek": 8839
+	"modified": "2018-07-16T16:18:14.105Z",
+	"released": "2018-07-16T16:18:11.667Z",
+	"downloadsLastWeek": 2275
 }

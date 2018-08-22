@@ -1,0 +1,14 @@
+{
+	"name": "hsw-test0",
+	"version": "1.0.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "kc.hsw",
+			"email": "1031415601@qq.com"
+		}
+	],
+	"modified": "2018-07-06T14:36:44.204Z",
+	"released": "2018-07-06T14:36:40.988Z",
+	"downloadsLastWeek": 2
+}

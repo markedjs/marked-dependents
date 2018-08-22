@@ -1,0 +1,14 @@
+{
+	"name": "rendition",
+	"version": "4.23.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "resin.io",
+			"email": "accounts@resin.io"
+		}
+	],
+	"modified": "2018-08-22T13:36:00.728Z",
+	"released": "2018-08-20T18:14:15.013Z",
+	"downloadsLastWeek": 480
+}

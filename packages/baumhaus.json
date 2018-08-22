@@ -1,0 +1,14 @@
+{
+	"name": "baumhaus",
+	"version": "0.1.5",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "cleancoderocker",
+			"email": "info@philipackermann.de"
+		}
+	],
+	"modified": "2018-06-24T17:08:42.752Z",
+	"released": "2018-06-24T17:08:39.425Z",
+	"downloadsLastWeek": 3
+}

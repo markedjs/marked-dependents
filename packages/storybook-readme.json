@@ -1,0 +1,18 @@
+{
+	"name": "storybook-readme",
+	"version": "4.0.0-beta1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"email": "ndelangen@me.com",
+			"name": "ndelangen"
+		},
+		{
+			"email": "valeriy.sorokobatko@gmail.com",
+			"name": "tuchk4"
+		}
+	],
+	"modified": "2018-08-15T09:10:44.461Z",
+	"released": "2018-08-15T09:10:41.764Z",
+	"downloadsLastWeek": 11931
+}

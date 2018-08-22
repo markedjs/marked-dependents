@@ -1,6 +1,6 @@
 {
 	"name": "docma",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"depVersion": "^0.3.19",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "onur@cutepilot.com"
 		}
 	],
-	"modified": "2018-04-12T20:45:15.915Z",
-	"released": "2018-04-12T20:45:14.282Z",
-	"downloadsLastWeek": 155
+	"modified": "2018-04-29T16:09:47.170Z",
+	"released": "2018-04-29T16:09:43.738Z",
+	"downloadsLastWeek": 211
 }

@@ -1,6 +1,6 @@
 {
 	"name": "ngui-tools",
-	"version": "0.3.5",
+	"version": "0.4.1",
 	"depVersion": "~0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "louistru@hotmail.com"
 		}
 	],
-	"modified": "2018-04-04T08:58:51.268Z",
-	"released": "2018-04-04T08:58:50.978Z",
-	"downloadsLastWeek": 6
+	"modified": "2018-05-24T12:15:20.214Z",
+	"released": "2018-05-24T12:15:17.032Z",
+	"downloadsLastWeek": 28
 }

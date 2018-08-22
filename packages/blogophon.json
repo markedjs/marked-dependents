@@ -1,14 +1,14 @@
 {
 	"name": "blogophon",
-	"version": "1.4.4",
-	"depVersion": "^0.3.15",
+	"version": "1.5.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "fboes",
 			"email": "info@3960.org"
 		}
 	],
-	"modified": "2018-04-05T17:17:22.101Z",
-	"released": "2018-04-05T17:17:20.739Z",
-	"downloadsLastWeek": 38
+	"modified": "2018-06-12T18:08:28.055Z",
+	"released": "2018-06-12T18:08:23.515Z",
+	"downloadsLastWeek": 17
 }

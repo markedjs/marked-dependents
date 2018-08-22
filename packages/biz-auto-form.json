@@ -1,6 +1,6 @@
 {
 	"name": "biz-auto-form",
-	"version": "1.2.2",
+	"version": "1.2.6",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "suncan0812@gmail.com"
 		}
 	],
-	"modified": "2018-02-05T13:14:16.599Z",
-	"released": "2018-02-05T13:14:16.599Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-07-10T11:20:29.065Z",
+	"released": "2018-07-10T11:20:26.624Z",
+	"downloadsLastWeek": 7
 }

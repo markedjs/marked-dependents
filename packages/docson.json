@@ -1,7 +1,7 @@
 {
 	"name": "docson",
-	"version": "1.0.2",
-	"depVersion": "^0.3.5",
+	"version": "2.1.0",
+	"depVersion": "^0.3.14",
 	"maintainers": [
 		{
 			"name": "lbovet",
@@ -12,7 +12,7 @@
 			"email": "romain.rom1@gmail.com"
 		}
 	],
-	"modified": "2016-03-22T13:39:41.110Z",
-	"released": "2016-03-22T13:39:41.110Z",
-	"downloadsLastWeek": 5
+	"modified": "2018-08-08T19:17:31.974Z",
+	"released": "2018-08-08T19:17:28.560Z",
+	"downloadsLastWeek": 33
 }

@@ -1,14 +1,14 @@
 {
 	"name": "bebop",
-	"version": "1.12.8",
-	"depVersion": "^0.3.6",
+	"version": "1.15.1",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "zeekay",
 			"email": "zeekay@gmail.com"
 		}
 	],
-	"modified": "2017-10-16T14:20:49.279Z",
-	"released": "2017-10-16T14:20:49.279Z",
-	"downloadsLastWeek": 11
+	"modified": "2018-06-16T05:04:43.910Z",
+	"released": "2018-06-16T05:04:40.969Z",
+	"downloadsLastWeek": 13
 }

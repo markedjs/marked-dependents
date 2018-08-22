@@ -1,38 +1,38 @@
 {
 	"name": "markdown-loader",
-	"version": "2.0.2",
-	"depVersion": "^0.3.9",
+	"version": "4.0.0",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
 			"email": "sandeantony@gmail.com",
 			"name": "antosan"
 		},
 		{
-			"email": "leonhard.melzer@peerigon.com",
-			"name": "leomelzer"
+			"email": "mail@johannesewald.de",
+			"name": "jhnns"
 		},
 		{
-			"email": "markus@mpnjs.com",
-			"name": "flootr"
+			"email": "leonhard.melzer@peerigon.com",
+			"name": "leomelzer"
 		},
 		{
 			"email": "matthias.jahn@peerigon.com",
 			"name": "matthaias"
 		},
 		{
-			"email": "developers@peerigon.com",
-			"name": "peeri"
-		},
-		{
 			"email": "michael.jaser@peerigon.com",
 			"name": "meaku"
 		},
 		{
-			"email": "mail@johannesewald.de",
-			"name": "jhnns"
+			"email": "developers@peerigon.com",
+			"name": "peeri"
+		},
+		{
+			"email": "hoisington.tanner@gmail.com",
+			"name": "thois"
 		}
 	],
-	"modified": "2018-01-27T08:03:12.816Z",
-	"released": "2018-01-08T09:30:53.121Z",
-	"downloadsLastWeek": 150763
+	"modified": "2018-08-21T10:27:13.934Z",
+	"released": "2018-08-21T10:27:10.706Z",
+	"downloadsLastWeek": 180008
 }

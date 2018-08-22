@@ -1,0 +1,14 @@
+{
+	"name": "ppong87-graphql-playground-react",
+	"version": "1.7.7",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "ppong87",
+			"email": "peter.pong.87@gmail.com"
+		}
+	],
+	"modified": "2018-08-02T21:54:47.513Z",
+	"released": "2018-08-02T21:54:44.603Z",
+	"downloadsLastWeek": 0
+}

@@ -1,0 +1,14 @@
+{
+	"name": "snowfront",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "noahgibbs",
+			"email": "noah_gibbs@yahoo.com"
+		}
+	],
+	"modified": "2018-07-21T00:12:58.853Z",
+	"released": "2018-07-21T00:12:56.505Z",
+	"downloadsLastWeek": 0
+}

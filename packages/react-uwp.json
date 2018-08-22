@@ -1,6 +1,6 @@
 {
 	"name": "react-uwp",
-	"version": "1.1.8",
+	"version": "1.2.1",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "myxvisual@live.com"
 		}
 	],
-	"modified": "2017-11-27T01:35:35.009Z",
-	"released": "2017-11-27T01:35:35.009Z",
-	"downloadsLastWeek": 74
+	"modified": "2018-08-08T06:19:13.926Z",
+	"released": "2018-08-08T06:19:11.386Z",
+	"downloadsLastWeek": 100
 }

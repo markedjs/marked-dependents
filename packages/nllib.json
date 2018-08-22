@@ -1,0 +1,14 @@
+{
+	"name": "nllib",
+	"version": "2.0.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "ningkyolei",
+			"email": "ningkyo@qq.com"
+		}
+	],
+	"modified": "2018-08-22T02:53:11.054Z",
+	"released": "2018-08-22T02:53:07.836Z",
+	"downloadsLastWeek": 137
+}

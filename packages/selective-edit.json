@@ -1,0 +1,14 @@
+{
+	"name": "selective-edit",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "zoramite",
+			"email": "zoramite+npm@gmail.com"
+		}
+	],
+	"modified": "2018-07-10T21:49:47.081Z",
+	"released": "2018-07-10T21:49:41.045Z",
+	"downloadsLastWeek": 0
+}

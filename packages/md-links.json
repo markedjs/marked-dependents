@@ -1,0 +1,14 @@
+{
+	"name": "md-links",
+	"version": "0.1.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "danieladev",
+			"email": "olabolacrayola@hotmail.com"
+		}
+	],
+	"modified": "2018-08-06T14:41:59.592Z",
+	"released": "2018-08-06T14:41:48.084Z",
+	"downloadsLastWeek": 2
+}

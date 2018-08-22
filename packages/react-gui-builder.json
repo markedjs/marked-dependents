@@ -1,0 +1,14 @@
+{
+	"name": "react-gui-builder",
+	"version": "0.0.1",
+	"depVersion": "0.3.6",
+	"maintainers": [
+		{
+			"name": "ruucm",
+			"email": "ruucm.a@gmail.com"
+		}
+	],
+	"modified": "2018-06-15T09:18:01.170Z",
+	"released": "2018-06-15T09:17:53.100Z",
+	"downloadsLastWeek": 5
+}

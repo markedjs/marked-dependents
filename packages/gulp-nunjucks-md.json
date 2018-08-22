@@ -1,14 +1,14 @@
 {
 	"name": "gulp-nunjucks-md",
-	"version": "2.0.1",
-	"depVersion": "^0.3.14",
+	"version": "2.2.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "mohitsingh",
 			"email": "mohit@mohitsingh.in"
 		}
 	],
-	"modified": "2018-02-19T02:39:40.493Z",
-	"released": "2018-02-19T02:39:39.540Z",
-	"downloadsLastWeek": 4
+	"modified": "2018-06-24T09:43:45.445Z",
+	"released": "2018-06-15T10:44:42.184Z",
+	"downloadsLastWeek": 26
 }

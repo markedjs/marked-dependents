@@ -1,6 +1,6 @@
 {
 	"name": "minno-gendocs",
-	"version": "1.0.3",
+	"version": "1.0.5",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ez@gmail.com"
 		}
 	],
-	"modified": "2017-06-29T23:14:24.062Z",
-	"released": "2017-06-29T23:14:24.062Z",
-	"downloadsLastWeek": 8
+	"modified": "2018-04-23T19:27:05.322Z",
+	"released": "2018-04-23T19:27:02.416Z",
+	"downloadsLastWeek": 13
 }

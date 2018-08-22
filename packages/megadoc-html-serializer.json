@@ -1,6 +1,6 @@
 {
 	"name": "megadoc-html-serializer",
-	"version": "6.5.0",
+	"version": "7.1.0",
 	"depVersion": "0.3.3",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ahmad@amireh.net"
 		}
 	],
-	"modified": "2017-12-12T14:26:13.470Z",
-	"released": "2017-12-12T14:26:13.470Z",
-	"downloadsLastWeek": 29
+	"modified": "2018-07-23T13:13:13.812Z",
+	"released": "2018-07-23T13:13:06.349Z",
+	"downloadsLastWeek": 42
 }

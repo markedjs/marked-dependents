@@ -1,6 +1,6 @@
 {
 	"name": "ufs-react-doc",
-	"version": "1.5.0",
+	"version": "1.5.1",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "luanre@gmail.com"
 		}
 	],
-	"modified": "2018-02-26T15:47:23.902Z",
-	"released": "2018-02-26T15:47:22.919Z",
-	"downloadsLastWeek": 22
+	"modified": "2018-08-10T07:55:39.888Z",
+	"released": "2018-08-10T07:55:36.813Z",
+	"downloadsLastWeek": 14
 }

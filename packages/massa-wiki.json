@@ -4,11 +4,11 @@
 	"depVersion": "~0.3.2",
 	"maintainers": [
 		{
-			"name": "smassa",
-			"email": "endangeredmassa@gmail.com"
+			"email": "endangeredmassa@gmail.com",
+			"name": "endangeredmassa"
 		}
 	],
-	"modified": "2014-09-26T17:43:19.251Z",
+	"modified": "2018-06-08T20:15:41.542Z",
 	"released": "2014-09-26T17:43:19.251Z",
 	"downloadsLastWeek": 2
 }

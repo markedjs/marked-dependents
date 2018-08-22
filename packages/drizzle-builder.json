@@ -4,11 +4,19 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"name": "cloudfour",
-			"email": "info@cloudfour.com"
+			"email": "caleb.eby01@gmail.com",
+			"name": "calebeby"
+		},
+		{
+			"email": "gerardo@cloudfour.com",
+			"name": "gerardo-rodriguez"
+		},
+		{
+			"email": "info@cloudfour.com",
+			"name": "cloudfour-user"
 		}
 	],
-	"modified": "2016-11-01T20:31:04.082Z",
+	"modified": "2018-07-11T21:30:30.353Z",
 	"released": "2016-11-01T20:31:04.082Z",
-	"downloadsLastWeek": 72
+	"downloadsLastWeek": 38
 }

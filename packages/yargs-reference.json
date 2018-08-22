@@ -1,0 +1,14 @@
+{
+	"name": "yargs-reference",
+	"version": "1.0.3",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "dominicporteous",
+			"email": "dominic@dom.gs"
+		}
+	],
+	"modified": "2018-05-11T23:39:44.204Z",
+	"released": "2018-05-11T23:39:40.723Z",
+	"downloadsLastWeek": 1
+}

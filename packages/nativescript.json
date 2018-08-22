@@ -1,6 +1,6 @@
 {
 	"name": "nativescript",
-	"version": "4.0.0",
+	"version": "4.2.2",
 	"depVersion": "0.3.12",
 	"maintainers": [
 		{
@@ -24,7 +24,7 @@
 			"email": "tsvetan.milanov17@gmail.com"
 		}
 	],
-	"modified": "2018-04-12T11:02:34.785Z",
-	"released": "2018-04-10T14:04:32.823Z",
-	"downloadsLastWeek": 22365
+	"modified": "2018-08-22T14:11:17.922Z",
+	"released": "2018-08-16T11:07:42.880Z",
+	"downloadsLastWeek": 19419
 }

@@ -1,0 +1,14 @@
+{
+	"name": "jesed",
+	"version": "0.3.6",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "akajes",
+			"email": "akajes@gmail.com"
+		}
+	],
+	"modified": "2018-06-14T13:27:53.073Z",
+	"released": "2018-06-14T13:27:49.739Z",
+	"downloadsLastWeek": 16
+}

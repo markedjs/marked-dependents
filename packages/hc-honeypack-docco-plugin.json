@@ -1,0 +1,14 @@
+{
+	"name": "hc-honeypack-docco-plugin",
+	"version": "0.0.2",
+	"depVersion": ">= 0.2.7",
+	"maintainers": [
+		{
+			"name": "baqian",
+			"email": "st403471258@gmail.com"
+		}
+	],
+	"modified": "2018-06-06T06:48:45.382Z",
+	"released": "2018-06-06T06:48:42.801Z",
+	"downloadsLastWeek": 4
+}

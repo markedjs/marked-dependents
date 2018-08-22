@@ -1,6 +1,6 @@
 {
 	"name": "buche",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "breuleux@gmail.com"
 		}
 	],
-	"modified": "2018-01-29T17:55:27.433Z",
-	"released": "2018-01-29T17:55:27.433Z",
+	"modified": "2018-04-26T20:44:37.885Z",
+	"released": "2018-04-26T20:44:34.311Z",
 	"downloadsLastWeek": 1
 }

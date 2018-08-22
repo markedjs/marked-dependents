@@ -1,0 +1,14 @@
+{
+	"name": "kanon",
+	"version": "0.0.9",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "mvogt",
+			"email": "mail@vogt.io"
+		}
+	],
+	"modified": "2018-07-03T10:55:41.594Z",
+	"released": "2018-07-03T10:55:38.581Z",
+	"downloadsLastWeek": 1
+}

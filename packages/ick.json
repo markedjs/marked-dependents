@@ -4,19 +4,63 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"email": "jon.freder@gmail.com",
-			"name": "jdfreder"
+			"email": "benrussert@gmail.com",
+			"name": "benrussert"
+		},
+		{
+			"email": "alexander.c.booth@gmail.com",
+			"name": "alexandercbooth"
+		},
+		{
+			"email": "dev.abel@laposte.net",
+			"name": "benabel"
+		},
+		{
+			"email": "yuvipanda@gmail.com",
+			"name": "yuvipanda"
+		},
+		{
+			"email": "mpacer@berkeley.edu",
+			"name": "mpacer"
+		},
+		{
+			"email": "andseier@gmail.com",
+			"name": "theengineear"
+		},
+		{
+			"email": "harald.schilly@gmail.com",
+			"name": "hasch"
+		},
+		{
+			"email": "jdetle@gmail.com",
+			"name": "jdetle"
+		},
+		{
+			"email": "peggyrayzis@gmail.com",
+			"name": "peggyrayzis"
 		},
 		{
 			"email": "safia@safia.rocks",
 			"name": "captainsafia"
 		},
 		{
+			"email": "pi@berkeley.edu",
+			"name": "ivanov"
+		},
+		{
+			"email": "lukas.geiger94@gmail.com",
+			"name": "lgeiger"
+		},
+		{
 			"email": "rgbkrk@gmail.com",
 			"name": "rgbkrk"
+		},
+		{
+			"email": "jon.freder@gmail.com",
+			"name": "jdfreder"
 		}
 	],
-	"modified": "2017-05-22T18:16:28.479Z",
+	"modified": "2018-07-31T00:36:15.547Z",
 	"released": "2016-02-02T21:13:07.328Z",
-	"downloadsLastWeek": 2
+	"downloadsLastWeek": 12
 }

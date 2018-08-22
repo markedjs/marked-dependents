@@ -1,6 +1,6 @@
 {
 	"name": "megadoc-markdown-utils",
-	"version": "6.3.0",
+	"version": "7.1.0",
 	"depVersion": "0.3.3",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ahmad@amireh.net"
 		}
 	],
-	"modified": "2017-10-17T13:09:54.800Z",
-	"released": "2017-10-17T13:09:54.800Z",
+	"modified": "2018-07-23T13:12:41.995Z",
+	"released": "2018-07-23T13:12:33.170Z",
 	"downloadsLastWeek": 28
 }

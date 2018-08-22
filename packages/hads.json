@@ -1,14 +1,14 @@
 {
 	"name": "hads",
-	"version": "1.6.1",
-	"depVersion": "^0.3.15",
+	"version": "1.7.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "sinedied",
 			"email": "noda@free.fr"
 		}
 	],
-	"modified": "2018-02-19T16:01:51.368Z",
-	"released": "2018-02-19T16:01:49.694Z",
-	"downloadsLastWeek": 1525
+	"modified": "2018-08-10T09:07:00.454Z",
+	"released": "2018-08-10T09:06:57.593Z",
+	"downloadsLastWeek": 1894
 }

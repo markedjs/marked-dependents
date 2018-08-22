@@ -1,6 +1,6 @@
 {
 	"name": "pxt-core",
-	"version": "3.8.11",
+	"version": "0.19.14",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "kindscript@microsoft.com"
 		}
 	],
-	"modified": "2018-04-12T21:58:27.240Z",
-	"released": "2018-04-12T21:58:27.034Z",
-	"downloadsLastWeek": 49482
+	"modified": "2018-08-21T19:31:26.650Z",
+	"released": "2018-08-13T19:45:09.398Z",
+	"downloadsLastWeek": 1582
 }

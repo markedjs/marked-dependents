@@ -1,0 +1,14 @@
+{
+	"name": "turnilo",
+	"version": "1.7.2",
+	"depVersion": "0.4.0",
+	"maintainers": [
+		{
+			"name": "allegrotech",
+			"email": "opensource@allegro.pl"
+		}
+	],
+	"modified": "2018-08-16T11:16:20.852Z",
+	"released": "2018-08-16T11:16:17.929Z",
+	"downloadsLastWeek": 56
+}

@@ -1,0 +1,14 @@
+{
+	"name": "serve-marked",
+	"version": "0.3.3",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "amio",
+			"email": "amio.cn@gmail.com"
+		}
+	],
+	"modified": "2018-08-22T05:49:03.059Z",
+	"released": "2018-08-22T05:49:00.003Z",
+	"downloadsLastWeek": 58
+}

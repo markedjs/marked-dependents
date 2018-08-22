@@ -1,0 +1,14 @@
+{
+	"name": "cnmd",
+	"version": "0.0.6",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "kenpusney",
+			"email": "kenpusney@gmail.com"
+		}
+	],
+	"modified": "2018-05-22T12:07:06.079Z",
+	"released": "2018-05-22T12:07:02.757Z",
+	"downloadsLastWeek": 1
+}

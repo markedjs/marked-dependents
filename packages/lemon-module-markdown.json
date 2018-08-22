@@ -1,0 +1,14 @@
+{
+	"name": "lemon-module-markdown",
+	"version": "0.1.4",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "marchen",
+			"email": "844033231@qq.com"
+		}
+	],
+	"modified": "2018-08-16T09:18:12.757Z",
+	"released": "2018-08-16T09:18:09.496Z",
+	"downloadsLastWeek": 34
+}

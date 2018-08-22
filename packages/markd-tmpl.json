@@ -1,0 +1,14 @@
+{
+	"name": "markd-tmpl",
+	"version": "1.1.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "wei19933961",
+			"email": "1191223961@qq.com"
+		}
+	],
+	"modified": "2018-05-18T12:17:21.015Z",
+	"released": "2018-05-18T12:17:12.547Z",
+	"downloadsLastWeek": 12
+}

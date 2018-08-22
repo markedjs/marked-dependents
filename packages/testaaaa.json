@@ -1,0 +1,14 @@
+{
+	"name": "testaaaa",
+	"version": "1.0.9",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "yinzhigang",
+			"email": "yinzhigang@kedacom.com"
+		}
+	],
+	"modified": "2018-07-06T06:55:38.148Z",
+	"released": "2018-07-06T03:35:21.337Z",
+	"downloadsLastWeek": 0
+}

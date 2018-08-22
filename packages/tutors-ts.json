@@ -1,6 +1,6 @@
 {
 	"name": "tutors-ts",
-	"version": "1.2.5",
+	"version": "1.5.6",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "edeleastar@wit.ie"
 		}
 	],
-	"modified": "2018-04-10T07:15:38.441Z",
-	"released": "2018-04-10T07:15:37.978Z",
-	"downloadsLastWeek": 249
+	"modified": "2018-08-03T15:46:50.350Z",
+	"released": "2018-08-03T15:46:41.822Z",
+	"downloadsLastWeek": 1
 }

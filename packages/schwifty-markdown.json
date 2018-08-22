@@ -1,14 +1,14 @@
 {
 	"name": "schwifty-markdown",
-	"version": "1.7.1",
-	"depVersion": "^0.3.6",
+	"version": "1.8.3",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
 			"name": "aduh95",
 			"email": "duhamelantoine1995@gmail.com"
 		}
 	],
-	"modified": "2018-03-08T13:09:26.109Z",
-	"released": "2018-03-08T13:09:25.135Z",
-	"downloadsLastWeek": 51
+	"modified": "2018-08-18T06:36:52.695Z",
+	"released": "2018-08-18T06:36:49.731Z",
+	"downloadsLastWeek": 130
 }

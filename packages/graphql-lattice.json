@@ -1,7 +1,7 @@
 {
 	"name": "graphql-lattice",
-	"version": "2.13.6",
-	"depVersion": "^0.3.12",
+	"version": "2.13.9",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "mstuart",
@@ -12,7 +12,7 @@
 			"email": "nyteshade@gmail.com"
 		}
 	],
-	"modified": "2018-02-17T06:23:40.248Z",
-	"released": "2018-02-17T06:23:38.910Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-08-15T19:11:31.216Z",
+	"released": "2018-08-15T19:11:27.020Z",
+	"downloadsLastWeek": 132
 }

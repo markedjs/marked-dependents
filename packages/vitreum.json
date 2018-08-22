@@ -1,0 +1,14 @@
+{
+	"name": "vitreum",
+	"version": "5.1.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "stolksdorf",
+			"email": "scott.tolksdorf@gmail.com"
+		}
+	],
+	"modified": "2018-08-09T00:05:16.227Z",
+	"released": "2018-08-09T00:05:14.041Z",
+	"downloadsLastWeek": 235
+}

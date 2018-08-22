@@ -1,6 +1,6 @@
 {
 	"name": "node-chlog",
-	"version": "2.2.0",
+	"version": "3.0.0",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "cs.brandt@gmail.com"
 		}
 	],
-	"modified": "2017-10-29T17:15:33.886Z",
-	"released": "2017-10-29T17:15:33.886Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-04-13T15:00:46.672Z",
+	"released": "2018-04-13T15:00:45.814Z",
+	"downloadsLastWeek": 13
 }

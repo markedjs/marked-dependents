@@ -1,14 +1,14 @@
 {
 	"name": "design-manual",
-	"version": "0.35.0",
-	"depVersion": "^0.3.6",
+	"version": "1.0.5",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "aratramba",
 			"email": "aratramba@gmail.com"
 		}
 	],
-	"modified": "2017-07-12T13:50:32.293Z",
-	"released": "2017-07-12T13:50:32.293Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-07-16T12:29:14.654Z",
+	"released": "2018-07-16T12:29:07.031Z",
+	"downloadsLastWeek": 44
 }

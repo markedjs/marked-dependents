@@ -1,0 +1,14 @@
+{
+	"name": "jiancai-ui",
+	"version": "1.0.5",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "msidolphin",
+			"email": "OoMass-EffectoO@hotmail.com"
+		}
+	],
+	"modified": "2018-08-21T11:42:56.686Z",
+	"released": "2018-08-21T11:42:53.453Z",
+	"downloadsLastWeek": 15
+}

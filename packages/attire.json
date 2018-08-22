@@ -1,6 +1,6 @@
 {
 	"name": "attire",
-	"version": "1.3.8",
+	"version": "1.3.9",
 	"depVersion": "^0.3.12",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "dbrekalo@gmail.com"
 		}
 	],
-	"modified": "2018-02-03T22:02:46.539Z",
-	"released": "2018-02-03T22:02:46.539Z",
-	"downloadsLastWeek": 3
+	"modified": "2018-07-11T13:02:33.095Z",
+	"released": "2018-07-11T13:02:28.964Z",
+	"downloadsLastWeek": 6
 }

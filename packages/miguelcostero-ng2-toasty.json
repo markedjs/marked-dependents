@@ -1,0 +1,14 @@
+{
+	"name": "miguelcostero-ng2-toasty",
+	"version": "0.0.0-semantically-released",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "miguelcostero",
+			"email": "miguelcostero@outlook.com"
+		}
+	],
+	"modified": "2018-06-05T14:33:41.440Z",
+	"released": "2018-06-05T14:33:37.587Z",
+	"downloadsLastWeek": 4
+}

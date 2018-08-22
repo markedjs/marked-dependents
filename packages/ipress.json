@@ -1,0 +1,14 @@
+{
+	"name": "ipress",
+	"version": "1.1.0",
+	"depVersion": "^0.5.0",
+	"maintainers": [
+		{
+			"name": "twilson63",
+			"email": "tom@jackhq.com"
+		}
+	],
+	"modified": "2018-08-18T15:29:20.272Z",
+	"released": "2018-08-18T15:29:17.602Z",
+	"downloadsLastWeek": 46
+}

@@ -1,0 +1,14 @@
+{
+	"name": "nasa-ui",
+	"version": "0.3.13",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "silencelu",
+			"email": "lomo_hao@163.com"
+		}
+	],
+	"modified": "2018-08-22T04:26:42.629Z",
+	"released": "2018-08-22T04:26:39.718Z",
+	"downloadsLastWeek": 44
+}

@@ -1,0 +1,14 @@
+{
+	"name": "hypermd",
+	"version": "0.3.10",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "laobubu",
+			"email": "laobubu@gmail.com"
+		}
+	],
+	"modified": "2018-07-22T02:23:21.972Z",
+	"released": "2018-07-22T02:23:15.661Z",
+	"downloadsLastWeek": 41
+}

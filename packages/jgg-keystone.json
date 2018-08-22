@@ -1,0 +1,14 @@
+{
+	"name": "jgg-keystone",
+	"version": "0.0.3",
+	"depVersion": "0.3.5",
+	"maintainers": [
+		{
+			"name": "lefan",
+			"email": "3293873722@qq.com"
+		}
+	],
+	"modified": "2018-05-02T10:53:56.854Z",
+	"released": "2018-05-02T10:53:52.861Z",
+	"downloadsLastWeek": 4
+}

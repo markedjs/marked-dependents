@@ -1,0 +1,14 @@
+{
+	"name": "rrl-chapter-cli",
+	"version": "1.0.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "sturmwalzer",
+			"email": "fsoc@firemail.cc"
+		}
+	],
+	"modified": "2018-04-13T13:28:40.629Z",
+	"released": "2018-04-13T13:28:39.360Z",
+	"downloadsLastWeek": 2
+}

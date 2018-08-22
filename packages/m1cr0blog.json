@@ -1,0 +1,14 @@
+{
+	"name": "m1cr0blog",
+	"version": "1.0.0",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "m1cr0man",
+			"email": "lucas@m1cr0man.com"
+		}
+	],
+	"modified": "2018-08-19T21:42:40.522Z",
+	"released": "2018-08-19T21:42:37.756Z",
+	"downloadsLastWeek": 23
+}

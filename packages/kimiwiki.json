@@ -1,0 +1,14 @@
+{
+	"name": "kimiwiki",
+	"version": "0.1.0",
+	"depVersion": "^0.3.17",
+	"maintainers": [
+		{
+			"name": "kenpusney",
+			"email": "kenpusney@gmail.com"
+		}
+	],
+	"modified": "2018-05-28T08:53:57.792Z",
+	"released": "2018-05-28T08:53:54.558Z",
+	"downloadsLastWeek": 2
+}

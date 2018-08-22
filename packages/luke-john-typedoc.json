@@ -1,0 +1,14 @@
+{
+	"name": "luke-john-typedoc",
+	"version": "0.0.0-next",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "luke-john",
+			"email": "email@lukejohn.me"
+		}
+	],
+	"modified": "2018-08-13T16:44:50.978Z",
+	"released": "2018-08-13T16:44:45.894Z",
+	"downloadsLastWeek": 3
+}

@@ -1,14 +1,14 @@
 {
 	"name": "wildfire-dev",
-	"version": "0.0.5",
-	"depVersion": "^0.3.6",
+	"version": "0.5.6",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "chengkang",
 			"email": "me@chengkang.pw"
 		}
 	],
-	"modified": "2018-01-03T12:14:39.099Z",
-	"released": "2018-01-03T12:14:39.099Z",
-	"downloadsLastWeek": 12
+	"modified": "2018-08-17T23:07:02.530Z",
+	"released": "2018-08-17T23:06:59.504Z",
+	"downloadsLastWeek": 94
 }

@@ -1,6 +1,6 @@
 {
 	"name": "neutron-adt",
-	"version": "0.1.12",
+	"version": "0.1.13",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "vebersol.spam@gmail.com"
 		}
 	],
-	"modified": "2018-04-02T14:35:45.174Z",
-	"released": "2018-04-02T14:35:44.079Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-05-14T13:03:56.186Z",
+	"released": "2018-05-14T13:03:52.526Z",
+	"downloadsLastWeek": 31
 }

@@ -1,22 +1,22 @@
 {
 	"name": "kdoc-plugin-md",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
-			"email": "x6doooo@gmail.com",
-			"name": "x6doooo"
+			"email": "jiawei23716@sina.com",
+			"name": "javey"
 		},
 		{
 			"email": "564299007@qq.com",
 			"name": "lynn.wang"
 		},
 		{
-			"email": "jiawei23716@sina.com",
-			"name": "javey"
+			"email": "x6doooo@gmail.com",
+			"name": "x6doooo"
 		}
 	],
-	"modified": "2018-04-10T08:43:55.072Z",
-	"released": "2018-04-10T08:37:21.422Z",
-	"downloadsLastWeek": 20
+	"modified": "2018-07-09T02:56:31.943Z",
+	"released": "2018-07-09T02:56:29.499Z",
+	"downloadsLastWeek": 3
 }

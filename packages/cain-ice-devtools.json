@@ -1,0 +1,14 @@
+{
+	"name": "cain-ice-devtools",
+	"version": "1.0.0-beta.1",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "james-cain",
+			"email": "m15960192140@163.com"
+		}
+	],
+	"modified": "2018-07-25T17:28:47.144Z",
+	"released": "2018-07-25T17:28:43.799Z",
+	"downloadsLastWeek": 0
+}

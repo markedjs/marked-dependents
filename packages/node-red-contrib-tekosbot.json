@@ -1,0 +1,14 @@
+{
+	"name": "node-red-contrib-tekosbot",
+	"version": "0.12.20",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "abdelhay",
+			"email": "dev.abdelhay@gmail.com"
+		}
+	],
+	"modified": "2018-07-11T08:43:32.978Z",
+	"released": "2018-07-11T08:43:27.475Z",
+	"downloadsLastWeek": 34
+}

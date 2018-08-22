@@ -1,6 +1,6 @@
 {
 	"name": "elven-site-tools",
-	"version": "8.4.4",
+	"version": "8.5.0",
 	"depVersion": "^0.3.6",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ccalvert@yahoo.com"
 		}
 	],
-	"modified": "2017-11-18T18:06:33.074Z",
-	"released": "2017-11-18T18:06:33.074Z",
-	"downloadsLastWeek": 3
+	"modified": "2018-07-06T00:36:06.015Z",
+	"released": "2018-07-06T00:36:03.626Z",
+	"downloadsLastWeek": 74
 }

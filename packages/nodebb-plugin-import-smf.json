@@ -1,6 +1,6 @@
 {
 	"name": "nodebb-plugin-import-smf",
-	"version": "0.2.3",
+	"version": "0.2.5",
 	"depVersion": "~0.3.2",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "bentael@gmail.com"
 		}
 	],
-	"modified": "2018-03-12T13:37:35.305Z",
-	"released": "2018-03-12T13:37:34.885Z",
-	"downloadsLastWeek": 1
+	"modified": "2018-05-28T08:02:12.747Z",
+	"released": "2018-05-28T08:02:07.264Z",
+	"downloadsLastWeek": 14
 }

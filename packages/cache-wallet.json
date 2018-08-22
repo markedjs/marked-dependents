@@ -1,6 +1,6 @@
 {
 	"name": "cache-wallet",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"depVersion": "^0.3.17",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "mark@devslopes.com"
 		}
 	],
-	"modified": "2018-03-19T02:41:54.376Z",
-	"released": "2018-03-19T02:41:53.214Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-04-14T06:02:25.115Z",
+	"released": "2018-04-14T06:02:22.034Z",
+	"downloadsLastWeek": 1
 }

@@ -1,6 +1,6 @@
 {
 	"name": "mdlive",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ngyuki.jp@gmail.com"
 		}
 	],
-	"modified": "2018-03-28T06:15:25.884Z",
-	"released": "2018-03-28T06:15:25.209Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-08-15T04:37:56.858Z",
+	"released": "2018-08-15T04:37:54.692Z",
+	"downloadsLastWeek": 48
 }

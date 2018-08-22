@@ -1,0 +1,14 @@
+{
+	"name": "sgu-md-test",
+	"version": "2.2.2",
+	"depVersion": "^0.3.6",
+	"maintainers": [
+		{
+			"name": "sguiheux",
+			"email": "steven.guiheux@gmail.com"
+		}
+	],
+	"modified": "2018-05-07T09:22:49.112Z",
+	"released": "2018-05-07T09:22:45.559Z",
+	"downloadsLastWeek": 1
+}

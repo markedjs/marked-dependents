@@ -4,11 +4,35 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"name": "jibo",
-			"email": "sdkearlyaccess@jibo.com"
+			"email": "npmjs@irontech.org",
+			"name": "squiddisco"
+		},
+		{
+			"email": "andrew@wwlib.org",
+			"name": "wwlib"
+		},
+		{
+			"email": "jon@marstonstudio.com",
+			"name": "marstonstudio"
+		},
+		{
+			"email": "tim@mividstudios.com",
+			"name": "mividtim"
+		},
+		{
+			"email": "jonathan@jibo.com",
+			"name": "golgobot"
+		},
+		{
+			"email": "justin.perez@jibo.com",
+			"name": "justin-perez"
+		},
+		{
+			"email": "jonathan@jibo.com",
+			"name": "jibo-jonathan"
 		}
 	],
-	"modified": "2016-04-28T12:32:18.306Z",
+	"modified": "2018-08-09T15:48:22.665Z",
 	"released": "2016-04-28T12:32:18.306Z",
-	"downloadsLastWeek": 5
+	"downloadsLastWeek": 24
 }

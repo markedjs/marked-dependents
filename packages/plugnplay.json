@@ -1,14 +1,14 @@
 {
 	"name": "plugnplay",
-	"version": "3.3.0",
-	"depVersion": "^0.3.9",
+	"version": "3.5.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "e0ipso",
 			"email": "mateu.aguilo.bosch@gmail.com"
 		}
 	],
-	"modified": "2018-01-04T22:54:56.050Z",
-	"released": "2018-01-04T22:54:56.050Z",
-	"downloadsLastWeek": 18
+	"modified": "2018-06-10T15:26:03.590Z",
+	"released": "2018-06-10T15:26:00.783Z",
+	"downloadsLastWeek": 24
 }

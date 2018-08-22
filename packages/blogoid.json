@@ -1,14 +1,14 @@
 {
 	"name": "blogoid",
-	"version": "0.0.3",
-	"depVersion": "^0.3.6",
+	"version": "0.0.4",
+	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
 			"name": "hamadu",
 			"email": "dercll1020@gmail.com"
 		}
 	],
-	"modified": "2017-07-09T04:32:42.730Z",
-	"released": "2017-07-09T04:32:42.730Z",
-	"downloadsLastWeek": 3
+	"modified": "2018-04-21T16:09:00.793Z",
+	"released": "2018-04-21T16:08:57.831Z",
+	"downloadsLastWeek": 6
 }

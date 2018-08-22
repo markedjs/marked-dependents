@@ -1,6 +1,6 @@
 {
 	"name": "emmaramirez.me",
-	"version": "0.10.5",
+	"version": "0.14.5",
 	"depVersion": "^0.3.9",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "ramirez.emma.g@gmail.com"
 		}
 	],
-	"modified": "2018-01-15T03:27:05.204Z",
-	"released": "2018-01-15T03:27:05.204Z",
+	"modified": "2018-07-04T19:34:36.924Z",
+	"released": "2018-07-04T19:34:34.488Z",
 	"downloadsLastWeek": 1
 }

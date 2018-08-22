@@ -1,6 +1,6 @@
 {
 	"name": "dgeni-packages",
-	"version": "0.26.0",
+	"version": "0.26.5",
 	"depVersion": "^0.3.2",
 	"maintainers": [
 		{
@@ -20,7 +20,7 @@
 			"name": "petebd"
 		}
 	],
-	"modified": "2018-03-02T22:51:38.876Z",
-	"released": "2018-03-02T22:51:37.257Z",
-	"downloadsLastWeek": 7067
+	"modified": "2018-08-22T07:19:50.468Z",
+	"released": "2018-08-22T07:19:47.292Z",
+	"downloadsLastWeek": 7050
 }

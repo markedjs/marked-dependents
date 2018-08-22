@@ -1,14 +1,14 @@
 {
 	"name": "git-wiki-to-html",
-	"version": "0.2.4",
-	"depVersion": "^0.3.6",
+	"version": "0.3.0",
+	"depVersion": "^0.4.0",
 	"maintainers": [
 		{
 			"name": "adriantanasa",
 			"email": "adrian_tanasa@yahoo.com"
 		}
 	],
-	"modified": "2017-12-14T16:24:22.730Z",
-	"released": "2017-12-14T16:24:22.730Z",
-	"downloadsLastWeek": 186
+	"modified": "2018-06-25T09:39:16.461Z",
+	"released": "2018-06-25T09:39:14.069Z",
+	"downloadsLastWeek": 97
 }

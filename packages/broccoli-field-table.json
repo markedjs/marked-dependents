@@ -1,6 +1,6 @@
 {
 	"name": "broccoli-field-table",
-	"version": "0.1.0-beta.2",
+	"version": "0.1.0",
 	"depVersion": "0.3.*",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "tomk79@gmail.com"
 		}
 	],
-	"modified": "2016-04-15T10:08:51.134Z",
-	"released": "2016-04-15T10:08:51.134Z",
-	"downloadsLastWeek": 2
+	"modified": "2018-06-15T05:58:14.652Z",
+	"released": "2018-06-15T05:58:14.268Z",
+	"downloadsLastWeek": 4
 }

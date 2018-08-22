@@ -1,0 +1,14 @@
+{
+	"name": "dk-docs",
+	"version": "0.1.4",
+	"depVersion": "^0.4.0",
+	"maintainers": [
+		{
+			"name": "denkar",
+			"email": "denkar@mail.ru"
+		}
+	],
+	"modified": "2018-08-22T10:17:44.599Z",
+	"released": "2018-08-22T10:17:41.245Z",
+	"downloadsLastWeek": 37
+}

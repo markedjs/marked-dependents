@@ -1,0 +1,14 @@
+{
+	"name": "fastify-markdown",
+	"version": "0.4.0",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "freezestudio",
+			"email": "olfaner@outlook.com"
+		}
+	],
+	"modified": "2018-06-06T14:52:22.781Z",
+	"released": "2018-06-06T14:52:19.076Z",
+	"downloadsLastWeek": 9
+}

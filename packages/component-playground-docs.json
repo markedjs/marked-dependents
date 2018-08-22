@@ -4,16 +4,28 @@
 	"depVersion": "^0.3.5",
 	"maintainers": [
 		{
-			"email": "redfield.stefan@gmail.com",
-			"name": "redfieldstefan"
+			"email": "ryanrray@gmail.com",
+			"name": "ryanisinallofus"
 		},
 		{
-			"email": "ken_wheeler@me.com",
-			"name": "thekenwheeler"
+			"email": "sarahmichellemeyer@gmail.com",
+			"name": "sarmeyer"
 		},
 		{
-			"email": "lavalle.paula@gmail.com",
-			"name": "paulathevalley"
+			"email": "michael@michaelmerrill.io",
+			"name": "michaelmerrill"
+		},
+		{
+			"email": "mariano.martinez@formidable.com",
+			"name": "mariano-formidable"
+		},
+		{
+			"email": "samuelestrella226@gmail.com",
+			"name": "samwhale"
+		},
+		{
+			"email": "jen.luker@formidable.com",
+			"name": "knitcodemonkey"
 		},
 		{
 			"email": "parker.ziegler@formidable.com",
@@ -32,14 +44,6 @@
 			"name": "kale-stew"
 		},
 		{
-			"email": "dale@divmain.com",
-			"name": "divmain"
-		},
-		{
-			"email": "Kierkegaurd@gmail.com",
-			"name": "aweary"
-		},
-		{
 			"email": "imranolas@gmail.com",
 			"name": "imranolas"
 		},
@@ -56,15 +60,11 @@
 			"name": "chrisbolin"
 		},
 		{
-			"email": "david.davidson@formidablelabs.com",
-			"name": "david-davidson"
-		},
-		{
 			"email": "ryan@eastridge.me",
 			"name": "eastridge"
 		},
 		{
-			"email": "lauren.eastridge@formidablelabs.com",
+			"email": "lauren.eastridge@formidable.com",
 			"name": "boygirl"
 		},
 		{
@@ -88,12 +88,24 @@
 			"name": "ebrillhart"
 		},
 		{
+			"email": "redfield.stefan@gmail.com",
+			"name": "redfieldstefan"
+		},
+		{
+			"email": "ken_wheeler@me.com",
+			"name": "thekenwheeler"
+		},
+		{
 			"email": "spoonart@gmail.com",
 			"name": "bmathews"
 		},
 		{
 			"email": "kyle@kylecesmat.com",
 			"name": "kylecesmat"
+		},
+		{
+			"email": "lavalle.paula@gmail.com",
+			"name": "paulathevalley"
 		},
 		{
 			"email": "ryan@loose-bits.com",
@@ -104,7 +116,7 @@
 			"name": "formidable-owner"
 		}
 	],
-	"modified": "2018-03-21T19:31:27.046Z",
+	"modified": "2018-08-20T23:09:51.950Z",
 	"released": "2016-11-05T00:22:44.064Z",
-	"downloadsLastWeek": 1
+	"downloadsLastWeek": 2
 }

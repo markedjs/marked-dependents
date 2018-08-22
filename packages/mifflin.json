@@ -1,0 +1,14 @@
+{
+	"name": "mifflin",
+	"version": "1.0.2",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "andeersg",
+			"email": "anders.2205@gmail.com"
+		}
+	],
+	"modified": "2018-05-14T20:59:17.946Z",
+	"released": "2018-05-14T20:59:14.016Z",
+	"downloadsLastWeek": 7
+}

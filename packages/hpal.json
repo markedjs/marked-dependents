@@ -1,6 +1,6 @@
 {
 	"name": "hpal",
-	"version": "1.1.1",
+	"version": "1.2.1",
 	"depVersion": "0.3.x",
 	"maintainers": [
 		{
@@ -8,7 +8,7 @@
 			"email": "devin@bigroomstudios.com"
 		}
 	],
-	"modified": "2018-04-10T17:47:51.746Z",
-	"released": "2018-04-10T17:47:50.437Z",
-	"downloadsLastWeek": 162
+	"modified": "2018-07-06T12:58:58.631Z",
+	"released": "2018-07-06T12:58:56.181Z",
+	"downloadsLastWeek": 169
 }

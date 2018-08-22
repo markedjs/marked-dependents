@@ -1,34 +1,38 @@
 {
 	"name": "respec",
-	"version": "20.7.1",
-	"depVersion": "^0.3.19",
+	"version": "22.5.1",
+	"depVersion": "^0.5.0",
 	"maintainers": [
 		{
-			"name": "halindrome",
-			"email": "shane@spec-ops.io"
+			"email": "shane@spec-ops.io",
+			"name": "halindrome"
 		},
 		{
-			"name": "marcosc",
-			"email": "marcos@marcosc.com"
+			"email": "marcos@marcosc.com",
+			"name": "marcosc"
 		},
 		{
-			"name": "robin.berjon",
-			"email": "robin@berjon.com"
+			"email": "robin@berjon.com",
+			"name": "robin.berjon"
 		},
 		{
-			"name": "saschanaz",
-			"email": "saschanaz@outlook.com"
+			"email": "saschanaz@outlook.com",
+			"name": "saschanaz"
 		},
 		{
-			"name": "tripu",
-			"email": "t@tripu.info"
+			"email": "sidvishnoi.dev@gmail.com",
+			"name": "sidvishnoi"
 		},
 		{
-			"name": "w3c",
-			"email": "web-human@w3.org"
+			"email": "t@tripu.info",
+			"name": "tripu"
+		},
+		{
+			"email": "web-human@w3.org",
+			"name": "w3c"
 		}
 	],
-	"modified": "2018-04-06T02:22:48.603Z",
-	"released": "2018-04-06T02:22:47.166Z",
-	"downloadsLastWeek": 1085
+	"modified": "2018-08-21T07:41:55.911Z",
+	"released": "2018-08-21T07:41:52.948Z",
+	"downloadsLastWeek": 598
 }

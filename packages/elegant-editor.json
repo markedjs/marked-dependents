@@ -1,0 +1,14 @@
+{
+	"name": "elegant-editor",
+	"version": "0.3.1",
+	"depVersion": "^0.3.19",
+	"maintainers": [
+		{
+			"name": "robyparr",
+			"email": "roby@robyparr.com"
+		}
+	],
+	"modified": "2018-05-20T08:19:25.247Z",
+	"released": "2018-05-20T08:19:19.933Z",
+	"downloadsLastWeek": 11
+}

@@ -1,0 +1,14 @@
+{
+	"name": "botserver",
+	"version": "0.0.31",
+	"depVersion": "^0.3.12",
+	"maintainers": [
+		{
+			"email": "operations@pragmatismo.io",
+			"name": "pragmatismo-io"
+		}
+	],
+	"modified": "2018-08-22T08:43:18.230Z",
+	"released": "2018-08-22T08:43:15.130Z",
+	"downloadsLastWeek": 74
+}
